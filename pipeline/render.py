@@ -35,14 +35,19 @@ def render_subject(subject_dir, slug, zoom=2.5):
     os.makedirs(pdir, exist_ok=True)
     os.makedirs(tdir, exist_ok=True)
 
-    pdfs = sorted(
-        [f for f in os.listdir(subject_dir) if f.lower().endswith(".pdf")]
-    )
+    # REKURSIV alle PDFs (auch in thematischen Unterordnern) sammeln, stabil sortiert
+    pdfs = []
+    for r, dirs, files in os.walk(subject_dir):
+        for f in files:
+            if f.lower().endswith(".pdf"):
+                full = os.path.join(r, f)
+                rel = os.path.relpath(full, subject_dir).replace("\\", "/")
+                pdfs.append((rel, full))
+    pdfs.sort(key=lambda x: x[0].lower())
     manifest = {"slug": slug, "subject_dir": subject_dir, "pages": []}
     gidx = 0
     mat = fitz.Matrix(zoom, zoom)
-    for pdf in pdfs:
-        path = os.path.join(subject_dir, pdf)
+    for pdf, path in pdfs:
         try:
             doc = fitz.open(path)
         except Exception as e:
