@@ -39,15 +39,20 @@ def write_for(subjects):
     blocks = extract_blocks()
     out = []
     for s in subjects:
-        lines = blocks.get(s["heading"])
+        headings = s.get("headings") or [s["heading"]]
+        # kombinierte Fächer: Blöcke fortlaufend nummerieren
+        lines = []
+        for h in headings:
+            lines.extend(blocks.get(h) or [])
         if not lines:
-            print(f"  !! keine Eingrenzung gefunden für {s['slug']} ({s['heading']})")
+            print(f"  !! keine Eingrenzung gefunden für {s['slug']} ({headings})")
             continue
+        title = " & ".join(h.rstrip(":") for h in headings)
         d = os.path.join(C.ROOT, "build", s["render_unit"])
         os.makedirs(d, exist_ok=True)
         p = os.path.join(d, f"eingrenzung_{s['slug']}.md")
         with open(p, "w", encoding="utf-8") as fh:
-            fh.write(f"# Eingrenzung prüfungsrelevanter Themen — {s['heading'].rstrip(':')}\n\n")
+            fh.write(f"# Eingrenzung prüfungsrelevanter Themen — {title}\n\n")
             fh.write("Aus dem offiziellen Leitfaden (Examen.docx). Höchste Priorität:\n\n")
             for i, ln in enumerate(lines, 1):
                 fh.write(f"{i}. {ln}\n")

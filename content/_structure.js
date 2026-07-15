@@ -24,8 +24,7 @@ window.LERNSTRUKTUR = {
       datum: "2026-08-05",
       faecher: [
         { slug: "berufskunde", name: "Berufs-, Gesetzes- und Staatsbürgerkunde" },
-        { slug: "psychologie", name: "Psychologie" },
-        { slug: "paedagogik", name: "Pädagogik" },
+        { slug: "paed-psych", name: "Pädagogik & Psychologie" },
         { slug: "behindertenpaedagogik", name: "Behindertenpädagogik" }
       ]
     },
@@ -40,8 +39,7 @@ window.LERNSTRUKTUR = {
         { slug: "skl-psychiatrie", name: "SKL Psychiatrie / Gerontopsychiatrie" },
         { slug: "skl-kjp", name: "SKL Kinder- und Jugendpsychiatrie" },
         { slug: "psychosomatik", name: "SKL Psychosomatik" },
-        { slug: "skl-orthopaedie", name: "SKL Orthopädie" },
-        { slug: "skl-rheumatologie", name: "SKL Rheumatologie" },
+        { slug: "ortho-rheuma", name: "SKL Orthopädie & Rheumatologie" },
         { slug: "skl-chirurgie", name: "SKL Chirurgie / Traumatologie" },
         { slug: "skl-neurologie", name: "SKL Neurologie" },
         { slug: "skl-onkologie", name: "SKL Onkologie" },
