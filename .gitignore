@@ -1,0 +1,8 @@
+# Zwischenprodukte der Pipeline (regenerierbar, groß) – NICHT ins Repo
+build/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
