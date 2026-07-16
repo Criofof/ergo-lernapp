@@ -1,0 +1,80 @@
+{
+  "id": "pyramidal-extrapyramidal-system",
+  "title": "Pyramidales und extrapyramidales System: Verlauf und Funktion",
+  "eingrenzung": "Pyramidal motorisches System (Verlauf, Funktion), Extrapyramidalsystem (Verlauf, Funktion) Pyramidenbahnen",
+  "prio": "high",
+  "body": "## Überblick: Zwei motorische Systeme\nDie willkürliche und automatische Steuerung der Skelettmuskulatur wird von zwei eng zusammenarbeitenden Systemen übernommen, die gemeinsam fein abgestimmte Bewegungen ermöglichen:\n\n| System | Zuständigkeit | Ursprung |\n|---|---|---|\n| **Pyramidales System (PS) / Pyramidenbahn** | bewusste, willkürliche Feinmotorik, v.a. distale Muskulatur | motorische Rinde (Kortex) des Großhirns |\n| **Extrapyramidales System (EPS/EPMS)** | automatisierte, unbewusste Bewegungen, Haltung, Muskeltonus, grobe Bewegungsmuster von Rumpf und proximalen Extremitäten | Basalganglien, Kleinhirn, Hirnstamm |\n\nBeide Systeme arbeiten eng zusammen, damit Bewegungen sowohl grob koordiniert als auch fein abgestimmt ausgeführt werden können.\n\n## Pyramidenbahn (pyramidalmotorisches System)\n**Verlauf:** Die Pyramidenbahn (Tractus corticospinalis) entspringt in der motorischen Rinde des Großhirns und zieht über die **Capsula interna** (zentraler Durchgangsbereich für die Fasern vom motorischen Kortex zum Rückenmark) hinab zum Rückenmark, wo sie die Skelettmuskulatur ansteuert. Die Capsula interna liegt im Versorgungsgebiet der **Arteria cerebri media** – der Arterie, die am häufigsten von zerebralen Ischämien (Schlaganfall) betroffen ist.\n\n**Funktion:**\n- Hauptzuständigkeit: **willkürliche motorische Kontrolle**\n- Besonders assoziiert mit **distaler Muskulatur / Feinmotorik**\n- Übt zusätzlich eine **inhibitorische (hemmende) Wirkung** auf das extrapyramidale System und die spinalen Reflexkreise aus – dies ist prüfungsrelevant für das Verständnis der Spastik (siehe unten)\n\n## Extrapyramidales System (EPS)\n**Verlauf/Ursprung:** Entspringt verschiedenen Teilen des Gehirns, insbesondere den **Basalganglien** und dem **Kleinhirn**; wirkt über den Hirnstamm und spinale Bahnen auf die Muskulatur.\n\n**Funktion:**\n- Regulierung **automatischer/unbewusster Bewegungen** wie Haltung und Muskeltonus\n- eher **grobe Bewegungsmuster** der Rumpf- und proximalen Extremitätenmuskulatur\n- arbeitet eng mit dem pyramidalen System zusammen, um fein abgestimmte Bewegungen zu ermöglichen\n\n## Basalganglien – anatomische Grundlagen\nDie Basalganglien sind zentrale Schaltstationen des extrapyramidalen Systems (tiefe graue Kernstrukturen beidseits der Seitenventrikel):\n\n- **Nucleus caudatus (Schweifkern)** + **Putamen** = **Striatum (Corpus striatum)**\n- **Putamen** + **Globus pallidus** = **Linsenkern (Nucleus lentiformis)**\n- **Thalamus** liegt zentral/medial der Basalganglien, umgibt den 3. Ventrikel – wichtige Umschaltstation für sensible/motorische Bahnen (\"Tor zum Bewusstsein\")\n- Bei Degeneration dopaminerger Neurone (Substantia nigra, wirkt auf das Striatum) entsteht **Morbus Parkinson**\n\n## Beteiligte Steuerungssysteme im Überblick (Hierarchie)\n- **Basalganglien:** Bewegungsinitiierung, Bewegungsfluss, Bewegungsintensität; koordinieren automatisierte Bewegungsabläufe\n- **Kleinhirn:** Feinabstimmung von Timing und Präzision; motorisches Lernen\n- **Hirnstamm:** Integration motorischer Befehle mit sensorischen Informationen\n- **Rückenmark:** Basis der motorischen Hierarchie; Reflexbewegungen und automatische Bewegungen\n\nDiese Systeme sind Teil der **5 sensomotorischen Regelkreise**: Propriozeption, Taktilität, Vestibulär, Pyramidalmotorisches System (PS), Extrapyramidalmotorisches System (EPS).\n\n## Normaler Tonus\nAn der Aufrechterhaltung des normalen (\"normotonen\") Ruhetonus sind **Hirnstamm, Formatio reticularis, Kleinhirn und Basalganglien** beteiligt. Merksatz: Normaler Tonus ist hoch genug, um den Körper gegen die Schwerkraft aufrecht zu halten, und niedrig genug, um selektive und flüssige Bewegungen zu ermöglichen.\n\n## Klinische Relevanz: Läsion der Pyramidenbahn\n**Hemiplegie/Hemiparese:** Entsteht meist durch eine Läsion der **Capsula interna** bzw. der Pyramidenbahn im Versorgungsgebiet der A. cerebri media. Die Schädigung betrifft die **kontralaterale** Körperseite (rechte Hemisphäre geschädigt → linksseitige Symptomatik).\n- **Plegie** = vollständige Lähmung, keine motorische Funktion mehr (meist schlaff)\n- **Parese** = unvollständige Lähmung, motorische Restfunktion vorhanden (schlaff oder spastisch)\n- **Hemiparese/-plegie** (Arm + Bein einer Seite) = häufigste Form bei Schlaganfall\n\n**Spastizität – Pathomechanismus (Bezug Pyramidenbahn/EPS):**\nDie Pyramidenbahn übt normalerweise eine **inhibitorische Wirkung auf das extrapyramidale System bzw. die spinalen Reflexkreise** aus. Bei einer Läsion der Pyramidenbahn entfällt diese hemmende Kontrolle:\n\n1. Propriozeptiver Dehnungsreiz trifft im Rückenmark ein (afferent, Hinterhorn)\n2. Reflexbogen verschaltet im Rückenmark (Vorderhorn-Bereich)\n3. Die **pyramidale Hemmung fehlt** (da Pyramidenbahn geschädigt)\n4. Es resultiert ein **überschießender, tonischer Reflex** zur Muskulatur (efferent)\n\nDaraus resultiert die geschwindigkeitsabhängige Tonuserhöhung mit Begleitphänomenen wie Reflexirradiation, verminderter reziproker Hemmung und Klonus. Da auch Anteile des extrapyramidalen Systems betroffen sind, erklärt dies das Auftreten **rumpfnaher Massenbewegungen** bei Spastik.",
+  "facts": [
+    "Die Pyramidenbahn (pyramidalmotorisches System) entspringt der motorischen Rinde des Großhirns, verläuft über die Capsula interna zum Rückenmark und steuert die willkürliche Feinmotorik, v.a. distale Muskulatur.",
+    "Das extrapyramidale System (EPS) entspringt Basalganglien und Kleinhirn und reguliert automatische/unbewusste Bewegungen, Haltung, Muskeltonus sowie grobe proximale/rumpfnahe Bewegungsmuster.",
+    "Pyramidales und extrapyramidales System arbeiten eng zusammen, um fein abgestimmte Bewegungen zu ermöglichen.",
+    "Die Pyramidenbahn übt eine inhibitorische (hemmende) Wirkung auf das extrapyramidale System bzw. die spinalen Reflexkreise aus.",
+    "Nucleus caudatus + Putamen = Striatum; Putamen + Globus pallidus = Linsenkern (Nucleus lentiformis); zusammen mit dem Thalamus zentrale Schaltstationen des EPS.",
+    "Die Capsula interna liegt im Versorgungsgebiet der Arteria cerebri media, der häufigsten 'Schlaganfallarterie'.",
+    "Hemiplegie = vollständige Lähmung (keine motorische Funktion, meist schlaff); Hemiparese = unvollständige Lähmung (motorische Restfunktion, schlaff oder spastisch).",
+    "Läsionen betreffen die kontralaterale Körperseite: Schädigung der rechten Hemisphäre führt zu linksseitiger Symptomatik.",
+    "Spastizität entsteht durch Wegfall der inhibitorischen Wirkung der Pyramidenbahn auf spinale Reflexkreise, wodurch Dehnreflexe überschießen (Hyperreflexie, geschwindigkeitsabhängig).",
+    "Begleitphänomene der Spastik: Reflexirradiation, verminderte reziproke Hemmung, Klonus; betrifft auch das extrapyramidale System, daher rumpfnahe Massenbewegungen.",
+    "An der Aufrechterhaltung des normalen Ruhetonus sind Hirnstamm, Formatio reticularis, Kleinhirn und Basalganglien beteiligt.",
+    "Basalganglien sind an Bewegungsinitiierung, -fluss und -intensität beteiligt; bei Morbus Parkinson degenerieren dopaminerge Neurone, die auf das Striatum wirken."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g60.png", "caption": "Beschrifteter Koronarschnitt: Nucleus caudatus, Putamen, Globus pallidus, Thalamus, Hippocampus – Basalganglien als Kernstrukturen des extrapyramidalen Systems."},
+    {"src": "assets/neurophysio/g302.png", "caption": "Mechanismus der Spastik im Rückenmarksquerschnitt: propriozeptiver Dehnungsreiz → Reflexbogen → fehlende pyramidale Hemmung → überschießender tonischer Reflex."}
+  ],
+  "flashcards": [
+    {"q": "Wo entspringt die Pyramidenbahn und wofür ist sie hauptsächlich zuständig?", "a": "Sie entspringt der motorischen Rinde des Großhirns und ist hauptsächlich für die willkürliche motorische Kontrolle zuständig, insbesondere die distale Muskulatur/Feinmotorik."},
+    {"q": "Wovon entspringt das extrapyramidale System und wofür ist es zuständig?", "a": "Es entspringt Basalganglien und Kleinhirn und reguliert automatische/unbewusste Bewegungen, Haltung, Muskeltonus sowie grobe Bewegungsmuster von Rumpf und proximalen Extremitäten."},
+    {"q": "Welche Wirkung hat die Pyramidenbahn normalerweise auf das extrapyramidale System?", "a": "Eine inhibitorische (hemmende) Wirkung auf das extrapyramidale System bzw. die spinalen Reflexkreise."},
+    {"q": "Welche Strukturen bilden das Striatum, welche den Linsenkern?", "a": "Striatum = Nucleus caudatus + Putamen. Linsenkern (Nucleus lentiformis) = Putamen + Globus pallidus."},
+    {"q": "Wodurch entsteht eine Hemiplegie/Hemiparese meist und welche Körperseite ist betroffen?", "a": "Meist durch eine Läsion der Capsula interna bzw. der Pyramidenbahn im Versorgungsgebiet der A. cerebri media; betroffen ist die kontralaterale (gegenüberliegende) Körperseite."},
+    {"q": "Wie läuft der Pathomechanismus der Spastik nach Läsion der Pyramidenbahn ab?", "a": "Propriozeptiver Dehnungsreiz trifft im Rückenmark ein → Reflexbogen verschaltet im Vorderhorn → pyramidale Hemmung fehlt → überschießender tonischer Reflex zur Muskulatur (Hyperreflexie)."},
+    {"q": "Welche Strukturen sind an der Aufrechterhaltung des normalen Ruhetonus beteiligt?", "a": "Hirnstamm, Formatio reticularis, Kleinhirn und Basalganglien."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zur Pyramidenbahn ist korrekt?",
+      "options": [
+        "Sie entspringt der motorischen Rinde des Großhirns und ist v.a. für willkürliche Feinmotorik der distalen Muskulatur zuständig.",
+        "Sie entspringt den Basalganglien und steuert vorrangig die Rumpfmuskulatur.",
+        "Sie ist Teil des extrapyramidalen Systems und wirkt hemmend auf den Kortex.",
+        "Sie verläuft ausschließlich ipsilateral und beeinflusst keine spinalen Reflexe."
+      ],
+      "answer": 0,
+      "explain": "Die Pyramidenbahn entspringt der motorischen Rinde, zieht über die Capsula interna zum Rückenmark und ist für willkürliche, v.a. distale Feinmotorik zuständig. Basalganglienursprung, Rumpfsteuerung und Hemmung des Kortex beschreiben fälschlich das EPS bzw. eine falsche Wirkrichtung."
+    },
+    {
+      "q": "Ein Patient hat eine Läsion in der rechten Capsula interna im Versorgungsgebiet der A. cerebri media. Welche Symptomatik ist zu erwarten?",
+      "options": [
+        "Ipsilaterale Lähmung der rechten Körperseite",
+        "Kontralaterale Lähmung der linken Körperseite",
+        "Beidseitige symmetrische Lähmung (Tetraparese)",
+        "Keine motorischen Ausfälle, nur sensible Störungen"
+      ],
+      "answer": 1,
+      "explain": "Die Pyramidenbahn kreuzt, daher führt eine Läsion einer Hirnhemisphäre zu kontralateraler Symptomatik – bei rechtsseitiger Läsion also linksseitige Hemiparese/-plegie."
+    },
+    {
+      "q": "Warum kommt es bei einer Läsion der Pyramidenbahn typischerweise zu Spastizität?",
+      "options": [
+        "Weil die inhibitorische Wirkung der Pyramidenbahn auf die spinalen Reflexkreise entfällt und Dehnreflexe überschießen.",
+        "Weil das Kleinhirn dadurch überaktiv wird und die Muskulatur ständig anspannt.",
+        "Weil der Thalamus als 'Tor zum Bewusstsein' ausfällt.",
+        "Weil die Basalganglien direkt die Skelettmuskulatur innervieren."
+      ],
+      "answer": 0,
+      "explain": "Die Pyramidenbahn hemmt normalerweise das extrapyramidale System/spinale Reflexkreise. Fällt diese Hemmung durch eine Läsion weg, kommt es zu überschießenden, geschwindigkeitsabhängigen Dehnreflexen (Hyperreflexie) – der klassischen Spastik-Pathophysiologie."
+    },
+    {
+      "q": "Welche Strukturkombination bildet den Linsenkern (Nucleus lentiformis)?",
+      "options": [
+        "Nucleus caudatus + Thalamus",
+        "Putamen + Globus pallidus",
+        "Hippocampus + Nucleus caudatus",
+        "Thalamus + Globus pallidus"
+      ],
+      "answer": 1,
+      "explain": "Putamen und Globus pallidus bilden gemeinsam den Linsenkern. Nucleus caudatus + Putamen bilden dagegen das Striatum – eine häufige Verwechslung in Prüfungen."
+    }
+  ]
+}

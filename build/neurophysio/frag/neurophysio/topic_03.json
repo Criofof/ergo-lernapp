@@ -1,0 +1,80 @@
+{
+  "id": "gliazellen-funktion",
+  "title": "Gliazellen: Typen und Funktion im ZNS",
+  "eingrenzung": "Gliazellen (Funktion)",
+  "prio": "high",
+  "body": "## Ueberblick\n\nGliazellen (\"Neuroglia\") sind neben den Neuronen der zweite grosse Zelltyp des Nervensystems. Sie sind zahlenmaessig und in ihrem Erscheinungsbild vielseitiger als Neurone und koennen sich - im Gegensatz zu den meisten Neuronen - regenerieren/reproduzieren. Ihre Aufgabe ist nicht die eigentliche Erregungsleitung, sondern **Stuetz-, Schutz-, Ernaehrungs- und Immunfunktionen** sowie die Aufrechterhaltung der Homoeostase des neuronalen Milieus.\n\nIm ZNS werden vier Gliazelltypen unterschieden, die alle aus einer gemeinsamen **multipotenten neuralen Stammzelle** hervorgehen, sich aber ueber unterschiedliche Vorlaeuferstadien (Zwischenzellen) ausdifferenzieren:\n\n1. Stammzelle -> Radial glia -> **Astrozyt**\n2. Stammzelle -> Oligodendrocyte precursor -> (Zwischenstufe) -> **Oligodendrozyt**\n3. Stammzelle -> Neuroblast -> Neuron (zum Vergleich, keine Gliazelle)\n\nMikroglia und Ependymzellen werden separat betrachtet.\n\n## Die vier Gliazelltypen im ZNS\n\n### 1. Astrozyten (Astroglia)\n- **Haeufigste Gliazellart** im ZNS.\n- Sternfoermige Zellen mit vielen, weit abstrahlenden Fortsaetzen.\n- Fortsaetze enden kolbig verdickt als sog. **Endfuesse**, mit denen sie an Blutgefaesse und Neurone/Synapsen andocken.\n- **Funktionen:**\n  - Stuetz- und Ernaehrungsfunktion fuer Neurone\n  - Aufrechterhaltung der **Blut-Hirn-Schranke** (Endfuesse legen sich an Kapillaren an)\n  - Regulation des extrazellulaeren/interstitiellen Milieus (Ionen- und Neurotransmitterhaushalt)\n  - Bildung einer **Glianarbe** nach ZNS-Schaeden\n- Entstehen entwicklungsgeschichtlich aus der **Radialglia**.\n\n### 2. Oligodendrozyten (Oligodendroglia)\n- Zustaendig fuer die **Myelinisierung von Axonen im ZNS** (Gegenstueck zu den Schwann-Zellen im PNS).\n- Myelin ist eine fettreiche Substanz, die das Axon umhuellt und die Leitgeschwindigkeit von Nervenimpulsen erhoeht (**saltatorische Erregungsleitung**).\n- **Wichtiger Unterschied zur Schwann-Zelle:** Ein Oligodendrozyt kann mit seinen mehreren duennen Fortsaetzen **gleichzeitig mehrere Axone** myelinisieren, waehrend eine Schwann-Zelle im PNS nur **ein** Axonsegment versorgt.\n- Entstehen ueber Oligodendrocyte precursors aus der multipotenten Stammzelle.\n- **Klinische Relevanz:** Bei der Multiplen Sklerose (MS) greift ein Autoimmunprozess (u.a. ueber Mikroglia) die Myelinscheiden im ZNS an -> Demyelinisierung -> gestoerte saltatorische Erregungsleitung.\n\n### 3. Mikrogliazellen\n- **Kleinste** Gliazellen des ZNS, mit feinen, stark verzweigten, \"moosartigen\" Fortsaetzen.\n- Fungieren als **Immunzellen des Gehirns** (\"Makrophagen des ZNS\").\n- Bewegen sich frei im ZNS, ueberwachen staendig ihre Umgebung (Immunueberwachung).\n- **Phagozytose** von Zelltruemmern, Krankheitserregern und beschaedigten/abgestorbenen Zellen.\n- Bei Aktivierung (z.B. nach Schlaganfall, Entzuendung, Verletzung, MS) veraendern sie ihre Form (amoeboid) und werden phagozytisch aktiv.\n\n### 4. Ependymzellen\n- Zylindrische Zellen, die die **Hirnventrikel** und den **Zentralkanal des Rueckenmarks** auskleiden.\n- Tragen **Zilien** (Flimmerhaerchen), die den **Liquorfluss** unterstuetzen.\n- Beteiligt an der Bildung des **Plexus choroideus**, der den Liquor cerebrospinalis produziert.\n\n## Zusammenspiel im Gewebe\n\nIm ZNS-Gewebe wirken alle Zelltypen raeumlich und funktionell zusammen: Neurone werden von Oligodendrozyten myelinisiert, von Mikroglia immunologisch ueberwacht, von Astrozyten strukturell/metabolisch unterstuetzt und ueber deren Endfuesse an die Blutgefaesse (Blut-Hirn-Schranke) angebunden, waehrend Ependymzellen die liquorgefuellten Hohlraeume auskleiden.\n\n## Klinischer Bezug (Ergotherapie-relevant)\n\n- **Multiple Sklerose (MS):** chronische, entzuendliche, demyelinisierende ZNS-Erkrankung; betrifft vorrangig die weisse Substanz; Plaques/Laesionen entstehen durch Schaedigung der Myelinscheiden; Autoimmunprozess (Mikroglia greift Myelin an); Ursache vermutlich Kombination aus genetischer Praedisposition und Umweltfaktoren (z.B. Virusinfektionen).\n- **Hirntumoren:** koennen von Gliazellen ausgehen (Gliome).\n- Gliazellen sind damit nicht nur \"Stuetzgewebe\", sondern direkt an der Pathophysiologie wichtiger neurologischer Krankheitsbilder beteiligt, die in der Ergotherapie behandelt werden.",
+  "facts": [
+    "Es gibt vier Gliazelltypen im ZNS: Astrozyten, Oligodendrozyten, Mikroglia und Ependymzellen.",
+    "Astrozyten sind sternfoermig, die haeufigste Gliazellart, stuetzen/ernaehren Neurone und bilden mit ihren Endfuessen die Blut-Hirn-Schranke; sie entstehen aus der Radialglia.",
+    "Oligodendrozyten bilden die Myelinscheiden im ZNS und koennen im Gegensatz zur Schwann-Zelle (PNS, nur 1 Axonsegment) mehrere Axone gleichzeitig myelinisieren.",
+    "Mikrogliazellen sind die kleinsten Gliazellen und fungieren als Immunzellen (Phagozytose) des ZNS.",
+    "Ependymzellen kleiden Hirnventrikel und Zentralkanal aus, tragen Zilien fuer den Liquorfluss und sind an der Liquorproduktion (Plexus choroideus) beteiligt.",
+    "Neurone und Gliazellen (Astrozyten, Oligodendrozyten) entstammen einer gemeinsamen multipotenten neuralen Stammzelle, differenzieren sich aber ueber unterschiedliche Vorlaeuferstadien.",
+    "Gliazellen koennen sich, im Gegensatz zu den meisten Neuronen, regenerieren/reproduzieren.",
+    "Bei Multipler Sklerose greifen Mikroglia im Rahmen eines Autoimmunprozesses die Myelinscheiden (Oligodendrozyten-Produkt) im ZNS an, was die saltatorische Erregungsleitung stoert."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g91.png", "caption": "Differenzierungsschema: Aus der multipotenten Stammzelle des ZNS entstehen ueber verschiedene Vorlaeuferstadien Neurone, Oligodendrozyten (ueber Oligodendrocyte precursor) und Astrozyten (ueber Radialglia)."},
+    {"src": "assets/neurophysio/g92.png", "caption": "Organisation der Zelltypen im Nervengewebe: Neurone (gelb), Astrozyten mit Endfuessen an Blutgefaessen (gruen), Mikroglia (blau, klein), Oligodendrozyten mit Myelinscheiden (lila) und Ependymzellen (rosa) im Zusammenspiel."},
+    {"src": "assets/neurophysio/g87.png", "caption": "Astrozyten: Precursor-Zelle und reife, sternfoermige Astrozyten mit verzweigten Fortsaetzen und kolbigen Endfuessen."},
+    {"src": "assets/neurophysio/g88.png", "caption": "Oligodendrozyten: Precursor-Zelle und reife Oligodendrozyten mit mehreren duennen Fortsaetzen, die verschiedene Axone myelinisieren."},
+    {"src": "assets/neurophysio/g89.png", "caption": "Mikroglia: kleine Zellen mit fein verzweigten, 'moosartigen' Fortsaetzen zur Immunueberwachung des ZNS."},
+    {"src": "assets/neurophysio/g90.png", "caption": "Ependymzellen: zylindrische, bewimperte Zellen, die die liquorgefuellten Hohlraeume des ZNS auskleiden."}
+  ],
+  "flashcards": [
+    {"q": "Welche vier Gliazelltypen gibt es im ZNS?", "a": "Astrozyten, Oligodendrozyten, Mikroglia und Ependymzellen."},
+    {"q": "Was ist die Hauptfunktion der Astrozyten und woraus entstehen sie?", "a": "Stuetz- und Ernaehrungsfunktion fuer Neurone, Beteiligung an der Blut-Hirn-Schranke (Endfuesse an Blutgefaessen), Regulation des extrazellulaeren Milieus, Glianarbenbildung; sie entstehen aus der Radialglia."},
+    {"q": "Worin unterscheidet sich ein Oligodendrozyt von einer Schwann-Zelle?", "a": "Ein Oligodendrozyt (ZNS) kann mehrere Axone gleichzeitig myelinisieren, eine Schwann-Zelle (PNS) myelinisiert nur ein Axonsegment."},
+    {"q": "Welche Funktion haben Mikrogliazellen?", "a": "Sie sind die Immunzellen des ZNS (residente Makrophagen): Immunueberwachung und Phagozytose von Zelltruemmern, Erregern und abgestorbenen Zellen."},
+    {"q": "Welche Funktion haben Ependymzellen und welche Struktur bilden sie mit aus?", "a": "Sie kleiden Hirnventrikel und Zentralkanal aus, tragen Zilien fuer den Liquorfluss und sind Teil des Plexus choroideus, der den Liquor cerebrospinalis produziert."},
+    {"q": "Aus welcher gemeinsamen Ausgangszelle entwickeln sich Neurone und Gliazellen im ZNS?", "a": "Aus der multipotenten neuralen Stammzelle, die sich ueber unterschiedliche Vorlaeuferstadien (Neuroblast, Radialglia, Oligodendrocyte precursor) ausdifferenziert."},
+    {"q": "Welche Gliazelle ist bei der Multiplen Sklerose ursaechlich am Autoimmunangriff auf die Myelinscheiden beteiligt?", "a": "Mikroglia; sie greift im Rahmen eines Autoimmunprozesses die von Oligodendrozyten gebildeten Myelinscheiden im ZNS an."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zu Astrozyten trifft zu?",
+      "options": [
+        "Sie sind sternfoermige Zellen, die haeufigste Gliazellart im ZNS, und bilden mit ihren Endfuessen einen Teil der Blut-Hirn-Schranke.",
+        "Sie sind die kleinsten Gliazellen und dienen ausschliesslich der Immunabwehr.",
+        "Sie myelinisieren als einzige Zellart die Axone im ZNS.",
+        "Sie entstehen ausschliesslich im PNS aus Schwann-Zell-Vorlaeufern."
+      ],
+      "answer": 0,
+      "explain": "Astrozyten sind die haeufigste ZNS-Gliazellart, sternfoermig, stuetzen/ernaehren Neurone und legen ihre Endfuesse an Blutgefaesse an (Blut-Hirn-Schranke). Immunabwehr ist Aufgabe der Mikroglia, Myelinisierung Aufgabe der Oligodendrozyten - typische Verwechslungsfallen."
+    },
+    {
+      "q": "Was unterscheidet einen Oligodendrozyten im ZNS von einer Schwann-Zelle im PNS?",
+      "options": [
+        "Der Oligodendrozyt kann mehrere Axone gleichzeitig myelinisieren, die Schwann-Zelle nur ein Axonsegment.",
+        "Nur die Schwann-Zelle bildet Myelin, der Oligodendrozyt nicht.",
+        "Der Oligodendrozyt gehoert zu den Immunzellen, die Schwann-Zelle zu den Stuetzzellen.",
+        "Beide Zelltypen entstehen aus der Radialglia."
+      ],
+      "answer": 0,
+      "explain": "Ein Oligodendrozyt kann mit seinen mehreren Fortsaetzen gleichzeitig mehrere Axone myelinisieren, waehrend eine Schwann-Zelle im PNS nur ein Axonsegment versorgt. Beide bilden Myelin - Option B ist falsch. Die Immun-/Phagozytose-Funktion gehoert zur Mikroglia."
+    },
+    {
+      "q": "Welche Gliazellart kleidet die Hirnventrikel aus und traegt Zilien zur Unterstuetzung des Liquorflusses?",
+      "options": [
+        "Ependymzellen",
+        "Mikroglia",
+        "Astrozyten",
+        "Oligodendrozyten"
+      ],
+      "answer": 0,
+      "explain": "Ependymzellen kleiden die Ventrikel des Gehirns und den Zentralkanal des Rueckenmarks aus und tragen Zilien, die den Liquorfluss unterstuetzen; sie sind an der Liquorproduktion im Plexus choroideus beteiligt."
+    },
+    {
+      "q": "Ueber welches Vorlaeuferstadium entwickeln sich Astrozyten aus der multipotenten Stammzelle?",
+      "options": [
+        "Ueber die Radialglia",
+        "Ueber den Neuroblast",
+        "Ueber Oligodendrocyte precursors",
+        "Ueber Mikroglia-Vorlaeuferzellen"
+      ],
+      "answer": 0,
+      "explain": "Die Entwicklungslinie lautet: Stammzelle -> Radial glia -> Astrocyte. Der Neuroblast fuehrt zum Neuron, Oligodendrocyte precursors zum Oligodendrozyten - eine typische Verwechslung der drei Linien aus dem Differenzierungsschema."
+    }
+  ]
+}

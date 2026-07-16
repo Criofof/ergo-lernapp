@@ -1,0 +1,77 @@
+{
+  "id": "ergotherapie-settings-neuro",
+  "title": "Ergotherapeutische Behandlung in der Neuro: Settings und Arbeitsorte",
+  "eingrenzung": "Ergotherapeutische Behandlung in der Neuro (Settings, Orte an denen Ergos arbeiten können)",
+  "prio": "high",
+  "body": "## Einordnung: Ergotherapie in der Neurologie\nErgotherapie in der Neurologie konzentriert sich auf die Behandlung von Menschen, die durch neurologische Erkrankungen oder Schädigungen im zentralen Nervensystem (ZNS) eine Beeinträchtigung ihrer Handlungsfähigkeit erfahren haben (Definition nach **Habermann & Kolster, 2020**). Im **Heilmittelkatalog** werden diese neurophysiologischen Verfahren als **\"sensomotorisch-perzeptive Behandlung\"** bezeichnet: sie dient der gezielten Therapie krankheitsbedingter Schädigungen sensomotorischer/perzeptiver Funktionen mit resultierenden Beeinträchtigungen von Aktivitäten und ggf. Teilhabe.\n\nErgotherapeutische Behandlung in der Neurologie wird **grundsätzlich ärztlich angeordnet** und findet je nach Krankheitsstadium und Bedarf des/der Patient:in in ganz unterschiedlichen **Settings** statt.\n\n## Die Settings im Überblick\n\n| Setting | Beschreibung |\n|---|---|\n| **Intensivstation / Stroke-Unit** | Im Rahmen der Frührehabilitation; Stroke-Unit = spezielle Intensivstation unmittelbar nach Schlaganfall; v.a. bei schweren neurologischen Schädigungen; Schwerpunkt: frühe Mobilisation und Prävention von Sekundärkomplikationen |\n| **Stationäre Einrichtung** | Krankenhäuser und spezialisierte Rehabilitationszentren; intensive Behandlung meist unmittelbar nach akuter neurologischer Erkrankung (z.B. Schlaganfall, Hirnverletzung); Frührehabilitation; Verbesserung körperlicher/kognitiver Grundfunktionen + erstes ADL-Training |\n| **Rehabilitationsklinik** (stationäre neurologische Reha) | Ergotherapie als Teil eines umfassenden Reha-Programms; Patient:innen bleiben zur besseren Überwachung des Gesundheitszustandes eine Weile stationär |\n| **Tagesklinik** (ambulante neurologische Reha) | Patient:innen erhalten tagsüber Therapie, kehren abends nach Hause zurück; Balance zwischen intensiver Therapie und häuslicher Umgebung |\n| **Ambulante Praxis** | Ergotherapie auf Heilmittelbasis, ohne stationäre Aufnahme; geeignet für Patient:innen in später Reha-Phase, die zu Hause leben und (mit Unterstützung) zur Praxis kommen können |\n| **Zuhause (Hausbesuch)** | Ergotherapeut:innen besuchen Patient:innen auf ärztliche Anordnung zu Hause; Therapie zugeschnitten auf häusliche Umgebung/spezifische Bedürfnisse; für Patient:innen, die aus gesundheitlichen/logistischen Gründen keine Praxis aufsuchen können |\n| **Wohn- und Pflegeheim** | Für Menschen mit langfristigen/fortschreitenden neurologischen Erkrankungen mit umfassendem Pflegebedarf; teils einrichtungsintern, teils als Hausbesuch über externe Praxis |\n\nDie klassische Verlaufslogik ist meist: **Akutphase (Intensivstation/Stroke-Unit) → stationäre Reha (Krankenhaus/Reha-Klinik) → Tagesklinik → ambulante Praxis/Hausbesuch/Pflegeheim** — je nach Schweregrad, Mobilität und sozialer Situation der Patient:innen kann dieser Verlauf variieren.\n\n## Ergotherapie im interdisziplinären Team\nErgotherapeut:innen sind Expert:innen für Analyse und Anpassung von **Aktivitäten des täglichen Lebens (ADL)**, die durch neurologische Beeinträchtigungen erschwert werden. Sie arbeiten in all diesen Settings eng zusammen mit Ärzt:innen, weiteren Therapieberufen, Sozialarbeiter:innen, (Neuro-)Psycholog:innen und Pflegepersonal, um individuelle Bedürfnisse/Fähigkeiten zu bewerten und Behandlungspläne zu erstellen. Ergotherapie fungiert dabei oft als **Bindeglied zwischen den Disziplinen**, da sie den/die Klient:in ganzheitlich (physisch, psychisch, sozial) betrachtet — das ist ihr zentrales Abgrenzungsmerkmal gegenüber Physiotherapie, Logopädie und Neuropsychologie, die eher auf spezifische körperliche bzw. kognitive Aspekte fokussieren.\n\n## Kernprinzipien, die das Arbeiten in allen Settings prägen\n1. **Fokus auf Alltagsaktivitäten (ADL)** — praktischer, alltagsbezogener Ansatz gilt als Alleinstellungsmerkmal der Ergotherapie.\n2. **Klient:innenzentrierung** — Ziele/Methoden werden auf individuelle Bedürfnisse abgestimmt.\n3. **Adaptionsstrategien** — Umgebungsanpassung und Hilfsmitteleinsatz.\n4. **Berücksichtigung psychosozialer Aspekte**.\n5. **Förderung von Autonomie und Partizipation**.\n\n## Praxisbeispiel: Settings verschiedener neurophysiologischer Konzepte\nAn einem Fallbeispiel (Vergleich der Konzepte Perfetti, Forced-Use/CIMT, Affolter, Bobath) lässt sich die Bandbreite realer Arbeitsorte gut zeigen — hier wird explizit betont, dass dies **prüfungsrelevant für die Settings-Frage** ist:\n\n| Konzept | Setting |\n|---|---|\n| Perfetti | Hausbesuch; Einzeltherapie |\n| Forced-Use (CIMT) | Einzel- **und** Gruppentherapie |\n| Affolter | Hausbesuch; Einzeltherapie (Ehefrau aktiv einbezogen) |\n| Bobath | Akutbehandlung im Krankenhaus; später Hausbesuche; Einzeltherapie (mit Ehefrau) |\n\nDies zeigt: Arbeitsorte der Ergotherapie in der Neurologie reichen von der **Akutklinik** über die **Rehaklinik**, die **ambulante Praxis** bis zum **Hausbesuch**, und Therapie kann sowohl **einzeln** als auch in der **Gruppe** stattfinden.\n\n## Beispiel aus der Praxis: Stroke-Unit\nBeim Schlaganfall zeigt sich die Bedeutung der frühen Settings besonders deutlich: Frührehabilitation (Physiotherapie, Ergotherapie, Logopädie) beginnt bereits auf der **Stroke Unit**, unmittelbar nach der Akutphase — noch bevor der/die Patient:in auf eine reguläre Station oder in die Reha-Klinik verlegt wird.",
+  "facts": [
+    "Ergotherapeutische Behandlung in der Neurologie wird grundsätzlich ärztlich angeordnet.",
+    "Settings/Arbeitsorte der Ergotherapie in der Neuro: Intensivstation/Stroke-Unit, Stationäre Einrichtung (Krankenhaus/Reha-Zentrum), Rehabilitationsklinik, Tagesklinik, Ambulante Praxis, Zuhause (Hausbesuch), Wohn-/Pflegeheim.",
+    "Stroke-Unit = spezielle Intensivstation für Patient:innen unmittelbar nach einem Schlaganfall; Fokus auf frühe Mobilisation und Prävention von Sekundärkomplikationen.",
+    "Tagesklinik = ambulante neurologische Reha, bei der Patient:innen tagsüber Therapie erhalten und abends nach Hause zurückkehren.",
+    "Ambulante Praxis eignet sich für Patient:innen in später Reha-Phase, die selbstständig oder mit Unterstützung zur Therapie kommen können.",
+    "Im Heilmittelkatalog werden neurophysiologische Verfahren als 'sensomotorisch-perzeptive Behandlung' bezeichnet.",
+    "Ergotherapie fungiert im neurologischen Team oft als Bindeglied zwischen den Disziplinen aufgrund ihres ganzheitlichen (physisch/psychisch/sozial) Ansatzes.",
+    "Praxisbeispiel Settings: Perfetti = Hausbesuch/Einzeltherapie; Forced-Use/CIMT = Einzel und Gruppe; Affolter = Hausbesuch/Einzeltherapie; Bobath = Akutklinik, später Hausbesuche/Einzeltherapie.",
+    "Frührehabilitation (u.a. Ergotherapie) beginnt beim Schlaganfall bereits auf der Stroke Unit."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g105.png", "caption": "Definitionen: Ergotherapie in der Neurologie (Habermann & Kolster) und 'sensomotorisch-perzeptive Behandlung' im Heilmittelkatalog."},
+    {"src": "assets/neurophysio/g288.png", "caption": "Vergleichstabelle: Settings und Rolle der Angehörigen bei Perfetti, Forced-Use, Affolter und Bobath (Fallbeispiel Herr Maurer)."}
+  ],
+  "flashcards": [
+    {"q": "Nenne mindestens 5 Settings, in denen Ergotherapeut:innen in der Neurologie arbeiten können.", "a": "Intensivstation/Stroke-Unit, stationäre Einrichtung (Krankenhaus/Reha-Zentrum), Rehabilitationsklinik, Tagesklinik, ambulante Praxis, Hausbesuch, Wohn-/Pflegeheim."},
+    {"q": "Was ist eine Stroke-Unit und welcher Schwerpunkt liegt dort in der Ergotherapie?", "a": "Eine spezielle Intensivstation für Patient:innen unmittelbar nach einem Schlaganfall; Schwerpunkt der Frührehabilitation liegt auf früher Mobilisation und Prävention von Sekundärkomplikationen."},
+    {"q": "Worin unterscheidet sich eine Tagesklinik von einer stationären Rehabilitationsklinik?", "a": "In der Tagesklinik erhalten Patient:innen tagsüber Therapie und kehren abends nach Hause zurück (ambulant); in der Rehaklinik bleiben Patient:innen zur besseren Überwachung stationär."},
+    {"q": "Wodurch wird der Zugang zu ergotherapeutischer Behandlung in der Neurologie grundsätzlich ausgelöst?", "a": "Durch ärztliche Anordnung (Verordnung/Heilmittelverordnung)."},
+    {"q": "Wie werden neurophysiologische Verfahren im Heilmittelkatalog bezeichnet?", "a": "Als 'sensomotorisch-perzeptive Behandlung'."},
+    {"q": "Warum wird Ergotherapie oft als 'Bindeglied zwischen den Disziplinen' im neurologischen Team bezeichnet?", "a": "Weil sie den/die Klient:in ganzheitlich betrachtet (physisch, psychisch, sozial), während andere Berufsgruppen (Physio, Logopädie, Neuropsychologie) eher auf spezifische Teilaspekte fokussieren."},
+    {"q": "Nenne die Settings der vier verglichenen Therapiekonzepte (Perfetti, Forced-Use, Affolter, Bobath) laut Fallbeispiel Herr Maurer.", "a": "Perfetti: Hausbesuch/Einzeltherapie. Forced-Use: Einzel- und Gruppentherapie. Affolter: Hausbesuch/Einzeltherapie. Bobath: Akutbehandlung im Krankenhaus, später Hausbesuche/Einzeltherapie."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zu den Settings der Ergotherapie in der Neurologie ist korrekt?",
+      "options": [
+        "Ergotherapeutische Behandlung in der Neurologie erfolgt grundsätzlich auf ärztliche Anordnung und kann u.a. auf Stroke-Units, in Reha-Kliniken, Tageskliniken, ambulanten Praxen sowie bei Hausbesuchen stattfinden.",
+        "Ergotherapie in der Neurologie findet ausschließlich stationär im Krankenhaus statt.",
+        "Ergotherapeut:innen benötigen keine ärztliche Anordnung, um in der Neurologie zu behandeln.",
+        "Eine Stroke-Unit ist identisch mit einer ambulanten Tagesklinik."
+      ],
+      "answer": 0,
+      "explain": "Die Behandlung ist grundsätzlich ärztlich angeordnet und findet je nach Krankheitsphase in verschiedensten Settings statt (Stroke-Unit, Krankenhaus, Reha-Klinik, Tagesklinik, ambulante Praxis, Hausbesuch, Pflegeheim). Die anderen Optionen widersprechen den Kursnotizen (Kap. 1.2)."
+    },
+    {
+      "q": "Was ist der Hauptunterschied zwischen einer Tagesklinik und einer ambulanten Praxis als Setting?",
+      "options": [
+        "Es gibt keinen Unterschied, beide Begriffe sind identisch.",
+        "In der Tagesklinik erhalten Patient:innen tagsüber intensivere Therapie und kehren abends nach Hause zurück, während die ambulante Praxis eher für Patient:innen in späterer Reha-Phase mit punktuellen Terminen geeignet ist.",
+        "Die Tagesklinik ist nur für geriatrische Patient:innen, die ambulante Praxis nur für neurologische Patient:innen.",
+        "In der ambulanten Praxis übernachten Patient:innen, in der Tagesklinik nicht."
+      ],
+      "answer": 1,
+      "explain": "Die Tagesklinik bietet eine Balance zwischen intensiver tagsüber-Therapie und häuslicher Umgebung abends; die ambulante Praxis ist eher für die spätere Reha-Phase mit selbstständigerer An-/Abreise gedacht. Die Tagesklinik ist keine geriatrie-exklusive Einrichtung, und in keinem der beiden Settings wird übernachtet."
+    },
+    {
+      "q": "Im Vergleichsbeispiel (Perfetti, Forced-Use, Affolter, Bobath) — welches Konzept wird dort explizit sowohl im Einzel- als auch im Gruppensetting durchgeführt?",
+      "options": [
+        "Perfetti",
+        "Affolter",
+        "Forced-Use (CIMT)",
+        "Bobath"
+      ],
+      "answer": 2,
+      "explain": "Laut Vergleichstabelle (gidx 288) wird Forced-Use/CIMT sowohl einzeln als auch in der Gruppe durchgeführt. Perfetti und Affolter werden dort als Hausbesuch/Einzeltherapie beschrieben, Bobath als Akutbehandlung im Krankenhaus mit späteren Hausbesuchen/Einzeltherapie."
+    },
+    {
+      "q": "Warum wird Ergotherapie im neurologischen Team häufig als 'Bindeglied zwischen den Disziplinen' beschrieben?",
+      "options": [
+        "Weil Ergotherapeut:innen formal die Leitung des interdisziplinären Teams übernehmen.",
+        "Weil sie als einzige Berufsgruppe medizinische Diagnosen stellen dürfen.",
+        "Weil ihr ganzheitlicher Ansatz (physisch, psychisch, sozial) die Perspektiven verschiedener Fachrichtungen zusammenführt.",
+        "Weil sie ausschließlich in der ambulanten Praxis arbeiten und dort alle Fäden zusammenlaufen."
+      ],
+      "answer": 2,
+      "explain": "Der ganzheitliche Ansatz der Ergotherapie – im Gegensatz zum engeren Fokus von Physiotherapie, Logopädie oder Neuropsychologie auf spezifische Teilaspekte – macht sie zum Bindeglied zwischen den Disziplinen. Diagnosestellung und Teamleitung liegen nicht bei der Ergotherapie, und sie arbeitet in vielen Settings, nicht nur ambulant."
+    }
+  ]
+}

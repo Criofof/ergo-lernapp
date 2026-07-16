@@ -1,0 +1,62 @@
+{
+  "id": "grosshirnlappen",
+  "title": "Großhirn: Lappen und funktionelle Areale",
+  "eingrenzung": "Großhirn (Lappen)",
+  "prio": "high",
+  "body": "## Aufbau des Großhirns\n\nDas Großhirn (Cerebrum) ist der phylogenetisch jüngste Teil des Zentralnervensystems und besteht aus zwei Hemisphären, die durch die **Fissura longitudinalis cerebri** (Interhemisphärenspalt) voneinander getrennt sind. Die Oberfläche jeder Hemisphäre – die Großhirnrinde (Cortex cerebri) – gliedert sich in **vier Hauptlappen (Lobi)**.\n\n### Die vier Hirnlappen und ihre Funktionen\n\n| Lappen | Lage | Hauptfunktion |\n|---|---|---|\n| **Frontallappen** (Lobus frontalis, Stirnlappen) | vorderster/oberer Bereich | Motorischer Kortex, Assoziationsareale; Planung, Entscheidungsfindung, Persönlichkeitsausdruck |\n| **Parietallappen** (Lobus parietalis, Scheitellappen) | hinter dem Frontallappen, oben | Verarbeitung sensorischer Informationen, Integration ins Bewusstsein |\n| **Temporallappen** (Lobus temporalis, Schläfenlappen) | unten seitlich, unterhalb der Sylvischen Fissur | Auditive Verarbeitung, Sprache, Gedächtnis, Emotionen |\n| **Okzipitallappen** (Lobus occipitalis, Hinterhauptslappen) | hinterste Region | Verarbeitung visueller Informationen |\n\nAnatomisch liegt der Frontallappen vorne, der Parietallappen dahinter/oben angrenzend, der Okzipitallappen ganz hinten und der Temporallappen unten seitlich, unterhalb von Frontal- und Parietallappen. Unterhalb/hinter dem Temporallappen sind im Lateralbild zusätzlich Kleinhirn (Cerebellum) und ein Teil des Hirnstamms erkennbar (nicht Teil des Großhirns).\n\n### Funktionelle Areale (Cortex-Funktionslokalisation)\n\nInnerhalb der Lappen liegen spezifische funktionelle Rindenfelder:\n\n- **Präfrontaler Kortex** (\"Higher mental functions\") – vorderster Teil des Frontallappens; zuständig für höhere kognitive/mentale Leistungen.\n- **Primär-motorischer Kortex** (Gyrus praecentralis, vordere Zentralwindung) – im Frontallappen, direkt vor der Zentralfurche (Sulcus centralis); zusätzlich prämotorischer/supplementär-motorischer Bereich direkt davor.\n- **Primär-sensorischer Kortex** (Gyrus postcentralis, hintere Zentralwindung) – im Parietallappen, direkt hinter der Zentralfurche.\n- **Somatosensorisches Assoziationsfeld** – im Parietallappen, hinter dem primären sensorischen Areal.\n- **Auditorisches (Hör-)Areal** – im Temporallappen.\n- **Assoziationsareal** (Temporallappen) – großes Feld unterhalb der primären Areale.\n- **Visuelles (Seh-)Areal** – im Okzipitallappen.\n\n### Sprachzentren: Broca- und Wernicke-Areal\n\n- **Broca-Areal** = motorisches Sprachzentrum, zuständig für die **Sprachproduktion**; liegt im **Frontallappen** (Gyrus frontalis inferior).\n- **Wernicke-Areal** = sensorisches Sprachzentrum, zuständig für das **Sprachverständnis**; liegt am **Übergang Temporal-/Parietallappen** (Gyrus temporalis superior).\n- Eine Schädigung des Wernicke-Areals führt zur **Wernicke-Aphasie** (sensorische Aphasie): flüssiges, aber inhaltsleeres/unsinniges Sprechen bei gestörtem Sprachverständnis (siehe Eingrenzungspunkt 24).\n\n### Einordnung in die motorische Steuerungshierarchie\n\nDie motorischen Steuerungssysteme des ZNS sind hierarchisch aufgebaut. Phylogenetisch von ältester zu jüngster Struktur:\n\n**Rückenmark → Hirnstamm → Kleinhirn → Basalganglien → Großhirnrinde**\n\nDie Großhirnrinde ist der phylogenetisch jüngste Teil und zentral für **Planung, Initiierung und bewusste Kontrolle** von Bewegungen (\"von der Idee der Bewegung zur Bewegung\"):\n\n- **Frontallappen:** Planung/Steuerung von Bewegungen über präfrontalen Kortex und primär-motorischen Kortex (Gyrus precentralis).\n- **Parietallappen:** wichtigstes Zentrum für die sensomotorische Bewegungsdurchführung über den primär-sensorischen Kortex (Gyrus postcentralis).\n- **Okzipital- und Temporallappen:** visuelle bzw. auditive Verarbeitungszentren, die für das motorische System mit relevant sind.",
+  "facts": [
+    "Das Großhirn gliedert sich in vier Hauptlappen: Frontal-, Parietal-, Temporal- und Okzipitallappen.",
+    "Der Frontallappen enthält den primär-motorischen Kortex (Gyrus praecentralis) und den präfrontalen Kortex; zuständig für Planung, Entscheidung, Bewegungssteuerung und Persönlichkeit.",
+    "Der Parietallappen enthält den primär-sensorischen Kortex (Gyrus postcentralis) und ist zentral für sensorische Verarbeitung und sensomotorische Bewegungsdurchführung.",
+    "Der Temporallappen verarbeitet auditive Informationen, Sprache, Gedächtnis und Emotionen; enthält das auditorische Areal.",
+    "Der Okzipitallappen ist hauptverantwortlich für die visuelle Verarbeitung (visuelles Areal).",
+    "Broca-Areal (Frontallappen) = motorisches Sprachzentrum für Sprachproduktion; Wernicke-Areal (Übergang Temporal-/Parietallappen) = sensorisches Sprachzentrum für Sprachverständnis.",
+    "Schädigung des Wernicke-Areals verursacht die Wernicke-Aphasie: flüssiges, aber inhaltsleeres Sprechen bei gestörtem Sprachverständnis.",
+    "Phylogenetische Hierarchie der motorischen Steuerung: Rückenmark (ältest) – Hirnstamm – Kleinhirn – Basalganglien – Großhirnrinde (jüngst)."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g51.png", "caption": "Die vier Großhirnlappen (Frontal-, Parietal-, Temporal-, Okzipitallappen) seitlich beschriftet"},
+    {"src": "assets/neurophysio/g52.png", "caption": "Funktionelle Hirnareale: motorischer/sensorischer Kortex, Broca- und Wernicke-Areal, visuelles und auditorisches Areal"}
+  ],
+  "flashcards": [
+    {"q": "In welche vier Hauptlappen gliedert sich das Großhirn?", "a": "Frontallappen, Parietallappen, Temporallappen und Okzipitallappen."},
+    {"q": "Wo liegt der primär-motorische Kortex und wie heißt er anatomisch?", "a": "Im Frontallappen, direkt vor der Zentralfurche; er entspricht dem Gyrus praecentralis (vordere Zentralwindung)."},
+    {"q": "Wo liegt der primär-sensorische Kortex und wie heißt er anatomisch?", "a": "Im Parietallappen, direkt hinter der Zentralfurche; er entspricht dem Gyrus postcentralis (hintere Zentralwindung)."},
+    {"q": "Welche Funktion hat der Okzipitallappen?", "a": "Er ist hauptverantwortlich für die Verarbeitung visueller Informationen (visuelles Areal)."},
+    {"q": "Wo liegt das Broca-Areal und wofür ist es zuständig?", "a": "Im Frontallappen (Gyrus frontalis inferior); zuständig für die motorische Sprachproduktion."},
+    {"q": "Wo liegt das Wernicke-Areal und wofür ist es zuständig?", "a": "Am Übergang zwischen Temporal- und Parietallappen (Gyrus temporalis superior); zuständig für das Sprachverständnis."},
+    {"q": "Nenne die phylogenetische Hierarchie der motorischen Steuerungssysteme von ältester zu jüngster Struktur.", "a": "Rückenmark → Hirnstamm → Kleinhirn → Basalganglien → Großhirnrinde."},
+    {"q": "Welche Folge hat eine Schädigung des Wernicke-Areals?", "a": "Wernicke-Aphasie: flüssiges, aber inhaltsleeres/unsinniges Sprechen bei gestörtem Sprachverständnis."}
+  ],
+  "quiz": [
+    {
+      "q": "Welcher Hirnlappen enthält den primär-motorischen Kortex (Gyrus praecentralis)?",
+      "options": ["Frontallappen", "Parietallappen", "Temporallappen", "Okzipitallappen"],
+      "answer": 0,
+      "explain": "Der Gyrus praecentralis liegt im Frontallappen direkt vor der Zentralfurche. Der Gyrus postcentralis (sensorischer Kortex) im Parietallappen ist eine typische Verwechslung."
+    },
+    {
+      "q": "Eine Patientin spricht nach einem Schlaganfall flüssig, aber inhaltlich unsinnig, und versteht Gesprochenes kaum. Welches Areal ist am ehesten betroffen?",
+      "options": ["Broca-Areal", "Wernicke-Areal", "Primär-motorischer Kortex", "Visuelles Areal"],
+      "answer": 1,
+      "explain": "Das ist das klassische Bild der Wernicke-Aphasie (sensorische Aphasie): flüssiges, aber inhaltsleeres Sprechen mit gestörtem Sprachverständnis, verursacht durch eine Schädigung des Wernicke-Areals am Übergang Temporal-/Parietallappen. Das Broca-Areal wäre für eine motorische (nicht-flüssige) Aphasie verantwortlich."
+    },
+    {
+      "q": "Welche Aussage zur phylogenetischen Hierarchie der motorischen Steuerungssysteme ist korrekt?",
+      "options": [
+        "Die Großhirnrinde ist phylogenetisch die älteste Struktur.",
+        "Das Rückenmark ist phylogenetisch die älteste, die Großhirnrinde die jüngste Struktur.",
+        "Das Kleinhirn ist phylogenetisch jünger als die Großhirnrinde.",
+        "Die Basalganglien sind phylogenetisch älter als der Hirnstamm."
+      ],
+      "answer": 1,
+      "explain": "Die Reihenfolge von ältester zu jüngster Struktur lautet: Rückenmark – Hirnstamm – Kleinhirn – Basalganglien – Großhirnrinde. Die Großhirnrinde ist damit der phylogenetisch jüngste Teil."
+    },
+    {
+      "q": "Welchem Lappen ist das auditorische (Hör-)Areal zugeordnet?",
+      "options": ["Okzipitallappen", "Parietallappen", "Temporallappen", "Frontallappen"],
+      "answer": 2,
+      "explain": "Das auditorische Areal liegt im Temporallappen, der auch für Sprache, Gedächtnis und Emotionen wesentlich ist. Das visuelle Areal dagegen liegt im Okzipitallappen."
+    }
+  ]
+}

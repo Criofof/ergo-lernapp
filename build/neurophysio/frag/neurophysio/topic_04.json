@@ -1,0 +1,70 @@
+{
+  "id": "inhibitionsmechanismen-zns",
+  "title": "Inhibitionsmechanismen für das ZNS",
+  "eingrenzung": "Inhibitionsmechanismen für das ZNS",
+  "prio": "high",
+  "body": "## Grundlagen: Erregung und Hemmung an der Synapse\n\nDie Signalübertragung zwischen Neuronen erfolgt an **Synapsen**: Ein Aktionspotenzial erreicht das präsynaptische Ende und löst die Freisetzung von **Neurotransmittern** in den synaptischen Spalt aus. Diese binden an Rezeptoren der postsynaptischen Membran und verändern deren elektrisches Potenzial – je nach Transmitterart **erregend** oder **hemmend**.\n\nSynapsen sind dynamische, anpassungsfähige Schaltstellen: Durch **Langzeitpotenzierung** und **Langzeithemmung** verändern sie ihre Übertragungseffizienz – die Grundlage für motorische und kognitive Lern- und Gedächtnisprozesse. Viele neurologische und psychiatrische Erkrankungen beruhen auf dysfunktionalen synaptischen Prozessen.\n\n**Wichtige Neurotransmitter und ihre Funktion:**\n\n| Transmitter | Funktion |\n|---|---|\n| **Glutamat** | häufigster **erregender** NT im ZNS; entscheidend für Lernen und Gedächtnis |\n| **GABA** (Gamma-Aminobuttersäure) | wichtigster **hemmender** NT im Gehirn; reduziert neuronale Aktivität, reguliert Angst/Stress |\n| **Acetylcholin** | Signalübertragung an der motorischen Endplatte (Muskel); Aufmerksamkeit, Gedächtnis |\n| **Dopamin** | Belohnung, Motivation, Bewegung; Mangel u. a. bei Morbus Parkinson relevant |\n| **Serotonin** | Stimmung, Angst, Schlaf, Appetit; Ungleichgewicht mit Depression assoziiert |\n| **Noradrenalin** | Aufmerksamkeit, Stressreaktion, Blutdruck/Herzfrequenz; wirkt sowohl als Hormon (Nebennierenmark) als auch als Neurotransmitter |\n\nEin Ungleichgewicht der Neurotransmitter ist Grundlage vieler Störungen (Depression, Angststörungen, neurodegenerative Erkrankungen wie Parkinson) und Angriffspunkt vieler Medikamente (Psychopharmaka, Schmerz-, Schlaf-, Beruhigungsmittel).\n\n## Inhibition und Fazilitation als Grundprinzip\n\nHemmung (**Inhibition**) und Bahnung (**Fazilitation**) sind zwei fundamentale, gegenläufige Prozesse der Reizweiterleitung. Sie sorgen gemeinsam für die fein abgestimmte, präzise Steuerung neuronaler Aktivität und ermöglichen es dem Nervensystem, eingehende Reize zu gewichten und Antworten nach Dringlichkeit zu sortieren (z. B. im vegetativen Nervensystem, bei der Schmerzverarbeitung).\n\n- **Inhibition:** Die Aktivität eines Neurons wird durch ein anderes Neuron reduziert bzw. unterdrückt – meist durch Freisetzung hemmender Transmitter wie **GABA**, die an postsynaptischen Rezeptoren binden und die Erregbarkeit senken. Inhibition verhindert **Übererregung** und spielt eine Schlüsselrolle bei Schlaf-Wach-Rhythmus und Angstmodulation. **Bei aufgehobener/gestörter Inhibition im ZNS können Epilepsie oder Spastik entstehen** – eine zentrale Prüfungsaussage.\n- **Fazilitation:** Erhöht die Wahrscheinlichkeit, dass ein Neuron feuert, meist durch Akkumulation erregender Transmitter (z. B. Glutamat). Bahnung ist Grundlage für Lernprozesse, Gedächtnisbildung und synaptische Plastizität (Verstärkung neuronaler Verbindungen durch wiederholte Nutzung).\n\nEin Grundprinzip dabei ist die **Konvergenz**: Mehrere präsynaptische Neurone (z. B. a1, a2, a3) laufen auf ein gemeinsames postsynaptisches Neuron (b) zu – ihre erregenden und hemmenden Einflüsse werden dort summiert/verrechnet.\n\n## Die drei zentralen Inhibitionsmechanismen im ZNS\n\n| Mechanismus | Funktionsprinzip | Wirkung / Beispiel |\n|---|---|---|\n| **Rückwärtshemmung** (Rekurrente Inhibition) | Axonkollateralen wirken auf das **eigene Startneuron** zurück und hemmen es | Begrenzt Wiederholungsfrequenz, unterstützt Adaption an gleichbleibende Reize (z. B. Anpassung an Dauerreiz, Unterdrückung eines Schmerzreizes) |\n| **Vorwärtshemmung** (Lateralinhibition) | Axonkollateralen hemmen **benachbarte** Neurone (oft gekreuzt) | Verstärkt den Reiz im Startneuron, dämpft parallele Bahnen → Kontrastierung des Reizes; wichtig für differenzierte sensorische Wahrnehmung (Cocktailparty-Effekt: eigenen Namen in lauter Umgebung heraushören) |\n| **Reziproke Hemmung** (Reziproke Innervation) | Aktivierung eines Neurons führt zur Hemmung eines **antagonistischen** Neurons, häufig nach dem Prinzip der Vorwärtshemmung | Aktivierung des Agonisten bei gleichzeitiger Hemmung des Antagonisten – essentiell für koordinierte Bewegung |\n\n### 1. Rückwärtshemmung (Rekurrente Inhibition)\nEin Startneuron (a) erregt ein Folgeneuron (b) und gleichzeitig über eine Axonkollaterale ein weiteres Neuron (c). Neuron c wirkt hemmend auf das ursprüngliche Startneuron a zurück. Dieser negative Rückkopplungskreis begrenzt die Feuerrate von a und ermöglicht die Anpassung (Adaption) an konstante Reize.\n\n### 2. Vorwärtshemmung (Lateralinhibition)\nZwei parallele Bahnen (a1→b1, a2→b2) senden jeweils Kollateralen zu einem hemmenden Interneuron (c1, c2), das gekreuzt die jeweils andere Bahn hemmt: c1 hemmt b2, c2 hemmt b1. Ergebnis ist eine gegenseitige Kontrastverstärkung – das aktivere Signal wird relativ zum Nachbarsignal hervorgehoben.\n\n### 3. Reziproke Hemmung (Reziproke Innervation)\nBei Aktivierung eines Neurons (bzw. Agonist-Muskels) wird das antagonistische Neuron (bzw. der Antagonist-Muskel) gleichzeitig gehemmt. Dieses Prinzip ist essentiell für eine flüssige, sensomotorisch koordinierte Bewegung.\n\n## Klinische Relevanz: Wenn Inhibition versagt\n\n**Hypertonus / Spastizität**\n- Pathologisch erhöhter Muskeltonus bei verminderter muskulärer Kontrolle, klinisch oft als \\\"Spastik\\\" bezeichnet.\n- Resultiert meist aus einer **Störung im ZNS**, verursacht durch Ausfälle des **oberen Motoneurons**.\n- Gekennzeichnet durch **erhöhten Widerstand gegen passive Bewegung** UND **Exazerbation (Verschlimmerung) assoziierter Reaktionen**.\n- **Pathomechanismus:** Die Pyramidenbahn übt physiologisch eine **inhibitorische Wirkung auf das extrapyramidale System** aus. Bei einer Läsion der Pyramidenbahn entfällt diese hemmende Kontrolle über spinale Reflexkreise. Zusätzlich verstärkt sich der Reflexbogen durch neuroplastische Anpassung im Rückenmark. Die Folge: Dehnreflexe, die physiologisch die Gelenke vor Überstreckung schützen sollen, \\\"schießen über\\\" (Hyperreflexie).\n- **Regelkreis im Rückenmark:** propriozeptiver Dehnungsreiz → Reflexbogen im Rückenmark (Vorderhorn) → bei fehlender pyramidaler Hemmung → überschießender **tonischer** (nicht phasischer) Reflex zur Muskulatur = spastische Reaktion.\n\n**Hypotonus**\n- Ungewöhnlich niedrige Muskelspannung, oft durch Schädigung des **peripheren Nervensystems** verursacht.\n- Deutlich reduzierte Muskelkraft/-kontrolle, Beeinträchtigung von Haltung und Bewegung, Muskulatur neigt zu schnellerer Atrophie.\n\n**Weitere Beispiele gestörter reziproker Hemmung**\n- Bei **unzureichender** reziproker Hemmung (z. B. Morbus Parkinson) wird Bewegung steif und stockend.\n- Bei **unkoordinierter** Hemmung können umgekehrt überschießende Bewegungen entstehen (z. B. bei Ataxien).\n\nDamit besteht ein direkter inhaltlicher Bezug zum pyramidalen System (dessen inhibitorische Funktion auf das extrapyramidale System) sowie zu Tonusstörungen in der Neurorehabilitation.",
+  "facts": [
+    "Inhibition (Hemmung) und Fazilitation (Bahnung) sind die zwei fundamentalen Gegenspieler bei der Reizweiterleitung im Nervensystem.",
+    "GABA ist der wichtigste hemmende, Glutamat der wichtigste erregende Neurotransmitter im ZNS.",
+    "Bei aufgehobener/gestörter Inhibition im ZNS können Epilepsie oder Spastik entstehen.",
+    "Rückwärtshemmung (Rekurrente Inhibition): Axonkollateralen wirken hemmend auf das eigene Startneuron zurück und begrenzen dessen Wiederholungsfrequenz (Adaption an Dauerreize).",
+    "Vorwärtshemmung (Lateralinhibition): Axonkollateralen hemmen benachbarte Neurone gekreuzt und erzeugen so eine Kontrastverstärkung des Reizes (Beispiel: Cocktailparty-Effekt).",
+    "Reziproke Hemmung (Reziproke Innervation): Aktivierung eines Neurons/Agonisten hemmt gleichzeitig das antagonistische Neuron/den Antagonisten - Grundlage koordinierter Bewegung.",
+    "Spastizität entsteht durch den Wegfall der inhibitorischen Wirkung der Pyramidenbahn auf das extrapyramidale System nach einer ZNS-Läsion (oberes Motoneuron).",
+    "Spastik ist gekennzeichnet durch erhöhten Widerstand gegen passive Bewegung UND Exazerbation assoziierter Reaktionen; der pathologische Reflex ist tonisch, nicht phasisch.",
+    "Unzureichende reziproke Hemmung (z. B. bei Parkinson) führt zu steifer, stockender Bewegung; unkoordinierte Hemmung (z. B. bei Ataxie) zu überschießenden Bewegungen.",
+    "Hypertonus/Spastizität entsteht durch ZNS-Störungen (oberes Motoneuron), Hypotonus meist durch Schädigung des peripheren Nervensystems."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g120.png", "caption": "Konvergenz-Schema: mehrere präsynaptische Neurone (a1, a2, a3) laufen auf ein gemeinsames Neuron (b) zusammen."},
+    {"src": "assets/neurophysio/g121.png", "caption": "Rückwärtshemmung (Rekurrente Inhibition): Kollaterale c hemmt rückwirkend das Startneuron a."},
+    {"src": "assets/neurophysio/g122.png", "caption": "Vorwärtshemmung (Lateralinhibition): gekreuzte Hemmung benachbarter Bahnen (a1/b1 und a2/b2) zur Kontrastverstärkung."},
+    {"src": "assets/neurophysio/g302.png", "caption": "Rückenmarksquerschnitt: Mechanismus der Spastik - Dehnungsreiz, Reflexbogen, fehlende pyramidale Hemmung, überschießender tonischer Reflex."}
+  ],
+  "flashcards": [
+    {"q": "Was sind die zwei fundamentalen Gegenspieler bei der Reizweiterleitung im Nervensystem?", "a": "Inhibition (Hemmung) und Fazilitation (Bahnung)."},
+    {"q": "Was passiert bei aufgehobener/gestörter Inhibition im ZNS?", "a": "Es können Epilepsie oder Spastik entstehen."},
+    {"q": "Wie funktioniert die Rückwärtshemmung (Rekurrente Inhibition)?", "a": "Eine Axonkollaterale des Startneurons aktiviert ein Interneuron, das hemmend auf das Startneuron selbst zurückwirkt - begrenzt dessen Wiederholungsfrequenz und ermöglicht Adaption an Dauerreize."},
+    {"q": "Wie funktioniert die Vorwärtshemmung (Lateralinhibition) und was ist ein Beispiel?", "a": "Axonkollateralen hemmen gekreuzt benachbarte Neurone/Bahnen, wodurch der Reiz im aktiven Neuron kontrastiert/verstärkt wird. Beispiel: der Cocktailparty-Effekt - den eigenen Namen in lauter Umgebung heraushören."},
+    {"q": "Was ist reziproke Hemmung (reziproke Innervation)?", "a": "Aktivierung eines Neurons bzw. Agonist-Muskels führt zur gleichzeitigen Hemmung des antagonistischen Neurons/Antagonist-Muskels - essentiell für koordinierte Bewegung."},
+    {"q": "Wie entsteht Spastizität auf Rückenmarksebene?", "a": "Die Pyramidenbahn übt normalerweise eine inhibitorische Wirkung auf das extrapyramidale System aus. Bei Läsion entfällt diese Hemmung, der Reflexbogen wird durch spinale Plastizität verstärkt, und Dehnreflexe schießen als überschießender tonischer Reflex über."},
+    {"q": "Was passiert bei unzureichender bzw. bei unkoordinierter reziproker Hemmung?", "a": "Unzureichende reziproke Hemmung (z. B. Morbus Parkinson) führt zu steifer, stockender Bewegung; unkoordinierte Hemmung (z. B. Ataxie) führt zu überschießenden Bewegungen."}
+  ],
+  "quiz": [
+    {
+      "q": "Welcher Inhibitionsmechanismus liegt vor, wenn ein Neuron über eine Axonkollaterale ein Interneuron aktiviert, das wiederum hemmend auf das ursprüngliche Startneuron zurückwirkt?",
+      "options": ["Rückwärtshemmung (Rekurrente Inhibition)", "Vorwärtshemmung (Lateralinhibition)", "Reziproke Hemmung", "Fazilitation"],
+      "answer": 0,
+      "explain": "Das ist die Definition der Rückwärtshemmung/rekurrenten Inhibition - die Hemmung wirkt auf das eigene Startneuron zurück. Vorwärtshemmung hemmt dagegen Nachbarneurone, nicht das Startneuron selbst."
+    },
+    {
+      "q": "Der 'Cocktailparty-Effekt' (den eigenen Namen in lauter Umgebung heraushören) ist ein klassisches Beispiel für welchen Mechanismus?",
+      "options": ["Reziproke Hemmung", "Rückwärtshemmung", "Vorwärtshemmung / Lateralinhibition", "Langzeitpotenzierung"],
+      "answer": 2,
+      "explain": "Vorwärtshemmung (Lateralinhibition) verstärkt den relevanten Reiz und hemmt gleichzeitig benachbarte/konkurrierende Signale, wodurch ein Kontrastphänomen entsteht - genau wie beim Herausfiltern des eigenen Namens aus Hintergrundgeräuschen."
+    },
+    {
+      "q": "Was ist der zentrale Pathomechanismus der Spastizität in Bezug auf die Inhibition im ZNS?",
+      "options": [
+        "Übermäßige Ausschüttung von GABA im Rückenmark",
+        "Der Wegfall der inhibitorischen Wirkung der Pyramidenbahn auf das extrapyramidale System nach Läsion des oberen Motoneurons",
+        "Eine Schädigung des peripheren Nervensystems mit Muskelatrophie",
+        "Eine Überaktivität der Rückwärtshemmung im Rückenmark"
+      ],
+      "answer": 1,
+      "explain": "Bei Spastik entfällt die normalerweise hemmende Kontrolle der Pyramidenbahn über das extrapyramidale System (ZNS-Läsion, oberes Motoneuron), wodurch Dehnreflexe überschießen. Periphere Nervenschädigung mit Atrophie beschreibt dagegen den Hypotonus."
+    },
+    {
+      "q": "Welche Aussage zur reziproken Hemmung ist korrekt?",
+      "options": [
+        "Sie beschreibt die Hemmung des eigenen Startneurons durch eine rückläufige Kollaterale.",
+        "Bei unzureichender reziproker Hemmung, z. B. bei Morbus Parkinson, wird die Bewegung steif und stockend.",
+        "Sie tritt ausschließlich im peripheren Nervensystem auf.",
+        "Sie bezeichnet die Kontrastverstärkung zwischen zwei sensorischen Bahnen."
+      ],
+      "answer": 1,
+      "explain": "Reziproke Hemmung bedeutet, dass Aktivierung eines Neurons/Agonisten das antagonistische Neuron/den Antagonisten hemmt. Ist sie unzureichend (z. B. bei Parkinson), resultieren steife, stockende Bewegungen; ist sie unkoordiniert, entstehen überschießende Bewegungen wie bei Ataxien."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "reizweiterleitung-aktionspotential",
+  "title": "Reizweiterleitung und Aktionspotenzial",
+  "eingrenzung": "Reizweiterleitung (Aktionspotential, Arten, wie funktioniert sie?)",
+  "prio": "high",
+  "body": "## Grundlagen: Vom Neuron zum Signal\n\nDie Reizweiterleitung ist der grundlegende Prozess, mit dem Informationen im Nervensystem von einer Zelle zur nächsten übertragen werden – von einfachen Reflexen bis zu komplexen kognitiven Vorgängen. Das Verständnis dieser Mechanismen ist wichtig für die Behandlung neurologischer Erkrankungen (z. B. Multiple Sklerose).\n\n### Aufbau des Neurons (Voraussetzung für Reizleitung)\nEin Neuron besteht aus drei Hauptteilen:\n- **Zellkörper (Perikaryon/Soma):** enthält den Zellkern, ist Ort der Synthese von Proteinen und Neurotransmittern.\n- **Dendriten:** baumartige Fortsätze, „Antennen“, die chemische Signale (Neurotransmitter) anderer Neuronen empfangen und zum Zellkörper leiten.\n- **Axon:** ein langer, schlauchartiger Fortsatz; leitet das elektrische Signal (Aktionspotenzial) vom Zellkörper weg zu anderen Neuronen oder Zielgeweben (z. B. Muskeln). Ein Neuron besitzt in der Regel nur **ein** Axon (im Gegensatz zu mehreren Dendriten), das sich verzweigen kann.\n\nAm Übergang von Zellkörper zu Axon liegt der **Axonhügel**. Das Axon ist bei vielen Neuronen von der **Myelinscheide** umhüllt (im PNS gebildet durch Schwann-Zellen), die in Segmenten angeordnet ist. Die Lücken zwischen den Myelinsegmenten heißen **Ranvier-Schnürringe (Node of Ranvier)** – hier findet die **saltatorische Erregungsleitung** statt: Das Aktionspotenzial „springt“ von Schnürring zu Schnürring, wodurch die Reizweiterleitung deutlich beschleunigt wird. Am distalen Ende des Axons liegen die **Synapsen (Endknöpfchen)**, an denen das Signal auf die nächste Zelle übertragen wird.\n\n### Die Synapse\nDie Synapse ist die Schnittstelle zwischen zwei Neuronen (oder zwischen Neuron und Muskel/Organ) und besteht aus drei Hauptkomponenten:\n1. **Präsynaptisches Ende** (Teil des Axons, enthält Vesikel mit Neurotransmittern)\n2. **Synaptischer Spalt** (kleiner Zwischenraum)\n3. **Postsynaptisches Ende** (Dendrit/Zellkörper des nächsten Neurons oder Empfangsstelle eines Organs/Muskels, mit Rezeptoren)\n\nAn der Synapse wird das elektrische Signal in ein chemisches Signal umgewandelt: Erreicht das Aktionspotenzial den präsynaptischen Bouton, kommt es zum Calciumeinstrom, die Vesikel verschmelzen mit der präsynaptischen Membran (Exozytose), Neurotransmitter werden in den synaptischen Spalt freigesetzt und binden an Rezeptoren der postsynaptischen Membran – das führt zur Erregung oder Hemmung der postsynaptischen Zelle.\n\n## Das Aktionspotenzial\n\nDas Aktionspotenzial (AP) ist das elektrische Signal, das entlang des Axons weitergeleitet wird. Es folgt dem **Alles-oder-nichts-Prinzip**: Sobald ein bestimmter Schwellenwert überschritten wird, entsteht immer ein vollständiges Aktionspotenzial – ein „Teil“-Aktionspotenzial gibt es nicht.\n\n**Phasenverlauf (chronologisch), mit ungefähren Werten:**\n\n| Phase | Beschreibung | ca. Wert (mV) |\n|---|---|---|\n| Ruhepotential | Ausgangszustand der Zellmembran | ca. -85 mV |\n| Depolarisation | steiler Anstieg des Membranpotenzials | steigt an |\n| Schwellenpotential | wird überschritten → löst AP aus | ca. -60 mV |\n| Peak | höchster Punkt des Aktionspotenzials | ca. +30 mV |\n| Repolarisation | Rückkehr des Potenzials in Richtung Ruhewert | fällt ab |\n| Nachhyperpolarisation | kurzzeitiges „Unterschwingen“ unter das Ruhepotential | ca. -95 mV |\n\nDanach normalisiert sich das Potenzial wieder Richtung Ruhepotential.\n\n**Wichtig:** Aktionspotenziale unterscheiden sich je nach Gewebetyp in Dauer und Verlauf – der Herzmuskel zeigt ein deutlich längeres Plateau (langsame Repolarisation) als Skelettmuskel oder Nerv, deren AP viel kürzer ist.\n\n## Mechanismen/Arten der Reizweiterleitung\n\n- **Direkte Erregung:** Das Aktionspotenzial wird entlang des Axons ohne Umwege weitergeleitet. Zwischen Start- und Zielneuron können einzelne Zwischenneurone geschaltet sein, die als Verstärker oder Hemmer wirken. Wichtig für schnelle, präzise Reaktionen (z. B. Reflexe). Über parallele Axonkollaterale können mehrere Signale gleichzeitig zu unterschiedlichen Zielneuronen geleitet werden.\n- **Divergenz:** Ein einzelnes Neuron leitet sein Signal an **mehrere** Neuronen weiter (oft über Axonkollaterale). Ermöglicht die Verteilung einer Information an mehrere Bereiche des Nervensystems.\n- **Konvergenz:** Der umgekehrte Prozess – **mehrere** Neuronen (z. B. a1, a2, a3) senden ihre Signale an ein einzelnes Zielneuron (b). Ermöglicht Signalintegration: Das Zielneuron sammelt und verarbeitet Informationen aus verschiedenen Quellen (Feinabstimmung der neuronalen Antwort).\n\n## Inhibition und Fazilitation\n\nHemmung und Bahnung sind zwei fundamentale Prozesse, die steuern, wie Signale im Nervensystem verarbeitet werden.\n\n- **Inhibition (Hemmung):** Die Aktivität eines Neurons wird durch ein anderes Neuron reduziert/unterdrückt, meist durch Freisetzung hemmender Neurotransmitter wie **GABA**, die an postsynaptische Rezeptoren binden und die Erregbarkeit senken. Inhibition verhindert Übererregung und spielt eine Schlüsselrolle bei Schlaf-Wach-Rhythmus und Angstmodulation. **Prüfungsrelevant:** Bei aufgehobener oder gestörter Inhibition im ZNS können Störungen wie **Epilepsie oder Spastik** entstehen.\n- **Fazilitation (Bahnung):** Erhöht die Wahrscheinlichkeit, dass ein Neuron feuert, meist durch Akkumulation erregender Neurotransmitter (z. B. **Glutamat**) an der Synapse. Grundlage für Lernprozesse, Gedächtnisbildung und synaptische/neuronale Plastizität (Verstärkung neuronaler Verbindungen durch wiederholte Nutzung).\n",
+  "facts": [
+    "Ein Neuron besteht aus drei Hauptteilen: Zellkörper (Perikaryon/Soma) mit Zellkern, Dendriten (Signalempfang) und Axon (Signalweiterleitung); ein Neuron hat in der Regel nur ein Axon.",
+    "Die Synapse besteht aus präsynaptischem Ende (mit Vesikeln), synaptischem Spalt und postsynaptischem Ende (mit Rezeptoren); dort wird das elektrische Signal in ein chemisches Signal umgewandelt.",
+    "Ranvier-Schnürringe sind unmyelinisierte Lücken zwischen Myelinsegmenten des Axons; dort erfolgt die saltatorische (sprunghafte) Erregungsleitung, die die Reizweiterleitung beschleunigt.",
+    "Das Aktionspotenzial folgt dem Alles-oder-nichts-Prinzip: Wird der Schwellenwert überschritten, entsteht immer ein vollständiges Aktionspotenzial.",
+    "Phasenablauf des Aktionspotenzials: Ruhepotential (ca. -85 mV) → Depolarisation → Schwellenpotential (ca. -60 mV) → Peak (ca. +30 mV) → Repolarisation → Nachhyperpolarisation (ca. -95 mV) → zurück zum Ruhepotential.",
+    "Direkte Erregung, Divergenz und Konvergenz sind Mechanismen der Reizweiterleitung: direkte Erregung = Weiterleitung ohne Umwege; Divergenz = ein Neuron an viele Zielneuronen; Konvergenz = viele Neuronen an ein Zielneuron (Signalintegration).",
+    "Inhibition (Hemmung, meist über GABA) verhindert Übererregung; aufgehobene/gestörte Inhibition im ZNS kann zu Epilepsie oder Spastik führen.",
+    "Fazilitation (Bahnung, meist über Glutamat) erhöht die Feuerwahrscheinlichkeit eines Neurons und ist Grundlage für Lernen, Gedächtnis und neuronale Plastizität."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g111.png", "caption": "Aufbau eines Neurons: Dendriten, Zellkörper (Zellkern, Axonhügel), Axon (Myelinscheide, Ranvier-Schnürring), Synapsen"},
+    {"src": "assets/neurophysio/g118.png", "caption": "Aktionspotenzial-Kurve: Ruhepotential, Depolarisation, Schwellenpotential, Peak, Repolarisation, Nachhyperpolarisation"},
+    {"src": "assets/neurophysio/g119.png", "caption": "Divergenz-Schema: ein Neuron (a) leitet Signale an mehrere Zielneuronen (b1, b2, b3) weiter"},
+    {"src": "assets/neurophysio/g120.png", "caption": "Konvergenz-Schema: mehrere Neuronen (a1, a2, a3) senden Signale an ein gemeinsames Zielneuron (b)"}
+  ],
+  "flashcards": [
+    {"q": "Aus welchen drei Hauptteilen besteht ein Neuron?", "a": "Zellkörper (Perikaryon/Soma), Dendriten und Axon."},
+    {"q": "Was besagt das Alles-oder-nichts-Prinzip beim Aktionspotenzial?", "a": "Wird der Schwellenwert überschritten, entsteht immer ein vollständiges Aktionspotenzial – ein 'Teil'-Aktionspotenzial gibt es nicht."},
+    {"q": "Was passiert an den Ranvier-Schnürringen und welchen Effekt hat das?", "a": "Dort findet die saltatorische Erregungsleitung statt: Das Aktionspotenzial springt von Schnürring zu Schnürring, was die Reizweiterleitung beschleunigt."},
+    {"q": "Nenne den Phasenablauf des Aktionspotenzials in der richtigen Reihenfolge.", "a": "Ruhepotential → Depolarisation → Schwellenpotential überschritten → Peak → Repolarisation → Nachhyperpolarisation → zurück zum Ruhepotential."},
+    {"q": "Was ist der Unterschied zwischen Divergenz und Konvergenz?", "a": "Divergenz: ein Neuron sendet Signale an mehrere Zielneuronen. Konvergenz: mehrere Neuronen senden Signale an ein einzelnes Zielneuron (Signalintegration)."},
+    {"q": "Was ist Inhibition und welcher Neurotransmitter ist dabei meist beteiligt?", "a": "Inhibition ist die Hemmung der Aktivität eines Neurons durch ein anderes Neuron, meist vermittelt über den Neurotransmitter GABA an postsynaptischen Rezeptoren."},
+    {"q": "Welche klinische Bedeutung hat eine gestörte Inhibition im ZNS?", "a": "Bei aufgehobener/gestörter Inhibition im ZNS können Störungen wie Epilepsie oder Spastik entstehen."},
+    {"q": "Was ist Fazilitation und wofür ist sie besonders relevant?", "a": "Fazilitation (Bahnung) erhöht die Wahrscheinlichkeit, dass ein Neuron feuert, meist über Glutamat-Akkumulation; sie ist Grundlage für Lernprozesse, Gedächtnisbildung und neuronale Plastizität."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zum Alles-oder-nichts-Prinzip des Aktionspotenzials ist korrekt?",
+      "options": [
+        "Wird der Schwellenwert überschritten, entsteht immer ein vollständiges Aktionspotenzial",
+        "Je stärker der Reiz, desto größer wird das Aktionspotenzial",
+        "Ein Aktionspotenzial kann auch nur teilweise ausgelöst werden",
+        "Das Schwellenpotential liegt immer über dem Peak"
+      ],
+      "answer": 0,
+      "explain": "Richtig ist Option 1: Sobald der Schwellenwert überschritten wird, wird immer ein vollständiges Aktionspotenzial generiert - unabhängig von der Reizstärke ('Alles-oder-nichts'). Ein abgestuftes oder teilweises Aktionspotenzial gibt es nicht (Option 3 ist falsch), und die Amplitude des APs ist nicht reizstärkenabhängig (Option 2 ist eine typische Verwechslung mit Rezeptorpotentialen)."
+    },
+    {
+      "q": "An den Ranvier-Schnürringen findet welcher Mechanismus statt?",
+      "options": [
+        "Die kontinuierliche Erregungsleitung",
+        "Die saltatorische Erregungsleitung",
+        "Die Freisetzung von Neurotransmittern in den synaptischen Spalt",
+        "Die Bildung der Myelinscheide durch Schwann-Zellen"
+      ],
+      "answer": 1,
+      "explain": "An den unmyelinisierten Ranvier-Schnürringen springt das Aktionspotenzial von Schnürring zu Schnürring - das ist die saltatorische Erregungsleitung, die die Reizweiterleitung beschleunigt. Option 3 beschreibt einen Vorgang an der Synapse, Option 4 die Bildung der Myelinscheide selbst (nicht an den Schnürringen, sondern dazwischen)."
+    },
+    {
+      "q": "Ein Neuron leitet sein Signal an mehrere verschiedene Zielneuronen weiter. Wie heißt dieser Mechanismus der Reizweiterleitung?",
+      "options": [
+        "Konvergenz",
+        "Direkte Erregung",
+        "Divergenz",
+        "Fazilitation"
+      ],
+      "answer": 2,
+      "explain": "Divergenz bedeutet, dass ein einzelnes Neuron (oft über Axonkollaterale) Signale an mehrere Zielneuronen sendet. Konvergenz ist der umgekehrte Fall (mehrere Neuronen an ein Zielneuron), direkte Erregung meint die Weiterleitung ohne Verzweigung, und Fazilitation ist ein Bahnungsprozess und kein Verteilungsmechanismus."
+    },
+    {
+      "q": "Welche Folge kann eine aufgehobene bzw. gestörte Inhibition im ZNS laut Kursmaterial haben?",
+      "options": [
+        "Verstärkte Gedächtnisbildung",
+        "Epilepsie oder Spastik",
+        "Erhöhte saltatorische Leitgeschwindigkeit",
+        "Vermehrte Ausschüttung von Glutamat an der Synapse ohne klinische Relevanz"
+      ],
+      "answer": 1,
+      "explain": "Inhibition verhindert physiologische Übererregung im Nervensystem (u.a. über GABA). Ist diese Hemmung aufgehoben oder gestört, kann es zu Epilepsie oder Spastik kommen - eine zentrale Prüfungsaussage. Verstärkte Gedächtnisbildung ist eher mit Fazilitation assoziiert, nicht mit gestörter Inhibition."
+    }
+  ]
+}

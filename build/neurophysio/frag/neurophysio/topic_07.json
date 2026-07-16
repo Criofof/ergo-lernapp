@@ -1,0 +1,76 @@
+{
+  "id": "synapsen-typen",
+  "title": "Synapsen: Aufbau und Typen",
+  "eingrenzung": "Synapsen (Typen)",
+  "prio": "high",
+  "body": "## Was ist eine Synapse?\nSynapsen sind mikroskopische Strukturen im Nervensystem und bilden die Schnittstelle fuer die Kommunikation zwischen zwei Neuronen bzw. zwischen einem Neuron und einer groesseren Funktionseinheit wie einem Muskel oder Organ. Sie ermoeglichen die Signaluebertragung von einem Neuron zum naechsten und sind damit entscheidend fuer die Informationsverarbeitung im Nervensystem.\n\nDie Kommunikation **innerhalb** eines Neurons ist elektrisch: Ein sensorischer Reiz oder ein chemisches Signal eines anderen Neurons loest ein Aktionspotenzial aus, das entlang des Axons weitergeleitet wird. **An der Synapse** wird dieses elektrische Signal in ein **chemisches Signal** umgewandelt.\n\n## Aufbau einer (chemischen) Synapse\nJede chemische Synapse besteht aus drei Hauptkomponenten:\n\n1. **Praesynaptisches Ende** – Teil des Axons des sendenden Neurons; enthaelt synaptische Vesikel, in denen Neurotransmitter (chemische Botenstoffe) gespeichert sind.\n2. **Synaptischer Spalt** – schmaler Zwischenraum zwischen prae- und postsynaptischer Membran, in den die Neurotransmitter freigesetzt werden.\n3. **Postsynaptisches Ende** – meist Teil eines Dendriten oder des Zellkoerpers eines anderen Neurons, kann aber auch die Empfangsstelle eines Muskels/Organs sein; traegt die Rezeptoren fuer die Neurotransmitter.\n\n## Ablauf der synaptischen Uebertragung\nDie Signaluebertragung an einer chemischen Synapse laeuft in mehreren Schritten ab:\n\n1. Ein elektrisches Signal (Aktionspotenzial) erreicht das praesynaptische Ende.\n2. Es kommt zum **Calciumeinstrom** in den Bouton.\n3. Die synaptischen Vesikel verschmelzen mit der praesynaptischen Membran (**Exozytose**).\n4. Neurotransmitter werden in den synaptischen Spalt freigesetzt.\n5. Die Neurotransmitter binden an spezifische Rezeptoren der postsynaptischen Membran.\n6. Es kommt zu einer Veraenderung des elektrischen Potenzials im nachfolgenden Neuron – das Signal wird **erregend** (z. B. durch Glutamat) oder **hemmend** (z. B. durch GABA) weitergegeben.\n\n## Typen von Synapsen (nach Lokalisation)\nSynapsen werden danach unterschieden, welche Zellstrukturen sie miteinander verbinden:\n\n| Synapsentyp | Verbindung |\n|---|---|\n| **Axodendritisch** | Ende eines Axons verbindet sich mit einem Dendriten eines anderen Neurons |\n| **Axosomatisch** | Verbindung zwischen einem Axon und dem Zellkoerper (Perikaryon) eines anderen Neurons |\n| **Axoaxonisch** | Verbindung zwischen den Axonen zweier Neuronen |\n| **Periphere Synapse** | Verbindung zwischen dem Axon eines Neurons und einer Struktur ausserhalb des Nervensystems, z. B. die **motorische Endplatte** an der Skelettmuskulatur |\n\n### Die motorische Endplatte als Beispiel einer peripheren Synapse\nDie motorische Endplatte ist die neuromuskulaere Synapse zwischen dem Axon eines Motoneurons und einer Skelettmuskelfaser. Das praesynaptische Nervenendknoepfchen enthaelt Vesikel mit Neurotransmittern (Acetylcholin) und Mitochondrien. Die postsynaptische Muskelmembran ist typischerweise stark gefaltet (subneurale Faeltelung) – dies vergroessert die Oberflaeche fuer Rezeptoren und ermoeglicht eine effiziente neuromuskulaere Uebertragung.\n\n## Neurotransmitter – kurz zu den Botenstoffen\nJe nach Synapsentyp werden unterschiedliche Neurotransmitter ausgeschuettet, die die postsynaptische Zelle erregend oder hemmend beeinflussen:\n\n- **Glutamat** – haeufigster erregender Neurotransmitter im ZNS, entscheidend fuer Lernen und Gedaechtnis.\n- **GABA (Gamma-Aminobuttersaeure)** – wichtigster hemmender Neurotransmitter im Gehirn, reduziert neuronale Aktivitaet, Rolle bei Angst-/Stressregulation.\n- **Acetylcholin (ACh)** – Uebertragung an der motorischen Endplatte auf die Skelettmuskulatur; zudem beteiligt an Aufmerksamkeit, Erregung und Gedaechtnis.\n- **Dopamin** – Belohnung, Motivation, Bewegungssteuerung, emotionale Reaktionen.\n- **Serotonin** – Stimmung, Angst, Schlaf, Appetit; Ungleichgewicht wird mit Depressionen assoziiert.\n- **Noradrenalin** – Aufmerksamkeit, Reaktionsbereitschaft, Stressreaktion, Blutdruck-/Herzfrequenzregulation; wirkt sowohl als Hormon (Nebennierenmark) als auch als Neurotransmitter.\n\n## Bedeutung der Synapsen\nSynapsen sind dynamische, anpassungsfaehige Schaltstellen. Durch **Langzeitpotenzierung** und **Langzeithemmung** koennen sie ihre Uebertragungseffizienz veraendern – die Grundlage fuer motorisches und kognitives Lernen sowie Gedaechtnisbildung. Je nach Reizdichte/-intensitaet koennen jederzeit neue Synapsen entstehen, was neuronale Netzwerke effizienter macht. Viele neurologische und psychiatrische Erkrankungen beruhen auf dysfunktionalen synaptischen Prozessen, weshalb das Verstaendnis der Synapsenfunktion fuer die Ergotherapie klinisch bedeutsam ist.",
+  "facts": [
+    "Eine chemische Synapse besteht aus praesynaptischem Ende (mit Vesikeln), synaptischem Spalt und postsynaptischem Ende (mit Rezeptoren).",
+    "An der Synapse wird das elektrische Signal (Aktionspotenzial) in ein chemisches Signal umgewandelt.",
+    "Ablauf der Uebertragung: Aktionspotenzial -> Calciumeinstrom -> Vesikelfusion (Exozytose) -> Freisetzung der Neurotransmitter in den Spalt -> Rezeptorbindung an der postsynaptischen Membran.",
+    "Es gibt vier Synapsentypen nach Lokalisation: axodendritisch (Axon-Dendrit), axosomatisch (Axon-Zellkoerper), axoaxonisch (Axon-Axon) und periphere Synapsen (z. B. motorische Endplatte).",
+    "Die motorische Endplatte ist die periphere Synapse zwischen dem Axon eines Motoneurons und der Skelettmuskulatur; ihr Transmitter ist Acetylcholin.",
+    "Die postsynaptische Muskelmembran an der motorischen Endplatte ist stark gefaltet, um die Rezeptoroberflaeche zu vergroessern.",
+    "Glutamat wirkt erregend, GABA wirkt hemmend; Langzeitpotenzierung und Langzeithemmung sind Grundlage synaptischer Plastizitaet (Lernen und Gedaechtnis)."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g113.png", "caption": "Aufbau einer Synapse: praesynaptisches Ende mit Vesikeln, synaptischer Spalt, postsynaptisches Ende (Servier Medical Art, modifiziert)."},
+    {"src": "assets/neurophysio/g114.png", "caption": "Motorische Endplatte als Beispiel einer peripheren Synapse: Nervenendknoepfchen mit Vesikeln trifft auf gefaltete postsynaptische Muskelmembran."},
+    {"src": "assets/neurophysio/g116.png", "caption": "Uebersicht wichtiger Neurotransmitter (Glutamat, GABA, Acetylcholin, Dopamin, Serotonin, Noradrenalin) und ihrer Funktionen."}
+  ],
+  "flashcards": [
+    {"q": "Aus welchen drei Hauptkomponenten besteht eine chemische Synapse?", "a": "Praesynaptisches Ende (mit Vesikeln), synaptischer Spalt, postsynaptisches Ende (mit Rezeptoren)."},
+    {"q": "Was passiert an der Synapse mit dem elektrischen Signal?", "a": "Es wird in ein chemisches Signal umgewandelt (Freisetzung von Neurotransmittern)."},
+    {"q": "Beschreibe den Ablauf der synaptischen Uebertragung in Stichworten.", "a": "Aktionspotenzial erreicht praesynaptisches Ende -> Calciumeinstrom -> Vesikelfusion (Exozytose) -> Neurotransmitter in den Spalt -> Bindung an postsynaptische Rezeptoren -> Erregung oder Hemmung."},
+    {"q": "Nenne die vier Synapsentypen nach Lokalisation.", "a": "Axodendritisch (Axon-Dendrit), axosomatisch (Axon-Zellkoerper), axoaxonisch (Axon-Axon), periphere Synapse (z. B. motorische Endplatte)."},
+    {"q": "Was ist die motorische Endplatte und welcher Neurotransmitter wirkt dort?", "a": "Die periphere Synapse zwischen Axon eines Motoneurons und Skelettmuskelfaser; der Transmitter ist Acetylcholin."},
+    {"q": "Warum ist die postsynaptische Membran an der motorischen Endplatte stark gefaltet?", "a": "Um die Oberflaeche fuer Rezeptoren zu vergroessern und die neuromuskulaere Uebertragung effizienter zu machen."},
+    {"q": "Welche Rolle spielen Langzeitpotenzierung und Langzeithemmung?", "a": "Sie sind Mechanismen der synaptischen Plastizitaet und bilden die Grundlage fuer Lern- und Gedaechtnisprozesse."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche Synapsentyp-Kombination beschreibt eine axosomatische Synapse korrekt?",
+      "options": [
+        "Verbindung zwischen dem Axon eines Neurons und dem Zellkoerper (Perikaryon) eines anderen Neurons",
+        "Verbindung zwischen dem Ende eines Axons und einem Dendriten eines anderen Neurons",
+        "Verbindung zwischen den Axonen zweier Neuronen",
+        "Verbindung zwischen einem Axon und der Skelettmuskulatur"
+      ],
+      "answer": 0,
+      "explain": "Axosomatisch = Axon trifft auf den Zellkoerper (Soma/Perikaryon) eines anderen Neurons. Die Antwort mit dem Dendriten beschreibt axodendritisch, die mit zwei Axonen axoaxonisch, und die mit der Muskulatur eine periphere Synapse (motorische Endplatte)."
+    },
+    {
+      "q": "Was ist die motorische Endplatte?",
+      "options": [
+        "Eine axoaxonische Synapse zwischen zwei Motoneuronen",
+        "Eine periphere Synapse zwischen dem Axon eines Neurons und der Skelettmuskulatur",
+        "Der Ort der Neurotransmitter-Synthese im Zellkoerper",
+        "Eine axosomatische Synapse im Rueckenmark"
+      ],
+      "answer": 1,
+      "explain": "Die motorische Endplatte ist die klassische periphere Synapse (neuromuskulaere Synapse), an der ein Axon die Skelettmuskulatur innerviert. Die anderen Optionen beschreiben andere Synapsentypen bzw. Strukturen."
+    },
+    {
+      "q": "In welcher richtigen Reihenfolge laeuft die synaptische Uebertragung ab?",
+      "options": [
+        "Aktionspotenzial -> Calciumeinstrom -> Vesikelfusion (Exozytose) -> Neurotransmitterfreisetzung -> Rezeptorbindung",
+        "Rezeptorbindung -> Calciumeinstrom -> Aktionspotenzial -> Vesikelfusion -> Neurotransmitterfreisetzung",
+        "Neurotransmitterfreisetzung -> Aktionspotenzial -> Calciumeinstrom -> Vesikelfusion -> Rezeptorbindung",
+        "Vesikelfusion -> Rezeptorbindung -> Aktionspotenzial -> Calciumeinstrom -> Neurotransmitterfreisetzung"
+      ],
+      "answer": 0,
+      "explain": "Die korrekte Kaskade ist: Aktionspotenzial erreicht das praesynaptische Ende, loest Calciumeinstrom aus, dieser bewirkt Vesikelfusion mit Exozytose, wodurch Neurotransmitter freigesetzt werden und an postsynaptische Rezeptoren binden."
+    },
+    {
+      "q": "Welcher Neurotransmitter wirkt an den meisten Synapsen im ZNS erregend?",
+      "options": [
+        "GABA",
+        "Glutamat",
+        "Serotonin",
+        "Acetylcholin"
+      ],
+      "answer": 1,
+      "explain": "Glutamat ist der haeufigste erregende Neurotransmitter im ZNS. GABA ist im Gegensatz dazu der wichtigste hemmende Neurotransmitter; Serotonin und Acetylcholin haben andere Hauptfunktionen (Stimmung/Schlaf bzw. motorische Endplatte/Aufmerksamkeit)."
+    }
+  ]
+}
