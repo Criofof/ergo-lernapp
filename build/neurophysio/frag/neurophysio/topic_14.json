@@ -1,0 +1,75 @@
+{
+  "id": "rrms-verlaufsformen-ms",
+  "title": "Schubförmig remittierende MS (RRMS) und Verlaufsformen",
+  "eingrenzung": "Schubförmig remittierende MS",
+  "prio": "high",
+  "body": "## Multiple Sklerose – Verlaufsformen im Überblick\n\nMultiple Sklerose (MS) ist eine chronisch-entzündliche, demyelinisierende Erkrankung des zentralen Nervensystems. Sie wird nach ihrem klinischen Verlauf in vier Formen unterteilt. Prüfungsschwerpunkt ist die **schubförmig remittierende MS (RRMS)**, die häufigste Verlaufsform.\n\n### Die vier Verlaufsformen der MS\n\n| Form | Kürzel | Verlauf | Häufigkeit |\n|---|---|---|---|\n| Schubförmig remittierende MS | RRMS | Klar definierte Schübe, gefolgt von vollständiger oder teilweiser Remission | 85–90% (häufigste Form bei Krankheitsbeginn) |\n| Sekundär progrediente MS | SPMS | Entwickelt sich oft aus RRMS; kontinuierliches Fortschreiten, Remissionen/Schübe flachen ab oder verschwinden | entwickelt sich bei vielen RRMS-Patient:innen im Verlauf |\n| Primär progrediente MS | PPMS | Von Beginn an stetige Verschlechterung **ohne** klare Schübe oder Remissionen | ca. 10% |\n| Progrediente schubförmige MS | PRMS | Stetige Verschlechterung **plus** zusätzlich auftretende klare Schübe | ca. 5% (seltene Form) |\n\n**Merke:** RRMS ist die mit Abstand häufigste Form zu Krankheitsbeginn. Aus ihr kann sich im weiteren Verlauf eine SPMS entwickeln – der Übergang ist ein klassisches Prüfungsdetail (RRMS → SPMS).\n\n### Klinische Manifestationen (Symptome)\n\nMS zeigt ein äußerst vielfältiges, individuell unterschiedliches Symptombild:\n- Visuelle Störungen (z.B. Optikusneuritis)\n- Spastizität\n- Erschöpfung / Fatigue\n- Schmerzen\n- Gangunsicherheiten\n- Sensibilitätsstörungen\n- Inkontinenz\n- Sexuelle Dysfunktionen\n- Kognitive Beeinträchtigungen\n- Emotionale Veränderungen (z.B. depressive Episoden)\n\n### Diagnostische Verfahren\n\nZentrales diagnostisches Kriterium ist der Nachweis einer **Ausbreitung von Nervenläsionen in Zeit und Raum** (zeitliche und örtliche Dissemination). Dazu dienen:\n- **MRT-Scans** – zur Lokalisierung und Bestimmung des Umfangs der Läsionen\n- **Liquoranalysen**\n- **Neurophysiologische Tests**, u.a. evozierte Potenziale\n\n### Behandlungsansätze\n\n- **Medikamentöse Therapie:** Modulation bzw. Unterdrückung der Immunantwort (Immunmodulation/-suppression)\n- **Symptomatische Behandlung:** z.B. gegen Spastizität, Schmerz\n- **Ergotherapie:** Fokus auf\n  - Unabhängigkeit in den Aktivitäten des täglichen Lebens (ADLs)\n  - Anpassungen im Lebensraum (Umweltanpassung)\n  - Unterstützung im Umgang mit physischen und kognitiven Herausforderungen\n  - Sensibilitäts-, Koordinations- und Feinmotoriktraining\n\n### Prüfungsrelevanz\n\nDie Unterscheidung der vier Verlaufsformen (v.a. RRMS vs. PPMS vs. SPMS vs. PRMS) anhand der Merkmale \"Schübe vorhanden?\" und \"Remission vorhanden?\" sowie der ungefähren Häufigkeiten ist ein typischer Prüfungspunkt. Ebenso wichtig: das Diagnosekriterium \"Streuung in Zeit und Raum\" und die ergotherapeutischen Behandlungsschwerpunkte.",
+  "facts": [
+    "RRMS (schubförmig remittierend) ist die häufigste MS-Form bei Krankheitsbeginn: 85–90%.",
+    "RRMS zeigt klar definierte Schübe, gefolgt von vollständiger oder teilweiser Remission.",
+    "SPMS entwickelt sich häufig aus einer RRMS; die Krankheit schreitet kontinuierlich fort, Remissionen bzw. Schübe flachen ab oder lassen nach.",
+    "PPMS: von Beginn an stetige Verschlechterung ohne Schübe oder Remissionen, betrifft ca. 10% der Patient:innen.",
+    "PRMS ist eine seltene Form (ca. 5%) mit stetiger Verschlechterung PLUS zusätzlich auftretenden klaren Schüben.",
+    "Die MS-Diagnose erfordert den Nachweis einer Läsionsausbreitung in Zeit UND Raum (u.a. MRT-Kriterium).",
+    "Diagnostik umfasst MRT, Liquoranalyse und neurophysiologische Tests (z.B. evozierte Potenziale).",
+    "MS-Symptome sind sehr vielfältig: visuelle Störungen, Spastizität, Fatigue, Schmerzen, Gangunsicherheit, Sensibilitätsstörungen, Inkontinenz, kognitive/emotionale Veränderungen.",
+    "Ergotherapie bei MS fokussiert auf ADL-Unabhängigkeit, Umweltanpassung sowie Sensibilitäts-, Koordinations- und Feinmotoriktraining."
+  ],
+  "figures": [],
+  "flashcards": [
+    {"q": "Welche MS-Verlaufsform ist die häufigste bei Krankheitsbeginn und wie hoch ist ihr Anteil?", "a": "Die schubförmig remittierende MS (RRMS) mit 85–90% der Fälle."},
+    {"q": "Wie definiert sich die RRMS klinisch?", "a": "Klar definierte Schübe (Ausbrüche von Symptomen), gefolgt von Perioden vollständiger oder teilweiser Remission (Erholung)."},
+    {"q": "In welche Verlaufsform kann sich eine RRMS im Krankheitsverlauf entwickeln?", "a": "In eine sekundär progrediente MS (SPMS): kontinuierliches Fortschreiten, Schübe/Remissionen flachen ab oder lassen nach."},
+    {"q": "Was unterscheidet die PPMS von der RRMS?", "a": "PPMS zeigt von Anfang an eine stetige Verschlechterung OHNE klare Schübe oder Remissionen (ca. 10% der Fälle), während RRMS durch klar abgrenzbare Schübe mit Remission gekennzeichnet ist."},
+    {"q": "Was ist das Besondere an der progredienten schubförmigen MS (PRMS)?", "a": "Sie ist selten (ca. 5%) und kombiniert eine stetige Verschlechterung MIT zusätzlich auftretenden klaren Schüben."},
+    {"q": "Welches zentrale Kriterium muss für die MS-Diagnose nachgewiesen werden?", "a": "Eine Ausbreitung von Nervenläsionen in Zeit UND Raum, u.a. mittels MRT."},
+    {"q": "Welche diagnostischen Verfahren werden bei MS eingesetzt?", "a": "MRT-Scans, Liquoranalysen und neurophysiologische Tests wie evozierte Potenziale."},
+    {"q": "Worauf liegt der Fokus der Ergotherapie bei MS-Patient:innen?", "a": "Auf Unabhängigkeit in den ADLs, Anpassungen im Lebensraum sowie Sensibilitäts-, Koordinations- und Feinmotoriktraining."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zur schubförmig remittierenden MS (RRMS) trifft zu?",
+      "options": [
+        "Sie ist mit 85–90% die häufigste MS-Form bei Krankheitsbeginn und zeigt klar definierte Schübe mit anschließender voller oder teilweiser Remission.",
+        "Sie zeigt von Beginn an eine stetige Verschlechterung ohne Schübe oder Remissionen.",
+        "Sie betrifft nur etwa 10% aller MS-Patient:innen.",
+        "Sie ist durch eine Kombination aus stetiger Verschlechterung und zusätzlichen Schüben gekennzeichnet."
+      ],
+      "answer": 0,
+      "explain": "Option 2 beschreibt die PPMS, Option 3 die ungefähre Häufigkeit der PPMS (nicht RRMS), Option 4 beschreibt die PRMS."
+    },
+    {
+      "q": "Eine Patientin, deren MS zunächst schubförmig verlief, zeigt nun ein kontinuierliches Fortschreiten der Symptome, wobei Schübe und Remissionen zunehmend ausbleiben. Um welche Verlaufsform handelt es sich am ehesten?",
+      "options": [
+        "Primär progrediente MS (PPMS)",
+        "Sekundär progrediente MS (SPMS)",
+        "Progrediente schubförmige MS (PRMS)",
+        "Schubförmig remittierende MS (RRMS)"
+      ],
+      "answer": 1,
+      "explain": "Die SPMS entwickelt sich typischerweise aus einer vorbestehenden RRMS, mit kontinuierlichem Fortschreiten und abflachenden Remissionen/Schüben. PPMS beginnt dagegen von Anfang an progredient ohne vorherige Schubphase."
+    },
+    {
+      "q": "Welches Kriterium ist für die Diagnose einer MS zentral?",
+      "options": [
+        "Ausschließlich der Nachweis erhöhter Entzündungswerte im Blut",
+        "Der Nachweis einer Ausbreitung von Nervenläsionen in Zeit und Raum",
+        "Das alleinige Vorliegen von Fatigue und Sensibilitätsstörungen",
+        "Eine positive Familienanamnese"
+      ],
+      "answer": 1,
+      "explain": "MS-Diagnostik basiert u.a. auf MRT, Liquoranalyse und evozierten Potenzialen zum Nachweis der Läsionsausbreitung in Zeit und Raum – nicht auf Blutentzündungswerten oder alleinigen Symptomen."
+    },
+    {
+      "q": "Welcher Fokus ist typisch für die Ergotherapie bei MS?",
+      "options": [
+        "Ausschließlich medikamentöse Immunmodulation",
+        "Unabhängigkeit in ADLs, Umweltanpassung sowie Sensibilitäts-, Koordinations- und Feinmotoriktraining",
+        "Ausschließlich logopädische Sprachtherapie",
+        "Ausschließlich chirurgische Intervention"
+      ],
+      "answer": 1,
+      "explain": "Ergotherapie bei MS unterstützt ADL-Unabhängigkeit, Anpassungen im Lebensraum und trainiert Sensibilität, Koordination und Feinmotorik; medikamentöse Immunmodulation ist ärztliche Aufgabe."
+    }
+  ]
+}

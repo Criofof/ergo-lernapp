@@ -1,0 +1,75 @@
+{
+  "id": "ms-verlaufsformen",
+  "title": "Multiple Sklerose: Verlaufsformen (RRMS, SPMS, PPMS, PRMS)",
+  "eingrenzung": "MS (Formen)",
+  "prio": "high",
+  "body": "## Einordnung\nMultiple Sklerose (MS) ist eine chronisch-entzündliche Erkrankung des zentralen Nervensystems mit äußerst vielfältigem klinischem Bild. Prüfungsrelevant ist vor allem die Unterscheidung der **vier Verlaufsformen**, da diese Verlauf, Prognose und Therapieplanung maßgeblich bestimmen.\n\n## Die vier Verlaufsformen der MS\n\n| Verlaufsform | Kernmerkmal | Häufigkeit |\n|---|---|---|\n| **Schubförmig remittierende MS (RRMS)** | Klar definierte Schübe, gefolgt von Phasen vollständiger oder teilweiser Erholung (Remissionen) | **85–90%** (häufigste Form bei Krankheitsbeginn) |\n| **Sekundär progrediente MS (SPMS)** | Entwickelt sich bei vielen Patient:innen aus einer RRMS; kontinuierliches Fortschreiten, Remissionen (teils auch Schübe) flachen ab oder lassen nach | entwickelt sich aus einem Teil der RRMS-Fälle |\n| **Primär progrediente MS (PPMS)** | Von Beginn an stetige Verschlechterung **ohne** klare Schübe oder Remissionen | ca. **10%** |\n| **Progrediente schubförmige MS (PRMS)** | Stetige Verschlechterung **plus** zusätzlich auftretende klare Schübe | ca. **5%** (seltene Form) |\n\n**Merkhilfe:** RRMS = An- und Abschwellen (Schub → Erholung). SPMS = \"RRMS, die sich verstetigt\". PPMS = von Anfang an nur bergab, keine Schübe. PRMS = von Anfang an bergab, aber zusätzlich mit Schüben — die seltenste und schwerste Kombination.\n\n## Klinische Manifestationen\nMS zeigt ein äußerst vielfältiges Symptombild, u.a.:\n- Visuelle Störungen\n- Spastizität\n- Erschöpfung (**Fatigue**)\n- Schmerzen\n- Gangunsicherheiten\n- Sensibilitätsstörungen\n- Inkontinenz, sexuelle Dysfunktionen\n- Kognitive Beeinträchtigungen\n- Emotionale Veränderungen (z.B. depressive Episoden)\n\n## Diagnostische Verfahren\n- Nachweis einer **Ausbreitung von Nervenläsionen in Zeit und Raum** (zentrales diagnostisches Kriterium)\n- **MRT-Scans** zur Lokalisierung und zum Umfang der Schäden\n- **Liquoranalysen**\n- **Neurophysiologische Tests** wie evozierte Potenziale\n\n## Behandlungsansätze\n- **Medikamentöse Therapie** zur Modulation/Unterdrückung der Immunantwort\n- **Symptomatische Behandlung** (z.B. gegen Spastizität, Schmerz)\n- **Ergotherapie:** Fokus auf Unabhängigkeit in den ADLs, Anpassungen im Lebensraum, Unterstützung beim Umgang mit physischen und kognitiven Herausforderungen; Sensibilitäts-, Koordinations- und Feinmotoriktraining\n\n### Ergänzung: MS als Indikation für Spiegeltherapie\nMultiple Sklerose wird in den Kursunterlagen explizit als eine der Indikationen genannt, bei denen Patient:innen von **Spiegeltherapie** profitieren können (neben z.B. Schlaganfall, Morbus Parkinson, Phantomschmerz oder CRPS). Grundlage sind vermutlich die **Spiegelneuronen**, die auch bei reiner Bewegungsbeobachtung aktiv werden und so das (Wieder-)Erlernen von Bewegung sowie eine Verbesserung des **Körperschemas** unterstützen können.",
+  "facts": [
+    "RRMS (schubförmig remittierend) ist die häufigste MS-Form bei Krankheitsbeginn: 85–90%.",
+    "RRMS: klar definierte Schübe, gefolgt von Phasen vollständiger oder teilweiser Remission.",
+    "SPMS entwickelt sich häufig aus einer RRMS; die Erkrankung schreitet kontinuierlich fort, Remissionen/Schübe flachen ab oder lassen nach.",
+    "PPMS: von Beginn an stetige Verschlechterung ohne klare Schübe oder Remissionen, betrifft ca. 10% der Patient:innen.",
+    "PRMS: seltene Form (ca. 5%) mit stetiger Verschlechterung PLUS zusätzlich auftretenden klaren Schüben.",
+    "Die MS-Diagnose erfordert den Nachweis einer Ausbreitung von Nervenläsionen in Zeit UND Raum (u.a. mittels MRT).",
+    "Diagnostik bei MS: MRT-Scans, Liquoranalysen, neurophysiologische Tests (z.B. evozierte Potenziale).",
+    "Typische MS-Symptome: visuelle Störungen, Spastizität, Fatigue, Schmerzen, Gangunsicherheit, Sensibilitätsstörungen, Inkontinenz, sexuelle Dysfunktion, kognitive und emotionale Veränderungen.",
+    "Ergotherapie bei MS fokussiert auf ADL-Unabhängigkeit, Umweltanpassung sowie Sensibilitäts-, Koordinations- und Feinmotoriktraining.",
+    "Multiple Sklerose gilt als eine Indikation für Spiegeltherapie."
+  ],
+  "figures": [],
+  "flashcards": [
+    {"q": "Nenne die vier Verlaufsformen der MS.", "a": "Schubförmig remittierende MS (RRMS), sekundär progrediente MS (SPMS), primär progrediente MS (PPMS), progrediente schubförmige MS (PRMS)."},
+    {"q": "Was kennzeichnet die RRMS und wie häufig ist sie bei Krankheitsbeginn?", "a": "Klar definierte Schübe gefolgt von vollständiger oder teilweiser Remission; mit 85–90% die häufigste Form bei Krankheitsbeginn."},
+    {"q": "Wie unterscheidet sich die SPMS von der RRMS?", "a": "Die SPMS entwickelt sich oft aus einer RRMS; im Unterschied zur RRMS schreitet die Erkrankung kontinuierlich fort, während Remissionen (und teils Schübe) abflachen oder nachlassen."},
+    {"q": "Was ist das Kernmerkmal der PPMS und wie häufig ist sie?", "a": "Von Beginn an stetige Verschlechterung ohne klare Schübe oder Remissionen; betrifft ca. 10% der MS-Patient:innen."},
+    {"q": "Was unterscheidet die PRMS von der PPMS?", "a": "Bei beiden gibt es eine stetige Verschlechterung, aber bei der PRMS treten zusätzlich klare Schübe auf; die PRMS ist mit ca. 5% zudem die seltenste Verlaufsform."},
+    {"q": "Welches zentrale diagnostische Kriterium muss für die Diagnose MS nachgewiesen werden?", "a": "Eine Ausbreitung von Nervenläsionen in Zeit UND Raum, u.a. mittels MRT-Scan, ergänzt durch Liquoranalyse und neurophysiologische Tests (z.B. evozierte Potenziale)."},
+    {"q": "Worauf liegt der Fokus der Ergotherapie bei MS?", "a": "Auf der Unabhängigkeit in den ADLs, Anpassungen im Lebensraum sowie Sensibilitäts-, Koordinations- und Feinmotoriktraining."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche MS-Verlaufsform ist bei Krankheitsbeginn am häufigsten?",
+      "options": [
+        "Schubförmig remittierende MS (RRMS)",
+        "Sekundär progrediente MS (SPMS)",
+        "Primär progrediente MS (PPMS)",
+        "Progrediente schubförmige MS (PRMS)"
+      ],
+      "answer": 0,
+      "explain": "Die RRMS ist mit 85–90% die mit Abstand häufigste Form bei Krankheitsbeginn. SPMS entwickelt sich meist erst später aus einer RRMS, PPMS (ca. 10%) und PRMS (ca. 5%) sind deutlich seltener."
+    },
+    {
+      "q": "Welche Aussage zur primär progredienten MS (PPMS) ist korrekt?",
+      "options": [
+        "Sie ist gekennzeichnet durch klar definierte Schübe mit anschließender vollständiger Remission.",
+        "Sie zeigt von Beginn an eine stetige Verschlechterung ohne klare Schübe oder Remissionen und betrifft ca. 10% der Patient:innen.",
+        "Sie entwickelt sich immer aus einer vorbestehenden RRMS.",
+        "Sie ist die häufigste MS-Form bei Krankheitsbeginn."
+      ],
+      "answer": 1,
+      "explain": "PPMS verläuft von Anfang an stetig progredient, ohne die für RRMS typischen Schub-Remissions-Zyklen, und betrifft ca. 10% der Fälle. Die Beschreibung 'Schübe mit Remission' passt zur RRMS, die Entwicklung aus einer RRMS beschreibt die SPMS."
+    },
+    {
+      "q": "Welche MS-Verlaufsform zeigt eine stetige Verschlechterung UND zusätzlich klar abgrenzbare Schübe?",
+      "options": [
+        "RRMS",
+        "SPMS",
+        "PPMS",
+        "PRMS"
+      ],
+      "answer": 3,
+      "explain": "Die PRMS (progrediente schubförmige MS) ist die seltene Kombination (ca. 5%) aus stetiger Verschlechterung plus zusätzlich auftretenden klaren Schüben. Bei PPMS fehlen die Schübe, bei RRMS folgt auf den Schub eine Remission, bei SPMS flachen Schübe/Remissionen eher ab."
+    },
+    {
+      "q": "Was ist laut Kursnotizen ein zentrales diagnostisches Kriterium für Multiple Sklerose?",
+      "options": [
+        "Ein alleiniger positiver Ashworth-Test",
+        "Der Nachweis einer Ausbreitung von Nervenläsionen in Zeit und Raum",
+        "Eine auffällige Glasgow Coma Scale",
+        "Ausschließlich klinische Beobachtung ohne Bildgebung"
+      ],
+      "answer": 1,
+      "explain": "Für die MS-Diagnose muss eine Ausbreitung von Läsionen in Zeit UND Raum nachgewiesen werden, gestützt durch MRT, Liquoranalyse und neurophysiologische Tests wie evozierte Potenziale. Ashworth-Skala und GCS sind Assessments aus anderen Kapiteln, keine MS-Diagnosekriterien."
+    }
+  ]
+}
