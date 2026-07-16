@@ -16,8 +16,23 @@
     list: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg>',
     plus: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>',
     arrow: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>',
-    clock: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>'
+    clock: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>',
+    sun: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4.5"/><path d="M12 2.5v2.5M12 19v2.5M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M2.5 12h2.5M19 12h2.5M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8"/></svg>',
+    moon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5Z"/></svg>'
   };
+
+  /* ---------- Theme ---------- */
+  function getTheme() {
+    const saved = localStorage.getItem("et:theme");
+    if (saved === "light" || saved === "dark") return saved;
+    return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  }
+  function applyTheme(t) {
+    document.documentElement.setAttribute("data-theme", t);
+    try { localStorage.setItem("et:theme", t); } catch (e) {}
+  }
+  function toggleTheme() { applyTheme(getTheme() === "dark" ? "light" : "dark"); renderTop(); }
+  applyTheme(getTheme());
 
   /* ---------- Persistenz ---------- */
   const store = {
@@ -67,13 +82,16 @@
   function renderTop() {
     const nx = nextExam();
     const cd = nx ? `<div class="cd-chip">${I.clock}<span>${esc(nx.g.name.split("—")[0].trim())} · <b>${fmtDate(nx.g.datum)}</b> · <span class="n">${nx.d}</span> Tage</span></div>` : "";
+    const dark = getTheme() === "dark";
     document.getElementById("top").innerHTML =
       `<div class="topbar-inner">
         <div class="brand" onclick="location.hash='#/'">
           <div class="logo">${I.logo}</div>
           <div class="t">Examen Ergotherapie 2026<small>Interaktiver Lernpfad</small></div>
         </div><div class="spacer"></div>${cd}
+        <button class="theme-toggle" id="themeToggle" title="${dark ? "Hellmodus" : "Dunkelmodus"}" aria-label="Farbmodus wechseln">${dark ? I.sun : I.moon}</button>
       </div>`;
+    document.getElementById("themeToggle").onclick = toggleTheme;
   }
 
   /* ---------- Start ---------- */
