@@ -1,0 +1,58 @@
+{
+  "id": "praezisionsgriffe",
+  "title": "Präzisionsgriffe der Hand",
+  "eingrenzung": "Präzisionsgriffe",
+  "prio": "high",
+  "body": "## 1. Einordnung\nPräzisionsgriffe sind Greifformen der Hand, bei denen ein Gegenstand zwischen dem opponierten **Daumen (D1)** und einem oder mehreren **Langfingern (D2-5)** fein gehalten und manipuliert wird. Sie ermöglichen – im Gegensatz zu Grobgriffen (z.B. Faustschluss, Sphärengriff) – die kontrollierte Handhabung kleiner, oft leichter Gegenstände und sind entwicklungsphysiologisch bedeutsam, da sie sich in einer festen zeitlichen Abfolge im Kindesalter ausbilden.\n\n## 2. Die fünf Präzisionsgriffe\n\n### Pinzettengriff\nDer **elementarste Präzisionsgriff**, der bereits im Säuglingsalter erlernt wird (Median ca. **9. Lebensmonat**). Der opponierte und ggf. flektierte Daumen berührt den extendierten Zeigefinger (D2):\n- **unvollständiger Pinzettengriff**: Kontakt an der **medialen Phalanx** des Zeigefingers\n- **vollständiger Pinzettengriff**: Kontakt an der **distalen Phalanx** des Zeigefingers\n\nVerwendung: Aufnehmen/Halten kleiner, flacher Gegenstände, z.B. **Münzen**.\n\n### Zangengriff\nWird im frühen Kleinkindalter (ca. **ab dem 12. Monat**) erlernt – unmittelbar im Anschluss an den Pinzettengriff. Der opponierte und flektierte Daumen berührt die **Fingerkuppe** eines der ebenfalls flektierten Langfinger (D2-5). Ermöglicht Aufnehmen, Halten und präzises Manipulieren kleiner Gegenstände, z.B. manuelles Eindrehen kleiner Muttern/Schrauben, Aufnehmen/Auffädeln von Perlen.\n\n### Schlüsselgriff (= Lateralgriff)\nDer Gegenstand wird zwischen dem flektierten Daumen und der **lateralen Seite** der proximalen bis medialen Phalanx des üblicherweise flektierten Zeigefingers gehalten. Der Lateralgriff ist der **kraftvollste Präzisionsgriff**. Beispiel: Halten/Manipulieren eines Schlüssels.\n\n### Dreipunktgriff\nEin sehr komplexer Griff, der dem Zangengriff ähnelt. Der Gegenstand wird zwischen dem Daumen und insgesamt **zwei flektierten Langfingern** gehalten bzw. manipuliert. Klassisches Beispiel: Halten und Hantieren eines **Stiftes** (Schreibgriff).\n\n### Interdigitalgriff (= Zigarettengriff)\nEin komplexer Präzisionsgriff, bei dem der Gegenstand zwischen zwei Langfingern (D2-5) eingeklemmt und gehalten wird; das Greifen kann sich zwischen allen Phalangen abspielen. Ermöglicht die präzise Manipulation überwiegend leichter, länglicher Gegenstände (z.B. Stifte, Papier).\n\n## 3. Bildübersicht der Greifformen (nach Towfigh, Hierner, Langer & Friedel, 2011)\nDie klassische Abbildungstafel zeigt 7 Griffe (a–g), darunter auch zwei Grobgriffe zur Abgrenzung:\n\n| Bild | Griffname | Merkmal |\n|---|---|---|\n| a | Hakengriff | Hand hält gebogenen Griff/Henkel bei herabhängendem Arm (Grobgriff) |\n| b | Interdigitalgriff | Gegenstand zwischen zwei ausgestreckten Fingern eingeklemmt |\n| c | Schlüsselgriff | Schlüssel zwischen Daumen und Seite des Zeigefingers |\n| d | Pinzettengriff | Daumen- und Zeigefingerspitze halten Faden/kleinen Gegenstand |\n| e | Faustschluss | ganze Hand umschließt stangenförmigen Gegenstand (Grobgriff) |\n| f | Sphärengriff | Hand umgreift einen Ball (Grobgriff) |\n| g | Zangengriff | Daumen und ein gebeugter Finger bilden einen Ring, kleiner Gegenstand dazwischen |\n\n**Wichtig für die Prüfung:** Der **Dreipunktgriff ist auf dieser Bildtafel nicht separat abgebildet** – nur 7 der genannten Griffe sind bebildert.\n\n## 4. Kraftmessung der Präzisionsgriffe\nZur objektiven Kraftmessung der unterschiedlichen Greifformen (v.a. Präzisions-/Pinzettengriffe) wird der **Pinch Gauge** verwendet. Er liefert Messergebnisse in **Kilogramm (kg)** und wird häufig in der ergotherapeutischen Praxis eingesetzt.\n\nGerätehersteller liefern jeweils **eigene Normwerttabellen** mit – dadurch kommt es in der Praxis zu abweichenden Werten je nach Hersteller.\n\n**Beispiel Hersteller JAMAR** (häufig in der Praxis anzutreffen) – Normwerte für die **grobe Handkraft** (Dynamometermessung, **nicht** Pinch-Kraft!) im Durchschnitt:\n- **Frauen: 24 – 38,6 kg**\n- **Männer: 30,4 – 70 kg**\n\nIn ausführlichen Herstellertabellen staffeln sich Normwerte üblicherweise zusätzlich nach **Alter**, sodass ein differenzierterer Befund möglich ist.",
+  "facts": [
+    "Präzisionsgriffe: Gegenstand wird zwischen opponiertem Daumen (D1) und einem/mehreren Langfingern (D2-5) fein gehalten.",
+    "Pinzettengriff = elementarster Präzisionsgriff, erlernt im Säuglingsalter (Median ca. 9. Monat); Daumen berührt D2.",
+    "Unvollständiger Pinzettengriff: Kontakt an medialer Phalanx von D2; vollständiger Pinzettengriff: Kontakt an distaler Phalanx von D2.",
+    "Zangengriff wird ca. ab dem 12. Monat erlernt, direkt im Anschluss an den Pinzettengriff; Daumen berührt Fingerkuppe eines Langfingers.",
+    "Schlüsselgriff (Lateralgriff) ist der kraftvollste Präzisionsgriff; Beispiel: Schlüssel halten.",
+    "Dreipunktgriff: Daumen plus zwei Langfinger, klassisches Beispiel Stift halten; ist auf der Bildtafel nach Towfigh et al. nicht abgebildet.",
+    "Interdigitalgriff (Zigarettengriff): Gegenstand zwischen zwei Langfingern (D2-5) eingeklemmt, für leichte, längliche Gegenstände.",
+    "Pinch Gauge misst die Kraft der Präzisionsgriffe in kg; Normwerte unterscheiden sich je nach Hersteller sowie nach Geschlecht und Alter.",
+    "JAMAR-Normwerte betreffen die grobe Handkraft (Dynamometer), nicht die Pinch-Kraft: Frauen 24-38,6 kg, Männer 30,4-70 kg."
+  ],
+  "figures": [
+    {"src": "assets/mofu/g376.png", "caption": "Greifformen a-g nach Towfigh, Hierner, Langer & Friedel (2011): a=Hakengriff, b=Interdigitalgriff, c=Schlüsselgriff, d=Pinzettengriff, e=Faustschluss, f=Sphärengriff, g=Zangengriff (Dreipunktgriff nicht abgebildet)."},
+    {"src": "assets/mofu/g385.png", "caption": "Pinch Gauge zur Kraftmessung der Präzisionsgriffe (Ergebnis in kg)."}
+  ],
+  "flashcards": [
+    {"q": "Was ist der elementarste Präzisionsgriff und wann wird er im Durchschnitt erlernt?", "a": "Der Pinzettengriff; Median ca. im 9. Lebensmonat."},
+    {"q": "Wodurch unterscheiden sich unvollständiger und vollständiger Pinzettengriff?", "a": "Unvollständig: Daumen berührt mediale Phalanx von D2. Vollständig: Daumen berührt distale Phalanx von D2."},
+    {"q": "Welcher Griff wird unmittelbar nach dem Pinzettengriff erlernt, und ab wann?", "a": "Der Zangengriff, ca. ab dem 12. Lebensmonat."},
+    {"q": "Welcher Präzisionsgriff ist der kraftvollste, und wie heißt er alternativ?", "a": "Der Schlüsselgriff, auch Lateralgriff genannt (Beispiel: einen Schlüssel halten)."},
+    {"q": "Wie wird der Dreipunktgriff ausgeführt und wofür ist er ein klassisches Beispiel?", "a": "Der Gegenstand wird zwischen Daumen und zwei flektierten Langfingern gehalten; klassisches Beispiel ist das Halten eines Stiftes."},
+    {"q": "Was ist ein anderer Name für den Interdigitalgriff und wie wird er ausgeführt?", "a": "Zigarettengriff; der Gegenstand wird zwischen zwei Langfingern (D2-5) eingeklemmt."},
+    {"q": "Womit wird die Kraft der Präzisionsgriffe gemessen, und in welcher Einheit?", "a": "Mit dem Pinch Gauge, Ergebnis in Kilogramm (kg)."},
+    {"q": "Wie hoch sind die JAMAR-Normwerte für die grobe Handkraft bei Frauen bzw. Männern?", "a": "Frauen ca. 24-38,6 kg, Männer ca. 30,4-70 kg (Dynamometermessung, nicht Pinch-Kraft)."}
+  ],
+  "quiz": [
+    {
+      "q": "Welcher Präzisionsgriff wird als Erstes im Säuglingsalter erlernt?",
+      "options": ["Pinzettengriff", "Zangengriff", "Schlüsselgriff", "Dreipunktgriff"],
+      "answer": 0,
+      "explain": "Der Pinzettengriff ist der elementarste Präzisionsgriff und wird im Median bereits ca. im 9. Lebensmonat erlernt, noch vor dem Zangengriff (ca. ab dem 12. Monat)."
+    },
+    {
+      "q": "Welcher Griff gilt als der kraftvollste Präzisionsgriff?",
+      "options": ["Interdigitalgriff", "Pinzettengriff", "Schlüsselgriff (Lateralgriff)", "Zangengriff"],
+      "answer": 2,
+      "explain": "Der Schlüsselgriff (Lateralgriff), bei dem der Gegenstand zwischen Daumen und der lateralen Seite des Zeigefingers gehalten wird, ist der kraftvollste Präzisionsgriff, z.B. beim Halten eines Schlüssels."
+    },
+    {
+      "q": "Auf der klassischen Bildtafel der Greifformen nach Towfigh, Hierner, Langer & Friedel (2011) fehlt welcher Präzisionsgriff?",
+      "options": ["Pinzettengriff", "Zangengriff", "Schlüsselgriff", "Dreipunktgriff"],
+      "answer": 3,
+      "explain": "Die Bildtafel zeigt nur 7 Griffe (a-g), darunter zwei Grobgriffe (Faustschluss, Sphärengriff). Der Dreipunktgriff ist dort nicht separat abgebildet - eine beliebte Prüfungsfalle."
+    },
+    {
+      "q": "Womit werden die JAMAR-Normwerte für die grobe Handkraft (24-38,6 kg bei Frauen, 30,4-70 kg bei Männern) gemessen?",
+      "options": ["Pinch Gauge", "Dynamometer", "Goniometer", "Pedometer"],
+      "answer": 1,
+      "explain": "Die JAMAR-Normwerte für die grobe Handkraft stammen aus Dynamometermessungen, nicht aus Pinch-Gauge-Messungen (diese erfassen die Kraft der Präzisionsgriffe)."
+    }
+  ]
+}

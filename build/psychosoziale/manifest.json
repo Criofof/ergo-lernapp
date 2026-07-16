@@ -1,0 +1,5190 @@
+{
+ "slug": "psychosoziale",
+ "subject_dir": "C:\\Users\\chris\\Desktop\\Valeria\\Examen - Relevante Fächer (sehr wichtig)\\Examen - Fächergruppe 3\\Fach = Psychosoziale Behandlungsverfahren",
+ "pages": [
+  {
+   "gidx": 1,
+   "source_pdf": "Empowerment und Recovery/Empowerment in der psychiatrischen TK.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0001.png",
+   "txt": "build/psychosoziale/text/p0001.txt",
+   "text_len": 2313
+  },
+  {
+   "gidx": 2,
+   "source_pdf": "Empowerment und Recovery/Empowerment in der psychiatrischen TK.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0002.png",
+   "txt": "build/psychosoziale/text/p0002.txt",
+   "text_len": 3996
+  },
+  {
+   "gidx": 3,
+   "source_pdf": "Empowerment und Recovery/Empowerment in der psychiatrischen TK.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0003.png",
+   "txt": "build/psychosoziale/text/p0003.txt",
+   "text_len": 4131
+  },
+  {
+   "gidx": 4,
+   "source_pdf": "Empowerment und Recovery/Empowerment in der psychiatrischen TK.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0004.png",
+   "txt": "build/psychosoziale/text/p0004.txt",
+   "text_len": 5783
+  },
+  {
+   "gidx": 5,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Fallbeispiel/Fallbeispiel Frau R.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0005.png",
+   "txt": "build/psychosoziale/text/p0005.txt",
+   "text_len": 2810
+  },
+  {
+   "gidx": 6,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Fallbeispiel/Fallbeispiel Frau R.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0006.png",
+   "txt": "build/psychosoziale/text/p0006.txt",
+   "text_len": 3414
+  },
+  {
+   "gidx": 7,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery nur eine Illusion.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0007.png",
+   "txt": "build/psychosoziale/text/p0007.txt",
+   "text_len": 5586
+  },
+  {
+   "gidx": 8,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery nur eine Illusion.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0008.png",
+   "txt": "build/psychosoziale/text/p0008.txt",
+   "text_len": 4426
+  },
+  {
+   "gidx": 9,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0009.png",
+   "txt": "build/psychosoziale/text/p0009.txt",
+   "text_len": 4155
+  },
+  {
+   "gidx": 10,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0010.png",
+   "txt": "build/psychosoziale/text/p0010.txt",
+   "text_len": 3498
+  },
+  {
+   "gidx": 11,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0011.png",
+   "txt": "build/psychosoziale/text/p0011.txt",
+   "text_len": 4805
+  },
+  {
+   "gidx": 12,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0012.png",
+   "txt": "build/psychosoziale/text/p0012.txt",
+   "text_len": 3846
+  },
+  {
+   "gidx": 13,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0013.png",
+   "txt": "build/psychosoziale/text/p0013.txt",
+   "text_len": 3043
+  },
+  {
+   "gidx": 14,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0014.png",
+   "txt": "build/psychosoziale/text/p0014.txt",
+   "text_len": 1937
+  },
+  {
+   "gidx": 15,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0015.png",
+   "txt": "build/psychosoziale/text/p0015.txt",
+   "text_len": 4783
+  },
+  {
+   "gidx": 16,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0016.png",
+   "txt": "build/psychosoziale/text/p0016.txt",
+   "text_len": 4220
+  },
+  {
+   "gidx": 17,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0017.png",
+   "txt": "build/psychosoziale/text/p0017.txt",
+   "text_len": 4696
+  },
+  {
+   "gidx": 18,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0018.png",
+   "txt": "build/psychosoziale/text/p0018.txt",
+   "text_len": 4227
+  },
+  {
+   "gidx": 19,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0019.png",
+   "txt": "build/psychosoziale/text/p0019.txt",
+   "text_len": 4935
+  },
+  {
+   "gidx": 20,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0020.png",
+   "txt": "build/psychosoziale/text/p0020.txt",
+   "text_len": 4283
+  },
+  {
+   "gidx": 21,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0021.png",
+   "txt": "build/psychosoziale/text/p0021.txt",
+   "text_len": 4280
+  },
+  {
+   "gidx": 22,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0022.png",
+   "txt": "build/psychosoziale/text/p0022.txt",
+   "text_len": 3486
+  },
+  {
+   "gidx": 23,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0023.png",
+   "txt": "build/psychosoziale/text/p0023.txt",
+   "text_len": 4122
+  },
+  {
+   "gidx": 24,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0024.png",
+   "txt": "build/psychosoziale/text/p0024.txt",
+   "text_len": 4352
+  },
+  {
+   "gidx": 25,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0025.png",
+   "txt": "build/psychosoziale/text/p0025.txt",
+   "text_len": 4599
+  },
+  {
+   "gidx": 26,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0026.png",
+   "txt": "build/psychosoziale/text/p0026.txt",
+   "text_len": 4680
+  },
+  {
+   "gidx": 27,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0027.png",
+   "txt": "build/psychosoziale/text/p0027.txt",
+   "text_len": 4762
+  },
+  {
+   "gidx": 28,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0028.png",
+   "txt": "build/psychosoziale/text/p0028.txt",
+   "text_len": 4169
+  },
+  {
+   "gidx": 29,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0029.png",
+   "txt": "build/psychosoziale/text/p0029.txt",
+   "text_len": 4752
+  },
+  {
+   "gidx": 30,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0030.png",
+   "txt": "build/psychosoziale/text/p0030.txt",
+   "text_len": 3880
+  },
+  {
+   "gidx": 31,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0031.png",
+   "txt": "build/psychosoziale/text/p0031.txt",
+   "text_len": 4445
+  },
+  {
+   "gidx": 32,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0032.png",
+   "txt": "build/psychosoziale/text/p0032.txt",
+   "text_len": 4376
+  },
+  {
+   "gidx": 33,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0033.png",
+   "txt": "build/psychosoziale/text/p0033.txt",
+   "text_len": 4817
+  },
+  {
+   "gidx": 34,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0034.png",
+   "txt": "build/psychosoziale/text/p0034.txt",
+   "text_len": 4470
+  },
+  {
+   "gidx": 35,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 27,
+   "img": "build/psychosoziale/pages/p0035.png",
+   "txt": "build/psychosoziale/text/p0035.txt",
+   "text_len": 4553
+  },
+  {
+   "gidx": 36,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 28,
+   "img": "build/psychosoziale/pages/p0036.png",
+   "txt": "build/psychosoziale/text/p0036.txt",
+   "text_len": 4512
+  },
+  {
+   "gidx": 37,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 29,
+   "img": "build/psychosoziale/pages/p0037.png",
+   "txt": "build/psychosoziale/text/p0037.txt",
+   "text_len": 4715
+  },
+  {
+   "gidx": 38,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 30,
+   "img": "build/psychosoziale/pages/p0038.png",
+   "txt": "build/psychosoziale/text/p0038.txt",
+   "text_len": 4893
+  },
+  {
+   "gidx": 39,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 31,
+   "img": "build/psychosoziale/pages/p0039.png",
+   "txt": "build/psychosoziale/text/p0039.txt",
+   "text_len": 4804
+  },
+  {
+   "gidx": 40,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 32,
+   "img": "build/psychosoziale/pages/p0040.png",
+   "txt": "build/psychosoziale/text/p0040.txt",
+   "text_len": 4660
+  },
+  {
+   "gidx": 41,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 33,
+   "img": "build/psychosoziale/pages/p0041.png",
+   "txt": "build/psychosoziale/text/p0041.txt",
+   "text_len": 3848
+  },
+  {
+   "gidx": 42,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 34,
+   "img": "build/psychosoziale/pages/p0042.png",
+   "txt": "build/psychosoziale/text/p0042.txt",
+   "text_len": 4502
+  },
+  {
+   "gidx": 43,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 35,
+   "img": "build/psychosoziale/pages/p0043.png",
+   "txt": "build/psychosoziale/text/p0043.txt",
+   "text_len": 4638
+  },
+  {
+   "gidx": 44,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 36,
+   "img": "build/psychosoziale/pages/p0044.png",
+   "txt": "build/psychosoziale/text/p0044.txt",
+   "text_len": 4746
+  },
+  {
+   "gidx": 45,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 37,
+   "img": "build/psychosoziale/pages/p0045.png",
+   "txt": "build/psychosoziale/text/p0045.txt",
+   "text_len": 4925
+  },
+  {
+   "gidx": 46,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 38,
+   "img": "build/psychosoziale/pages/p0046.png",
+   "txt": "build/psychosoziale/text/p0046.txt",
+   "text_len": 4617
+  },
+  {
+   "gidx": 47,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 39,
+   "img": "build/psychosoziale/pages/p0047.png",
+   "txt": "build/psychosoziale/text/p0047.txt",
+   "text_len": 4519
+  },
+  {
+   "gidx": 48,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 40,
+   "img": "build/psychosoziale/pages/p0048.png",
+   "txt": "build/psychosoziale/text/p0048.txt",
+   "text_len": 4670
+  },
+  {
+   "gidx": 49,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 41,
+   "img": "build/psychosoziale/pages/p0049.png",
+   "txt": "build/psychosoziale/text/p0049.txt",
+   "text_len": 4955
+  },
+  {
+   "gidx": 50,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 42,
+   "img": "build/psychosoziale/pages/p0050.png",
+   "txt": "build/psychosoziale/text/p0050.txt",
+   "text_len": 5051
+  },
+  {
+   "gidx": 51,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 43,
+   "img": "build/psychosoziale/pages/p0051.png",
+   "txt": "build/psychosoziale/text/p0051.txt",
+   "text_len": 4327
+  },
+  {
+   "gidx": 52,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 44,
+   "img": "build/psychosoziale/pages/p0052.png",
+   "txt": "build/psychosoziale/text/p0052.txt",
+   "text_len": 4745
+  },
+  {
+   "gidx": 53,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 45,
+   "img": "build/psychosoziale/pages/p0053.png",
+   "txt": "build/psychosoziale/text/p0053.txt",
+   "text_len": 4967
+  },
+  {
+   "gidx": 54,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 46,
+   "img": "build/psychosoziale/pages/p0054.png",
+   "txt": "build/psychosoziale/text/p0054.txt",
+   "text_len": 4466
+  },
+  {
+   "gidx": 55,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 47,
+   "img": "build/psychosoziale/pages/p0055.png",
+   "txt": "build/psychosoziale/text/p0055.txt",
+   "text_len": 3465
+  },
+  {
+   "gidx": 56,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 48,
+   "img": "build/psychosoziale/pages/p0056.png",
+   "txt": "build/psychosoziale/text/p0056.txt",
+   "text_len": 4781
+  },
+  {
+   "gidx": 57,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 49,
+   "img": "build/psychosoziale/pages/p0057.png",
+   "txt": "build/psychosoziale/text/p0057.txt",
+   "text_len": 4445
+  },
+  {
+   "gidx": 58,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 50,
+   "img": "build/psychosoziale/pages/p0058.png",
+   "txt": "build/psychosoziale/text/p0058.txt",
+   "text_len": 4856
+  },
+  {
+   "gidx": 59,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 51,
+   "img": "build/psychosoziale/pages/p0059.png",
+   "txt": "build/psychosoziale/text/p0059.txt",
+   "text_len": 4912
+  },
+  {
+   "gidx": 60,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 52,
+   "img": "build/psychosoziale/pages/p0060.png",
+   "txt": "build/psychosoziale/text/p0060.txt",
+   "text_len": 5360
+  },
+  {
+   "gidx": 61,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 53,
+   "img": "build/psychosoziale/pages/p0061.png",
+   "txt": "build/psychosoziale/text/p0061.txt",
+   "text_len": 6912
+  },
+  {
+   "gidx": 62,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 54,
+   "img": "build/psychosoziale/pages/p0062.png",
+   "txt": "build/psychosoziale/text/p0062.txt",
+   "text_len": 7190
+  },
+  {
+   "gidx": 63,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 55,
+   "img": "build/psychosoziale/pages/p0063.png",
+   "txt": "build/psychosoziale/text/p0063.txt",
+   "text_len": 6972
+  },
+  {
+   "gidx": 64,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 56,
+   "img": "build/psychosoziale/pages/p0064.png",
+   "txt": "build/psychosoziale/text/p0064.txt",
+   "text_len": 7088
+  },
+  {
+   "gidx": 65,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 57,
+   "img": "build/psychosoziale/pages/p0065.png",
+   "txt": "build/psychosoziale/text/p0065.txt",
+   "text_len": 5635
+  },
+  {
+   "gidx": 66,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Recovery.pdf Ab Seite 235.pdf",
+   "source_page": 58,
+   "img": "build/psychosoziale/pages/p0066.png",
+   "txt": "build/psychosoziale/text/p0066.txt",
+   "text_len": 366
+  },
+  {
+   "gidx": 67,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Suchtbehandlung ohne Schuldzuschreibung.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0067.png",
+   "txt": "build/psychosoziale/text/p0067.txt",
+   "text_len": 3549
+  },
+  {
+   "gidx": 68,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Suchtbehandlung ohne Schuldzuschreibung.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0068.png",
+   "txt": "build/psychosoziale/text/p0068.txt",
+   "text_len": 6102
+  },
+  {
+   "gidx": 69,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Suchtbehandlung ohne Schuldzuschreibung.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0069.png",
+   "txt": "build/psychosoziale/text/p0069.txt",
+   "text_len": 6245
+  },
+  {
+   "gidx": 70,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Text Recovery Orientiertes Modell.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0070.png",
+   "txt": "build/psychosoziale/text/p0070.txt",
+   "text_len": 3238
+  },
+  {
+   "gidx": 71,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Text Recovery Orientiertes Modell.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0071.png",
+   "txt": "build/psychosoziale/text/p0071.txt",
+   "text_len": 3245
+  },
+  {
+   "gidx": 72,
+   "source_pdf": "Empowerment und Recovery/Empowerment und Recovery 2/Recovery/Text Recovery Orientiertes Modell.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0072.png",
+   "txt": "build/psychosoziale/text/p0072.txt",
+   "text_len": 6343
+  },
+  {
+   "gidx": 73,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0073.png",
+   "txt": "build/psychosoziale/text/p0073.txt",
+   "text_len": 50
+  },
+  {
+   "gidx": 74,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0074.png",
+   "txt": "build/psychosoziale/text/p0074.txt",
+   "text_len": 319
+  },
+  {
+   "gidx": 75,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0075.png",
+   "txt": "build/psychosoziale/text/p0075.txt",
+   "text_len": 29
+  },
+  {
+   "gidx": 76,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0076.png",
+   "txt": "build/psychosoziale/text/p0076.txt",
+   "text_len": 296
+  },
+  {
+   "gidx": 77,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0077.png",
+   "txt": "build/psychosoziale/text/p0077.txt",
+   "text_len": 599
+  },
+  {
+   "gidx": 78,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0078.png",
+   "txt": "build/psychosoziale/text/p0078.txt",
+   "text_len": 232
+  },
+  {
+   "gidx": 79,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0079.png",
+   "txt": "build/psychosoziale/text/p0079.txt",
+   "text_len": 24
+  },
+  {
+   "gidx": 80,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0080.png",
+   "txt": "build/psychosoziale/text/p0080.txt",
+   "text_len": 419
+  },
+  {
+   "gidx": 81,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0081.png",
+   "txt": "build/psychosoziale/text/p0081.txt",
+   "text_len": 1104
+  },
+  {
+   "gidx": 82,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0082.png",
+   "txt": "build/psychosoziale/text/p0082.txt",
+   "text_len": 698
+  },
+  {
+   "gidx": 83,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0083.png",
+   "txt": "build/psychosoziale/text/p0083.txt",
+   "text_len": 22
+  },
+  {
+   "gidx": 84,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0084.png",
+   "txt": "build/psychosoziale/text/p0084.txt",
+   "text_len": 433
+  },
+  {
+   "gidx": 85,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0085.png",
+   "txt": "build/psychosoziale/text/p0085.txt",
+   "text_len": 204
+  },
+  {
+   "gidx": 86,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0086.png",
+   "txt": "build/psychosoziale/text/p0086.txt",
+   "text_len": 460
+  },
+  {
+   "gidx": 87,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0087.png",
+   "txt": "build/psychosoziale/text/p0087.txt",
+   "text_len": 23
+  },
+  {
+   "gidx": 88,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0088.png",
+   "txt": "build/psychosoziale/text/p0088.txt",
+   "text_len": 643
+  },
+  {
+   "gidx": 89,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0089.png",
+   "txt": "build/psychosoziale/text/p0089.txt",
+   "text_len": 302
+  },
+  {
+   "gidx": 90,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0090.png",
+   "txt": "build/psychosoziale/text/p0090.txt",
+   "text_len": 598
+  },
+  {
+   "gidx": 91,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0091.png",
+   "txt": "build/psychosoziale/text/p0091.txt",
+   "text_len": 1676
+  },
+  {
+   "gidx": 92,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0092.png",
+   "txt": "build/psychosoziale/text/p0092.txt",
+   "text_len": 1097
+  },
+  {
+   "gidx": 93,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0093.png",
+   "txt": "build/psychosoziale/text/p0093.txt",
+   "text_len": 19
+  },
+  {
+   "gidx": 94,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0094.png",
+   "txt": "build/psychosoziale/text/p0094.txt",
+   "text_len": 745
+  },
+  {
+   "gidx": 95,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0095.png",
+   "txt": "build/psychosoziale/text/p0095.txt",
+   "text_len": 365
+  },
+  {
+   "gidx": 96,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0096.png",
+   "txt": "build/psychosoziale/text/p0096.txt",
+   "text_len": 27
+  },
+  {
+   "gidx": 97,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0097.png",
+   "txt": "build/psychosoziale/text/p0097.txt",
+   "text_len": 226
+  },
+  {
+   "gidx": 98,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0098.png",
+   "txt": "build/psychosoziale/text/p0098.txt",
+   "text_len": 534
+  },
+  {
+   "gidx": 99,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 27,
+   "img": "build/psychosoziale/pages/p0099.png",
+   "txt": "build/psychosoziale/text/p0099.txt",
+   "text_len": 8
+  },
+  {
+   "gidx": 100,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 28,
+   "img": "build/psychosoziale/pages/p0100.png",
+   "txt": "build/psychosoziale/text/p0100.txt",
+   "text_len": 585
+  },
+  {
+   "gidx": 101,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 29,
+   "img": "build/psychosoziale/pages/p0101.png",
+   "txt": "build/psychosoziale/text/p0101.txt",
+   "text_len": 1080
+  },
+  {
+   "gidx": 102,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 30,
+   "img": "build/psychosoziale/pages/p0102.png",
+   "txt": "build/psychosoziale/text/p0102.txt",
+   "text_len": 523
+  },
+  {
+   "gidx": 103,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 31,
+   "img": "build/psychosoziale/pages/p0103.png",
+   "txt": "build/psychosoziale/text/p0103.txt",
+   "text_len": 1129
+  },
+  {
+   "gidx": 104,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 32,
+   "img": "build/psychosoziale/pages/p0104.png",
+   "txt": "build/psychosoziale/text/p0104.txt",
+   "text_len": 555
+  },
+  {
+   "gidx": 105,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 33,
+   "img": "build/psychosoziale/pages/p0105.png",
+   "txt": "build/psychosoziale/text/p0105.txt",
+   "text_len": 62
+  },
+  {
+   "gidx": 106,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 34,
+   "img": "build/psychosoziale/pages/p0106.png",
+   "txt": "build/psychosoziale/text/p0106.txt",
+   "text_len": 2
+  },
+  {
+   "gidx": 107,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 35,
+   "img": "build/psychosoziale/pages/p0107.png",
+   "txt": "build/psychosoziale/text/p0107.txt",
+   "text_len": 1221
+  },
+  {
+   "gidx": 108,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 36,
+   "img": "build/psychosoziale/pages/p0108.png",
+   "txt": "build/psychosoziale/text/p0108.txt",
+   "text_len": 707
+  },
+  {
+   "gidx": 109,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 37,
+   "img": "build/psychosoziale/pages/p0109.png",
+   "txt": "build/psychosoziale/text/p0109.txt",
+   "text_len": 78
+  },
+  {
+   "gidx": 110,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 38,
+   "img": "build/psychosoziale/pages/p0110.png",
+   "txt": "build/psychosoziale/text/p0110.txt",
+   "text_len": 400
+  },
+  {
+   "gidx": 111,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 39,
+   "img": "build/psychosoziale/pages/p0111.png",
+   "txt": "build/psychosoziale/text/p0111.txt",
+   "text_len": 170
+  },
+  {
+   "gidx": 112,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 40,
+   "img": "build/psychosoziale/pages/p0112.png",
+   "txt": "build/psychosoziale/text/p0112.txt",
+   "text_len": 954
+  },
+  {
+   "gidx": 113,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 41,
+   "img": "build/psychosoziale/pages/p0113.png",
+   "txt": "build/psychosoziale/text/p0113.txt",
+   "text_len": 539
+  },
+  {
+   "gidx": 114,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 42,
+   "img": "build/psychosoziale/pages/p0114.png",
+   "txt": "build/psychosoziale/text/p0114.txt",
+   "text_len": 501
+  },
+  {
+   "gidx": 115,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 43,
+   "img": "build/psychosoziale/pages/p0115.png",
+   "txt": "build/psychosoziale/text/p0115.txt",
+   "text_len": 854
+  },
+  {
+   "gidx": 116,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 44,
+   "img": "build/psychosoziale/pages/p0116.png",
+   "txt": "build/psychosoziale/text/p0116.txt",
+   "text_len": 51
+  },
+  {
+   "gidx": 117,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 45,
+   "img": "build/psychosoziale/pages/p0117.png",
+   "txt": "build/psychosoziale/text/p0117.txt",
+   "text_len": 106
+  },
+  {
+   "gidx": 118,
+   "source_pdf": "Empowerment und Recovery/Psych-Soz-Bv - Empowerment und Recovery.pdf",
+   "source_page": 46,
+   "img": "build/psychosoziale/pages/p0118.png",
+   "txt": "build/psychosoziale/text/p0118.txt",
+   "text_len": 504
+  },
+  {
+   "gidx": 119,
+   "source_pdf": "Empowerment und Recovery/Übung Recovery/Herr Mueller - BTZ.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0119.png",
+   "txt": "build/psychosoziale/text/p0119.txt",
+   "text_len": 3223
+  },
+  {
+   "gidx": 120,
+   "source_pdf": "Empowerment und Recovery/Übung Recovery/Herr Mueller - BTZ.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0120.png",
+   "txt": "build/psychosoziale/text/p0120.txt",
+   "text_len": 3005
+  },
+  {
+   "gidx": 121,
+   "source_pdf": "Empowerment und Recovery/Übung Recovery/Herr Mueller - BTZ.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0121.png",
+   "txt": "build/psychosoziale/text/p0121.txt",
+   "text_len": 2662
+  },
+  {
+   "gidx": 122,
+   "source_pdf": "Empowerment und Recovery/Übung Recovery/Text Recovery Orientiertes Modell.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0122.png",
+   "txt": "build/psychosoziale/text/p0122.txt",
+   "text_len": 3238
+  },
+  {
+   "gidx": 123,
+   "source_pdf": "Empowerment und Recovery/Übung Recovery/Text Recovery Orientiertes Modell.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0123.png",
+   "txt": "build/psychosoziale/text/p0123.txt",
+   "text_len": 3245
+  },
+  {
+   "gidx": 124,
+   "source_pdf": "Empowerment und Recovery/Übung Recovery/Text Recovery Orientiertes Modell.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0124.png",
+   "txt": "build/psychosoziale/text/p0124.txt",
+   "text_len": 6343
+  },
+  {
+   "gidx": 125,
+   "source_pdf": "Ergotherapeut-innen in der Psychiatrie.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0125.png",
+   "txt": "build/psychosoziale/text/p0125.txt",
+   "text_len": 2553
+  },
+  {
+   "gidx": 126,
+   "source_pdf": "Ergotherapeut-innen in der Psychiatrie.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0126.png",
+   "txt": "build/psychosoziale/text/p0126.txt",
+   "text_len": 3919
+  },
+  {
+   "gidx": 127,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Beispielhafte Ausarbeitung Fallbeispiel Frau E..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0127.png",
+   "txt": "build/psychosoziale/text/p0127.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 128,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Beispielhafte Ausarbeitung Fallbeispiel Frau E..pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0128.png",
+   "txt": "build/psychosoziale/text/p0128.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 129,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Beispielhafte Ausarbeitung Fallbeispiel Frau E..pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0129.png",
+   "txt": "build/psychosoziale/text/p0129.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 130,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Bereitschaft zu Veraenderung.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0130.png",
+   "txt": "build/psychosoziale/text/p0130.txt",
+   "text_len": 653
+  },
+  {
+   "gidx": 131,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Bewertungsboegen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0131.png",
+   "txt": "build/psychosoziale/text/p0131.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 132,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Bewertungsboegen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0132.png",
+   "txt": "build/psychosoziale/text/p0132.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 133,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Bewertungsboegen.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0133.png",
+   "txt": "build/psychosoziale/text/p0133.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 134,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Bewertungsboegen.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0134.png",
+   "txt": "build/psychosoziale/text/p0134.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 135,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Fertigkeiten.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0135.png",
+   "txt": "build/psychosoziale/text/p0135.txt",
+   "text_len": 656
+  },
+  {
+   "gidx": 136,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Gewohnheiten.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0136.png",
+   "txt": "build/psychosoziale/text/p0136.txt",
+   "text_len": 795
+  },
+  {
+   "gidx": 137,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Interessen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0137.png",
+   "txt": "build/psychosoziale/text/p0137.txt",
+   "text_len": 632
+  },
+  {
+   "gidx": 138,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Interpreation frueherer Erfahrungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0138.png",
+   "txt": "build/psychosoziale/text/p0138.txt",
+   "text_len": 606
+  },
+  {
+   "gidx": 139,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/OCAIRS-Bogen fuer die Psychiatrie (4) Schluesselwoerter.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0139.png",
+   "txt": "build/psychosoziale/text/p0139.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 140,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Physische Umwelt.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0140.png",
+   "txt": "build/psychosoziale/text/p0140.txt",
+   "text_len": 904
+  },
+  {
+   "gidx": 141,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Rollen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0141.png",
+   "txt": "build/psychosoziale/text/p0141.txt",
+   "text_len": 565
+  },
+  {
+   "gidx": 142,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Selbstbild.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0142.png",
+   "txt": "build/psychosoziale/text/p0142.txt",
+   "text_len": 436
+  },
+  {
+   "gidx": 143,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Soziale Umwelt.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0143.png",
+   "txt": "build/psychosoziale/text/p0143.txt",
+   "text_len": 719
+  },
+  {
+   "gidx": 144,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Werte.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0144.png",
+   "txt": "build/psychosoziale/text/p0144.txt",
+   "text_len": 554
+  },
+  {
+   "gidx": 145,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Ziele - Kurzfristige Ziele.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0145.png",
+   "txt": "build/psychosoziale/text/p0145.txt",
+   "text_len": 499
+  },
+  {
+   "gidx": 146,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Assessment/Ziele - Langfristige Ziele.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0146.png",
+   "txt": "build/psychosoziale/text/p0146.txt",
+   "text_len": 499
+  },
+  {
+   "gidx": 147,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Fallbeispiel.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0147.png",
+   "txt": "build/psychosoziale/text/p0147.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 148,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Fallbeispiel.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0148.png",
+   "txt": "build/psychosoziale/text/p0148.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 149,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Fallbeispiel.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0149.png",
+   "txt": "build/psychosoziale/text/p0149.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 150,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Fallbeispiel.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0150.png",
+   "txt": "build/psychosoziale/text/p0150.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 151,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Fallbeispiel.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0151.png",
+   "txt": "build/psychosoziale/text/p0151.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 152,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0152.png",
+   "txt": "build/psychosoziale/text/p0152.txt",
+   "text_len": 73
+  },
+  {
+   "gidx": 153,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0153.png",
+   "txt": "build/psychosoziale/text/p0153.txt",
+   "text_len": 1
+  },
+  {
+   "gidx": 154,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0154.png",
+   "txt": "build/psychosoziale/text/p0154.txt",
+   "text_len": 136
+  },
+  {
+   "gidx": 155,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0155.png",
+   "txt": "build/psychosoziale/text/p0155.txt",
+   "text_len": 832
+  },
+  {
+   "gidx": 156,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0156.png",
+   "txt": "build/psychosoziale/text/p0156.txt",
+   "text_len": 725
+  },
+  {
+   "gidx": 157,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0157.png",
+   "txt": "build/psychosoziale/text/p0157.txt",
+   "text_len": 765
+  },
+  {
+   "gidx": 158,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0158.png",
+   "txt": "build/psychosoziale/text/p0158.txt",
+   "text_len": 556
+  },
+  {
+   "gidx": 159,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0159.png",
+   "txt": "build/psychosoziale/text/p0159.txt",
+   "text_len": 396
+  },
+  {
+   "gidx": 160,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0160.png",
+   "txt": "build/psychosoziale/text/p0160.txt",
+   "text_len": 942
+  },
+  {
+   "gidx": 161,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0161.png",
+   "txt": "build/psychosoziale/text/p0161.txt",
+   "text_len": 267
+  },
+  {
+   "gidx": 162,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0162.png",
+   "txt": "build/psychosoziale/text/p0162.txt",
+   "text_len": 428
+  },
+  {
+   "gidx": 163,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0163.png",
+   "txt": "build/psychosoziale/text/p0163.txt",
+   "text_len": 677
+  },
+  {
+   "gidx": 164,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0164.png",
+   "txt": "build/psychosoziale/text/p0164.txt",
+   "text_len": 1106
+  },
+  {
+   "gidx": 165,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0165.png",
+   "txt": "build/psychosoziale/text/p0165.txt",
+   "text_len": 49
+  },
+  {
+   "gidx": 166,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0166.png",
+   "txt": "build/psychosoziale/text/p0166.txt",
+   "text_len": 810
+  },
+  {
+   "gidx": 167,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0167.png",
+   "txt": "build/psychosoziale/text/p0167.txt",
+   "text_len": 92
+  },
+  {
+   "gidx": 168,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0168.png",
+   "txt": "build/psychosoziale/text/p0168.txt",
+   "text_len": 420
+  },
+  {
+   "gidx": 169,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0169.png",
+   "txt": "build/psychosoziale/text/p0169.txt",
+   "text_len": 858
+  },
+  {
+   "gidx": 170,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0170.png",
+   "txt": "build/psychosoziale/text/p0170.txt",
+   "text_len": 757
+  },
+  {
+   "gidx": 171,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0171.png",
+   "txt": "build/psychosoziale/text/p0171.txt",
+   "text_len": 67
+  },
+  {
+   "gidx": 172,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0172.png",
+   "txt": "build/psychosoziale/text/p0172.txt",
+   "text_len": 456
+  },
+  {
+   "gidx": 173,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0173.png",
+   "txt": "build/psychosoziale/text/p0173.txt",
+   "text_len": 860
+  },
+  {
+   "gidx": 174,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0174.png",
+   "txt": "build/psychosoziale/text/p0174.txt",
+   "text_len": 44
+  },
+  {
+   "gidx": 175,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0175.png",
+   "txt": "build/psychosoziale/text/p0175.txt",
+   "text_len": 24
+  },
+  {
+   "gidx": 176,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0176.png",
+   "txt": "build/psychosoziale/text/p0176.txt",
+   "text_len": 656
+  },
+  {
+   "gidx": 177,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0177.png",
+   "txt": "build/psychosoziale/text/p0177.txt",
+   "text_len": 7
+  },
+  {
+   "gidx": 178,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 27,
+   "img": "build/psychosoziale/pages/p0178.png",
+   "txt": "build/psychosoziale/text/p0178.txt",
+   "text_len": 480
+  },
+  {
+   "gidx": 179,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 28,
+   "img": "build/psychosoziale/pages/p0179.png",
+   "txt": "build/psychosoziale/text/p0179.txt",
+   "text_len": 91
+  },
+  {
+   "gidx": 180,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 29,
+   "img": "build/psychosoziale/pages/p0180.png",
+   "txt": "build/psychosoziale/text/p0180.txt",
+   "text_len": 676
+  },
+  {
+   "gidx": 181,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 30,
+   "img": "build/psychosoziale/pages/p0181.png",
+   "txt": "build/psychosoziale/text/p0181.txt",
+   "text_len": 531
+  },
+  {
+   "gidx": 182,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 31,
+   "img": "build/psychosoziale/pages/p0182.png",
+   "txt": "build/psychosoziale/text/p0182.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 183,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 32,
+   "img": "build/psychosoziale/pages/p0183.png",
+   "txt": "build/psychosoziale/text/p0183.txt",
+   "text_len": 748
+  },
+  {
+   "gidx": 184,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 33,
+   "img": "build/psychosoziale/pages/p0184.png",
+   "txt": "build/psychosoziale/text/p0184.txt",
+   "text_len": 2
+  },
+  {
+   "gidx": 185,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 34,
+   "img": "build/psychosoziale/pages/p0185.png",
+   "txt": "build/psychosoziale/text/p0185.txt",
+   "text_len": 713
+  },
+  {
+   "gidx": 186,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 35,
+   "img": "build/psychosoziale/pages/p0186.png",
+   "txt": "build/psychosoziale/text/p0186.txt",
+   "text_len": 673
+  },
+  {
+   "gidx": 187,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 36,
+   "img": "build/psychosoziale/pages/p0187.png",
+   "txt": "build/psychosoziale/text/p0187.txt",
+   "text_len": 49
+  },
+  {
+   "gidx": 188,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 37,
+   "img": "build/psychosoziale/pages/p0188.png",
+   "txt": "build/psychosoziale/text/p0188.txt",
+   "text_len": 576
+  },
+  {
+   "gidx": 189,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psych-soz. BV. - ET Prozess und Befunderhebung.pdf",
+   "source_page": 38,
+   "img": "build/psychosoziale/pages/p0189.png",
+   "txt": "build/psychosoziale/text/p0189.txt",
+   "text_len": 504
+  },
+  {
+   "gidx": 190,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Auffassungsstoerungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0190.png",
+   "txt": "build/psychosoziale/text/p0190.txt",
+   "text_len": 4677
+  },
+  {
+   "gidx": 191,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Aufmerksamkeits- und Konzentrationsstoerungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0191.png",
+   "txt": "build/psychosoziale/text/p0191.txt",
+   "text_len": 4677
+  },
+  {
+   "gidx": 192,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Bewusstseinsstoerungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0192.png",
+   "txt": "build/psychosoziale/text/p0192.txt",
+   "text_len": 4536
+  },
+  {
+   "gidx": 193,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Bewusstseinsstoerungen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0193.png",
+   "txt": "build/psychosoziale/text/p0193.txt",
+   "text_len": 3211
+  },
+  {
+   "gidx": 194,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Formale Denkstoerungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0194.png",
+   "txt": "build/psychosoziale/text/p0194.txt",
+   "text_len": 4912
+  },
+  {
+   "gidx": 195,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Formale Denkstoerungen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0195.png",
+   "txt": "build/psychosoziale/text/p0195.txt",
+   "text_len": 3736
+  },
+  {
+   "gidx": 196,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Ich-Stoerungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0196.png",
+   "txt": "build/psychosoziale/text/p0196.txt",
+   "text_len": 3436
+  },
+  {
+   "gidx": 197,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Ich-Stoerungen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0197.png",
+   "txt": "build/psychosoziale/text/p0197.txt",
+   "text_len": 2006
+  },
+  {
+   "gidx": 198,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Merkfaehigkeit- und Gedaechtnisstoerungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0198.png",
+   "txt": "build/psychosoziale/text/p0198.txt",
+   "text_len": 4677
+  },
+  {
+   "gidx": 199,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Merkfaehigkeit- und Gedaechtnisstoerungen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0199.png",
+   "txt": "build/psychosoziale/text/p0199.txt",
+   "text_len": 5482
+  },
+  {
+   "gidx": 200,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Merkfaehigkeit- und Gedaechtnisstoerungen.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0200.png",
+   "txt": "build/psychosoziale/text/p0200.txt",
+   "text_len": 4912
+  },
+  {
+   "gidx": 201,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Orientierungsstoerungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0201.png",
+   "txt": "build/psychosoziale/text/p0201.txt",
+   "text_len": 3211
+  },
+  {
+   "gidx": 202,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Orientierungsstoerungen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0202.png",
+   "txt": "build/psychosoziale/text/p0202.txt",
+   "text_len": 4677
+  },
+  {
+   "gidx": 203,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Stoerungen der Affektivitaet.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0203.png",
+   "txt": "build/psychosoziale/text/p0203.txt",
+   "text_len": 2006
+  },
+  {
+   "gidx": 204,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Stoerungen der Affektivitaet.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0204.png",
+   "txt": "build/psychosoziale/text/p0204.txt",
+   "text_len": 1681
+  },
+  {
+   "gidx": 205,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Stoerungen der Affektivitaet.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0205.png",
+   "txt": "build/psychosoziale/text/p0205.txt",
+   "text_len": 4490
+  },
+  {
+   "gidx": 206,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Stoerungen der Intelligenz.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0206.png",
+   "txt": "build/psychosoziale/text/p0206.txt",
+   "text_len": 4912
+  },
+  {
+   "gidx": 207,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Stoerungen des Antriebs und der Psychomotorik.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0207.png",
+   "txt": "build/psychosoziale/text/p0207.txt",
+   "text_len": 4141
+  },
+  {
+   "gidx": 208,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Stoerungen des Antriebs und der Psychomotorik.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0208.png",
+   "txt": "build/psychosoziale/text/p0208.txt",
+   "text_len": 2396
+  },
+  {
+   "gidx": 209,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Stoerungen des Antriebs und der Psychomotorik.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0209.png",
+   "txt": "build/psychosoziale/text/p0209.txt",
+   "text_len": 6140
+  },
+  {
+   "gidx": 210,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Wahn.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0210.png",
+   "txt": "build/psychosoziale/text/p0210.txt",
+   "text_len": 3736
+  },
+  {
+   "gidx": 211,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Wahn.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0211.png",
+   "txt": "build/psychosoziale/text/p0211.txt",
+   "text_len": 2381
+  },
+  {
+   "gidx": 212,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Wahn.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0212.png",
+   "txt": "build/psychosoziale/text/p0212.txt",
+   "text_len": 3618
+  },
+  {
+   "gidx": 213,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Wahn.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0213.png",
+   "txt": "build/psychosoziale/text/p0213.txt",
+   "text_len": 3175
+  },
+  {
+   "gidx": 214,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Wahrnehmungsstoerungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0214.png",
+   "txt": "build/psychosoziale/text/p0214.txt",
+   "text_len": 3175
+  },
+  {
+   "gidx": 215,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Wahrnehmungsstoerungen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0215.png",
+   "txt": "build/psychosoziale/text/p0215.txt",
+   "text_len": 5256
+  },
+  {
+   "gidx": 216,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Wahrnehmungsstoerungen.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0216.png",
+   "txt": "build/psychosoziale/text/p0216.txt",
+   "text_len": 3436
+  },
+  {
+   "gidx": 217,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Zwaenge, Phobien, Aengste, hypochondrische Befuerchtungen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0217.png",
+   "txt": "build/psychosoziale/text/p0217.txt",
+   "text_len": 4490
+  },
+  {
+   "gidx": 218,
+   "source_pdf": "Ergotherapeutischer Prozess und Befundung/Psychopathologischer Befund/Zwaenge, Phobien, Aengste, hypochondrische Befuerchtungen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0218.png",
+   "txt": "build/psychosoziale/text/p0218.txt",
+   "text_len": 4141
+  },
+  {
+   "gidx": 219,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Frau A..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0219.png",
+   "txt": "build/psychosoziale/text/p0219.txt",
+   "text_len": 1164
+  },
+  {
+   "gidx": 220,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Frau D..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0220.png",
+   "txt": "build/psychosoziale/text/p0220.txt",
+   "text_len": 1234
+  },
+  {
+   "gidx": 221,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Frau H..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0221.png",
+   "txt": "build/psychosoziale/text/p0221.txt",
+   "text_len": 1187
+  },
+  {
+   "gidx": 222,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Frau J..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0222.png",
+   "txt": "build/psychosoziale/text/p0222.txt",
+   "text_len": 1163
+  },
+  {
+   "gidx": 223,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Frau N..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0223.png",
+   "txt": "build/psychosoziale/text/p0223.txt",
+   "text_len": 1219
+  },
+  {
+   "gidx": 224,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Herr K..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0224.png",
+   "txt": "build/psychosoziale/text/p0224.txt",
+   "text_len": 1227
+  },
+  {
+   "gidx": 225,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Herr M..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0225.png",
+   "txt": "build/psychosoziale/text/p0225.txt",
+   "text_len": 1186
+  },
+  {
+   "gidx": 226,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Herr R..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0226.png",
+   "txt": "build/psychosoziale/text/p0226.txt",
+   "text_len": 1217
+  },
+  {
+   "gidx": 227,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Herr U..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0227.png",
+   "txt": "build/psychosoziale/text/p0227.txt",
+   "text_len": 1303
+  },
+  {
+   "gidx": 228,
+   "source_pdf": "Fallbeispiele/Fallbeispiel Herr W..pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0228.png",
+   "txt": "build/psychosoziale/text/p0228.txt",
+   "text_len": 1198
+  },
+  {
+   "gidx": 229,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2012 - Erster Weltkrieg 3.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0229.png",
+   "txt": "build/psychosoziale/text/p0229.txt",
+   "text_len": 3065
+  },
+  {
+   "gidx": 230,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2012 - Erster Weltkrieg 3.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0230.png",
+   "txt": "build/psychosoziale/text/p0230.txt",
+   "text_len": 6267
+  },
+  {
+   "gidx": 231,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2012 - Erster Weltkrieg 3.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0231.png",
+   "txt": "build/psychosoziale/text/p0231.txt",
+   "text_len": 5623
+  },
+  {
+   "gidx": 232,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2014 - Erster Weltkrieg 1.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0232.png",
+   "txt": "build/psychosoziale/text/p0232.txt",
+   "text_len": 2629
+  },
+  {
+   "gidx": 233,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2014 - Erster Weltkrieg 1.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0233.png",
+   "txt": "build/psychosoziale/text/p0233.txt",
+   "text_len": 4697
+  },
+  {
+   "gidx": 234,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2014 - Erster Weltkrieg 1.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0234.png",
+   "txt": "build/psychosoziale/text/p0234.txt",
+   "text_len": 6007
+  },
+  {
+   "gidx": 235,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2014 - Erster Weltkrieg 1.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0235.png",
+   "txt": "build/psychosoziale/text/p0235.txt",
+   "text_len": 3038
+  },
+  {
+   "gidx": 236,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2014 - Erster Weltkrieg 4.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0236.png",
+   "txt": "build/psychosoziale/text/p0236.txt",
+   "text_len": 3856
+  },
+  {
+   "gidx": 237,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2014 - Erster Weltkrieg 4.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0237.png",
+   "txt": "build/psychosoziale/text/p0237.txt",
+   "text_len": 5421
+  },
+  {
+   "gidx": 238,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2014 - Erster Weltkrieg 4.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0238.png",
+   "txt": "build/psychosoziale/text/p0238.txt",
+   "text_len": 6007
+  },
+  {
+   "gidx": 239,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2014 - Erster Weltkrieg 4.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0239.png",
+   "txt": "build/psychosoziale/text/p0239.txt",
+   "text_len": 3246
+  },
+  {
+   "gidx": 240,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2015 - Erster Weltkireg 2.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0240.png",
+   "txt": "build/psychosoziale/text/p0240.txt",
+   "text_len": 3091
+  },
+  {
+   "gidx": 241,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2015 - Erster Weltkireg 2.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0241.png",
+   "txt": "build/psychosoziale/text/p0241.txt",
+   "text_len": 5339
+  },
+  {
+   "gidx": 242,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2015 - Erster Weltkireg 2.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0242.png",
+   "txt": "build/psychosoziale/text/p0242.txt",
+   "text_len": 6222
+  },
+  {
+   "gidx": 243,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Aerzteblatt 2015 - Erster Weltkireg 2.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0243.png",
+   "txt": "build/psychosoziale/text/p0243.txt",
+   "text_len": 3644
+  },
+  {
+   "gidx": 244,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Historische Betrachtungen zur Versorgung von Kriegsversehrten am Beispiel des Ersten Weltkrieges.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0244.png",
+   "txt": "build/psychosoziale/text/p0244.txt",
+   "text_len": 1482
+  },
+  {
+   "gidx": 245,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Historische Betrachtungen zur Versorgung von Kriegsversehrten am Beispiel des Ersten Weltkrieges.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0245.png",
+   "txt": "build/psychosoziale/text/p0245.txt",
+   "text_len": 1587
+  },
+  {
+   "gidx": 246,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Historische Betrachtungen zur Versorgung von Kriegsversehrten am Beispiel des Ersten Weltkrieges.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0246.png",
+   "txt": "build/psychosoziale/text/p0246.txt",
+   "text_len": 3369
+  },
+  {
+   "gidx": 247,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Historische Betrachtungen zur Versorgung von Kriegsversehrten am Beispiel des Ersten Weltkrieges.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0247.png",
+   "txt": "build/psychosoziale/text/p0247.txt",
+   "text_len": 1409
+  },
+  {
+   "gidx": 248,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Historische Betrachtungen zur Versorgung von Kriegsversehrten am Beispiel des Ersten Weltkrieges.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0248.png",
+   "txt": "build/psychosoziale/text/p0248.txt",
+   "text_len": 3561
+  },
+  {
+   "gidx": 249,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Historische Betrachtungen zur Versorgung von Kriegsversehrten am Beispiel des Ersten Weltkrieges.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0249.png",
+   "txt": "build/psychosoziale/text/p0249.txt",
+   "text_len": 3548
+  },
+  {
+   "gidx": 250,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Historische Betrachtungen zur Versorgung von Kriegsversehrten am Beispiel des Ersten Weltkrieges.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0250.png",
+   "txt": "build/psychosoziale/text/p0250.txt",
+   "text_len": 286
+  },
+  {
+   "gidx": 251,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Texte verstehen mit der PQ4R-Methode.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0251.png",
+   "txt": "build/psychosoziale/text/p0251.txt",
+   "text_len": 2037
+  },
+  {
+   "gidx": 252,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Texte verstehen mit der PQ4R-Methode.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0252.png",
+   "txt": "build/psychosoziale/text/p0252.txt",
+   "text_len": 535
+  },
+  {
+   "gidx": 253,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Versorgungslandschaft in der Weimarer Republik.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0253.png",
+   "txt": "build/psychosoziale/text/p0253.txt",
+   "text_len": 2704
+  },
+  {
+   "gidx": 254,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Versorgungslandschaft in der Weimarer Republik.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0254.png",
+   "txt": "build/psychosoziale/text/p0254.txt",
+   "text_len": 3144
+  },
+  {
+   "gidx": 255,
+   "source_pdf": "Geschichte der Psychiatrie/Artikel Erster Weltkrieg/Versorgungslandschaft in der Weimarer Republik.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0255.png",
+   "txt": "build/psychosoziale/text/p0255.txt",
+   "text_len": 1592
+  },
+  {
+   "gidx": 256,
+   "source_pdf": "Geschichte der Psychiatrie/Experten Gruppen Ausarbeitungen/Bundesverband der Psychiatrie-Erfahrenen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0256.png",
+   "txt": "build/psychosoziale/text/p0256.txt",
+   "text_len": 1510
+  },
+  {
+   "gidx": 257,
+   "source_pdf": "Geschichte der Psychiatrie/Experten Gruppen Ausarbeitungen/GPV_Geschichte_PsychSoz.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0257.png",
+   "txt": "build/psychosoziale/text/p0257.txt",
+   "text_len": 1169
+  },
+  {
+   "gidx": 258,
+   "source_pdf": "Geschichte der Psychiatrie/Experten Gruppen Ausarbeitungen/Handout Experten aus Erfahrung.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0258.png",
+   "txt": "build/psychosoziale/text/p0258.txt",
+   "text_len": 1009
+  },
+  {
+   "gidx": 259,
+   "source_pdf": "Geschichte der Psychiatrie/Experten Gruppen Ausarbeitungen/Integrierte Versorgung und bHome treatmentl.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0259.png",
+   "txt": "build/psychosoziale/text/p0259.txt",
+   "text_len": 1128
+  },
+  {
+   "gidx": 260,
+   "source_pdf": "Geschichte der Psychiatrie/Experten Gruppen Ausarbeitungen/PERSOeNLICHES BUDGET .pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0260.png",
+   "txt": "build/psychosoziale/text/p0260.txt",
+   "text_len": 2527
+  },
+  {
+   "gidx": 261,
+   "source_pdf": "Geschichte der Psychiatrie/Gruppenarbeit - Ambulante Versorgung und Selbsthilfe/Bundesverband der Angehoerigen psychisch Kranker.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0261.png",
+   "txt": "build/psychosoziale/text/p0261.txt",
+   "text_len": 1186
+  },
+  {
+   "gidx": 262,
+   "source_pdf": "Geschichte der Psychiatrie/Gruppenarbeit - Ambulante Versorgung und Selbsthilfe/Bundesverband der Psychiatrie-Erfahrenen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0262.png",
+   "txt": "build/psychosoziale/text/p0262.txt",
+   "text_len": 1877
+  },
+  {
+   "gidx": 263,
+   "source_pdf": "Geschichte der Psychiatrie/Gruppenarbeit - Ambulante Versorgung und Selbsthilfe/Experten aus Erfahrung.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0263.png",
+   "txt": "build/psychosoziale/text/p0263.txt",
+   "text_len": 2221
+  },
+  {
+   "gidx": 264,
+   "source_pdf": "Geschichte der Psychiatrie/Gruppenarbeit - Ambulante Versorgung und Selbsthilfe/Gemeindepsychiatrischer Verbund.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0264.png",
+   "txt": "build/psychosoziale/text/p0264.txt",
+   "text_len": 2300
+  },
+  {
+   "gidx": 265,
+   "source_pdf": "Geschichte der Psychiatrie/Gruppenarbeit - Ambulante Versorgung und Selbsthilfe/Integrierte Versorgung und home treatment.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0265.png",
+   "txt": "build/psychosoziale/text/p0265.txt",
+   "text_len": 3314
+  },
+  {
+   "gidx": 266,
+   "source_pdf": "Geschichte der Psychiatrie/Gruppenarbeit - Ambulante Versorgung und Selbsthilfe/Persoenliches Budget.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0266.png",
+   "txt": "build/psychosoziale/text/p0266.txt",
+   "text_len": 3253
+  },
+  {
+   "gidx": 267,
+   "source_pdf": "Geschichte der Psychiatrie/Gruppenarbeit - Ambulante Versorgung und Selbsthilfe/Persoenliches Budget.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0267.png",
+   "txt": "build/psychosoziale/text/p0267.txt",
+   "text_len": 466
+  },
+  {
+   "gidx": 268,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0268.png",
+   "txt": "build/psychosoziale/text/p0268.txt",
+   "text_len": 1093
+  },
+  {
+   "gidx": 269,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0269.png",
+   "txt": "build/psychosoziale/text/p0269.txt",
+   "text_len": 1447
+  },
+  {
+   "gidx": 270,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0270.png",
+   "txt": "build/psychosoziale/text/p0270.txt",
+   "text_len": 1533
+  },
+  {
+   "gidx": 271,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0271.png",
+   "txt": "build/psychosoziale/text/p0271.txt",
+   "text_len": 1837
+  },
+  {
+   "gidx": 272,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0272.png",
+   "txt": "build/psychosoziale/text/p0272.txt",
+   "text_len": 1679
+  },
+  {
+   "gidx": 273,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0273.png",
+   "txt": "build/psychosoziale/text/p0273.txt",
+   "text_len": 1515
+  },
+  {
+   "gidx": 274,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0274.png",
+   "txt": "build/psychosoziale/text/p0274.txt",
+   "text_len": 1674
+  },
+  {
+   "gidx": 275,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0275.png",
+   "txt": "build/psychosoziale/text/p0275.txt",
+   "text_len": 1873
+  },
+  {
+   "gidx": 276,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0276.png",
+   "txt": "build/psychosoziale/text/p0276.txt",
+   "text_len": 2420
+  },
+  {
+   "gidx": 277,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0277.png",
+   "txt": "build/psychosoziale/text/p0277.txt",
+   "text_len": 1747
+  },
+  {
+   "gidx": 278,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0278.png",
+   "txt": "build/psychosoziale/text/p0278.txt",
+   "text_len": 1672
+  },
+  {
+   "gidx": 279,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0279.png",
+   "txt": "build/psychosoziale/text/p0279.txt",
+   "text_len": 1790
+  },
+  {
+   "gidx": 280,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0280.png",
+   "txt": "build/psychosoziale/text/p0280.txt",
+   "text_len": 1877
+  },
+  {
+   "gidx": 281,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0281.png",
+   "txt": "build/psychosoziale/text/p0281.txt",
+   "text_len": 759
+  },
+  {
+   "gidx": 282,
+   "source_pdf": "Geschichte der Psychiatrie/Handout - Geschichte der Psychiatrie.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0282.png",
+   "txt": "build/psychosoziale/text/p0282.txt",
+   "text_len": 1427
+  },
+  {
+   "gidx": 283,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0283.png",
+   "txt": "build/psychosoziale/text/p0283.txt",
+   "text_len": 62
+  },
+  {
+   "gidx": 284,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0284.png",
+   "txt": "build/psychosoziale/text/p0284.txt",
+   "text_len": 385
+  },
+  {
+   "gidx": 285,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0285.png",
+   "txt": "build/psychosoziale/text/p0285.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 286,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0286.png",
+   "txt": "build/psychosoziale/text/p0286.txt",
+   "text_len": 280
+  },
+  {
+   "gidx": 287,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0287.png",
+   "txt": "build/psychosoziale/text/p0287.txt",
+   "text_len": 1039
+  },
+  {
+   "gidx": 288,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0288.png",
+   "txt": "build/psychosoziale/text/p0288.txt",
+   "text_len": 687
+  },
+  {
+   "gidx": 289,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0289.png",
+   "txt": "build/psychosoziale/text/p0289.txt",
+   "text_len": 26
+  },
+  {
+   "gidx": 290,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0290.png",
+   "txt": "build/psychosoziale/text/p0290.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 291,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0291.png",
+   "txt": "build/psychosoziale/text/p0291.txt",
+   "text_len": 844
+  },
+  {
+   "gidx": 292,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0292.png",
+   "txt": "build/psychosoziale/text/p0292.txt",
+   "text_len": 595
+  },
+  {
+   "gidx": 293,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0293.png",
+   "txt": "build/psychosoziale/text/p0293.txt",
+   "text_len": 528
+  },
+  {
+   "gidx": 294,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0294.png",
+   "txt": "build/psychosoziale/text/p0294.txt",
+   "text_len": 520
+  },
+  {
+   "gidx": 295,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0295.png",
+   "txt": "build/psychosoziale/text/p0295.txt",
+   "text_len": 598
+  },
+  {
+   "gidx": 296,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0296.png",
+   "txt": "build/psychosoziale/text/p0296.txt",
+   "text_len": 722
+  },
+  {
+   "gidx": 297,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0297.png",
+   "txt": "build/psychosoziale/text/p0297.txt",
+   "text_len": 573
+  },
+  {
+   "gidx": 298,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0298.png",
+   "txt": "build/psychosoziale/text/p0298.txt",
+   "text_len": 720
+  },
+  {
+   "gidx": 299,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0299.png",
+   "txt": "build/psychosoziale/text/p0299.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 300,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0300.png",
+   "txt": "build/psychosoziale/text/p0300.txt",
+   "text_len": 223
+  },
+  {
+   "gidx": 301,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0301.png",
+   "txt": "build/psychosoziale/text/p0301.txt",
+   "text_len": 66
+  },
+  {
+   "gidx": 302,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0302.png",
+   "txt": "build/psychosoziale/text/p0302.txt",
+   "text_len": 1025
+  },
+  {
+   "gidx": 303,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0303.png",
+   "txt": "build/psychosoziale/text/p0303.txt",
+   "text_len": 790
+  },
+  {
+   "gidx": 304,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0304.png",
+   "txt": "build/psychosoziale/text/p0304.txt",
+   "text_len": 50
+  },
+  {
+   "gidx": 305,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0305.png",
+   "txt": "build/psychosoziale/text/p0305.txt",
+   "text_len": 591
+  },
+  {
+   "gidx": 306,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0306.png",
+   "txt": "build/psychosoziale/text/p0306.txt",
+   "text_len": 995
+  },
+  {
+   "gidx": 307,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0307.png",
+   "txt": "build/psychosoziale/text/p0307.txt",
+   "text_len": 52
+  },
+  {
+   "gidx": 308,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0308.png",
+   "txt": "build/psychosoziale/text/p0308.txt",
+   "text_len": 1157
+  },
+  {
+   "gidx": 309,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 27,
+   "img": "build/psychosoziale/pages/p0309.png",
+   "txt": "build/psychosoziale/text/p0309.txt",
+   "text_len": 868
+  },
+  {
+   "gidx": 310,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 28,
+   "img": "build/psychosoziale/pages/p0310.png",
+   "txt": "build/psychosoziale/text/p0310.txt",
+   "text_len": 923
+  },
+  {
+   "gidx": 311,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 29,
+   "img": "build/psychosoziale/pages/p0311.png",
+   "txt": "build/psychosoziale/text/p0311.txt",
+   "text_len": 74
+  },
+  {
+   "gidx": 312,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 30,
+   "img": "build/psychosoziale/pages/p0312.png",
+   "txt": "build/psychosoziale/text/p0312.txt",
+   "text_len": 521
+  },
+  {
+   "gidx": 313,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 31,
+   "img": "build/psychosoziale/pages/p0313.png",
+   "txt": "build/psychosoziale/text/p0313.txt",
+   "text_len": 1108
+  },
+  {
+   "gidx": 314,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 32,
+   "img": "build/psychosoziale/pages/p0314.png",
+   "txt": "build/psychosoziale/text/p0314.txt",
+   "text_len": 521
+  },
+  {
+   "gidx": 315,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 33,
+   "img": "build/psychosoziale/pages/p0315.png",
+   "txt": "build/psychosoziale/text/p0315.txt",
+   "text_len": 534
+  },
+  {
+   "gidx": 316,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 34,
+   "img": "build/psychosoziale/pages/p0316.png",
+   "txt": "build/psychosoziale/text/p0316.txt",
+   "text_len": 199
+  },
+  {
+   "gidx": 317,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 35,
+   "img": "build/psychosoziale/pages/p0317.png",
+   "txt": "build/psychosoziale/text/p0317.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 318,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 36,
+   "img": "build/psychosoziale/pages/p0318.png",
+   "txt": "build/psychosoziale/text/p0318.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 319,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 37,
+   "img": "build/psychosoziale/pages/p0319.png",
+   "txt": "build/psychosoziale/text/p0319.txt",
+   "text_len": 802
+  },
+  {
+   "gidx": 320,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 38,
+   "img": "build/psychosoziale/pages/p0320.png",
+   "txt": "build/psychosoziale/text/p0320.txt",
+   "text_len": 413
+  },
+  {
+   "gidx": 321,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 39,
+   "img": "build/psychosoziale/pages/p0321.png",
+   "txt": "build/psychosoziale/text/p0321.txt",
+   "text_len": 696
+  },
+  {
+   "gidx": 322,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 40,
+   "img": "build/psychosoziale/pages/p0322.png",
+   "txt": "build/psychosoziale/text/p0322.txt",
+   "text_len": 997
+  },
+  {
+   "gidx": 323,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 41,
+   "img": "build/psychosoziale/pages/p0323.png",
+   "txt": "build/psychosoziale/text/p0323.txt",
+   "text_len": 497
+  },
+  {
+   "gidx": 324,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 42,
+   "img": "build/psychosoziale/pages/p0324.png",
+   "txt": "build/psychosoziale/text/p0324.txt",
+   "text_len": 690
+  },
+  {
+   "gidx": 325,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 43,
+   "img": "build/psychosoziale/pages/p0325.png",
+   "txt": "build/psychosoziale/text/p0325.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 326,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 44,
+   "img": "build/psychosoziale/pages/p0326.png",
+   "txt": "build/psychosoziale/text/p0326.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 327,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 45,
+   "img": "build/psychosoziale/pages/p0327.png",
+   "txt": "build/psychosoziale/text/p0327.txt",
+   "text_len": 719
+  },
+  {
+   "gidx": 328,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 46,
+   "img": "build/psychosoziale/pages/p0328.png",
+   "txt": "build/psychosoziale/text/p0328.txt",
+   "text_len": 644
+  },
+  {
+   "gidx": 329,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 47,
+   "img": "build/psychosoziale/pages/p0329.png",
+   "txt": "build/psychosoziale/text/p0329.txt",
+   "text_len": 619
+  },
+  {
+   "gidx": 330,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 48,
+   "img": "build/psychosoziale/pages/p0330.png",
+   "txt": "build/psychosoziale/text/p0330.txt",
+   "text_len": 693
+  },
+  {
+   "gidx": 331,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 49,
+   "img": "build/psychosoziale/pages/p0331.png",
+   "txt": "build/psychosoziale/text/p0331.txt",
+   "text_len": 663
+  },
+  {
+   "gidx": 332,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 50,
+   "img": "build/psychosoziale/pages/p0332.png",
+   "txt": "build/psychosoziale/text/p0332.txt",
+   "text_len": 982
+  },
+  {
+   "gidx": 333,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 51,
+   "img": "build/psychosoziale/pages/p0333.png",
+   "txt": "build/psychosoziale/text/p0333.txt",
+   "text_len": 904
+  },
+  {
+   "gidx": 334,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 52,
+   "img": "build/psychosoziale/pages/p0334.png",
+   "txt": "build/psychosoziale/text/p0334.txt",
+   "text_len": 78
+  },
+  {
+   "gidx": 335,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 53,
+   "img": "build/psychosoziale/pages/p0335.png",
+   "txt": "build/psychosoziale/text/p0335.txt",
+   "text_len": 791
+  },
+  {
+   "gidx": 336,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 54,
+   "img": "build/psychosoziale/pages/p0336.png",
+   "txt": "build/psychosoziale/text/p0336.txt",
+   "text_len": 701
+  },
+  {
+   "gidx": 337,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 55,
+   "img": "build/psychosoziale/pages/p0337.png",
+   "txt": "build/psychosoziale/text/p0337.txt",
+   "text_len": 448
+  },
+  {
+   "gidx": 338,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 56,
+   "img": "build/psychosoziale/pages/p0338.png",
+   "txt": "build/psychosoziale/text/p0338.txt",
+   "text_len": 759
+  },
+  {
+   "gidx": 339,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 57,
+   "img": "build/psychosoziale/pages/p0339.png",
+   "txt": "build/psychosoziale/text/p0339.txt",
+   "text_len": 1044
+  },
+  {
+   "gidx": 340,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 58,
+   "img": "build/psychosoziale/pages/p0340.png",
+   "txt": "build/psychosoziale/text/p0340.txt",
+   "text_len": 483
+  },
+  {
+   "gidx": 341,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 59,
+   "img": "build/psychosoziale/pages/p0341.png",
+   "txt": "build/psychosoziale/text/p0341.txt",
+   "text_len": 905
+  },
+  {
+   "gidx": 342,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 60,
+   "img": "build/psychosoziale/pages/p0342.png",
+   "txt": "build/psychosoziale/text/p0342.txt",
+   "text_len": 955
+  },
+  {
+   "gidx": 343,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 61,
+   "img": "build/psychosoziale/pages/p0343.png",
+   "txt": "build/psychosoziale/text/p0343.txt",
+   "text_len": 664
+  },
+  {
+   "gidx": 344,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 62,
+   "img": "build/psychosoziale/pages/p0344.png",
+   "txt": "build/psychosoziale/text/p0344.txt",
+   "text_len": 604
+  },
+  {
+   "gidx": 345,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 63,
+   "img": "build/psychosoziale/pages/p0345.png",
+   "txt": "build/psychosoziale/text/p0345.txt",
+   "text_len": 680
+  },
+  {
+   "gidx": 346,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 64,
+   "img": "build/psychosoziale/pages/p0346.png",
+   "txt": "build/psychosoziale/text/p0346.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 347,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 65,
+   "img": "build/psychosoziale/pages/p0347.png",
+   "txt": "build/psychosoziale/text/p0347.txt",
+   "text_len": 943
+  },
+  {
+   "gidx": 348,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 66,
+   "img": "build/psychosoziale/pages/p0348.png",
+   "txt": "build/psychosoziale/text/p0348.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 349,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 67,
+   "img": "build/psychosoziale/pages/p0349.png",
+   "txt": "build/psychosoziale/text/p0349.txt",
+   "text_len": 586
+  },
+  {
+   "gidx": 350,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 68,
+   "img": "build/psychosoziale/pages/p0350.png",
+   "txt": "build/psychosoziale/text/p0350.txt",
+   "text_len": 975
+  },
+  {
+   "gidx": 351,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 69,
+   "img": "build/psychosoziale/pages/p0351.png",
+   "txt": "build/psychosoziale/text/p0351.txt",
+   "text_len": 515
+  },
+  {
+   "gidx": 352,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 70,
+   "img": "build/psychosoziale/pages/p0352.png",
+   "txt": "build/psychosoziale/text/p0352.txt",
+   "text_len": 714
+  },
+  {
+   "gidx": 353,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 71,
+   "img": "build/psychosoziale/pages/p0353.png",
+   "txt": "build/psychosoziale/text/p0353.txt",
+   "text_len": 619
+  },
+  {
+   "gidx": 354,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 72,
+   "img": "build/psychosoziale/pages/p0354.png",
+   "txt": "build/psychosoziale/text/p0354.txt",
+   "text_len": 791
+  },
+  {
+   "gidx": 355,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 73,
+   "img": "build/psychosoziale/pages/p0355.png",
+   "txt": "build/psychosoziale/text/p0355.txt",
+   "text_len": 388
+  },
+  {
+   "gidx": 356,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 74,
+   "img": "build/psychosoziale/pages/p0356.png",
+   "txt": "build/psychosoziale/text/p0356.txt",
+   "text_len": 86
+  },
+  {
+   "gidx": 357,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 75,
+   "img": "build/psychosoziale/pages/p0357.png",
+   "txt": "build/psychosoziale/text/p0357.txt",
+   "text_len": 667
+  },
+  {
+   "gidx": 358,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 76,
+   "img": "build/psychosoziale/pages/p0358.png",
+   "txt": "build/psychosoziale/text/p0358.txt",
+   "text_len": 496
+  },
+  {
+   "gidx": 359,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 77,
+   "img": "build/psychosoziale/pages/p0359.png",
+   "txt": "build/psychosoziale/text/p0359.txt",
+   "text_len": 411
+  },
+  {
+   "gidx": 360,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 78,
+   "img": "build/psychosoziale/pages/p0360.png",
+   "txt": "build/psychosoziale/text/p0360.txt",
+   "text_len": 77
+  },
+  {
+   "gidx": 361,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 79,
+   "img": "build/psychosoziale/pages/p0361.png",
+   "txt": "build/psychosoziale/text/p0361.txt",
+   "text_len": 622
+  },
+  {
+   "gidx": 362,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 80,
+   "img": "build/psychosoziale/pages/p0362.png",
+   "txt": "build/psychosoziale/text/p0362.txt",
+   "text_len": 677
+  },
+  {
+   "gidx": 363,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 81,
+   "img": "build/psychosoziale/pages/p0363.png",
+   "txt": "build/psychosoziale/text/p0363.txt",
+   "text_len": 571
+  },
+  {
+   "gidx": 364,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 82,
+   "img": "build/psychosoziale/pages/p0364.png",
+   "txt": "build/psychosoziale/text/p0364.txt",
+   "text_len": 598
+  },
+  {
+   "gidx": 365,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 83,
+   "img": "build/psychosoziale/pages/p0365.png",
+   "txt": "build/psychosoziale/text/p0365.txt",
+   "text_len": 708
+  },
+  {
+   "gidx": 366,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 84,
+   "img": "build/psychosoziale/pages/p0366.png",
+   "txt": "build/psychosoziale/text/p0366.txt",
+   "text_len": 753
+  },
+  {
+   "gidx": 367,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 85,
+   "img": "build/psychosoziale/pages/p0367.png",
+   "txt": "build/psychosoziale/text/p0367.txt",
+   "text_len": 488
+  },
+  {
+   "gidx": 368,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 86,
+   "img": "build/psychosoziale/pages/p0368.png",
+   "txt": "build/psychosoziale/text/p0368.txt",
+   "text_len": 762
+  },
+  {
+   "gidx": 369,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 87,
+   "img": "build/psychosoziale/pages/p0369.png",
+   "txt": "build/psychosoziale/text/p0369.txt",
+   "text_len": 962
+  },
+  {
+   "gidx": 370,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 88,
+   "img": "build/psychosoziale/pages/p0370.png",
+   "txt": "build/psychosoziale/text/p0370.txt",
+   "text_len": 883
+  },
+  {
+   "gidx": 371,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 89,
+   "img": "build/psychosoziale/pages/p0371.png",
+   "txt": "build/psychosoziale/text/p0371.txt",
+   "text_len": 851
+  },
+  {
+   "gidx": 372,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 90,
+   "img": "build/psychosoziale/pages/p0372.png",
+   "txt": "build/psychosoziale/text/p0372.txt",
+   "text_len": 263
+  },
+  {
+   "gidx": 373,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 91,
+   "img": "build/psychosoziale/pages/p0373.png",
+   "txt": "build/psychosoziale/text/p0373.txt",
+   "text_len": 71
+  },
+  {
+   "gidx": 374,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 92,
+   "img": "build/psychosoziale/pages/p0374.png",
+   "txt": "build/psychosoziale/text/p0374.txt",
+   "text_len": 764
+  },
+  {
+   "gidx": 375,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 93,
+   "img": "build/psychosoziale/pages/p0375.png",
+   "txt": "build/psychosoziale/text/p0375.txt",
+   "text_len": 647
+  },
+  {
+   "gidx": 376,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 94,
+   "img": "build/psychosoziale/pages/p0376.png",
+   "txt": "build/psychosoziale/text/p0376.txt",
+   "text_len": 800
+  },
+  {
+   "gidx": 377,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 95,
+   "img": "build/psychosoziale/pages/p0377.png",
+   "txt": "build/psychosoziale/text/p0377.txt",
+   "text_len": 583
+  },
+  {
+   "gidx": 378,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 96,
+   "img": "build/psychosoziale/pages/p0378.png",
+   "txt": "build/psychosoziale/text/p0378.txt",
+   "text_len": 1003
+  },
+  {
+   "gidx": 379,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 97,
+   "img": "build/psychosoziale/pages/p0379.png",
+   "txt": "build/psychosoziale/text/p0379.txt",
+   "text_len": 815
+  },
+  {
+   "gidx": 380,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 98,
+   "img": "build/psychosoziale/pages/p0380.png",
+   "txt": "build/psychosoziale/text/p0380.txt",
+   "text_len": 520
+  },
+  {
+   "gidx": 381,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 99,
+   "img": "build/psychosoziale/pages/p0381.png",
+   "txt": "build/psychosoziale/text/p0381.txt",
+   "text_len": 454
+  },
+  {
+   "gidx": 382,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 100,
+   "img": "build/psychosoziale/pages/p0382.png",
+   "txt": "build/psychosoziale/text/p0382.txt",
+   "text_len": 394
+  },
+  {
+   "gidx": 383,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 101,
+   "img": "build/psychosoziale/pages/p0383.png",
+   "txt": "build/psychosoziale/text/p0383.txt",
+   "text_len": 255
+  },
+  {
+   "gidx": 384,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 102,
+   "img": "build/psychosoziale/pages/p0384.png",
+   "txt": "build/psychosoziale/text/p0384.txt",
+   "text_len": 31
+  },
+  {
+   "gidx": 385,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 103,
+   "img": "build/psychosoziale/pages/p0385.png",
+   "txt": "build/psychosoziale/text/p0385.txt",
+   "text_len": 728
+  },
+  {
+   "gidx": 386,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 104,
+   "img": "build/psychosoziale/pages/p0386.png",
+   "txt": "build/psychosoziale/text/p0386.txt",
+   "text_len": 308
+  },
+  {
+   "gidx": 387,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 105,
+   "img": "build/psychosoziale/pages/p0387.png",
+   "txt": "build/psychosoziale/text/p0387.txt",
+   "text_len": 708
+  },
+  {
+   "gidx": 388,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 106,
+   "img": "build/psychosoziale/pages/p0388.png",
+   "txt": "build/psychosoziale/text/p0388.txt",
+   "text_len": 304
+  },
+  {
+   "gidx": 389,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 107,
+   "img": "build/psychosoziale/pages/p0389.png",
+   "txt": "build/psychosoziale/text/p0389.txt",
+   "text_len": 45
+  },
+  {
+   "gidx": 390,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 108,
+   "img": "build/psychosoziale/pages/p0390.png",
+   "txt": "build/psychosoziale/text/p0390.txt",
+   "text_len": 699
+  },
+  {
+   "gidx": 391,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 109,
+   "img": "build/psychosoziale/pages/p0391.png",
+   "txt": "build/psychosoziale/text/p0391.txt",
+   "text_len": 91
+  },
+  {
+   "gidx": 392,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 110,
+   "img": "build/psychosoziale/pages/p0392.png",
+   "txt": "build/psychosoziale/text/p0392.txt",
+   "text_len": 1929
+  },
+  {
+   "gidx": 393,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 111,
+   "img": "build/psychosoziale/pages/p0393.png",
+   "txt": "build/psychosoziale/text/p0393.txt",
+   "text_len": 1596
+  },
+  {
+   "gidx": 394,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 112,
+   "img": "build/psychosoziale/pages/p0394.png",
+   "txt": "build/psychosoziale/text/p0394.txt",
+   "text_len": 1500
+  },
+  {
+   "gidx": 395,
+   "source_pdf": "Geschichte der Psychiatrie/Psychsoz BV - Geschichte der Psychiatrie.pdf",
+   "source_page": 113,
+   "img": "build/psychosoziale/pages/p0395.png",
+   "txt": "build/psychosoziale/text/p0395.txt",
+   "text_len": 504
+  },
+  {
+   "gidx": 396,
+   "source_pdf": "Gruppentherapie - Genusstraining/Ablauf der Gruppensitzungen - Genusstraining.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0396.png",
+   "txt": "build/psychosoziale/text/p0396.txt",
+   "text_len": 2044
+  },
+  {
+   "gidx": 397,
+   "source_pdf": "Gruppentherapie - Genusstraining/Erlaeuterung der Genussregeln.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0397.png",
+   "txt": "build/psychosoziale/text/p0397.txt",
+   "text_len": 2900
+  },
+  {
+   "gidx": 398,
+   "source_pdf": "Gruppentherapie - Genusstraining/Erlaeuterung der Genussregeln.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0398.png",
+   "txt": "build/psychosoziale/text/p0398.txt",
+   "text_len": 3568
+  },
+  {
+   "gidx": 399,
+   "source_pdf": "Gruppentherapie - Genusstraining/Erlaeuterung der Genussregeln.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0399.png",
+   "txt": "build/psychosoziale/text/p0399.txt",
+   "text_len": 2864
+  },
+  {
+   "gidx": 400,
+   "source_pdf": "Gruppentherapie - Genusstraining/Erlaeuterung der Genussregeln.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0400.png",
+   "txt": "build/psychosoziale/text/p0400.txt",
+   "text_len": 3247
+  },
+  {
+   "gidx": 401,
+   "source_pdf": "Gruppentherapie - Genusstraining/Erlaeuterung der Genussregeln.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0401.png",
+   "txt": "build/psychosoziale/text/p0401.txt",
+   "text_len": 1771
+  },
+  {
+   "gidx": 402,
+   "source_pdf": "Gruppentherapie - Genusstraining/Genusstraining n Euthyme Verfahren -Artikel.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0402.png",
+   "txt": "build/psychosoziale/text/p0402.txt",
+   "text_len": 3413
+  },
+  {
+   "gidx": 403,
+   "source_pdf": "Gruppentherapie - Genusstraining/Genusstraining n Euthyme Verfahren -Artikel.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0403.png",
+   "txt": "build/psychosoziale/text/p0403.txt",
+   "text_len": 5226
+  },
+  {
+   "gidx": 404,
+   "source_pdf": "Gruppentherapie - Genusstraining/Genusstraining n Euthyme Verfahren -Artikel.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0404.png",
+   "txt": "build/psychosoziale/text/p0404.txt",
+   "text_len": 5568
+  },
+  {
+   "gidx": 405,
+   "source_pdf": "Gruppentherapie - Genusstraining/Genusstraining n Euthyme Verfahren -Artikel.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0405.png",
+   "txt": "build/psychosoziale/text/p0405.txt",
+   "text_len": 5244
+  },
+  {
+   "gidx": 406,
+   "source_pdf": "Gruppentherapie - Genusstraining/Genusstraining n Euthyme Verfahren -Artikel.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0406.png",
+   "txt": "build/psychosoziale/text/p0406.txt",
+   "text_len": 4795
+  },
+  {
+   "gidx": 407,
+   "source_pdf": "Gruppentherapie - Genusstraining/Genusstraining n Euthyme Verfahren -Artikel.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0407.png",
+   "txt": "build/psychosoziale/text/p0407.txt",
+   "text_len": 4436
+  },
+  {
+   "gidx": 408,
+   "source_pdf": "Gruppentherapie - Genusstraining/Genusstraining n Euthyme Verfahren -Artikel.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0408.png",
+   "txt": "build/psychosoziale/text/p0408.txt",
+   "text_len": 2412
+  },
+  {
+   "gidx": 409,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0409.png",
+   "txt": "build/psychosoziale/text/p0409.txt",
+   "text_len": 53
+  },
+  {
+   "gidx": 410,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0410.png",
+   "txt": "build/psychosoziale/text/p0410.txt",
+   "text_len": 304
+  },
+  {
+   "gidx": 411,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0411.png",
+   "txt": "build/psychosoziale/text/p0411.txt",
+   "text_len": 503
+  },
+  {
+   "gidx": 412,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0412.png",
+   "txt": "build/psychosoziale/text/p0412.txt",
+   "text_len": 718
+  },
+  {
+   "gidx": 413,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0413.png",
+   "txt": "build/psychosoziale/text/p0413.txt",
+   "text_len": 388
+  },
+  {
+   "gidx": 414,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0414.png",
+   "txt": "build/psychosoziale/text/p0414.txt",
+   "text_len": 517
+  },
+  {
+   "gidx": 415,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0415.png",
+   "txt": "build/psychosoziale/text/p0415.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 416,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0416.png",
+   "txt": "build/psychosoziale/text/p0416.txt",
+   "text_len": 612
+  },
+  {
+   "gidx": 417,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0417.png",
+   "txt": "build/psychosoziale/text/p0417.txt",
+   "text_len": 631
+  },
+  {
+   "gidx": 418,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0418.png",
+   "txt": "build/psychosoziale/text/p0418.txt",
+   "text_len": 443
+  },
+  {
+   "gidx": 419,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0419.png",
+   "txt": "build/psychosoziale/text/p0419.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 420,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0420.png",
+   "txt": "build/psychosoziale/text/p0420.txt",
+   "text_len": 18
+  },
+  {
+   "gidx": 421,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0421.png",
+   "txt": "build/psychosoziale/text/p0421.txt",
+   "text_len": 590
+  },
+  {
+   "gidx": 422,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0422.png",
+   "txt": "build/psychosoziale/text/p0422.txt",
+   "text_len": 454
+  },
+  {
+   "gidx": 423,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0423.png",
+   "txt": "build/psychosoziale/text/p0423.txt",
+   "text_len": 33
+  },
+  {
+   "gidx": 424,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0424.png",
+   "txt": "build/psychosoziale/text/p0424.txt",
+   "text_len": 247
+  },
+  {
+   "gidx": 425,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0425.png",
+   "txt": "build/psychosoziale/text/p0425.txt",
+   "text_len": 702
+  },
+  {
+   "gidx": 426,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0426.png",
+   "txt": "build/psychosoziale/text/p0426.txt",
+   "text_len": 26
+  },
+  {
+   "gidx": 427,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0427.png",
+   "txt": "build/psychosoziale/text/p0427.txt",
+   "text_len": 625
+  },
+  {
+   "gidx": 428,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0428.png",
+   "txt": "build/psychosoziale/text/p0428.txt",
+   "text_len": 246
+  },
+  {
+   "gidx": 429,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0429.png",
+   "txt": "build/psychosoziale/text/p0429.txt",
+   "text_len": 2
+  },
+  {
+   "gidx": 430,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0430.png",
+   "txt": "build/psychosoziale/text/p0430.txt",
+   "text_len": 18
+  },
+  {
+   "gidx": 431,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0431.png",
+   "txt": "build/psychosoziale/text/p0431.txt",
+   "text_len": 560
+  },
+  {
+   "gidx": 432,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0432.png",
+   "txt": "build/psychosoziale/text/p0432.txt",
+   "text_len": 311
+  },
+  {
+   "gidx": 433,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0433.png",
+   "txt": "build/psychosoziale/text/p0433.txt",
+   "text_len": 29
+  },
+  {
+   "gidx": 434,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0434.png",
+   "txt": "build/psychosoziale/text/p0434.txt",
+   "text_len": 225
+  },
+  {
+   "gidx": 435,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 27,
+   "img": "build/psychosoziale/pages/p0435.png",
+   "txt": "build/psychosoziale/text/p0435.txt",
+   "text_len": 51
+  },
+  {
+   "gidx": 436,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 28,
+   "img": "build/psychosoziale/pages/p0436.png",
+   "txt": "build/psychosoziale/text/p0436.txt",
+   "text_len": 320
+  },
+  {
+   "gidx": 437,
+   "source_pdf": "Gruppentherapie - Genusstraining/Psych-soz. BV. - Genusstraining.pdf",
+   "source_page": 29,
+   "img": "build/psychosoziale/pages/p0437.png",
+   "txt": "build/psychosoziale/text/p0437.txt",
+   "text_len": 504
+  },
+  {
+   "gidx": 438,
+   "source_pdf": "Probefragen zur Wiederholung/Uebung Psych-Soz BV ET 18 Aaamp;B.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0438.png",
+   "txt": "build/psychosoziale/text/p0438.txt",
+   "text_len": 388
+  },
+  {
+   "gidx": 439,
+   "source_pdf": "Probefragen zur Wiederholung/Uebung Psych-Soz BV ET 18 Aaamp;B.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0439.png",
+   "txt": "build/psychosoziale/text/p0439.txt",
+   "text_len": 858
+  },
+  {
+   "gidx": 440,
+   "source_pdf": "Probefragen zur Wiederholung/Uebung Psych-Soz BV ET 18 Aaamp;B.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0440.png",
+   "txt": "build/psychosoziale/text/p0440.txt",
+   "text_len": 284
+  },
+  {
+   "gidx": 441,
+   "source_pdf": "Probefragen zur Wiederholung/Uebung Psych-Soz BV ET 18 Aaamp;B.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0441.png",
+   "txt": "build/psychosoziale/text/p0441.txt",
+   "text_len": 156
+  },
+  {
+   "gidx": 442,
+   "source_pdf": "Probefragen zur Wiederholung/Uebung Psych-Soz BV ET 18 Aaamp;B.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0442.png",
+   "txt": "build/psychosoziale/text/p0442.txt",
+   "text_len": 1046
+  },
+  {
+   "gidx": 443,
+   "source_pdf": "Probefragen zur Wiederholung/Uebung Psych-Soz BV ET 18 Aaamp;B.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0443.png",
+   "txt": "build/psychosoziale/text/p0443.txt",
+   "text_len": 589
+  },
+  {
+   "gidx": 444,
+   "source_pdf": "Probefragen zur Wiederholung/Uebung Psych-Soz BV ET 18 Aaamp;B.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0444.png",
+   "txt": "build/psychosoziale/text/p0444.txt",
+   "text_len": 101
+  },
+  {
+   "gidx": 445,
+   "source_pdf": "Psych KG und Suizidalität/Anträge/aerztl. Unterlagen unverzuegl. Behandlung.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0445.png",
+   "txt": "build/psychosoziale/text/p0445.txt",
+   "text_len": 3045
+  },
+  {
+   "gidx": 446,
+   "source_pdf": "Psych KG und Suizidalität/Anträge/aerztl. Unterlagen unverzuegl. Behandlung.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0446.png",
+   "txt": "build/psychosoziale/text/p0446.txt",
+   "text_len": 1913
+  },
+  {
+   "gidx": 447,
+   "source_pdf": "Psych KG und Suizidalität/Anträge/aerztl. Zeugnis freiheitsentziehender Massnahmen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0447.png",
+   "txt": "build/psychosoziale/text/p0447.txt",
+   "text_len": 1331
+  },
+  {
+   "gidx": 448,
+   "source_pdf": "Psych KG und Suizidalität/Anträge/aerztl. Zeugnis freiheitsentziehender Massnahmen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0448.png",
+   "txt": "build/psychosoziale/text/p0448.txt",
+   "text_len": 1102
+  },
+  {
+   "gidx": 449,
+   "source_pdf": "Psych KG und Suizidalität/Anträge/Antrag gesch. Unterbringung.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0449.png",
+   "txt": "build/psychosoziale/text/p0449.txt",
+   "text_len": 2386
+  },
+  {
+   "gidx": 450,
+   "source_pdf": "Psych KG und Suizidalität/Anträge/Antrag gesch. Unterbringung.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0450.png",
+   "txt": "build/psychosoziale/text/p0450.txt",
+   "text_len": 1812
+  },
+  {
+   "gidx": 451,
+   "source_pdf": "Psych KG und Suizidalität/Anträge/Antrag-Zwangsbehandlung.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0451.png",
+   "txt": "build/psychosoziale/text/p0451.txt",
+   "text_len": 2131
+  },
+  {
+   "gidx": 452,
+   "source_pdf": "Psych KG und Suizidalität/Anträge/Antrag-Zwangsbehandlung.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0452.png",
+   "txt": "build/psychosoziale/text/p0452.txt",
+   "text_len": 2397
+  },
+  {
+   "gidx": 453,
+   "source_pdf": "Psych KG und Suizidalität/medienguide.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0453.png",
+   "txt": "build/psychosoziale/text/p0453.txt",
+   "text_len": 188
+  },
+  {
+   "gidx": 454,
+   "source_pdf": "Psych KG und Suizidalität/medienguide.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0454.png",
+   "txt": "build/psychosoziale/text/p0454.txt",
+   "text_len": 1272
+  },
+  {
+   "gidx": 455,
+   "source_pdf": "Psych KG und Suizidalität/medienguide.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0455.png",
+   "txt": "build/psychosoziale/text/p0455.txt",
+   "text_len": 923
+  },
+  {
+   "gidx": 456,
+   "source_pdf": "Psych KG und Suizidalität/medienguide.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0456.png",
+   "txt": "build/psychosoziale/text/p0456.txt",
+   "text_len": 903
+  },
+  {
+   "gidx": 457,
+   "source_pdf": "Psych KG und Suizidalität/medienguide.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0457.png",
+   "txt": "build/psychosoziale/text/p0457.txt",
+   "text_len": 1213
+  },
+  {
+   "gidx": 458,
+   "source_pdf": "Psych KG und Suizidalität/medienguide.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0458.png",
+   "txt": "build/psychosoziale/text/p0458.txt",
+   "text_len": 1548
+  },
+  {
+   "gidx": 459,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0459.png",
+   "txt": "build/psychosoziale/text/p0459.txt",
+   "text_len": 56
+  },
+  {
+   "gidx": 460,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0460.png",
+   "txt": "build/psychosoziale/text/p0460.txt",
+   "text_len": 239
+  },
+  {
+   "gidx": 461,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0461.png",
+   "txt": "build/psychosoziale/text/p0461.txt",
+   "text_len": 953
+  },
+  {
+   "gidx": 462,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0462.png",
+   "txt": "build/psychosoziale/text/p0462.txt",
+   "text_len": 478
+  },
+  {
+   "gidx": 463,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0463.png",
+   "txt": "build/psychosoziale/text/p0463.txt",
+   "text_len": 1229
+  },
+  {
+   "gidx": 464,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0464.png",
+   "txt": "build/psychosoziale/text/p0464.txt",
+   "text_len": 1132
+  },
+  {
+   "gidx": 465,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0465.png",
+   "txt": "build/psychosoziale/text/p0465.txt",
+   "text_len": 1
+  },
+  {
+   "gidx": 466,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0466.png",
+   "txt": "build/psychosoziale/text/p0466.txt",
+   "text_len": 884
+  },
+  {
+   "gidx": 467,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0467.png",
+   "txt": "build/psychosoziale/text/p0467.txt",
+   "text_len": 941
+  },
+  {
+   "gidx": 468,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0468.png",
+   "txt": "build/psychosoziale/text/p0468.txt",
+   "text_len": 1388
+  },
+  {
+   "gidx": 469,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0469.png",
+   "txt": "build/psychosoziale/text/p0469.txt",
+   "text_len": 292
+  },
+  {
+   "gidx": 470,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0470.png",
+   "txt": "build/psychosoziale/text/p0470.txt",
+   "text_len": 551
+  },
+  {
+   "gidx": 471,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0471.png",
+   "txt": "build/psychosoziale/text/p0471.txt",
+   "text_len": 23
+  },
+  {
+   "gidx": 472,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0472.png",
+   "txt": "build/psychosoziale/text/p0472.txt",
+   "text_len": 857
+  },
+  {
+   "gidx": 473,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0473.png",
+   "txt": "build/psychosoziale/text/p0473.txt",
+   "text_len": 712
+  },
+  {
+   "gidx": 474,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0474.png",
+   "txt": "build/psychosoziale/text/p0474.txt",
+   "text_len": 335
+  },
+  {
+   "gidx": 475,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0475.png",
+   "txt": "build/psychosoziale/text/p0475.txt",
+   "text_len": 558
+  },
+  {
+   "gidx": 476,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0476.png",
+   "txt": "build/psychosoziale/text/p0476.txt",
+   "text_len": 1073
+  },
+  {
+   "gidx": 477,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0477.png",
+   "txt": "build/psychosoziale/text/p0477.txt",
+   "text_len": 1152
+  },
+  {
+   "gidx": 478,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0478.png",
+   "txt": "build/psychosoziale/text/p0478.txt",
+   "text_len": 1072
+  },
+  {
+   "gidx": 479,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0479.png",
+   "txt": "build/psychosoziale/text/p0479.txt",
+   "text_len": 216
+  },
+  {
+   "gidx": 480,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0480.png",
+   "txt": "build/psychosoziale/text/p0480.txt",
+   "text_len": 660
+  },
+  {
+   "gidx": 481,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0481.png",
+   "txt": "build/psychosoziale/text/p0481.txt",
+   "text_len": 1714
+  },
+  {
+   "gidx": 482,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0482.png",
+   "txt": "build/psychosoziale/text/p0482.txt",
+   "text_len": 1145
+  },
+  {
+   "gidx": 483,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0483.png",
+   "txt": "build/psychosoziale/text/p0483.txt",
+   "text_len": 785
+  },
+  {
+   "gidx": 484,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0484.png",
+   "txt": "build/psychosoziale/text/p0484.txt",
+   "text_len": 1163
+  },
+  {
+   "gidx": 485,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 27,
+   "img": "build/psychosoziale/pages/p0485.png",
+   "txt": "build/psychosoziale/text/p0485.txt",
+   "text_len": 840
+  },
+  {
+   "gidx": 486,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 28,
+   "img": "build/psychosoziale/pages/p0486.png",
+   "txt": "build/psychosoziale/text/p0486.txt",
+   "text_len": 781
+  },
+  {
+   "gidx": 487,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 29,
+   "img": "build/psychosoziale/pages/p0487.png",
+   "txt": "build/psychosoziale/text/p0487.txt",
+   "text_len": 961
+  },
+  {
+   "gidx": 488,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 30,
+   "img": "build/psychosoziale/pages/p0488.png",
+   "txt": "build/psychosoziale/text/p0488.txt",
+   "text_len": 410
+  },
+  {
+   "gidx": 489,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 31,
+   "img": "build/psychosoziale/pages/p0489.png",
+   "txt": "build/psychosoziale/text/p0489.txt",
+   "text_len": 54
+  },
+  {
+   "gidx": 490,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 32,
+   "img": "build/psychosoziale/pages/p0490.png",
+   "txt": "build/psychosoziale/text/p0490.txt",
+   "text_len": 105
+  },
+  {
+   "gidx": 491,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 33,
+   "img": "build/psychosoziale/pages/p0491.png",
+   "txt": "build/psychosoziale/text/p0491.txt",
+   "text_len": 1541
+  },
+  {
+   "gidx": 492,
+   "source_pdf": "Psych KG und Suizidalität/Psych-Soz BV - PsychKG aamp; Suizidalitaet.pdf",
+   "source_page": 34,
+   "img": "build/psychosoziale/pages/p0492.png",
+   "txt": "build/psychosoziale/text/p0492.txt",
+   "text_len": 504
+  },
+  {
+   "gidx": 493,
+   "source_pdf": "Psych KG und Suizidalität/Suizidpraeventionsbericht_WHO_Zusammenfassung.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0493.png",
+   "txt": "build/psychosoziale/text/p0493.txt",
+   "text_len": 361
+  },
+  {
+   "gidx": 494,
+   "source_pdf": "Psych KG und Suizidalität/Suizidpraeventionsbericht_WHO_Zusammenfassung.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0494.png",
+   "txt": "build/psychosoziale/text/p0494.txt",
+   "text_len": 11
+  },
+  {
+   "gidx": 495,
+   "source_pdf": "Psych KG und Suizidalität/Suizidpraeventionsbericht_WHO_Zusammenfassung.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0495.png",
+   "txt": "build/psychosoziale/text/p0495.txt",
+   "text_len": 4151
+  },
+  {
+   "gidx": 496,
+   "source_pdf": "Psych KG und Suizidalität/Suizidpraeventionsbericht_WHO_Zusammenfassung.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0496.png",
+   "txt": "build/psychosoziale/text/p0496.txt",
+   "text_len": 5112
+  },
+  {
+   "gidx": 497,
+   "source_pdf": "Psych KG und Suizidalität/Suizidpraeventionsbericht_WHO_Zusammenfassung.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0497.png",
+   "txt": "build/psychosoziale/text/p0497.txt",
+   "text_len": 5126
+  },
+  {
+   "gidx": 498,
+   "source_pdf": "Psych KG und Suizidalität/Suizidpraeventionsbericht_WHO_Zusammenfassung.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0498.png",
+   "txt": "build/psychosoziale/text/p0498.txt",
+   "text_len": 1399
+  },
+  {
+   "gidx": 499,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0499.png",
+   "txt": "build/psychosoziale/text/p0499.txt",
+   "text_len": 66
+  },
+  {
+   "gidx": 500,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0500.png",
+   "txt": "build/psychosoziale/text/p0500.txt",
+   "text_len": 325
+  },
+  {
+   "gidx": 501,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0501.png",
+   "txt": "build/psychosoziale/text/p0501.txt",
+   "text_len": 1065
+  },
+  {
+   "gidx": 502,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0502.png",
+   "txt": "build/psychosoziale/text/p0502.txt",
+   "text_len": 32
+  },
+  {
+   "gidx": 503,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0503.png",
+   "txt": "build/psychosoziale/text/p0503.txt",
+   "text_len": 39
+  },
+  {
+   "gidx": 504,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0504.png",
+   "txt": "build/psychosoziale/text/p0504.txt",
+   "text_len": 348
+  },
+  {
+   "gidx": 505,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0505.png",
+   "txt": "build/psychosoziale/text/p0505.txt",
+   "text_len": 561
+  },
+  {
+   "gidx": 506,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0506.png",
+   "txt": "build/psychosoziale/text/p0506.txt",
+   "text_len": 547
+  },
+  {
+   "gidx": 507,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0507.png",
+   "txt": "build/psychosoziale/text/p0507.txt",
+   "text_len": 602
+  },
+  {
+   "gidx": 508,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0508.png",
+   "txt": "build/psychosoziale/text/p0508.txt",
+   "text_len": 50
+  },
+  {
+   "gidx": 509,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0509.png",
+   "txt": "build/psychosoziale/text/p0509.txt",
+   "text_len": 257
+  },
+  {
+   "gidx": 510,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0510.png",
+   "txt": "build/psychosoziale/text/p0510.txt",
+   "text_len": 321
+  },
+  {
+   "gidx": 511,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0511.png",
+   "txt": "build/psychosoziale/text/p0511.txt",
+   "text_len": 385
+  },
+  {
+   "gidx": 512,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0512.png",
+   "txt": "build/psychosoziale/text/p0512.txt",
+   "text_len": 474
+  },
+  {
+   "gidx": 513,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0513.png",
+   "txt": "build/psychosoziale/text/p0513.txt",
+   "text_len": 42
+  },
+  {
+   "gidx": 514,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0514.png",
+   "txt": "build/psychosoziale/text/p0514.txt",
+   "text_len": 479
+  },
+  {
+   "gidx": 515,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0515.png",
+   "txt": "build/psychosoziale/text/p0515.txt",
+   "text_len": 290
+  },
+  {
+   "gidx": 516,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0516.png",
+   "txt": "build/psychosoziale/text/p0516.txt",
+   "text_len": 317
+  },
+  {
+   "gidx": 517,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0517.png",
+   "txt": "build/psychosoziale/text/p0517.txt",
+   "text_len": 222
+  },
+  {
+   "gidx": 518,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0518.png",
+   "txt": "build/psychosoziale/text/p0518.txt",
+   "text_len": 262
+  },
+  {
+   "gidx": 519,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0519.png",
+   "txt": "build/psychosoziale/text/p0519.txt",
+   "text_len": 826
+  },
+  {
+   "gidx": 520,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0520.png",
+   "txt": "build/psychosoziale/text/p0520.txt",
+   "text_len": 42
+  },
+  {
+   "gidx": 521,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0521.png",
+   "txt": "build/psychosoziale/text/p0521.txt",
+   "text_len": 502
+  },
+  {
+   "gidx": 522,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0522.png",
+   "txt": "build/psychosoziale/text/p0522.txt",
+   "text_len": 786
+  },
+  {
+   "gidx": 523,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0523.png",
+   "txt": "build/psychosoziale/text/p0523.txt",
+   "text_len": 442
+  },
+  {
+   "gidx": 524,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0524.png",
+   "txt": "build/psychosoziale/text/p0524.txt",
+   "text_len": 434
+  },
+  {
+   "gidx": 525,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 27,
+   "img": "build/psychosoziale/pages/p0525.png",
+   "txt": "build/psychosoziale/text/p0525.txt",
+   "text_len": 554
+  },
+  {
+   "gidx": 526,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 28,
+   "img": "build/psychosoziale/pages/p0526.png",
+   "txt": "build/psychosoziale/text/p0526.txt",
+   "text_len": 73
+  },
+  {
+   "gidx": 527,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 29,
+   "img": "build/psychosoziale/pages/p0527.png",
+   "txt": "build/psychosoziale/text/p0527.txt",
+   "text_len": 634
+  },
+  {
+   "gidx": 528,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 30,
+   "img": "build/psychosoziale/pages/p0528.png",
+   "txt": "build/psychosoziale/text/p0528.txt",
+   "text_len": 395
+  },
+  {
+   "gidx": 529,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 31,
+   "img": "build/psychosoziale/pages/p0529.png",
+   "txt": "build/psychosoziale/text/p0529.txt",
+   "text_len": 626
+  },
+  {
+   "gidx": 530,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 32,
+   "img": "build/psychosoziale/pages/p0530.png",
+   "txt": "build/psychosoziale/text/p0530.txt",
+   "text_len": 69
+  },
+  {
+   "gidx": 531,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 33,
+   "img": "build/psychosoziale/pages/p0531.png",
+   "txt": "build/psychosoziale/text/p0531.txt",
+   "text_len": 650
+  },
+  {
+   "gidx": 532,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 34,
+   "img": "build/psychosoziale/pages/p0532.png",
+   "txt": "build/psychosoziale/text/p0532.txt",
+   "text_len": 407
+  },
+  {
+   "gidx": 533,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 35,
+   "img": "build/psychosoziale/pages/p0533.png",
+   "txt": "build/psychosoziale/text/p0533.txt",
+   "text_len": 637
+  },
+  {
+   "gidx": 534,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 36,
+   "img": "build/psychosoziale/pages/p0534.png",
+   "txt": "build/psychosoziale/text/p0534.txt",
+   "text_len": 689
+  },
+  {
+   "gidx": 535,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 37,
+   "img": "build/psychosoziale/pages/p0535.png",
+   "txt": "build/psychosoziale/text/p0535.txt",
+   "text_len": 730
+  },
+  {
+   "gidx": 536,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 38,
+   "img": "build/psychosoziale/pages/p0536.png",
+   "txt": "build/psychosoziale/text/p0536.txt",
+   "text_len": 55
+  },
+  {
+   "gidx": 537,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 39,
+   "img": "build/psychosoziale/pages/p0537.png",
+   "txt": "build/psychosoziale/text/p0537.txt",
+   "text_len": 1068
+  },
+  {
+   "gidx": 538,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 40,
+   "img": "build/psychosoziale/pages/p0538.png",
+   "txt": "build/psychosoziale/text/p0538.txt",
+   "text_len": 52
+  },
+  {
+   "gidx": 539,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 41,
+   "img": "build/psychosoziale/pages/p0539.png",
+   "txt": "build/psychosoziale/text/p0539.txt",
+   "text_len": 563
+  },
+  {
+   "gidx": 540,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Die sozialpsychiatrische Versorgungslandschaft.pdf",
+   "source_page": 42,
+   "img": "build/psychosoziale/pages/p0540.png",
+   "txt": "build/psychosoziale/text/p0540.txt",
+   "text_len": 504
+  },
+  {
+   "gidx": 541,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0541.png",
+   "txt": "build/psychosoziale/text/p0541.txt",
+   "text_len": 118
+  },
+  {
+   "gidx": 542,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0542.png",
+   "txt": "build/psychosoziale/text/p0542.txt",
+   "text_len": 278
+  },
+  {
+   "gidx": 543,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0543.png",
+   "txt": "build/psychosoziale/text/p0543.txt",
+   "text_len": 187
+  },
+  {
+   "gidx": 544,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0544.png",
+   "txt": "build/psychosoziale/text/p0544.txt",
+   "text_len": 30
+  },
+  {
+   "gidx": 545,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0545.png",
+   "txt": "build/psychosoziale/text/p0545.txt",
+   "text_len": 338
+  },
+  {
+   "gidx": 546,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0546.png",
+   "txt": "build/psychosoziale/text/p0546.txt",
+   "text_len": 607
+  },
+  {
+   "gidx": 547,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0547.png",
+   "txt": "build/psychosoziale/text/p0547.txt",
+   "text_len": 413
+  },
+  {
+   "gidx": 548,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0548.png",
+   "txt": "build/psychosoziale/text/p0548.txt",
+   "text_len": 650
+  },
+  {
+   "gidx": 549,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0549.png",
+   "txt": "build/psychosoziale/text/p0549.txt",
+   "text_len": 448
+  },
+  {
+   "gidx": 550,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0550.png",
+   "txt": "build/psychosoziale/text/p0550.txt",
+   "text_len": 777
+  },
+  {
+   "gidx": 551,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0551.png",
+   "txt": "build/psychosoziale/text/p0551.txt",
+   "text_len": 504
+  },
+  {
+   "gidx": 552,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0552.png",
+   "txt": "build/psychosoziale/text/p0552.txt",
+   "text_len": 810
+  },
+  {
+   "gidx": 553,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0553.png",
+   "txt": "build/psychosoziale/text/p0553.txt",
+   "text_len": 743
+  },
+  {
+   "gidx": 554,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0554.png",
+   "txt": "build/psychosoziale/text/p0554.txt",
+   "text_len": 22
+  },
+  {
+   "gidx": 555,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0555.png",
+   "txt": "build/psychosoziale/text/p0555.txt",
+   "text_len": 986
+  },
+  {
+   "gidx": 556,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0556.png",
+   "txt": "build/psychosoziale/text/p0556.txt",
+   "text_len": 783
+  },
+  {
+   "gidx": 557,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0557.png",
+   "txt": "build/psychosoziale/text/p0557.txt",
+   "text_len": 2
+  },
+  {
+   "gidx": 558,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0558.png",
+   "txt": "build/psychosoziale/text/p0558.txt",
+   "text_len": 791
+  },
+  {
+   "gidx": 559,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0559.png",
+   "txt": "build/psychosoziale/text/p0559.txt",
+   "text_len": 749
+  },
+  {
+   "gidx": 560,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0560.png",
+   "txt": "build/psychosoziale/text/p0560.txt",
+   "text_len": 814
+  },
+  {
+   "gidx": 561,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0561.png",
+   "txt": "build/psychosoziale/text/p0561.txt",
+   "text_len": 649
+  },
+  {
+   "gidx": 562,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0562.png",
+   "txt": "build/psychosoziale/text/p0562.txt",
+   "text_len": 1038
+  },
+  {
+   "gidx": 563,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0563.png",
+   "txt": "build/psychosoziale/text/p0563.txt",
+   "text_len": 1169
+  },
+  {
+   "gidx": 564,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0564.png",
+   "txt": "build/psychosoziale/text/p0564.txt",
+   "text_len": 1939
+  },
+  {
+   "gidx": 565,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0565.png",
+   "txt": "build/psychosoziale/text/p0565.txt",
+   "text_len": 512
+  },
+  {
+   "gidx": 566,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0566.png",
+   "txt": "build/psychosoziale/text/p0566.txt",
+   "text_len": 586
+  },
+  {
+   "gidx": 567,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 27,
+   "img": "build/psychosoziale/pages/p0567.png",
+   "txt": "build/psychosoziale/text/p0567.txt",
+   "text_len": 656
+  },
+  {
+   "gidx": 568,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 28,
+   "img": "build/psychosoziale/pages/p0568.png",
+   "txt": "build/psychosoziale/text/p0568.txt",
+   "text_len": 49
+  },
+  {
+   "gidx": 569,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 29,
+   "img": "build/psychosoziale/pages/p0569.png",
+   "txt": "build/psychosoziale/text/p0569.txt",
+   "text_len": 2356
+  },
+  {
+   "gidx": 570,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psych-soz BV - Therapieformen.pdf",
+   "source_page": 30,
+   "img": "build/psychosoziale/pages/p0570.png",
+   "txt": "build/psychosoziale/text/p0570.txt",
+   "text_len": 504
+  },
+  {
+   "gidx": 571,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psychsoz BV - Das Who is Who der Psychotherapie.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0571.png",
+   "txt": "build/psychosoziale/text/p0571.txt",
+   "text_len": 91
+  },
+  {
+   "gidx": 572,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psychsoz BV - Das Who is Who der Psychotherapie.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0572.png",
+   "txt": "build/psychosoziale/text/p0572.txt",
+   "text_len": 411
+  },
+  {
+   "gidx": 573,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psychsoz BV - Das Who is Who der Psychotherapie.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0573.png",
+   "txt": "build/psychosoziale/text/p0573.txt",
+   "text_len": 433
+  },
+  {
+   "gidx": 574,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psychsoz BV - Das Who is Who der Psychotherapie.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0574.png",
+   "txt": "build/psychosoziale/text/p0574.txt",
+   "text_len": 516
+  },
+  {
+   "gidx": 575,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psychsoz BV - Das Who is Who der Psychotherapie.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0575.png",
+   "txt": "build/psychosoziale/text/p0575.txt",
+   "text_len": 270
+  },
+  {
+   "gidx": 576,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psychsoz BV - Das Who is Who der Psychotherapie.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0576.png",
+   "txt": "build/psychosoziale/text/p0576.txt",
+   "text_len": 380
+  },
+  {
+   "gidx": 577,
+   "source_pdf": "Psychosoziale Versorgungslandschaft/psychsoz BV - Das Who is Who der Psychotherapie.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0577.png",
+   "txt": "build/psychosoziale/text/p0577.txt",
+   "text_len": 726
+  },
+  {
+   "gidx": 578,
+   "source_pdf": "Versorgungsstrukturen in der Psychiatrie.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0578.png",
+   "txt": "build/psychosoziale/text/p0578.txt",
+   "text_len": 5052
+  },
+  {
+   "gidx": 579,
+   "source_pdf": "Versorgungsstrukturen in der Psychiatrie.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0579.png",
+   "txt": "build/psychosoziale/text/p0579.txt",
+   "text_len": 2841
+  },
+  {
+   "gidx": 580,
+   "source_pdf": "Versorgungsstrukturen in der Psychiatrie.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0580.png",
+   "txt": "build/psychosoziale/text/p0580.txt",
+   "text_len": 6566
+  },
+  {
+   "gidx": 581,
+   "source_pdf": "Versorgungsstrukturen in der Psychiatrie.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0581.png",
+   "txt": "build/psychosoziale/text/p0581.txt",
+   "text_len": 5659
+  },
+  {
+   "gidx": 582,
+   "source_pdf": "Versorgungsstrukturen in der Psychiatrie.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0582.png",
+   "txt": "build/psychosoziale/text/p0582.txt",
+   "text_len": 4097
+  },
+  {
+   "gidx": 583,
+   "source_pdf": "Versorgungsstrukturen in der Psychiatrie.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0583.png",
+   "txt": "build/psychosoziale/text/p0583.txt",
+   "text_len": 6015
+  },
+  {
+   "gidx": 584,
+   "source_pdf": "Versorgungsstrukturen in der Psychiatrie.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0584.png",
+   "txt": "build/psychosoziale/text/p0584.txt",
+   "text_len": 5962
+  },
+  {
+   "gidx": 585,
+   "source_pdf": "Versorgungsstrukturen in der Psychiatrie.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0585.png",
+   "txt": "build/psychosoziale/text/p0585.txt",
+   "text_len": 5014
+  },
+  {
+   "gidx": 586,
+   "source_pdf": "Versorgungsstrukturen in der Psychiatrie.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0586.png",
+   "txt": "build/psychosoziale/text/p0586.txt",
+   "text_len": 2433
+  },
+  {
+   "gidx": 587,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0587.png",
+   "txt": "build/psychosoziale/text/p0587.txt",
+   "text_len": 2118
+  },
+  {
+   "gidx": 588,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0588.png",
+   "txt": "build/psychosoziale/text/p0588.txt",
+   "text_len": 2347
+  },
+  {
+   "gidx": 589,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0589.png",
+   "txt": "build/psychosoziale/text/p0589.txt",
+   "text_len": 1194
+  },
+  {
+   "gidx": 590,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0590.png",
+   "txt": "build/psychosoziale/text/p0590.txt",
+   "text_len": 2490
+  },
+  {
+   "gidx": 591,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0591.png",
+   "txt": "build/psychosoziale/text/p0591.txt",
+   "text_len": 3466
+  },
+  {
+   "gidx": 592,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0592.png",
+   "txt": "build/psychosoziale/text/p0592.txt",
+   "text_len": 1744
+  },
+  {
+   "gidx": 593,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0593.png",
+   "txt": "build/psychosoziale/text/p0593.txt",
+   "text_len": 3675
+  },
+  {
+   "gidx": 594,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0594.png",
+   "txt": "build/psychosoziale/text/p0594.txt",
+   "text_len": 3697
+  },
+  {
+   "gidx": 595,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0595.png",
+   "txt": "build/psychosoziale/text/p0595.txt",
+   "text_len": 3701
+  },
+  {
+   "gidx": 596,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0596.png",
+   "txt": "build/psychosoziale/text/p0596.txt",
+   "text_len": 4508
+  },
+  {
+   "gidx": 597,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0597.png",
+   "txt": "build/psychosoziale/text/p0597.txt",
+   "text_len": 3077
+  },
+  {
+   "gidx": 598,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0598.png",
+   "txt": "build/psychosoziale/text/p0598.txt",
+   "text_len": 3602
+  },
+  {
+   "gidx": 599,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0599.png",
+   "txt": "build/psychosoziale/text/p0599.txt",
+   "text_len": 4215
+  },
+  {
+   "gidx": 600,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0600.png",
+   "txt": "build/psychosoziale/text/p0600.txt",
+   "text_len": 3139
+  },
+  {
+   "gidx": 601,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0601.png",
+   "txt": "build/psychosoziale/text/p0601.txt",
+   "text_len": 3613
+  },
+  {
+   "gidx": 602,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0602.png",
+   "txt": "build/psychosoziale/text/p0602.txt",
+   "text_len": 4489
+  },
+  {
+   "gidx": 603,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0603.png",
+   "txt": "build/psychosoziale/text/p0603.txt",
+   "text_len": 4410
+  },
+  {
+   "gidx": 604,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0604.png",
+   "txt": "build/psychosoziale/text/p0604.txt",
+   "text_len": 5069
+  },
+  {
+   "gidx": 605,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0605.png",
+   "txt": "build/psychosoziale/text/p0605.txt",
+   "text_len": 5973
+  },
+  {
+   "gidx": 606,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0606.png",
+   "txt": "build/psychosoziale/text/p0606.txt",
+   "text_len": 5449
+  },
+  {
+   "gidx": 607,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0607.png",
+   "txt": "build/psychosoziale/text/p0607.txt",
+   "text_len": 5905
+  },
+  {
+   "gidx": 608,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0608.png",
+   "txt": "build/psychosoziale/text/p0608.txt",
+   "text_len": 5824
+  },
+  {
+   "gidx": 609,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0609.png",
+   "txt": "build/psychosoziale/text/p0609.txt",
+   "text_len": 4800
+  },
+  {
+   "gidx": 610,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0610.png",
+   "txt": "build/psychosoziale/text/p0610.txt",
+   "text_len": 3819
+  },
+  {
+   "gidx": 611,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0611.png",
+   "txt": "build/psychosoziale/text/p0611.txt",
+   "text_len": 5169
+  },
+  {
+   "gidx": 612,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0612.png",
+   "txt": "build/psychosoziale/text/p0612.txt",
+   "text_len": 5223
+  },
+  {
+   "gidx": 613,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 27,
+   "img": "build/psychosoziale/pages/p0613.png",
+   "txt": "build/psychosoziale/text/p0613.txt",
+   "text_len": 5120
+  },
+  {
+   "gidx": 614,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 28,
+   "img": "build/psychosoziale/pages/p0614.png",
+   "txt": "build/psychosoziale/text/p0614.txt",
+   "text_len": 4792
+  },
+  {
+   "gidx": 615,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 29,
+   "img": "build/psychosoziale/pages/p0615.png",
+   "txt": "build/psychosoziale/text/p0615.txt",
+   "text_len": 3997
+  },
+  {
+   "gidx": 616,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 30,
+   "img": "build/psychosoziale/pages/p0616.png",
+   "txt": "build/psychosoziale/text/p0616.txt",
+   "text_len": 4698
+  },
+  {
+   "gidx": 617,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 31,
+   "img": "build/psychosoziale/pages/p0617.png",
+   "txt": "build/psychosoziale/text/p0617.txt",
+   "text_len": 6120
+  },
+  {
+   "gidx": 618,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 32,
+   "img": "build/psychosoziale/pages/p0618.png",
+   "txt": "build/psychosoziale/text/p0618.txt",
+   "text_len": 5667
+  },
+  {
+   "gidx": 619,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 33,
+   "img": "build/psychosoziale/pages/p0619.png",
+   "txt": "build/psychosoziale/text/p0619.txt",
+   "text_len": 5399
+  },
+  {
+   "gidx": 620,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 34,
+   "img": "build/psychosoziale/pages/p0620.png",
+   "txt": "build/psychosoziale/text/p0620.txt",
+   "text_len": 5748
+  },
+  {
+   "gidx": 621,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 35,
+   "img": "build/psychosoziale/pages/p0621.png",
+   "txt": "build/psychosoziale/text/p0621.txt",
+   "text_len": 3984
+  },
+  {
+   "gidx": 622,
+   "source_pdf": "Zielfindung in der ET/foerder_leistungen_HA.pdf",
+   "source_page": 36,
+   "img": "build/psychosoziale/pages/p0622.png",
+   "txt": "build/psychosoziale/text/p0622.txt",
+   "text_len": 3687
+  },
+  {
+   "gidx": 623,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 1,
+   "img": "build/psychosoziale/pages/p0623.png",
+   "txt": "build/psychosoziale/text/p0623.txt",
+   "text_len": 55
+  },
+  {
+   "gidx": 624,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 2,
+   "img": "build/psychosoziale/pages/p0624.png",
+   "txt": "build/psychosoziale/text/p0624.txt",
+   "text_len": 133
+  },
+  {
+   "gidx": 625,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 3,
+   "img": "build/psychosoziale/pages/p0625.png",
+   "txt": "build/psychosoziale/text/p0625.txt",
+   "text_len": 495
+  },
+  {
+   "gidx": 626,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 4,
+   "img": "build/psychosoziale/pages/p0626.png",
+   "txt": "build/psychosoziale/text/p0626.txt",
+   "text_len": 559
+  },
+  {
+   "gidx": 627,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 5,
+   "img": "build/psychosoziale/pages/p0627.png",
+   "txt": "build/psychosoziale/text/p0627.txt",
+   "text_len": 921
+  },
+  {
+   "gidx": 628,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 6,
+   "img": "build/psychosoziale/pages/p0628.png",
+   "txt": "build/psychosoziale/text/p0628.txt",
+   "text_len": 1
+  },
+  {
+   "gidx": 629,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 7,
+   "img": "build/psychosoziale/pages/p0629.png",
+   "txt": "build/psychosoziale/text/p0629.txt",
+   "text_len": 64
+  },
+  {
+   "gidx": 630,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 8,
+   "img": "build/psychosoziale/pages/p0630.png",
+   "txt": "build/psychosoziale/text/p0630.txt",
+   "text_len": 241
+  },
+  {
+   "gidx": 631,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 9,
+   "img": "build/psychosoziale/pages/p0631.png",
+   "txt": "build/psychosoziale/text/p0631.txt",
+   "text_len": 811
+  },
+  {
+   "gidx": 632,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 10,
+   "img": "build/psychosoziale/pages/p0632.png",
+   "txt": "build/psychosoziale/text/p0632.txt",
+   "text_len": 327
+  },
+  {
+   "gidx": 633,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 11,
+   "img": "build/psychosoziale/pages/p0633.png",
+   "txt": "build/psychosoziale/text/p0633.txt",
+   "text_len": 502
+  },
+  {
+   "gidx": 634,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 12,
+   "img": "build/psychosoziale/pages/p0634.png",
+   "txt": "build/psychosoziale/text/p0634.txt",
+   "text_len": 648
+  },
+  {
+   "gidx": 635,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 13,
+   "img": "build/psychosoziale/pages/p0635.png",
+   "txt": "build/psychosoziale/text/p0635.txt",
+   "text_len": 165
+  },
+  {
+   "gidx": 636,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 14,
+   "img": "build/psychosoziale/pages/p0636.png",
+   "txt": "build/psychosoziale/text/p0636.txt",
+   "text_len": 2
+  },
+  {
+   "gidx": 637,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 15,
+   "img": "build/psychosoziale/pages/p0637.png",
+   "txt": "build/psychosoziale/text/p0637.txt",
+   "text_len": 911
+  },
+  {
+   "gidx": 638,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 16,
+   "img": "build/psychosoziale/pages/p0638.png",
+   "txt": "build/psychosoziale/text/p0638.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 639,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 17,
+   "img": "build/psychosoziale/pages/p0639.png",
+   "txt": "build/psychosoziale/text/p0639.txt",
+   "text_len": 663
+  },
+  {
+   "gidx": 640,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 18,
+   "img": "build/psychosoziale/pages/p0640.png",
+   "txt": "build/psychosoziale/text/p0640.txt",
+   "text_len": 550
+  },
+  {
+   "gidx": 641,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 19,
+   "img": "build/psychosoziale/pages/p0641.png",
+   "txt": "build/psychosoziale/text/p0641.txt",
+   "text_len": 26
+  },
+  {
+   "gidx": 642,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 20,
+   "img": "build/psychosoziale/pages/p0642.png",
+   "txt": "build/psychosoziale/text/p0642.txt",
+   "text_len": 800
+  },
+  {
+   "gidx": 643,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 21,
+   "img": "build/psychosoziale/pages/p0643.png",
+   "txt": "build/psychosoziale/text/p0643.txt",
+   "text_len": 1110
+  },
+  {
+   "gidx": 644,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 22,
+   "img": "build/psychosoziale/pages/p0644.png",
+   "txt": "build/psychosoziale/text/p0644.txt",
+   "text_len": 255
+  },
+  {
+   "gidx": 645,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 23,
+   "img": "build/psychosoziale/pages/p0645.png",
+   "txt": "build/psychosoziale/text/p0645.txt",
+   "text_len": 96
+  },
+  {
+   "gidx": 646,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 24,
+   "img": "build/psychosoziale/pages/p0646.png",
+   "txt": "build/psychosoziale/text/p0646.txt",
+   "text_len": 49
+  },
+  {
+   "gidx": 647,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 25,
+   "img": "build/psychosoziale/pages/p0647.png",
+   "txt": "build/psychosoziale/text/p0647.txt",
+   "text_len": 749
+  },
+  {
+   "gidx": 648,
+   "source_pdf": "Zielfindung in der ET/Psych-soz. BV. - Zielfindung in der ET.pdf",
+   "source_page": 26,
+   "img": "build/psychosoziale/pages/p0648.png",
+   "txt": "build/psychosoziale/text/p0648.txt",
+   "text_len": 504
+  }
+ ]
+}

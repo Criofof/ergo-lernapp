@@ -1,0 +1,3446 @@
+{
+ "slug": "mofu",
+ "subject_dir": "C:\\Users\\chris\\Desktop\\Valeria\\Examen - Relevante Fächer (sehr wichtig)\\Examen - Fächergruppe 3\\Fach = Motorisch-Funktionelle Behandlungsverfahren (Mofu)",
+ "pages": [
+  {
+   "gidx": 1,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/Assessment-Berg-Balance-Scale-Schaedler-2007.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0001.png",
+   "txt": "build/mofu/text/p0001.txt",
+   "text_len": 4968
+  },
+  {
+   "gidx": 2,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/Assessment-Berg-Balance-Scale-Schaedler-2007.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0002.png",
+   "txt": "build/mofu/text/p0002.txt",
+   "text_len": 4917
+  },
+  {
+   "gidx": 3,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/BBS_German_Version_23.11.2005_Version_f_r_Webseite.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0003.png",
+   "txt": "build/mofu/text/p0003.txt",
+   "text_len": 1271
+  },
+  {
+   "gidx": 4,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/BBS_German_Version_23.11.2005_Version_f_r_Webseite.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0004.png",
+   "txt": "build/mofu/text/p0004.txt",
+   "text_len": 2433
+  },
+  {
+   "gidx": 5,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/BBS_German_Version_23.11.2005_Version_f_r_Webseite.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0005.png",
+   "txt": "build/mofu/text/p0005.txt",
+   "text_len": 1546
+  },
+  {
+   "gidx": 6,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/BBS_German_Version_23.11.2005_Version_f_r_Webseite.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0006.png",
+   "txt": "build/mofu/text/p0006.txt",
+   "text_len": 1513
+  },
+  {
+   "gidx": 7,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/BBS_German_Version_23.11.2005_Version_f_r_Webseite.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0007.png",
+   "txt": "build/mofu/text/p0007.txt",
+   "text_len": 2143
+  },
+  {
+   "gidx": 8,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/BBS_German_Version_23.11.2005_Version_f_r_Webseite.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0008.png",
+   "txt": "build/mofu/text/p0008.txt",
+   "text_len": 1978
+  },
+  {
+   "gidx": 9,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/BBS_German_Version_23.11.2005_Version_f_r_Webseite.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0009.png",
+   "txt": "build/mofu/text/p0009.txt",
+   "text_len": 1672
+  },
+  {
+   "gidx": 10,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Berg Balance Scale/BBS_German_Version_23.11.2005_Version_f_r_Webseite.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0010.png",
+   "txt": "build/mofu/text/p0010.txt",
+   "text_len": 516
+  },
+  {
+   "gidx": 11,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Box und Block Test/Box_and_Block_Test_Normwerttabelle.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0011.png",
+   "txt": "build/mofu/text/p0011.txt",
+   "text_len": 1353
+  },
+  {
+   "gidx": 12,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Nine Hole Pegtest/Herstellung eines NHPTests.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0012.png",
+   "txt": "build/mofu/text/p0012.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 13,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Nine Hole Pegtest/Herstellung eines NHPTests.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0013.png",
+   "txt": "build/mofu/text/p0013.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 14,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Nine Hole Pegtest/Herstellung eines NHPTests.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0014.png",
+   "txt": "build/mofu/text/p0014.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 15,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Nine Hole Pegtest/Nine-Hole-Peg-Test.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0015.png",
+   "txt": "build/mofu/text/p0015.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 16,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Nine Hole Pegtest/Nine-Hole-Peg-Test.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0016.png",
+   "txt": "build/mofu/text/p0016.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 17,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Nine Hole Pegtest/Nine_Hole_Peg_Test_Normwerttabelle.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0017.png",
+   "txt": "build/mofu/text/p0017.txt",
+   "text_len": 1392
+  },
+  {
+   "gidx": 18,
+   "source_pdf": "Assessments und Tests/Koordination und Feinmotorik/Timed-Up-And-Go/TuA_Timed-up-and-go_Dokumentationshilfe.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0018.png",
+   "txt": "build/mofu/text/p0018.txt",
+   "text_len": 862
+  },
+  {
+   "gidx": 19,
+   "source_pdf": "Assessments und Tests/Muskelfunktionsprüfung/MFT.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0019.png",
+   "txt": "build/mofu/text/p0019.txt",
+   "text_len": 791
+  },
+  {
+   "gidx": 20,
+   "source_pdf": "Assessments und Tests/Muskelfunktionsprüfung/muscle_grading_and_testing_procedures_508.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0020.png",
+   "txt": "build/mofu/text/p0020.txt",
+   "text_len": 1130
+  },
+  {
+   "gidx": 21,
+   "source_pdf": "Assessments und Tests/Muskelfunktionsprüfung/muscle_grading_and_testing_procedures_508.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0021.png",
+   "txt": "build/mofu/text/p0021.txt",
+   "text_len": 2242
+  },
+  {
+   "gidx": 22,
+   "source_pdf": "Assessments und Tests/Muskelfunktionsprüfung/muscle_grading_and_testing_procedures_508.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0022.png",
+   "txt": "build/mofu/text/p0022.txt",
+   "text_len": 1775
+  },
+  {
+   "gidx": 23,
+   "source_pdf": "Assessments und Tests/Muskelfunktionsprüfung/muscle_grading_and_testing_procedures_508.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0023.png",
+   "txt": "build/mofu/text/p0023.txt",
+   "text_len": 2774
+  },
+  {
+   "gidx": 24,
+   "source_pdf": "Assessments und Tests/Muskelfunktionsprüfung/muscle_grading_and_testing_procedures_508.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0024.png",
+   "txt": "build/mofu/text/p0024.txt",
+   "text_len": 413
+  },
+  {
+   "gidx": 25,
+   "source_pdf": "Assessments und Tests/Muskelfunktionsprüfung/pp207_Assessment-MFP1.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0025.png",
+   "txt": "build/mofu/text/p0025.txt",
+   "text_len": 4400
+  },
+  {
+   "gidx": 26,
+   "source_pdf": "Assessments und Tests/Muskelfunktionsprüfung/pp207_Assessment-MFP1.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0026.png",
+   "txt": "build/mofu/text/p0026.txt",
+   "text_len": 4868
+  },
+  {
+   "gidx": 27,
+   "source_pdf": "Assessments und Tests/ROM-Messung nach Neutral-Null/12.1 Messblatt Info Neutral-0-Methode.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0027.png",
+   "txt": "build/mofu/text/p0027.txt",
+   "text_len": 245
+  },
+  {
+   "gidx": 28,
+   "source_pdf": "Assessments und Tests/ROM-Messung nach Neutral-Null/12.2 Messblatt obere Gliedmassen.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0028.png",
+   "txt": "build/mofu/text/p0028.txt",
+   "text_len": 245
+  },
+  {
+   "gidx": 29,
+   "source_pdf": "Assessments und Tests/ROM-Messung nach Neutral-Null/12.3 Messblatt Finger.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0029.png",
+   "txt": "build/mofu/text/p0029.txt",
+   "text_len": 245
+  },
+  {
+   "gidx": 30,
+   "source_pdf": "Assessments und Tests/ROM-Messung nach Neutral-Null/12.4 Messblatt untere Gliedmassen.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0030.png",
+   "txt": "build/mofu/text/p0030.txt",
+   "text_len": 245
+  },
+  {
+   "gidx": 31,
+   "source_pdf": "Assessments und Tests/ROM-Messung nach Neutral-Null/12.5 Messblatt Wirbelsäule.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0031.png",
+   "txt": "build/mofu/text/p0031.txt",
+   "text_len": 245
+  },
+  {
+   "gidx": 32,
+   "source_pdf": "Assessments und Tests/ROM-Messung nach Neutral-Null/B1 Normwerte Goniometer.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0032.png",
+   "txt": "build/mofu/text/p0032.txt",
+   "text_len": 1005
+  },
+  {
+   "gidx": 33,
+   "source_pdf": "Assessments und Tests/ROM-Messung nach Neutral-Null/B1 Normwerte Goniometer.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0033.png",
+   "txt": "build/mofu/text/p0033.txt",
+   "text_len": 905
+  },
+  {
+   "gidx": 34,
+   "source_pdf": "Assessments und Tests/ROM-Messung nach Neutral-Null/B1 Normwerte Goniometer.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0034.png",
+   "txt": "build/mofu/text/p0034.txt",
+   "text_len": 888
+  },
+  {
+   "gidx": 35,
+   "source_pdf": "Assessments und Tests/ROM-Messung nach Neutral-Null/B1 Normwerte Goniometer.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0035.png",
+   "txt": "build/mofu/text/p0035.txt",
+   "text_len": 885
+  },
+  {
+   "gidx": 36,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CPAQ/PT_9005784_CPAQ-D_Fragebogen_mit_Auswertungsanleitung.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0036.png",
+   "txt": "build/mofu/text/p0036.txt",
+   "text_len": 1803
+  },
+  {
+   "gidx": 37,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CPAQ/PT_9005784_CPAQ-D_Fragebogen_mit_Auswertungsanleitung.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0037.png",
+   "txt": "build/mofu/text/p0037.txt",
+   "text_len": 2827
+  },
+  {
+   "gidx": 38,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CPAQ/PT_9005784_CPAQ-D_Fragebogen_mit_Auswertungsanleitung.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0038.png",
+   "txt": "build/mofu/text/p0038.txt",
+   "text_len": 1379
+  },
+  {
+   "gidx": 39,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/CSQ-D.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0039.png",
+   "txt": "build/mofu/text/p0039.txt",
+   "text_len": 2647
+  },
+  {
+   "gidx": 40,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/CSQ-D.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0040.png",
+   "txt": "build/mofu/text/p0040.txt",
+   "text_len": 2246
+  },
+  {
+   "gidx": 41,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/CSQ-D.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0041.png",
+   "txt": "build/mofu/text/p0041.txt",
+   "text_len": 2232
+  },
+  {
+   "gidx": 42,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/CSQ-D.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0042.png",
+   "txt": "build/mofu/text/p0042.txt",
+   "text_len": 1130
+  },
+  {
+   "gidx": 43,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/CSQ-DEinfuehrung.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0043.png",
+   "txt": "build/mofu/text/p0043.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 44,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/CSQ-DEinfuehrung.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0044.png",
+   "txt": "build/mofu/text/p0044.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 45,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/CSQ-DEinfuehrung.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0045.png",
+   "txt": "build/mofu/text/p0045.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 46,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/CSQ-DEinfuehrung.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0046.png",
+   "txt": "build/mofu/text/p0046.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 47,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/pp_2007_07-08_assessment-csq.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0047.png",
+   "txt": "build/mofu/text/p0047.txt",
+   "text_len": 4322
+  },
+  {
+   "gidx": 48,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/CSQ/pp_2007_07-08_assessment-csq.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0048.png",
+   "txt": "build/mofu/text/p0048.txt",
+   "text_len": 4873
+  },
+  {
+   "gidx": 49,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/document.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0049.png",
+   "txt": "build/mofu/text/p0049.txt",
+   "text_len": 114
+  },
+  {
+   "gidx": 50,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/document.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0050.png",
+   "txt": "build/mofu/text/p0050.txt",
+   "text_len": 519
+  },
+  {
+   "gidx": 51,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/document.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0051.png",
+   "txt": "build/mofu/text/p0051.txt",
+   "text_len": 213
+  },
+  {
+   "gidx": 52,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/document.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0052.png",
+   "txt": "build/mofu/text/p0052.txt",
+   "text_len": 1478
+  },
+  {
+   "gidx": 53,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/document.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0053.png",
+   "txt": "build/mofu/text/p0053.txt",
+   "text_len": 460
+  },
+  {
+   "gidx": 54,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/document.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0054.png",
+   "txt": "build/mofu/text/p0054.txt",
+   "text_len": 1112
+  },
+  {
+   "gidx": 55,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/document.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0055.png",
+   "txt": "build/mofu/text/p0055.txt",
+   "text_len": 2745
+  },
+  {
+   "gidx": 56,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/document.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0056.png",
+   "txt": "build/mofu/text/p0056.txt",
+   "text_len": 30
+  },
+  {
+   "gidx": 57,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0057.png",
+   "txt": "build/mofu/text/p0057.txt",
+   "text_len": 118
+  },
+  {
+   "gidx": 58,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0058.png",
+   "txt": "build/mofu/text/p0058.txt",
+   "text_len": 523
+  },
+  {
+   "gidx": 59,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0059.png",
+   "txt": "build/mofu/text/p0059.txt",
+   "text_len": 1894
+  },
+  {
+   "gidx": 60,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0060.png",
+   "txt": "build/mofu/text/p0060.txt",
+   "text_len": 794
+  },
+  {
+   "gidx": 61,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0061.png",
+   "txt": "build/mofu/text/p0061.txt",
+   "text_len": 883
+  },
+  {
+   "gidx": 62,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0062.png",
+   "txt": "build/mofu/text/p0062.txt",
+   "text_len": 1121
+  },
+  {
+   "gidx": 63,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0063.png",
+   "txt": "build/mofu/text/p0063.txt",
+   "text_len": 522
+  },
+  {
+   "gidx": 64,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0064.png",
+   "txt": "build/mofu/text/p0064.txt",
+   "text_len": 898
+  },
+  {
+   "gidx": 65,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 9,
+   "img": "build/mofu/pages/p0065.png",
+   "txt": "build/mofu/text/p0065.txt",
+   "text_len": 1185
+  },
+  {
+   "gidx": 66,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 10,
+   "img": "build/mofu/pages/p0066.png",
+   "txt": "build/mofu/text/p0066.txt",
+   "text_len": 1062
+  },
+  {
+   "gidx": 67,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 11,
+   "img": "build/mofu/pages/p0067.png",
+   "txt": "build/mofu/text/p0067.txt",
+   "text_len": 1260
+  },
+  {
+   "gidx": 68,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 12,
+   "img": "build/mofu/pages/p0068.png",
+   "txt": "build/mofu/text/p0068.txt",
+   "text_len": 579
+  },
+  {
+   "gidx": 69,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 13,
+   "img": "build/mofu/pages/p0069.png",
+   "txt": "build/mofu/text/p0069.txt",
+   "text_len": 1224
+  },
+  {
+   "gidx": 70,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 14,
+   "img": "build/mofu/pages/p0070.png",
+   "txt": "build/mofu/text/p0070.txt",
+   "text_len": 1796
+  },
+  {
+   "gidx": 71,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 15,
+   "img": "build/mofu/pages/p0071.png",
+   "txt": "build/mofu/text/p0071.txt",
+   "text_len": 1385
+  },
+  {
+   "gidx": 72,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 16,
+   "img": "build/mofu/pages/p0072.png",
+   "txt": "build/mofu/text/p0072.txt",
+   "text_len": 1112
+  },
+  {
+   "gidx": 73,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 17,
+   "img": "build/mofu/pages/p0073.png",
+   "txt": "build/mofu/text/p0073.txt",
+   "text_len": 1259
+  },
+  {
+   "gidx": 74,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 18,
+   "img": "build/mofu/pages/p0074.png",
+   "txt": "build/mofu/text/p0074.txt",
+   "text_len": 583
+  },
+  {
+   "gidx": 75,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 19,
+   "img": "build/mofu/pages/p0075.png",
+   "txt": "build/mofu/text/p0075.txt",
+   "text_len": 1118
+  },
+  {
+   "gidx": 76,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 20,
+   "img": "build/mofu/pages/p0076.png",
+   "txt": "build/mofu/text/p0076.txt",
+   "text_len": 1615
+  },
+  {
+   "gidx": 77,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 21,
+   "img": "build/mofu/pages/p0077.png",
+   "txt": "build/mofu/text/p0077.txt",
+   "text_len": 234
+  },
+  {
+   "gidx": 78,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 22,
+   "img": "build/mofu/pages/p0078.png",
+   "txt": "build/mofu/text/p0078.txt",
+   "text_len": 74
+  },
+  {
+   "gidx": 79,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 23,
+   "img": "build/mofu/pages/p0079.png",
+   "txt": "build/mofu/text/p0079.txt",
+   "text_len": 2750
+  },
+  {
+   "gidx": 80,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Erstbogen_V3.0.pdf",
+   "source_page": 24,
+   "img": "build/mofu/pages/p0080.png",
+   "txt": "build/mofu/text/p0080.txt",
+   "text_len": 30
+  },
+  {
+   "gidx": 81,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0081.png",
+   "txt": "build/mofu/text/p0081.txt",
+   "text_len": 122
+  },
+  {
+   "gidx": 82,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0082.png",
+   "txt": "build/mofu/text/p0082.txt",
+   "text_len": 519
+  },
+  {
+   "gidx": 83,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0083.png",
+   "txt": "build/mofu/text/p0083.txt",
+   "text_len": 431
+  },
+  {
+   "gidx": 84,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0084.png",
+   "txt": "build/mofu/text/p0084.txt",
+   "text_len": 1269
+  },
+  {
+   "gidx": 85,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0085.png",
+   "txt": "build/mofu/text/p0085.txt",
+   "text_len": 1035
+  },
+  {
+   "gidx": 86,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0086.png",
+   "txt": "build/mofu/text/p0086.txt",
+   "text_len": 1069
+  },
+  {
+   "gidx": 87,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0087.png",
+   "txt": "build/mofu/text/p0087.txt",
+   "text_len": 758
+  },
+  {
+   "gidx": 88,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0088.png",
+   "txt": "build/mofu/text/p0088.txt",
+   "text_len": 652
+  },
+  {
+   "gidx": 89,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 9,
+   "img": "build/mofu/pages/p0089.png",
+   "txt": "build/mofu/text/p0089.txt",
+   "text_len": 1615
+  },
+  {
+   "gidx": 90,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 10,
+   "img": "build/mofu/pages/p0090.png",
+   "txt": "build/mofu/text/p0090.txt",
+   "text_len": 1789
+  },
+  {
+   "gidx": 91,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 11,
+   "img": "build/mofu/pages/p0091.png",
+   "txt": "build/mofu/text/p0091.txt",
+   "text_len": 912
+  },
+  {
+   "gidx": 92,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 12,
+   "img": "build/mofu/pages/p0092.png",
+   "txt": "build/mofu/text/p0092.txt",
+   "text_len": 957
+  },
+  {
+   "gidx": 93,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 13,
+   "img": "build/mofu/pages/p0093.png",
+   "txt": "build/mofu/text/p0093.txt",
+   "text_len": 734
+  },
+  {
+   "gidx": 94,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 14,
+   "img": "build/mofu/pages/p0094.png",
+   "txt": "build/mofu/text/p0094.txt",
+   "text_len": 171
+  },
+  {
+   "gidx": 95,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 15,
+   "img": "build/mofu/pages/p0095.png",
+   "txt": "build/mofu/text/p0095.txt",
+   "text_len": 2746
+  },
+  {
+   "gidx": 96,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Eltern_Verlauf_V3.0.pdf",
+   "source_page": 16,
+   "img": "build/mofu/pages/p0096.png",
+   "txt": "build/mofu/text/p0096.txt",
+   "text_len": 30
+  },
+  {
+   "gidx": 97,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0097.png",
+   "txt": "build/mofu/text/p0097.txt",
+   "text_len": 123
+  },
+  {
+   "gidx": 98,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0098.png",
+   "txt": "build/mofu/text/p0098.txt",
+   "text_len": 528
+  },
+  {
+   "gidx": 99,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0099.png",
+   "txt": "build/mofu/text/p0099.txt",
+   "text_len": 750
+  },
+  {
+   "gidx": 100,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0100.png",
+   "txt": "build/mofu/text/p0100.txt",
+   "text_len": 818
+  },
+  {
+   "gidx": 101,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0101.png",
+   "txt": "build/mofu/text/p0101.txt",
+   "text_len": 1275
+  },
+  {
+   "gidx": 102,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0102.png",
+   "txt": "build/mofu/text/p0102.txt",
+   "text_len": 237
+  },
+  {
+   "gidx": 103,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0103.png",
+   "txt": "build/mofu/text/p0103.txt",
+   "text_len": 1286
+  },
+  {
+   "gidx": 104,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0104.png",
+   "txt": "build/mofu/text/p0104.txt",
+   "text_len": 1581
+  },
+  {
+   "gidx": 105,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 9,
+   "img": "build/mofu/pages/p0105.png",
+   "txt": "build/mofu/text/p0105.txt",
+   "text_len": 1429
+  },
+  {
+   "gidx": 106,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 10,
+   "img": "build/mofu/pages/p0106.png",
+   "txt": "build/mofu/text/p0106.txt",
+   "text_len": 1090
+  },
+  {
+   "gidx": 107,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 11,
+   "img": "build/mofu/pages/p0107.png",
+   "txt": "build/mofu/text/p0107.txt",
+   "text_len": 1311
+  },
+  {
+   "gidx": 108,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 12,
+   "img": "build/mofu/pages/p0108.png",
+   "txt": "build/mofu/text/p0108.txt",
+   "text_len": 244
+  },
+  {
+   "gidx": 109,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 13,
+   "img": "build/mofu/pages/p0109.png",
+   "txt": "build/mofu/text/p0109.txt",
+   "text_len": 1051
+  },
+  {
+   "gidx": 110,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 14,
+   "img": "build/mofu/pages/p0110.png",
+   "txt": "build/mofu/text/p0110.txt",
+   "text_len": 1318
+  },
+  {
+   "gidx": 111,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 15,
+   "img": "build/mofu/pages/p0111.png",
+   "txt": "build/mofu/text/p0111.txt",
+   "text_len": 2755
+  },
+  {
+   "gidx": 112,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Erstbogen_V3.0.pdf",
+   "source_page": 16,
+   "img": "build/mofu/pages/p0112.png",
+   "txt": "build/mofu/text/p0112.txt",
+   "text_len": 30
+  },
+  {
+   "gidx": 113,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0113.png",
+   "txt": "build/mofu/text/p0113.txt",
+   "text_len": 119
+  },
+  {
+   "gidx": 114,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0114.png",
+   "txt": "build/mofu/text/p0114.txt",
+   "text_len": 524
+  },
+  {
+   "gidx": 115,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0115.png",
+   "txt": "build/mofu/text/p0115.txt",
+   "text_len": 215
+  },
+  {
+   "gidx": 116,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0116.png",
+   "txt": "build/mofu/text/p0116.txt",
+   "text_len": 1301
+  },
+  {
+   "gidx": 117,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0117.png",
+   "txt": "build/mofu/text/p0117.txt",
+   "text_len": 1277
+  },
+  {
+   "gidx": 118,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0118.png",
+   "txt": "build/mofu/text/p0118.txt",
+   "text_len": 650
+  },
+  {
+   "gidx": 119,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0119.png",
+   "txt": "build/mofu/text/p0119.txt",
+   "text_len": 357
+  },
+  {
+   "gidx": 120,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0120.png",
+   "txt": "build/mofu/text/p0120.txt",
+   "text_len": 1230
+  },
+  {
+   "gidx": 121,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 9,
+   "img": "build/mofu/pages/p0121.png",
+   "txt": "build/mofu/text/p0121.txt",
+   "text_len": 1597
+  },
+  {
+   "gidx": 122,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 10,
+   "img": "build/mofu/pages/p0122.png",
+   "txt": "build/mofu/text/p0122.txt",
+   "text_len": 1377
+  },
+  {
+   "gidx": 123,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 11,
+   "img": "build/mofu/pages/p0123.png",
+   "txt": "build/mofu/text/p0123.txt",
+   "text_len": 741
+  },
+  {
+   "gidx": 124,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 12,
+   "img": "build/mofu/pages/p0124.png",
+   "txt": "build/mofu/text/p0124.txt",
+   "text_len": 848
+  },
+  {
+   "gidx": 125,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 13,
+   "img": "build/mofu/pages/p0125.png",
+   "txt": "build/mofu/text/p0125.txt",
+   "text_len": 723
+  },
+  {
+   "gidx": 126,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 14,
+   "img": "build/mofu/pages/p0126.png",
+   "txt": "build/mofu/text/p0126.txt",
+   "text_len": 199
+  },
+  {
+   "gidx": 127,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 15,
+   "img": "build/mofu/pages/p0127.png",
+   "txt": "build/mofu/text/p0127.txt",
+   "text_len": 2751
+  },
+  {
+   "gidx": 128,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Jugendliche_Verlauf_V3.0.pdf",
+   "source_page": 16,
+   "img": "build/mofu/pages/p0128.png",
+   "txt": "build/mofu/text/p0128.txt",
+   "text_len": 30
+  },
+  {
+   "gidx": 129,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Kinder_Erstbogen_V3.0.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0129.png",
+   "txt": "build/mofu/text/p0129.txt",
+   "text_len": 118
+  },
+  {
+   "gidx": 130,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Kinder_Erstbogen_V3.0.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0130.png",
+   "txt": "build/mofu/text/p0130.txt",
+   "text_len": 523
+  },
+  {
+   "gidx": 131,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Kinder_Erstbogen_V3.0.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0131.png",
+   "txt": "build/mofu/text/p0131.txt",
+   "text_len": 315
+  },
+  {
+   "gidx": 132,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Kinder_Erstbogen_V3.0.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0132.png",
+   "txt": "build/mofu/text/p0132.txt",
+   "text_len": 433
+  },
+  {
+   "gidx": 133,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Kinder_Erstbogen_V3.0.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0133.png",
+   "txt": "build/mofu/text/p0133.txt",
+   "text_len": 1458
+  },
+  {
+   "gidx": 134,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Kinder_Erstbogen_V3.0.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0134.png",
+   "txt": "build/mofu/text/p0134.txt",
+   "text_len": 215
+  },
+  {
+   "gidx": 135,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Kinder_Erstbogen_V3.0.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0135.png",
+   "txt": "build/mofu/text/p0135.txt",
+   "text_len": 326
+  },
+  {
+   "gidx": 136,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/DSF-KJ/Kinder_Erstbogen_V3.0.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0136.png",
+   "txt": "build/mofu/text/p0136.txt",
+   "text_len": 30
+  },
+  {
+   "gidx": 137,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/faces-pain-scale.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0137.png",
+   "txt": "build/mofu/text/p0137.txt",
+   "text_len": 836
+  },
+  {
+   "gidx": 138,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/FLACC-Skala.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0138.png",
+   "txt": "build/mofu/text/p0138.txt",
+   "text_len": 868
+  },
+  {
+   "gidx": 139,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/FLACC-Skala.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0139.png",
+   "txt": "build/mofu/text/p0139.txt",
+   "text_len": 878
+  },
+  {
+   "gidx": 140,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/kus-skala.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0140.png",
+   "txt": "build/mofu/text/p0140.txt",
+   "text_len": 1849
+  },
+  {
+   "gidx": 141,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/McGill/Mc GillD.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0141.png",
+   "txt": "build/mofu/text/p0141.txt",
+   "text_len": 1974
+  },
+  {
+   "gidx": 142,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/McGill/mcgill_v2-Schmerzen-evaluieren-Assessment-Short-Form-McGill-Pain-Questionnaire.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0142.png",
+   "txt": "build/mofu/text/p0142.txt",
+   "text_len": 4971
+  },
+  {
+   "gidx": 143,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/McGill/mcgill_v2-Schmerzen-evaluieren-Assessment-Short-Form-McGill-Pain-Questionnaire.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0143.png",
+   "txt": "build/mofu/text/p0143.txt",
+   "text_len": 4610
+  },
+  {
+   "gidx": 144,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/numerische-ratingskala_nrs.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0144.png",
+   "txt": "build/mofu/text/p0144.txt",
+   "text_len": 956
+  },
+  {
+   "gidx": 145,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/ODI-D.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0145.png",
+   "txt": "build/mofu/text/p0145.txt",
+   "text_len": 2076
+  },
+  {
+   "gidx": 146,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/ODI-D.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0146.png",
+   "txt": "build/mofu/text/p0146.txt",
+   "text_len": 2009
+  },
+  {
+   "gidx": 147,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/ODI-D.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0147.png",
+   "txt": "build/mofu/text/p0147.txt",
+   "text_len": 466
+  },
+  {
+   "gidx": 148,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/ODI-D.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0148.png",
+   "txt": "build/mofu/text/p0148.txt",
+   "text_len": 1254
+  },
+  {
+   "gidx": 149,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/ODI-D.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0149.png",
+   "txt": "build/mofu/text/p0149.txt",
+   "text_len": 1369
+  },
+  {
+   "gidx": 150,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/pdi-auswertung.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0150.png",
+   "txt": "build/mofu/text/p0150.txt",
+   "text_len": 1870
+  },
+  {
+   "gidx": 151,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/Pediatric-PDI/P-PDI_Eltern.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0151.png",
+   "txt": "build/mofu/text/p0151.txt",
+   "text_len": 983
+  },
+  {
+   "gidx": 152,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/Pediatric-PDI/P-PDI_Selbstauskunft.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0152.png",
+   "txt": "build/mofu/text/p0152.txt",
+   "text_len": 857
+  },
+  {
+   "gidx": 153,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/PT_9003694_PDI_Fragebogen.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0153.png",
+   "txt": "build/mofu/text/p0153.txt",
+   "text_len": 1349
+  },
+  {
+   "gidx": 154,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/PT_9003694_PDI_Fragebogen.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0154.png",
+   "txt": "build/mofu/text/p0154.txt",
+   "text_len": 2798
+  },
+  {
+   "gidx": 155,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/PT_9003694_PDI_Fragebogen.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0155.png",
+   "txt": "build/mofu/text/p0155.txt",
+   "text_len": 1505
+  },
+  {
+   "gidx": 156,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/schmerztagebuch.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0156.png",
+   "txt": "build/mofu/text/p0156.txt",
+   "text_len": 1492
+  },
+  {
+   "gidx": 157,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/Schmerzzeichnung.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0157.png",
+   "txt": "build/mofu/text/p0157.txt",
+   "text_len": 480
+  },
+  {
+   "gidx": 158,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/Schmerzzeichnung.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0158.png",
+   "txt": "build/mofu/text/p0158.txt",
+   "text_len": 426
+  },
+  {
+   "gidx": 159,
+   "source_pdf": "Assessments und Tests/Schmerzbefund/visuelle_analogskala_vas.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0159.png",
+   "txt": "build/mofu/text/p0159.txt",
+   "text_len": 1139
+  },
+  {
+   "gidx": 160,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0160.png",
+   "txt": "build/mofu/text/p0160.txt",
+   "text_len": 59
+  },
+  {
+   "gidx": 161,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0161.png",
+   "txt": "build/mofu/text/p0161.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 162,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0162.png",
+   "txt": "build/mofu/text/p0162.txt",
+   "text_len": 2234
+  },
+  {
+   "gidx": 163,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0163.png",
+   "txt": "build/mofu/text/p0163.txt",
+   "text_len": 864
+  },
+  {
+   "gidx": 164,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0164.png",
+   "txt": "build/mofu/text/p0164.txt",
+   "text_len": 800
+  },
+  {
+   "gidx": 165,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0165.png",
+   "txt": "build/mofu/text/p0165.txt",
+   "text_len": 944
+  },
+  {
+   "gidx": 166,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0166.png",
+   "txt": "build/mofu/text/p0166.txt",
+   "text_len": 161
+  },
+  {
+   "gidx": 167,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0167.png",
+   "txt": "build/mofu/text/p0167.txt",
+   "text_len": 1936
+  },
+  {
+   "gidx": 168,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 9,
+   "img": "build/mofu/pages/p0168.png",
+   "txt": "build/mofu/text/p0168.txt",
+   "text_len": 595
+  },
+  {
+   "gidx": 169,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 10,
+   "img": "build/mofu/pages/p0169.png",
+   "txt": "build/mofu/text/p0169.txt",
+   "text_len": 602
+  },
+  {
+   "gidx": 170,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 11,
+   "img": "build/mofu/pages/p0170.png",
+   "txt": "build/mofu/text/p0170.txt",
+   "text_len": 852
+  },
+  {
+   "gidx": 171,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 12,
+   "img": "build/mofu/pages/p0171.png",
+   "txt": "build/mofu/text/p0171.txt",
+   "text_len": 1712
+  },
+  {
+   "gidx": 172,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 13,
+   "img": "build/mofu/pages/p0172.png",
+   "txt": "build/mofu/text/p0172.txt",
+   "text_len": 1284
+  },
+  {
+   "gidx": 173,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 14,
+   "img": "build/mofu/pages/p0173.png",
+   "txt": "build/mofu/text/p0173.txt",
+   "text_len": 2126
+  },
+  {
+   "gidx": 174,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 15,
+   "img": "build/mofu/pages/p0174.png",
+   "txt": "build/mofu/text/p0174.txt",
+   "text_len": 1997
+  },
+  {
+   "gidx": 175,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 16,
+   "img": "build/mofu/pages/p0175.png",
+   "txt": "build/mofu/text/p0175.txt",
+   "text_len": 1330
+  },
+  {
+   "gidx": 176,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 17,
+   "img": "build/mofu/pages/p0176.png",
+   "txt": "build/mofu/text/p0176.txt",
+   "text_len": 581
+  },
+  {
+   "gidx": 177,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 18,
+   "img": "build/mofu/pages/p0177.png",
+   "txt": "build/mofu/text/p0177.txt",
+   "text_len": 1417
+  },
+  {
+   "gidx": 178,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 19,
+   "img": "build/mofu/pages/p0178.png",
+   "txt": "build/mofu/text/p0178.txt",
+   "text_len": 2351
+  },
+  {
+   "gidx": 179,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 20,
+   "img": "build/mofu/pages/p0179.png",
+   "txt": "build/mofu/text/p0179.txt",
+   "text_len": 907
+  },
+  {
+   "gidx": 180,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 21,
+   "img": "build/mofu/pages/p0180.png",
+   "txt": "build/mofu/text/p0180.txt",
+   "text_len": 1226
+  },
+  {
+   "gidx": 181,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 22,
+   "img": "build/mofu/pages/p0181.png",
+   "txt": "build/mofu/text/p0181.txt",
+   "text_len": 2379
+  },
+  {
+   "gidx": 182,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 23,
+   "img": "build/mofu/pages/p0182.png",
+   "txt": "build/mofu/text/p0182.txt",
+   "text_len": 974
+  },
+  {
+   "gidx": 183,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 24,
+   "img": "build/mofu/pages/p0183.png",
+   "txt": "build/mofu/text/p0183.txt",
+   "text_len": 1832
+  },
+  {
+   "gidx": 184,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 25,
+   "img": "build/mofu/pages/p0184.png",
+   "txt": "build/mofu/text/p0184.txt",
+   "text_len": 1701
+  },
+  {
+   "gidx": 185,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 26,
+   "img": "build/mofu/pages/p0185.png",
+   "txt": "build/mofu/text/p0185.txt",
+   "text_len": 1969
+  },
+  {
+   "gidx": 186,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 27,
+   "img": "build/mofu/pages/p0186.png",
+   "txt": "build/mofu/text/p0186.txt",
+   "text_len": 2295
+  },
+  {
+   "gidx": 187,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 28,
+   "img": "build/mofu/pages/p0187.png",
+   "txt": "build/mofu/text/p0187.txt",
+   "text_len": 1308
+  },
+  {
+   "gidx": 188,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 29,
+   "img": "build/mofu/pages/p0188.png",
+   "txt": "build/mofu/text/p0188.txt",
+   "text_len": 2096
+  },
+  {
+   "gidx": 189,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 30,
+   "img": "build/mofu/pages/p0189.png",
+   "txt": "build/mofu/text/p0189.txt",
+   "text_len": 1569
+  },
+  {
+   "gidx": 190,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 31,
+   "img": "build/mofu/pages/p0190.png",
+   "txt": "build/mofu/text/p0190.txt",
+   "text_len": 1298
+  },
+  {
+   "gidx": 191,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 32,
+   "img": "build/mofu/pages/p0191.png",
+   "txt": "build/mofu/text/p0191.txt",
+   "text_len": 966
+  },
+  {
+   "gidx": 192,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 33,
+   "img": "build/mofu/pages/p0192.png",
+   "txt": "build/mofu/text/p0192.txt",
+   "text_len": 1263
+  },
+  {
+   "gidx": 193,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 34,
+   "img": "build/mofu/pages/p0193.png",
+   "txt": "build/mofu/text/p0193.txt",
+   "text_len": 1912
+  },
+  {
+   "gidx": 194,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 35,
+   "img": "build/mofu/pages/p0194.png",
+   "txt": "build/mofu/text/p0194.txt",
+   "text_len": 910
+  },
+  {
+   "gidx": 195,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 36,
+   "img": "build/mofu/pages/p0195.png",
+   "txt": "build/mofu/text/p0195.txt",
+   "text_len": 914
+  },
+  {
+   "gidx": 196,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 37,
+   "img": "build/mofu/pages/p0196.png",
+   "txt": "build/mofu/text/p0196.txt",
+   "text_len": 1388
+  },
+  {
+   "gidx": 197,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 38,
+   "img": "build/mofu/pages/p0197.png",
+   "txt": "build/mofu/text/p0197.txt",
+   "text_len": 1643
+  },
+  {
+   "gidx": 198,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 39,
+   "img": "build/mofu/pages/p0198.png",
+   "txt": "build/mofu/text/p0198.txt",
+   "text_len": 2227
+  },
+  {
+   "gidx": 199,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 40,
+   "img": "build/mofu/pages/p0199.png",
+   "txt": "build/mofu/text/p0199.txt",
+   "text_len": 1492
+  },
+  {
+   "gidx": 200,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 41,
+   "img": "build/mofu/pages/p0200.png",
+   "txt": "build/mofu/text/p0200.txt",
+   "text_len": 1812
+  },
+  {
+   "gidx": 201,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 42,
+   "img": "build/mofu/pages/p0201.png",
+   "txt": "build/mofu/text/p0201.txt",
+   "text_len": 2076
+  },
+  {
+   "gidx": 202,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 43,
+   "img": "build/mofu/pages/p0202.png",
+   "txt": "build/mofu/text/p0202.txt",
+   "text_len": 720
+  },
+  {
+   "gidx": 203,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 44,
+   "img": "build/mofu/pages/p0203.png",
+   "txt": "build/mofu/text/p0203.txt",
+   "text_len": 819
+  },
+  {
+   "gidx": 204,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 45,
+   "img": "build/mofu/pages/p0204.png",
+   "txt": "build/mofu/text/p0204.txt",
+   "text_len": 1546
+  },
+  {
+   "gidx": 205,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 46,
+   "img": "build/mofu/pages/p0205.png",
+   "txt": "build/mofu/text/p0205.txt",
+   "text_len": 1573
+  },
+  {
+   "gidx": 206,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 47,
+   "img": "build/mofu/pages/p0206.png",
+   "txt": "build/mofu/text/p0206.txt",
+   "text_len": 1802
+  },
+  {
+   "gidx": 207,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 48,
+   "img": "build/mofu/pages/p0207.png",
+   "txt": "build/mofu/text/p0207.txt",
+   "text_len": 1619
+  },
+  {
+   "gidx": 208,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 49,
+   "img": "build/mofu/pages/p0208.png",
+   "txt": "build/mofu/text/p0208.txt",
+   "text_len": 1613
+  },
+  {
+   "gidx": 209,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 50,
+   "img": "build/mofu/pages/p0209.png",
+   "txt": "build/mofu/text/p0209.txt",
+   "text_len": 1679
+  },
+  {
+   "gidx": 210,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 51,
+   "img": "build/mofu/pages/p0210.png",
+   "txt": "build/mofu/text/p0210.txt",
+   "text_len": 2149
+  },
+  {
+   "gidx": 211,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 52,
+   "img": "build/mofu/pages/p0211.png",
+   "txt": "build/mofu/text/p0211.txt",
+   "text_len": 1308
+  },
+  {
+   "gidx": 212,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 53,
+   "img": "build/mofu/pages/p0212.png",
+   "txt": "build/mofu/text/p0212.txt",
+   "text_len": 1666
+  },
+  {
+   "gidx": 213,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 54,
+   "img": "build/mofu/pages/p0213.png",
+   "txt": "build/mofu/text/p0213.txt",
+   "text_len": 1889
+  },
+  {
+   "gidx": 214,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 55,
+   "img": "build/mofu/pages/p0214.png",
+   "txt": "build/mofu/text/p0214.txt",
+   "text_len": 2182
+  },
+  {
+   "gidx": 215,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 56,
+   "img": "build/mofu/pages/p0215.png",
+   "txt": "build/mofu/text/p0215.txt",
+   "text_len": 1877
+  },
+  {
+   "gidx": 216,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 57,
+   "img": "build/mofu/pages/p0216.png",
+   "txt": "build/mofu/text/p0216.txt",
+   "text_len": 1444
+  },
+  {
+   "gidx": 217,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 58,
+   "img": "build/mofu/pages/p0217.png",
+   "txt": "build/mofu/text/p0217.txt",
+   "text_len": 1200
+  },
+  {
+   "gidx": 218,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 59,
+   "img": "build/mofu/pages/p0218.png",
+   "txt": "build/mofu/text/p0218.txt",
+   "text_len": 1299
+  },
+  {
+   "gidx": 219,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 60,
+   "img": "build/mofu/pages/p0219.png",
+   "txt": "build/mofu/text/p0219.txt",
+   "text_len": 1854
+  },
+  {
+   "gidx": 220,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 61,
+   "img": "build/mofu/pages/p0220.png",
+   "txt": "build/mofu/text/p0220.txt",
+   "text_len": 2269
+  },
+  {
+   "gidx": 221,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 62,
+   "img": "build/mofu/pages/p0221.png",
+   "txt": "build/mofu/text/p0221.txt",
+   "text_len": 1422
+  },
+  {
+   "gidx": 222,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 63,
+   "img": "build/mofu/pages/p0222.png",
+   "txt": "build/mofu/text/p0222.txt",
+   "text_len": 789
+  },
+  {
+   "gidx": 223,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 64,
+   "img": "build/mofu/pages/p0223.png",
+   "txt": "build/mofu/text/p0223.txt",
+   "text_len": 1556
+  },
+  {
+   "gidx": 224,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 65,
+   "img": "build/mofu/pages/p0224.png",
+   "txt": "build/mofu/text/p0224.txt",
+   "text_len": 2668
+  },
+  {
+   "gidx": 225,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 66,
+   "img": "build/mofu/pages/p0225.png",
+   "txt": "build/mofu/text/p0225.txt",
+   "text_len": 2094
+  },
+  {
+   "gidx": 226,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 67,
+   "img": "build/mofu/pages/p0226.png",
+   "txt": "build/mofu/text/p0226.txt",
+   "text_len": 1624
+  },
+  {
+   "gidx": 227,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 68,
+   "img": "build/mofu/pages/p0227.png",
+   "txt": "build/mofu/text/p0227.txt",
+   "text_len": 2101
+  },
+  {
+   "gidx": 228,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 69,
+   "img": "build/mofu/pages/p0228.png",
+   "txt": "build/mofu/text/p0228.txt",
+   "text_len": 1344
+  },
+  {
+   "gidx": 229,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 70,
+   "img": "build/mofu/pages/p0229.png",
+   "txt": "build/mofu/text/p0229.txt",
+   "text_len": 1891
+  },
+  {
+   "gidx": 230,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 71,
+   "img": "build/mofu/pages/p0230.png",
+   "txt": "build/mofu/text/p0230.txt",
+   "text_len": 1520
+  },
+  {
+   "gidx": 231,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 72,
+   "img": "build/mofu/pages/p0231.png",
+   "txt": "build/mofu/text/p0231.txt",
+   "text_len": 1302
+  },
+  {
+   "gidx": 232,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 73,
+   "img": "build/mofu/pages/p0232.png",
+   "txt": "build/mofu/text/p0232.txt",
+   "text_len": 1879
+  },
+  {
+   "gidx": 233,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 74,
+   "img": "build/mofu/pages/p0233.png",
+   "txt": "build/mofu/text/p0233.txt",
+   "text_len": 1416
+  },
+  {
+   "gidx": 234,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 75,
+   "img": "build/mofu/pages/p0234.png",
+   "txt": "build/mofu/text/p0234.txt",
+   "text_len": 1786
+  },
+  {
+   "gidx": 235,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 76,
+   "img": "build/mofu/pages/p0235.png",
+   "txt": "build/mofu/text/p0235.txt",
+   "text_len": 1758
+  },
+  {
+   "gidx": 236,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 77,
+   "img": "build/mofu/pages/p0236.png",
+   "txt": "build/mofu/text/p0236.txt",
+   "text_len": 1012
+  },
+  {
+   "gidx": 237,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 78,
+   "img": "build/mofu/pages/p0237.png",
+   "txt": "build/mofu/text/p0237.txt",
+   "text_len": 864
+  },
+  {
+   "gidx": 238,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 79,
+   "img": "build/mofu/pages/p0238.png",
+   "txt": "build/mofu/text/p0238.txt",
+   "text_len": 667
+  },
+  {
+   "gidx": 239,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 80,
+   "img": "build/mofu/pages/p0239.png",
+   "txt": "build/mofu/text/p0239.txt",
+   "text_len": 1263
+  },
+  {
+   "gidx": 240,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 81,
+   "img": "build/mofu/pages/p0240.png",
+   "txt": "build/mofu/text/p0240.txt",
+   "text_len": 887
+  },
+  {
+   "gidx": 241,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 82,
+   "img": "build/mofu/pages/p0241.png",
+   "txt": "build/mofu/text/p0241.txt",
+   "text_len": 1020
+  },
+  {
+   "gidx": 242,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 83,
+   "img": "build/mofu/pages/p0242.png",
+   "txt": "build/mofu/text/p0242.txt",
+   "text_len": 1132
+  },
+  {
+   "gidx": 243,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 84,
+   "img": "build/mofu/pages/p0243.png",
+   "txt": "build/mofu/text/p0243.txt",
+   "text_len": 944
+  },
+  {
+   "gidx": 244,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 85,
+   "img": "build/mofu/pages/p0244.png",
+   "txt": "build/mofu/text/p0244.txt",
+   "text_len": 1113
+  },
+  {
+   "gidx": 245,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 86,
+   "img": "build/mofu/pages/p0245.png",
+   "txt": "build/mofu/text/p0245.txt",
+   "text_len": 570
+  },
+  {
+   "gidx": 246,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 87,
+   "img": "build/mofu/pages/p0246.png",
+   "txt": "build/mofu/text/p0246.txt",
+   "text_len": 1107
+  },
+  {
+   "gidx": 247,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 88,
+   "img": "build/mofu/pages/p0247.png",
+   "txt": "build/mofu/text/p0247.txt",
+   "text_len": 1307
+  },
+  {
+   "gidx": 248,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 89,
+   "img": "build/mofu/pages/p0248.png",
+   "txt": "build/mofu/text/p0248.txt",
+   "text_len": 987
+  },
+  {
+   "gidx": 249,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 90,
+   "img": "build/mofu/pages/p0249.png",
+   "txt": "build/mofu/text/p0249.txt",
+   "text_len": 1178
+  },
+  {
+   "gidx": 250,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 91,
+   "img": "build/mofu/pages/p0250.png",
+   "txt": "build/mofu/text/p0250.txt",
+   "text_len": 1096
+  },
+  {
+   "gidx": 251,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 92,
+   "img": "build/mofu/pages/p0251.png",
+   "txt": "build/mofu/text/p0251.txt",
+   "text_len": 1118
+  },
+  {
+   "gidx": 252,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 93,
+   "img": "build/mofu/pages/p0252.png",
+   "txt": "build/mofu/text/p0252.txt",
+   "text_len": 1307
+  },
+  {
+   "gidx": 253,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 94,
+   "img": "build/mofu/pages/p0253.png",
+   "txt": "build/mofu/text/p0253.txt",
+   "text_len": 1079
+  },
+  {
+   "gidx": 254,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 95,
+   "img": "build/mofu/pages/p0254.png",
+   "txt": "build/mofu/text/p0254.txt",
+   "text_len": 1301
+  },
+  {
+   "gidx": 255,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 96,
+   "img": "build/mofu/pages/p0255.png",
+   "txt": "build/mofu/text/p0255.txt",
+   "text_len": 1152
+  },
+  {
+   "gidx": 256,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 97,
+   "img": "build/mofu/pages/p0256.png",
+   "txt": "build/mofu/text/p0256.txt",
+   "text_len": 1134
+  },
+  {
+   "gidx": 257,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 98,
+   "img": "build/mofu/pages/p0257.png",
+   "txt": "build/mofu/text/p0257.txt",
+   "text_len": 717
+  },
+  {
+   "gidx": 258,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 99,
+   "img": "build/mofu/pages/p0258.png",
+   "txt": "build/mofu/text/p0258.txt",
+   "text_len": 1408
+  },
+  {
+   "gidx": 259,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 100,
+   "img": "build/mofu/pages/p0259.png",
+   "txt": "build/mofu/text/p0259.txt",
+   "text_len": 1431
+  },
+  {
+   "gidx": 260,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 101,
+   "img": "build/mofu/pages/p0260.png",
+   "txt": "build/mofu/text/p0260.txt",
+   "text_len": 837
+  },
+  {
+   "gidx": 261,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 102,
+   "img": "build/mofu/pages/p0261.png",
+   "txt": "build/mofu/text/p0261.txt",
+   "text_len": 1593
+  },
+  {
+   "gidx": 262,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 103,
+   "img": "build/mofu/pages/p0262.png",
+   "txt": "build/mofu/text/p0262.txt",
+   "text_len": 804
+  },
+  {
+   "gidx": 263,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 104,
+   "img": "build/mofu/pages/p0263.png",
+   "txt": "build/mofu/text/p0263.txt",
+   "text_len": 785
+  },
+  {
+   "gidx": 264,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 105,
+   "img": "build/mofu/pages/p0264.png",
+   "txt": "build/mofu/text/p0264.txt",
+   "text_len": 1414
+  },
+  {
+   "gidx": 265,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 106,
+   "img": "build/mofu/pages/p0265.png",
+   "txt": "build/mofu/text/p0265.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 266,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 107,
+   "img": "build/mofu/pages/p0266.png",
+   "txt": "build/mofu/text/p0266.txt",
+   "text_len": 7
+  },
+  {
+   "gidx": 267,
+   "source_pdf": "Medien und Therapiematerialien/Beinamputation_15_06_2020_Web_Final.pdf",
+   "source_page": 108,
+   "img": "build/mofu/pages/p0267.png",
+   "txt": "build/mofu/text/p0267.txt",
+   "text_len": 66
+  },
+  {
+   "gidx": 268,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0268.png",
+   "txt": "build/mofu/text/p0268.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 269,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0269.png",
+   "txt": "build/mofu/text/p0269.txt",
+   "text_len": 116
+  },
+  {
+   "gidx": 270,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0270.png",
+   "txt": "build/mofu/text/p0270.txt",
+   "text_len": 34
+  },
+  {
+   "gidx": 271,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0271.png",
+   "txt": "build/mofu/text/p0271.txt",
+   "text_len": 71
+  },
+  {
+   "gidx": 272,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0272.png",
+   "txt": "build/mofu/text/p0272.txt",
+   "text_len": 57
+  },
+  {
+   "gidx": 273,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0273.png",
+   "txt": "build/mofu/text/p0273.txt",
+   "text_len": 31
+  },
+  {
+   "gidx": 274,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0274.png",
+   "txt": "build/mofu/text/p0274.txt",
+   "text_len": 67
+  },
+  {
+   "gidx": 275,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0275.png",
+   "txt": "build/mofu/text/p0275.txt",
+   "text_len": 50
+  },
+  {
+   "gidx": 276,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 9,
+   "img": "build/mofu/pages/p0276.png",
+   "txt": "build/mofu/text/p0276.txt",
+   "text_len": 123
+  },
+  {
+   "gidx": 277,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 10,
+   "img": "build/mofu/pages/p0277.png",
+   "txt": "build/mofu/text/p0277.txt",
+   "text_len": 119
+  },
+  {
+   "gidx": 278,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 11,
+   "img": "build/mofu/pages/p0278.png",
+   "txt": "build/mofu/text/p0278.txt",
+   "text_len": 64
+  },
+  {
+   "gidx": 279,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 12,
+   "img": "build/mofu/pages/p0279.png",
+   "txt": "build/mofu/text/p0279.txt",
+   "text_len": 83
+  },
+  {
+   "gidx": 280,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 13,
+   "img": "build/mofu/pages/p0280.png",
+   "txt": "build/mofu/text/p0280.txt",
+   "text_len": 39
+  },
+  {
+   "gidx": 281,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 14,
+   "img": "build/mofu/pages/p0281.png",
+   "txt": "build/mofu/text/p0281.txt",
+   "text_len": 51
+  },
+  {
+   "gidx": 282,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 15,
+   "img": "build/mofu/pages/p0282.png",
+   "txt": "build/mofu/text/p0282.txt",
+   "text_len": 41
+  },
+  {
+   "gidx": 283,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 16,
+   "img": "build/mofu/pages/p0283.png",
+   "txt": "build/mofu/text/p0283.txt",
+   "text_len": 51
+  },
+  {
+   "gidx": 284,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 17,
+   "img": "build/mofu/pages/p0284.png",
+   "txt": "build/mofu/text/p0284.txt",
+   "text_len": 49
+  },
+  {
+   "gidx": 285,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 18,
+   "img": "build/mofu/pages/p0285.png",
+   "txt": "build/mofu/text/p0285.txt",
+   "text_len": 28
+  },
+  {
+   "gidx": 286,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 19,
+   "img": "build/mofu/pages/p0286.png",
+   "txt": "build/mofu/text/p0286.txt",
+   "text_len": 37
+  },
+  {
+   "gidx": 287,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 20,
+   "img": "build/mofu/pages/p0287.png",
+   "txt": "build/mofu/text/p0287.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 288,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 21,
+   "img": "build/mofu/pages/p0288.png",
+   "txt": "build/mofu/text/p0288.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 289,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 22,
+   "img": "build/mofu/pages/p0289.png",
+   "txt": "build/mofu/text/p0289.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 290,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 23,
+   "img": "build/mofu/pages/p0290.png",
+   "txt": "build/mofu/text/p0290.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 291,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 24,
+   "img": "build/mofu/pages/p0291.png",
+   "txt": "build/mofu/text/p0291.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 292,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 25,
+   "img": "build/mofu/pages/p0292.png",
+   "txt": "build/mofu/text/p0292.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 293,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 26,
+   "img": "build/mofu/pages/p0293.png",
+   "txt": "build/mofu/text/p0293.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 294,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 27,
+   "img": "build/mofu/pages/p0294.png",
+   "txt": "build/mofu/text/p0294.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 295,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 28,
+   "img": "build/mofu/pages/p0295.png",
+   "txt": "build/mofu/text/p0295.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 296,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 29,
+   "img": "build/mofu/pages/p0296.png",
+   "txt": "build/mofu/text/p0296.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 297,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 30,
+   "img": "build/mofu/pages/p0297.png",
+   "txt": "build/mofu/text/p0297.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 298,
+   "source_pdf": "Medien und Therapiematerialien/Graphomotorik/Grapho_neutral.pdf",
+   "source_page": 31,
+   "img": "build/mofu/pages/p0298.png",
+   "txt": "build/mofu/text/p0298.txt",
+   "text_len": 35
+  },
+  {
+   "gidx": 299,
+   "source_pdf": "Medien und Therapiematerialien/Sturztraining (Handout)/Falltraining.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0299.png",
+   "txt": "build/mofu/text/p0299.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 300,
+   "source_pdf": "Medien und Therapiematerialien/Sturztraining (Handout)/Falltraining.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0300.png",
+   "txt": "build/mofu/text/p0300.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 301,
+   "source_pdf": "Medien und Therapiematerialien/Sturztraining (Handout)/Falltraining.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0301.png",
+   "txt": "build/mofu/text/p0301.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 302,
+   "source_pdf": "Medien und Therapiematerialien/Sturztraining (Handout)/Falltraining.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0302.png",
+   "txt": "build/mofu/text/p0302.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 303,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0303.png",
+   "txt": "build/mofu/text/p0303.txt",
+   "text_len": 33
+  },
+  {
+   "gidx": 304,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0304.png",
+   "txt": "build/mofu/text/p0304.txt",
+   "text_len": 135
+  },
+  {
+   "gidx": 305,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0305.png",
+   "txt": "build/mofu/text/p0305.txt",
+   "text_len": 135
+  },
+  {
+   "gidx": 306,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0306.png",
+   "txt": "build/mofu/text/p0306.txt",
+   "text_len": 135
+  },
+  {
+   "gidx": 307,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0307.png",
+   "txt": "build/mofu/text/p0307.txt",
+   "text_len": 190
+  },
+  {
+   "gidx": 308,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0308.png",
+   "txt": "build/mofu/text/p0308.txt",
+   "text_len": 220
+  },
+  {
+   "gidx": 309,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0309.png",
+   "txt": "build/mofu/text/p0309.txt",
+   "text_len": 226
+  },
+  {
+   "gidx": 310,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0310.png",
+   "txt": "build/mofu/text/p0310.txt",
+   "text_len": 161
+  },
+  {
+   "gidx": 311,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 9,
+   "img": "build/mofu/pages/p0311.png",
+   "txt": "build/mofu/text/p0311.txt",
+   "text_len": 148
+  },
+  {
+   "gidx": 312,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 10,
+   "img": "build/mofu/pages/p0312.png",
+   "txt": "build/mofu/text/p0312.txt",
+   "text_len": 161
+  },
+  {
+   "gidx": 313,
+   "source_pdf": "Muscles_Powerpoint.pdf",
+   "source_page": 11,
+   "img": "build/mofu/pages/p0313.png",
+   "txt": "build/mofu/text/p0313.txt",
+   "text_len": 198
+  },
+  {
+   "gidx": 314,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0314.png",
+   "txt": "build/mofu/text/p0314.txt",
+   "text_len": 71
+  },
+  {
+   "gidx": 315,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 2,
+   "img": "build/mofu/pages/p0315.png",
+   "txt": "build/mofu/text/p0315.txt",
+   "text_len": 3960
+  },
+  {
+   "gidx": 316,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 3,
+   "img": "build/mofu/pages/p0316.png",
+   "txt": "build/mofu/text/p0316.txt",
+   "text_len": 4058
+  },
+  {
+   "gidx": 317,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 4,
+   "img": "build/mofu/pages/p0317.png",
+   "txt": "build/mofu/text/p0317.txt",
+   "text_len": 4588
+  },
+  {
+   "gidx": 318,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 5,
+   "img": "build/mofu/pages/p0318.png",
+   "txt": "build/mofu/text/p0318.txt",
+   "text_len": 1378
+  },
+  {
+   "gidx": 319,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 6,
+   "img": "build/mofu/pages/p0319.png",
+   "txt": "build/mofu/text/p0319.txt",
+   "text_len": 2739
+  },
+  {
+   "gidx": 320,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 7,
+   "img": "build/mofu/pages/p0320.png",
+   "txt": "build/mofu/text/p0320.txt",
+   "text_len": 2864
+  },
+  {
+   "gidx": 321,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 8,
+   "img": "build/mofu/pages/p0321.png",
+   "txt": "build/mofu/text/p0321.txt",
+   "text_len": 3170
+  },
+  {
+   "gidx": 322,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 9,
+   "img": "build/mofu/pages/p0322.png",
+   "txt": "build/mofu/text/p0322.txt",
+   "text_len": 2859
+  },
+  {
+   "gidx": 323,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 10,
+   "img": "build/mofu/pages/p0323.png",
+   "txt": "build/mofu/text/p0323.txt",
+   "text_len": 2210
+  },
+  {
+   "gidx": 324,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 11,
+   "img": "build/mofu/pages/p0324.png",
+   "txt": "build/mofu/text/p0324.txt",
+   "text_len": 2419
+  },
+  {
+   "gidx": 325,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 12,
+   "img": "build/mofu/pages/p0325.png",
+   "txt": "build/mofu/text/p0325.txt",
+   "text_len": 1489
+  },
+  {
+   "gidx": 326,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 13,
+   "img": "build/mofu/pages/p0326.png",
+   "txt": "build/mofu/text/p0326.txt",
+   "text_len": 154
+  },
+  {
+   "gidx": 327,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 14,
+   "img": "build/mofu/pages/p0327.png",
+   "txt": "build/mofu/text/p0327.txt",
+   "text_len": 700
+  },
+  {
+   "gidx": 328,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 15,
+   "img": "build/mofu/pages/p0328.png",
+   "txt": "build/mofu/text/p0328.txt",
+   "text_len": 186
+  },
+  {
+   "gidx": 329,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 16,
+   "img": "build/mofu/pages/p0329.png",
+   "txt": "build/mofu/text/p0329.txt",
+   "text_len": 196
+  },
+  {
+   "gidx": 330,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 17,
+   "img": "build/mofu/pages/p0330.png",
+   "txt": "build/mofu/text/p0330.txt",
+   "text_len": 197
+  },
+  {
+   "gidx": 331,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 18,
+   "img": "build/mofu/pages/p0331.png",
+   "txt": "build/mofu/text/p0331.txt",
+   "text_len": 778
+  },
+  {
+   "gidx": 332,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 19,
+   "img": "build/mofu/pages/p0332.png",
+   "txt": "build/mofu/text/p0332.txt",
+   "text_len": 1682
+  },
+  {
+   "gidx": 333,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 20,
+   "img": "build/mofu/pages/p0333.png",
+   "txt": "build/mofu/text/p0333.txt",
+   "text_len": 1581
+  },
+  {
+   "gidx": 334,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 21,
+   "img": "build/mofu/pages/p0334.png",
+   "txt": "build/mofu/text/p0334.txt",
+   "text_len": 1817
+  },
+  {
+   "gidx": 335,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 22,
+   "img": "build/mofu/pages/p0335.png",
+   "txt": "build/mofu/text/p0335.txt",
+   "text_len": 2406
+  },
+  {
+   "gidx": 336,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 23,
+   "img": "build/mofu/pages/p0336.png",
+   "txt": "build/mofu/text/p0336.txt",
+   "text_len": 1104
+  },
+  {
+   "gidx": 337,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 24,
+   "img": "build/mofu/pages/p0337.png",
+   "txt": "build/mofu/text/p0337.txt",
+   "text_len": 2458
+  },
+  {
+   "gidx": 338,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 25,
+   "img": "build/mofu/pages/p0338.png",
+   "txt": "build/mofu/text/p0338.txt",
+   "text_len": 213
+  },
+  {
+   "gidx": 339,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 26,
+   "img": "build/mofu/pages/p0339.png",
+   "txt": "build/mofu/text/p0339.txt",
+   "text_len": 3115
+  },
+  {
+   "gidx": 340,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 27,
+   "img": "build/mofu/pages/p0340.png",
+   "txt": "build/mofu/text/p0340.txt",
+   "text_len": 1215
+  },
+  {
+   "gidx": 341,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 28,
+   "img": "build/mofu/pages/p0341.png",
+   "txt": "build/mofu/text/p0341.txt",
+   "text_len": 1296
+  },
+  {
+   "gidx": 342,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 29,
+   "img": "build/mofu/pages/p0342.png",
+   "txt": "build/mofu/text/p0342.txt",
+   "text_len": 1704
+  },
+  {
+   "gidx": 343,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 30,
+   "img": "build/mofu/pages/p0343.png",
+   "txt": "build/mofu/text/p0343.txt",
+   "text_len": 1793
+  },
+  {
+   "gidx": 344,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 31,
+   "img": "build/mofu/pages/p0344.png",
+   "txt": "build/mofu/text/p0344.txt",
+   "text_len": 2033
+  },
+  {
+   "gidx": 345,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 32,
+   "img": "build/mofu/pages/p0345.png",
+   "txt": "build/mofu/text/p0345.txt",
+   "text_len": 2201
+  },
+  {
+   "gidx": 346,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 33,
+   "img": "build/mofu/pages/p0346.png",
+   "txt": "build/mofu/text/p0346.txt",
+   "text_len": 2176
+  },
+  {
+   "gidx": 347,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 34,
+   "img": "build/mofu/pages/p0347.png",
+   "txt": "build/mofu/text/p0347.txt",
+   "text_len": 1427
+  },
+  {
+   "gidx": 348,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 35,
+   "img": "build/mofu/pages/p0348.png",
+   "txt": "build/mofu/text/p0348.txt",
+   "text_len": 2211
+  },
+  {
+   "gidx": 349,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 36,
+   "img": "build/mofu/pages/p0349.png",
+   "txt": "build/mofu/text/p0349.txt",
+   "text_len": 1832
+  },
+  {
+   "gidx": 350,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 37,
+   "img": "build/mofu/pages/p0350.png",
+   "txt": "build/mofu/text/p0350.txt",
+   "text_len": 2461
+  },
+  {
+   "gidx": 351,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 38,
+   "img": "build/mofu/pages/p0351.png",
+   "txt": "build/mofu/text/p0351.txt",
+   "text_len": 2445
+  },
+  {
+   "gidx": 352,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 39,
+   "img": "build/mofu/pages/p0352.png",
+   "txt": "build/mofu/text/p0352.txt",
+   "text_len": 2056
+  },
+  {
+   "gidx": 353,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 40,
+   "img": "build/mofu/pages/p0353.png",
+   "txt": "build/mofu/text/p0353.txt",
+   "text_len": 2746
+  },
+  {
+   "gidx": 354,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 41,
+   "img": "build/mofu/pages/p0354.png",
+   "txt": "build/mofu/text/p0354.txt",
+   "text_len": 2744
+  },
+  {
+   "gidx": 355,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 42,
+   "img": "build/mofu/pages/p0355.png",
+   "txt": "build/mofu/text/p0355.txt",
+   "text_len": 2103
+  },
+  {
+   "gidx": 356,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 43,
+   "img": "build/mofu/pages/p0356.png",
+   "txt": "build/mofu/text/p0356.txt",
+   "text_len": 2713
+  },
+  {
+   "gidx": 357,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 44,
+   "img": "build/mofu/pages/p0357.png",
+   "txt": "build/mofu/text/p0357.txt",
+   "text_len": 2343
+  },
+  {
+   "gidx": 358,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 45,
+   "img": "build/mofu/pages/p0358.png",
+   "txt": "build/mofu/text/p0358.txt",
+   "text_len": 2038
+  },
+  {
+   "gidx": 359,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 46,
+   "img": "build/mofu/pages/p0359.png",
+   "txt": "build/mofu/text/p0359.txt",
+   "text_len": 197
+  },
+  {
+   "gidx": 360,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 47,
+   "img": "build/mofu/pages/p0360.png",
+   "txt": "build/mofu/text/p0360.txt",
+   "text_len": 2529
+  },
+  {
+   "gidx": 361,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 48,
+   "img": "build/mofu/pages/p0361.png",
+   "txt": "build/mofu/text/p0361.txt",
+   "text_len": 2979
+  },
+  {
+   "gidx": 362,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 49,
+   "img": "build/mofu/pages/p0362.png",
+   "txt": "build/mofu/text/p0362.txt",
+   "text_len": 1747
+  },
+  {
+   "gidx": 363,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 50,
+   "img": "build/mofu/pages/p0363.png",
+   "txt": "build/mofu/text/p0363.txt",
+   "text_len": 2992
+  },
+  {
+   "gidx": 364,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 51,
+   "img": "build/mofu/pages/p0364.png",
+   "txt": "build/mofu/text/p0364.txt",
+   "text_len": 2390
+  },
+  {
+   "gidx": 365,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 52,
+   "img": "build/mofu/pages/p0365.png",
+   "txt": "build/mofu/text/p0365.txt",
+   "text_len": 2081
+  },
+  {
+   "gidx": 366,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 53,
+   "img": "build/mofu/pages/p0366.png",
+   "txt": "build/mofu/text/p0366.txt",
+   "text_len": 2992
+  },
+  {
+   "gidx": 367,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 54,
+   "img": "build/mofu/pages/p0367.png",
+   "txt": "build/mofu/text/p0367.txt",
+   "text_len": 2364
+  },
+  {
+   "gidx": 368,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 55,
+   "img": "build/mofu/pages/p0368.png",
+   "txt": "build/mofu/text/p0368.txt",
+   "text_len": 1830
+  },
+  {
+   "gidx": 369,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 56,
+   "img": "build/mofu/pages/p0369.png",
+   "txt": "build/mofu/text/p0369.txt",
+   "text_len": 2381
+  },
+  {
+   "gidx": 370,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 57,
+   "img": "build/mofu/pages/p0370.png",
+   "txt": "build/mofu/text/p0370.txt",
+   "text_len": 1671
+  },
+  {
+   "gidx": 371,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 58,
+   "img": "build/mofu/pages/p0371.png",
+   "txt": "build/mofu/text/p0371.txt",
+   "text_len": 2276
+  },
+  {
+   "gidx": 372,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 59,
+   "img": "build/mofu/pages/p0372.png",
+   "txt": "build/mofu/text/p0372.txt",
+   "text_len": 1326
+  },
+  {
+   "gidx": 373,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 60,
+   "img": "build/mofu/pages/p0373.png",
+   "txt": "build/mofu/text/p0373.txt",
+   "text_len": 109
+  },
+  {
+   "gidx": 374,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 61,
+   "img": "build/mofu/pages/p0374.png",
+   "txt": "build/mofu/text/p0374.txt",
+   "text_len": 2038
+  },
+  {
+   "gidx": 375,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 62,
+   "img": "build/mofu/pages/p0375.png",
+   "txt": "build/mofu/text/p0375.txt",
+   "text_len": 2163
+  },
+  {
+   "gidx": 376,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 63,
+   "img": "build/mofu/pages/p0376.png",
+   "txt": "build/mofu/text/p0376.txt",
+   "text_len": 310
+  },
+  {
+   "gidx": 377,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 64,
+   "img": "build/mofu/pages/p0377.png",
+   "txt": "build/mofu/text/p0377.txt",
+   "text_len": 2067
+  },
+  {
+   "gidx": 378,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 65,
+   "img": "build/mofu/pages/p0378.png",
+   "txt": "build/mofu/text/p0378.txt",
+   "text_len": 2158
+  },
+  {
+   "gidx": 379,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 66,
+   "img": "build/mofu/pages/p0379.png",
+   "txt": "build/mofu/text/p0379.txt",
+   "text_len": 1192
+  },
+  {
+   "gidx": 380,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 67,
+   "img": "build/mofu/pages/p0380.png",
+   "txt": "build/mofu/text/p0380.txt",
+   "text_len": 2556
+  },
+  {
+   "gidx": 381,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 68,
+   "img": "build/mofu/pages/p0381.png",
+   "txt": "build/mofu/text/p0381.txt",
+   "text_len": 2229
+  },
+  {
+   "gidx": 382,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 69,
+   "img": "build/mofu/pages/p0382.png",
+   "txt": "build/mofu/text/p0382.txt",
+   "text_len": 2546
+  },
+  {
+   "gidx": 383,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 70,
+   "img": "build/mofu/pages/p0383.png",
+   "txt": "build/mofu/text/p0383.txt",
+   "text_len": 2602
+  },
+  {
+   "gidx": 384,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 71,
+   "img": "build/mofu/pages/p0384.png",
+   "txt": "build/mofu/text/p0384.txt",
+   "text_len": 750
+  },
+  {
+   "gidx": 385,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 72,
+   "img": "build/mofu/pages/p0385.png",
+   "txt": "build/mofu/text/p0385.txt",
+   "text_len": 986
+  },
+  {
+   "gidx": 386,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 73,
+   "img": "build/mofu/pages/p0386.png",
+   "txt": "build/mofu/text/p0386.txt",
+   "text_len": 2288
+  },
+  {
+   "gidx": 387,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 74,
+   "img": "build/mofu/pages/p0387.png",
+   "txt": "build/mofu/text/p0387.txt",
+   "text_len": 2080
+  },
+  {
+   "gidx": 388,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 75,
+   "img": "build/mofu/pages/p0388.png",
+   "txt": "build/mofu/text/p0388.txt",
+   "text_len": 2625
+  },
+  {
+   "gidx": 389,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 76,
+   "img": "build/mofu/pages/p0389.png",
+   "txt": "build/mofu/text/p0389.txt",
+   "text_len": 978
+  },
+  {
+   "gidx": 390,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 77,
+   "img": "build/mofu/pages/p0390.png",
+   "txt": "build/mofu/text/p0390.txt",
+   "text_len": 773
+  },
+  {
+   "gidx": 391,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 78,
+   "img": "build/mofu/pages/p0391.png",
+   "txt": "build/mofu/text/p0391.txt",
+   "text_len": 402
+  },
+  {
+   "gidx": 392,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 79,
+   "img": "build/mofu/pages/p0392.png",
+   "txt": "build/mofu/text/p0392.txt",
+   "text_len": 1488
+  },
+  {
+   "gidx": 393,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 80,
+   "img": "build/mofu/pages/p0393.png",
+   "txt": "build/mofu/text/p0393.txt",
+   "text_len": 290
+  },
+  {
+   "gidx": 394,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 81,
+   "img": "build/mofu/pages/p0394.png",
+   "txt": "build/mofu/text/p0394.txt",
+   "text_len": 2031
+  },
+  {
+   "gidx": 395,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 82,
+   "img": "build/mofu/pages/p0395.png",
+   "txt": "build/mofu/text/p0395.txt",
+   "text_len": 720
+  },
+  {
+   "gidx": 396,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 83,
+   "img": "build/mofu/pages/p0396.png",
+   "txt": "build/mofu/text/p0396.txt",
+   "text_len": 1486
+  },
+  {
+   "gidx": 397,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 84,
+   "img": "build/mofu/pages/p0397.png",
+   "txt": "build/mofu/text/p0397.txt",
+   "text_len": 1154
+  },
+  {
+   "gidx": 398,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 85,
+   "img": "build/mofu/pages/p0398.png",
+   "txt": "build/mofu/text/p0398.txt",
+   "text_len": 2444
+  },
+  {
+   "gidx": 399,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 86,
+   "img": "build/mofu/pages/p0399.png",
+   "txt": "build/mofu/text/p0399.txt",
+   "text_len": 1443
+  },
+  {
+   "gidx": 400,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 87,
+   "img": "build/mofu/pages/p0400.png",
+   "txt": "build/mofu/text/p0400.txt",
+   "text_len": 1134
+  },
+  {
+   "gidx": 401,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 88,
+   "img": "build/mofu/pages/p0401.png",
+   "txt": "build/mofu/text/p0401.txt",
+   "text_len": 1979
+  },
+  {
+   "gidx": 402,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 89,
+   "img": "build/mofu/pages/p0402.png",
+   "txt": "build/mofu/text/p0402.txt",
+   "text_len": 2212
+  },
+  {
+   "gidx": 403,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 90,
+   "img": "build/mofu/pages/p0403.png",
+   "txt": "build/mofu/text/p0403.txt",
+   "text_len": 1580
+  },
+  {
+   "gidx": 404,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 91,
+   "img": "build/mofu/pages/p0404.png",
+   "txt": "build/mofu/text/p0404.txt",
+   "text_len": 1251
+  },
+  {
+   "gidx": 405,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 92,
+   "img": "build/mofu/pages/p0405.png",
+   "txt": "build/mofu/text/p0405.txt",
+   "text_len": 898
+  },
+  {
+   "gidx": 406,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 93,
+   "img": "build/mofu/pages/p0406.png",
+   "txt": "build/mofu/text/p0406.txt",
+   "text_len": 754
+  },
+  {
+   "gidx": 407,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 94,
+   "img": "build/mofu/pages/p0407.png",
+   "txt": "build/mofu/text/p0407.txt",
+   "text_len": 2540
+  },
+  {
+   "gidx": 408,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 95,
+   "img": "build/mofu/pages/p0408.png",
+   "txt": "build/mofu/text/p0408.txt",
+   "text_len": 1168
+  },
+  {
+   "gidx": 409,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 96,
+   "img": "build/mofu/pages/p0409.png",
+   "txt": "build/mofu/text/p0409.txt",
+   "text_len": 1425
+  },
+  {
+   "gidx": 410,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 97,
+   "img": "build/mofu/pages/p0410.png",
+   "txt": "build/mofu/text/p0410.txt",
+   "text_len": 990
+  },
+  {
+   "gidx": 411,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 98,
+   "img": "build/mofu/pages/p0411.png",
+   "txt": "build/mofu/text/p0411.txt",
+   "text_len": 949
+  },
+  {
+   "gidx": 412,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 99,
+   "img": "build/mofu/pages/p0412.png",
+   "txt": "build/mofu/text/p0412.txt",
+   "text_len": 1079
+  },
+  {
+   "gidx": 413,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 100,
+   "img": "build/mofu/pages/p0413.png",
+   "txt": "build/mofu/text/p0413.txt",
+   "text_len": 1079
+  },
+  {
+   "gidx": 414,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 101,
+   "img": "build/mofu/pages/p0414.png",
+   "txt": "build/mofu/text/p0414.txt",
+   "text_len": 1982
+  },
+  {
+   "gidx": 415,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 102,
+   "img": "build/mofu/pages/p0415.png",
+   "txt": "build/mofu/text/p0415.txt",
+   "text_len": 1771
+  },
+  {
+   "gidx": 416,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 103,
+   "img": "build/mofu/pages/p0416.png",
+   "txt": "build/mofu/text/p0416.txt",
+   "text_len": 1878
+  },
+  {
+   "gidx": 417,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 104,
+   "img": "build/mofu/pages/p0417.png",
+   "txt": "build/mofu/text/p0417.txt",
+   "text_len": 1470
+  },
+  {
+   "gidx": 418,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 105,
+   "img": "build/mofu/pages/p0418.png",
+   "txt": "build/mofu/text/p0418.txt",
+   "text_len": 1547
+  },
+  {
+   "gidx": 419,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 106,
+   "img": "build/mofu/pages/p0419.png",
+   "txt": "build/mofu/text/p0419.txt",
+   "text_len": 1248
+  },
+  {
+   "gidx": 420,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 107,
+   "img": "build/mofu/pages/p0420.png",
+   "txt": "build/mofu/text/p0420.txt",
+   "text_len": 1906
+  },
+  {
+   "gidx": 421,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 108,
+   "img": "build/mofu/pages/p0421.png",
+   "txt": "build/mofu/text/p0421.txt",
+   "text_len": 2146
+  },
+  {
+   "gidx": 422,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 109,
+   "img": "build/mofu/pages/p0422.png",
+   "txt": "build/mofu/text/p0422.txt",
+   "text_len": 2602
+  },
+  {
+   "gidx": 423,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 110,
+   "img": "build/mofu/pages/p0423.png",
+   "txt": "build/mofu/text/p0423.txt",
+   "text_len": 1837
+  },
+  {
+   "gidx": 424,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 111,
+   "img": "build/mofu/pages/p0424.png",
+   "txt": "build/mofu/text/p0424.txt",
+   "text_len": 1553
+  },
+  {
+   "gidx": 425,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 112,
+   "img": "build/mofu/pages/p0425.png",
+   "txt": "build/mofu/text/p0425.txt",
+   "text_len": 710
+  },
+  {
+   "gidx": 426,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 113,
+   "img": "build/mofu/pages/p0426.png",
+   "txt": "build/mofu/text/p0426.txt",
+   "text_len": 589
+  },
+  {
+   "gidx": 427,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 114,
+   "img": "build/mofu/pages/p0427.png",
+   "txt": "build/mofu/text/p0427.txt",
+   "text_len": 678
+  },
+  {
+   "gidx": 428,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 115,
+   "img": "build/mofu/pages/p0428.png",
+   "txt": "build/mofu/text/p0428.txt",
+   "text_len": 518
+  },
+  {
+   "gidx": 429,
+   "source_pdf": "Skript MoFu (Komplett).pdf",
+   "source_page": 116,
+   "img": "build/mofu/pages/p0429.png",
+   "txt": "build/mofu/text/p0429.txt",
+   "text_len": 2279
+  },
+  {
+   "gidx": 430,
+   "source_pdf": "Uebungen Neutral-Null-Methode.pdf",
+   "source_page": 1,
+   "img": "build/mofu/pages/p0430.png",
+   "txt": "build/mofu/text/p0430.txt",
+   "text_len": 758
+  }
+ ]
+}

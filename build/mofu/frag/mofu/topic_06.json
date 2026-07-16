@@ -1,0 +1,54 @@
+{
+  "id": "koerperebenen-achsen",
+  "title": "Körperebenen und Körperachsen",
+  "eingrenzung": "Körperebenen & -Achsen (beschriften)",
+  "prio": "high",
+  "body": "## 2.3.3 Körperebenen und -achsen\n\nZur eindeutigen Beschreibung von Position und Bewegung im Raum werden drei **Hauptebenen** und drei **Hauptachsen** unterschieden. Die Ebenen teilen den Körper in Hälften, die Achsen sind gedachte Linien, die senkrecht auf den Ebenen stehen und um die Bewegungen stattfinden.\n\n### Die drei Körperebenen\n\n| Ebene | Teilt den Körper in ... | Bewegungen in dieser Ebene |\n|---|---|---|\n| **Sagittalebene** | linke und rechte Hälfte | Flexion (Beugung), Extension (Streckung) |\n| **Frontalebene** | vordere (ventrale) und hintere (dorsale) Hälfte | Abduktion (Wegbewegen/Abspreizen), Adduktion (Hinführen zum Körper) |\n| **Transversalebene** | obere (superiore) und untere (inferiore) Hälfte | Rotation |\n\n### Die drei Körperachsen\n\n| Achse | Verlauf | kreuzt welche Ebene | Ermöglicht Bewegungen |\n|---|---|---|---|\n| **Sagittalachse** | horizontal, von vorne nach hinten | Frontalebene | Abduktion, Adduktion, Lateralflexion |\n| **Transversalachse** | horizontal, von links nach rechts | Sagittalebene | Extension, Flexion |\n| **Longitudinalachse** | vertikal, von oben nach unten | Transversalebene | Rotationen (z. B. der Wirbelsäule) |\n\n### Wichtige Verwechslungsfalle (typische Prüfungsfrage)\nDer Name einer Achse entspricht **nicht** der Ebene, deren Bewegungen sie ermöglicht, sondern der Ebene, die sie **kreuzt** (senkrecht durchstößt):\n- Die **Sagittalachse** kreuzt die **Frontalebene** → ermöglicht Frontalebenen-Bewegungen (Ab-/Adduktion).\n- Die **Transversalachse** kreuzt die **Sagittalebene** → ermöglicht Sagittalebenen-Bewegungen (Flexion/Extension).\n- Die **Longitudinalachse** kreuzt die **Transversalebene** → ermöglicht Transversalebenen-Bewegung (Rotation).\n\nMerkregel: Achse und die von ihr ermöglichte Bewegung stehen immer für die **jeweils andere** Ebene als die, nach der die Achse benannt ist (außer bei der Longitudinalachse, die keine gleichnamige Ebene hat).\n\n### Bezug zur Bewegungsanalyse (3.3.2)\nBei der Analyse komplexer Bewegungen wird u. a. gefragt, **in welcher Ebene** (Sagittal-, Frontal- oder Transversalebene) und in welcher Richtung eine Bewegung stattfindet – neben den beteiligten Gelenken/Muskeln, der Art der Muskelarbeit (konzentrisch, exzentrisch, isometrisch), der Körperhaltung und der Bewegungsqualität. Die Einordnung einer Bewegung in ihre Ebene ist damit eine Grundvoraussetzung für eine systematische Bewegungsanalyse in der Ergotherapie.\n\n### Schaubild\nDas Schaubild zeigt eine 3D-Körperfigur mit den drei farbig markierten Ebenen (Frontalebene pink, Transversalebene gelb/orange, Sagittalebene grün) sowie den drei Achsen (Sagittalachse, Transversalachse, Longitudinalachse) als Pfeile. Dieses Schaubild sollte für die Prüfung beschriftet werden können (Ebenen und Achsen benennen und zuordnen).",
+  "facts": [
+    "Die Sagittalebene teilt den Körper in linke und rechte Hälfte; Bewegungen: Flexion/Extension.",
+    "Die Frontalebene teilt den Körper in vordere (ventrale) und hintere (dorsale) Hälfte; Bewegungen: Abduktion/Adduktion.",
+    "Die Transversalebene teilt den Körper in obere (superiore) und untere (inferiore) Hälfte; Bewegung: Rotation.",
+    "Die Sagittalachse verläuft horizontal von vorne nach hinten und kreuzt die Frontalebene; sie ermöglicht Abduktion, Adduktion und Lateralflexion.",
+    "Die Transversalachse verläuft horizontal von links nach rechts und kreuzt die Sagittalebene; sie ermöglicht Flexion und Extension.",
+    "Die Longitudinalachse verläuft vertikal von oben nach unten und kreuzt die Transversalebene; sie ermöglicht Rotationen (z. B. der Wirbelsäule).",
+    "Bei der Analyse komplexer Bewegungen wird u. a. die Bewegungsebene (Sagittal-, Frontal- oder Transversalebene) bestimmt."
+  ],
+  "figures": [
+    {"src": "assets/mofu/g333.png", "caption": "Körperebenen (Sagittal-, Frontal-, Transversalebene) und Körperachsen (Sagittal-, Transversal-, Longitudinalachse) im 3D-Schema – zum Beschriften"}
+  ],
+  "flashcards": [
+    {"q": "Welche drei Hauptebenen des Körpers werden unterschieden?", "a": "Sagittalebene, Frontalebene, Transversalebene."},
+    {"q": "Wie teilt die Sagittalebene den Körper und welche Bewegungen finden in ihr statt?", "a": "Sie teilt den Körper in linke und rechte Hälfte; Bewegungen: Flexion und Extension."},
+    {"q": "Wie teilt die Frontalebene den Körper und welche Bewegungen finden in ihr statt?", "a": "Sie teilt den Körper in vordere (ventrale) und hintere (dorsale) Hälfte; Bewegungen: Abduktion und Adduktion."},
+    {"q": "Wie teilt die Transversalebene den Körper und welche Bewegung findet in ihr statt?", "a": "Sie teilt den Körper in obere (superiore) und untere (inferiore) Hälfte; Bewegung: Rotation."},
+    {"q": "Welche Ebene kreuzt die Sagittalachse, und welche Bewegungen ermöglicht sie dadurch?", "a": "Sie kreuzt die Frontalebene und ermöglicht Abduktion, Adduktion und Lateralflexion."},
+    {"q": "Welche Ebene kreuzt die Transversalachse, und welche Bewegungen ermöglicht sie dadurch?", "a": "Sie kreuzt die Sagittalebene und ermöglicht Flexion und Extension."},
+    {"q": "Welche Ebene kreuzt die Longitudinalachse, und welche Bewegung ermöglicht sie dadurch?", "a": "Sie kreuzt die Transversalebene und ermöglicht Rotationen, z. B. der Wirbelsäule."}
+  ],
+  "quiz": [
+    {
+      "q": "In welcher Körperebene finden Abduktion und Adduktion statt?",
+      "options": ["Sagittalebene", "Frontalebene", "Transversalebene", "Longitudinalebene"],
+      "answer": 1,
+      "explain": "Die Frontalebene teilt den Körper in vordere und hintere Hälfte; in ihr finden Ab- und Adduktion statt. Die Sagittalebene ist für Flexion/Extension zuständig, die Transversalebene für Rotation. Eine 'Longitudinalebene' existiert nicht – Longitudinal ist nur eine Achse."
+    },
+    {
+      "q": "Welche Achse kreuzt die Frontalebene und ermöglicht dadurch Abduktion/Adduktion?",
+      "options": ["Transversalachse", "Sagittalachse", "Longitudinalachse", "Frontalachse"],
+      "answer": 1,
+      "explain": "Typische Verwechslungsfalle: Die Sagittalachse kreuzt NICHT die Sagittalebene, sondern die Frontalebene, und ermöglicht so deren Bewegungen (Ab-/Adduktion, Lateralflexion). Eine 'Frontalachse' wird im Skript nicht benannt."
+    },
+    {
+      "q": "Welche Bewegung wird der Transversalebene zugeordnet?",
+      "options": ["Flexion/Extension", "Abduktion/Adduktion", "Rotation", "Lateralflexion"],
+      "answer": 2,
+      "explain": "Die Transversalebene teilt den Körper in obere und untere Hälfte; die zugehörige Bewegung ist Rotation, ausgeführt um die Longitudinalachse."
+    },
+    {
+      "q": "Bei der Analyse komplexer Bewegungen (Kap. 3.3.2) wird u. a. die Bewegungsebene bestimmt. Welche drei Ebenen werden dabei unterschieden?",
+      "options": ["Sagittal-, Frontal-, Transversalebene", "Sagittal-, Longitudinal-, Transversalebene", "Frontal-, Transversal-, Horizontalebene", "Sagittal-, Frontal-, Horizontalebene"],
+      "answer": 0,
+      "explain": "Die Bewegungsanalyse unterscheidet Sagittal-, Frontal- und Transversalebene. 'Longitudinal' und 'Horizontal' sind keine der drei benannten Hauptebenen (Longitudinal ist eine Achse)."
+    }
+  ]
+}

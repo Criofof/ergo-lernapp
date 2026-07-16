@@ -1,0 +1,55 @@
+{
+  "id": "wundheilungsphasen",
+  "title": "Wundheilung: Phasen und Dauer",
+  "eingrenzung": "Wundheilung (Wie lange dauert es bis es geheilt ist, wie viele Tage?; Phasen benennen und zeitlich einordnen)",
+  "prio": "high",
+  "body": "## Wundheilung – Überblick\nDie Wundheilung ist ein komplexer physiologischer Prozess, der unmittelbar nach einer Verletzung einsetzt und sich in **3 Hauptphasen** gliedert. Für die Prüfung ist entscheidend: die Phasen **benennen** und **zeitlich einordnen** zu können (an welchem Tag beginnt/endet welche Phase, wie viele Tage insgesamt).\n\n## Die 3 Phasen der Wundheilung\n\n| Phase | Zeitraum | Kennzeichen |\n|---|---|---|\n| **1. Exsudative Phase** (Entzündungsphase) | 1.–5. Tag (im Schnitt dauert sie 1–4 Tage) | Beginnt unmittelbar nach der Verletzung; vermehrte Aktivierung des Immunsystems → klassische Entzündungszeichen; Wunde ist sehr empfindlich |\n| **2. Proliferationsphase** | 5.–21. Tag | Intensive Bildung von neuem Gewebe; neu eingesprosste Gefäße und Gewebe sind sehr fein/empfindlich |\n| **3. Umbauphase** (Reparationsphase) | 21.–360. Tag | Unterteilt in **Konsolidierungsphase (21.–60. Tag)** und **Organisationsphase (61.–360. Tag)**; neu gebildetes Gewebe wird umgebaut und gestärkt |\n\nDie vollständige Ausreifung einer Narbe kann somit bis zu **360 Tage (ca. 1 Jahr)** dauern.\n\n## Phase 1: Exsudative Phase (Entzündungsphase), 1.–5. Tag\nBeginnt unmittelbar nach der Verletzung. Es kommt zu einer vermehrten Aktivierung des Immunsystems, wodurch die klassischen Entzündungszeichen entstehen. Die Wunde ist in dieser Phase sehr empfindlich. **Behandlungsziel**: den Heilungsprozess unterstützen und weitere Schäden vermeiden — keine direkte, mechanisch belastende Behandlung der Wunde/Narbe.\n\n## Phase 2: Proliferationsphase, 5.–21. Tag\nEs findet eine intensive Bildung von neuem Gewebe statt. Narbenmassage kann in dieser Phase grundsätzlich beginnen (sofern die Wunde geschlossen ist) — ACHTUNG: Die neu eingesprossten Gefäße und das neue Gewebe sind noch sehr fein und empfindlich. Eine zu aggressive Therapie kann die exsudative Phase verlängern und den Heilungsprozess stören.\n\n## Phase 3: Umbauphase (Reparationsphase), 21.–360. Tag\nUnterteilt in zwei Unterphasen:\n- **Konsolidierungsphase (21.–60. Tag)**\n- **Organisationsphase (61.–360. Tag)**\n\nDas neu gebildete Gewebe wird umgebaut und gestärkt, die Narbe gewinnt zunehmend an Elastizität. Farblich verändert sich die Narbe von bläulich-rötlich hin zur typisch weißlichen Farbe der reifen Narbe. In dieser Phase können die meisten Narbenbehandlungstechniken bedenkenlos angewendet werden.\n\n## Bezug: Wundkontrolle im Befund\nIm Rahmen der ergotherapeutischen Inspektion (Haut-, Wund- und Narbenkontrolle) wird der Heilungsverlauf überprüft: Wundgröße, -tiefe, -farbe, Wundgeruch sowie Menge/Art des Wundexsudats (serös, eitrig etc.). Leitfragen: Ist die Wunde trocken, reizlos, sauber? Sind noch Klammern/Fäden vorhanden? **CAVE**: Entzündliche Prozesse müssen schnell erkannt, dokumentiert und ggf. ärztlich abgeklärt werden.\n\n## Exkurs: Zeitliche Meilensteine bei Amputationswunden\nAuch bei der Prothesenversorgung nach Amputation orientiert sich der Ablauf am Wundheilungsverlauf: Erst wenn die Wunde abgeheilt ist, kann mit der Prothesenversorgung (zunächst Interimsprothese zur Frühmobilisation) begonnen werden. Erst wenn der Stumpf nach ca. **3–6 Monaten** Form und Festigkeit gefunden hat, erfolgt die Anpassung der Definitivprothese.",
+  "facts": [
+    "Die Wundheilung verläuft in 3 Hauptphasen: Exsudative Phase (Entzündungsphase), Proliferationsphase, Umbauphase (Reparationsphase).",
+    "Exsudative Phase (Entzündungsphase): 1.–5. Tag, im Schnitt dauert sie 1–4 Tage; beginnt unmittelbar nach der Verletzung mit klassischen Entzündungszeichen.",
+    "Proliferationsphase: 5.–21. Tag; intensive Bildung von neuem Gewebe, neue Gefäße/Gewebe sind sehr fein und empfindlich.",
+    "Umbauphase (Reparationsphase): 21.–360. Tag; unterteilt in Konsolidierungsphase (21.–60. Tag) und Organisationsphase (61.–360. Tag).",
+    "Die vollständige Reifung der Narbe kann bis zu 360 Tage (ca. 1 Jahr) dauern.",
+    "Narbenmassage kann frühestens ab der Proliferationsphase beginnen, muss aber sehr vorsichtig erfolgen, da zu aggressive Therapie die exsudative Phase verlängern kann.",
+    "In der Umbauphase können die meisten Narbenbehandlungstechniken bedenkenlos angewendet werden; die Narbe verfärbt sich dabei von bläulich-rötlich zu weißlich.",
+    "Wundkontrolle im Befund prüft u.a. Wundgröße, -tiefe, -farbe, Wundgeruch, Wundexsudat sowie ob noch Klammern/Fäden vorhanden sind; entzündliche Prozesse müssen schnell ärztlich abgeklärt werden."
+  ],
+  "figures": [
+    {"src": "assets/mofu/g388.png", "caption": "Die 3 Phasen der Wundheilung mit zeitlicher Einordnung: Exsudative Phase (1.–5. Tag), Proliferationsphase (5.–21. Tag), Umbauphase (21.–360. Tag, unterteilt in Konsolidierung 21.–60. Tag und Organisation 61.–360. Tag)"}
+  ],
+  "flashcards": [
+    {"q": "Wie viele Hauptphasen hat die Wundheilung und wie heißen sie?", "a": "3 Phasen: Exsudative Phase (Entzündungsphase), Proliferationsphase, Umbauphase (Reparationsphase)."},
+    {"q": "In welchem Zeitraum liegt die exsudative Phase (Entzündungsphase)?", "a": "1.–5. Tag (im Schnitt dauert sie 1–4 Tage)."},
+    {"q": "In welchem Zeitraum liegt die Proliferationsphase?", "a": "5.–21. Tag."},
+    {"q": "In welchem Zeitraum liegt die Umbauphase und wie ist sie unterteilt?", "a": "21.–360. Tag; unterteilt in Konsolidierungsphase (21.–60. Tag) und Organisationsphase (61.–360. Tag)."},
+    {"q": "Wie lange kann die vollständige Wundheilung bis zur reifen Narbe insgesamt dauern?", "a": "Bis zu 360 Tage, also etwa 1 Jahr."},
+    {"q": "Was kennzeichnet die exsudative Phase?", "a": "Sie beginnt unmittelbar nach der Verletzung, es kommt zu vermehrter Aktivierung des Immunsystems mit klassischen Entzündungszeichen; die Wunde ist sehr empfindlich."},
+    {"q": "Warum ist bei der Proliferationsphase besondere Vorsicht geboten, obwohl schon Narbenmassage beginnen kann?", "a": "Weil neu eingesprosste Gefäße und neues Gewebe sehr fein/empfindlich sind; zu aggressive Therapie kann die exsudative Phase verlängern."}
+  ],
+  "quiz": [
+    {
+      "q": "In welchem Zeitraum liegt die Proliferationsphase der Wundheilung?",
+      "options": ["1.–5. Tag", "5.–21. Tag", "21.–60. Tag", "61.–360. Tag"],
+      "answer": 1,
+      "explain": "Die Proliferationsphase liegt zwischen dem 5. und 21. Tag; hier findet die intensive Bildung von neuem Gewebe statt. Die Antwort 1.-5. Tag ist die exsudative Phase, 21.-60. bzw. 61.-360. Tag sind Unterphasen der Umbauphase."
+    },
+    {
+      "q": "Wie ist die Umbauphase (Reparationsphase) der Wundheilung unterteilt?",
+      "options": ["Sie wird nicht weiter unterteilt", "In Konsolidierungsphase (21.–60. Tag) und Organisationsphase (61.–360. Tag)", "In Frühphase und Spätphase mit je 180 Tagen", "In Akutphase und chronische Phase"],
+      "answer": 1,
+      "explain": "Die Umbauphase (21.-360. Tag) gliedert sich exakt in Konsolidierungsphase (21.-60. Tag) und Organisationsphase (61.-360. Tag)."
+    },
+    {
+      "q": "Was trifft auf die exsudative Phase (Entzündungsphase) zu?",
+      "options": ["Sie dauert vom 21. bis zum 360. Tag und ist die letzte Phase", "Sie beginnt unmittelbar nach der Verletzung, dauert 1.–5. Tag, mit klassischen Entzündungszeichen", "In dieser Phase sollte bereits intensive Narbenmassage begonnen werden", "Sie ist gekennzeichnet durch die Ausreifung des Gewebes und Farbveränderung zu weißlich"],
+      "answer": 1,
+      "explain": "Die exsudative Phase (1.-5. Tag) beginnt direkt nach der Verletzung mit vermehrter Immunaktivierung und klassischen Entzündungszeichen; die Wunde ist sehr empfindlich. Intensive Massage und Gewebeausreifung gehören zur späteren Umbauphase."
+    },
+    {
+      "q": "Welche Konsequenz kann eine zu aggressive Therapie während der Proliferationsphase haben?",
+      "options": ["Die Organisationsphase wird verkürzt", "Die exsudative Phase kann sich verlängern", "Die Umbauphase entfällt komplett", "Es hat keinerlei Auswirkung auf den Heilungsverlauf"],
+      "answer": 1,
+      "explain": "Da neu eingesprosste Gefäße und Gewebe in der Proliferationsphase sehr fein und empfindlich sind, kann zu aggressive Therapie die exsudative (Entzündungs-)Phase verlängern statt den Heilungsprozess voranzubringen."
+    }
+  ]
+}

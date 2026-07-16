@@ -1,0 +1,68 @@
+{
+  "id": "alle-greifformen",
+  "title": "Greifformen der Hand",
+  "eingrenzung": "Alle Greifformen",
+  "prio": "high",
+  "body": "## 7.3 Greifformen\n\n### Einordnung: Greifformen im Befund\nGreifformen werden im Rahmen des **Sichtbefundes** bei Schädigungen der oberen Extremität begutachtet. Wichtig für die Prüfung: Der Sichtbefund prüft zunächst nur, **OB** die verschiedenen Greifformen überhaupt vorgeführt werden können – nicht deren Qualität. Können sie nicht demonstriert werden, liefern anschließend Assessments (Gelenk- und Kraftmessung) quantifizierbare, valide Messdaten.\n\nEine häufig angewandte Methode ist die **Abstandsmessung** zwischen einzelnen Langfingern und der Hohlhand (Palma Manus) mit Maßband oder Lineal (ohne Nullabstand).\n\nGreifformen werden in zwei Hauptgruppen unterteilt:\n- **Kraft-/Grobgriffe**\n- **Präzisionsgriffe**\n\n### Kraft- oder Grobgriffe\n\n| Griff | Beschreibung | Beispiel |\n|---|---|---|\n| **Faustschluss** | Globaler Faustschluss durch Bildung einer Klammer zwischen dem in Opposition stehenden Daumen und der Handfläche mit den vier Fingern. Eine der elementarsten Greifformen, dient dem sicheren Greifen großer/schwerer Objekte. | Sicheres Halten eines Hammers |\n| **Sphärengriff** | Spezialform des Faustschlusses für kugel- oder sphärenförmige Gegenstände. Daumen und Finger umschließen den Gegenstand; durch Opposition des Daumens und Abduktion in den Fingergrundgelenken bildet die Hohlhand eine Art Mulde. Ermöglicht feineres Halten/Manipulieren bei erhaltener Handkraft. | Einhändiges Halten und Werfen eines Balls |\n| **Hakengriff** | Bei herabhängender Hand sind die vier dreigliedrigen Finger (D2–D5) gebeugt, der Daumen befindet sich in ruhender Abduktionsstellung. Dient dem Tragen mäßig schwerer Gegenstände mit Griffen, Schlaufen oder Henkeln. | Koffer, Kisten, Einkaufstaschen/-tüten tragen |\n\n### Präzisionsgriffe\n\n| Griff | Beschreibung | Beispiel |\n|---|---|---|\n| **Pinzettengriff** | Elementarster Präzisionsgriff, bereits im Säuglingsalter erlernt (Median ca. 9 Monate). Der opponierte, ggf. flektierte Daumen (D1) berührt entweder die mediale Phalange des extendierten Zeigefingers (D2) = **unvollständiger** Pinzettengriff, oder dessen distale Phalange = **vollständiger** Pinzettengriff. | Aufnehmen/Halten kleiner, flacher Gegenstände, z. B. Münzen |\n| **Zangengriff** | Erlernt im frühen Kleinkindalter (ca. ab dem 12. Monat), unmittelbar nach dem Pinzettengriff. Der opponierte, flektierte Daumen berührt die Fingerkuppe eines der ebenfalls flektierten Langfinger (D2–D5). | Eindrehen kleiner Muttern/Schrauben; Aufnehmen/Fädeln von Perlen auf eine Schnur |\n| **Schlüsselgriff (= Lateralgriff)** | Der Gegenstand wird zwischen flektiertem Daumen und der lateralen Seite der proximalen bis medialen Phalanx des üblicherweise flektierten Zeigefingers gehalten. Gilt als der **kraftvollste** Präzisionsgriff. | Halten/Manipulieren eines Schlüssels |\n| **Dreipunktgriff** | Sehr komplexer Griff, ähnelt dem Zangengriff. Der Gegenstand wird zwischen Daumen und insgesamt **zwei** flektierten Langfingern gehalten/manipuliert. | Halten und Hantieren eines Stiftes |\n| **Interdigitalgriff (= Zigarettengriff)** | Komplexer Präzisionsgriff. Der Gegenstand wird zwischen zwei Langfingern (D2–D5) eingeklemmt und gehalten; kann sich zwischen allen Phalangen abspielen. Ermöglicht präzise Manipulation überwiegend leichter, länglicher Gegenstände. | Stifte oder Papier |\n\n### Bildübersicht der Greifformen (Towfigh, Hierner, Langer & Friedel, 2011)\nDie Abbildung zeigt 7 Illustrationen (a–g) der Greifformen:\n\n| Bild | Griff |\n|---|---|\n| a | Hakengriff (Hand hält gebogenen Griff/Henkel bei herabhängendem Arm) |\n| b | Interdigitalgriff (Gegenstand zwischen zwei ausgestreckten Fingern eingeklemmt) |\n| c | Schlüsselgriff (Schlüssel zwischen Daumen und Seite des Zeigefingers) |\n| d | Pinzettengriff (Daumen und Zeigefingerspitze halten Faden/kleinen Gegenstand) |\n| e | Faustschluss (ganze Hand umschließt stangenförmigen Gegenstand) |\n| f | Sphärengriff (Hand umgreift einen Ball) |\n| g | Zangengriff (Daumen und ein gebeugter Finger bilden einen Ring, kleiner Gegenstand dazwischen) |\n\n**Prüfungsfalle:** Der **Dreipunktgriff** ist auf dieser Bildtafel NICHT explizit abgebildet – nur 7 der insgesamt 8 genannten Greifformen sind hier bebildert.",
+  "facts": [
+    "Der Sichtbefund von Greifformen prüft nur, OB die Greifformen vorgeführt werden können, nicht deren Qualität – quantifizierbare Daten liefern erst Assessments (Gelenk-/Kraftmessung).",
+    "Häufige Methode: Abstandsmessung zwischen Langfingern und Hohlhand (Palma Manus) mit Maßband/Lineal, ohne Nullabstand.",
+    "Greifformen werden in Kraft-/Grobgriffe (Faustschluss, Sphärengriff, Hakengriff) und Präzisionsgriffe (Pinzetten-, Zangen-, Schlüssel-/Lateral-, Dreipunkt-, Interdigitalgriff) unterteilt.",
+    "Faustschluss: globale Klammer zwischen opponiertem Daumen und den vier Fingern; Beispiel Hammer halten.",
+    "Sphärengriff ist eine Spezialform des Faustschlusses für kugelförmige Gegenstände; Beispiel Ball halten/werfen.",
+    "Hakengriff: D2–D5 gebeugt, Daumen in Abduktion, bei herabhängender Hand; Beispiel Koffer/Tasche tragen.",
+    "Pinzettengriff ist der elementarste Präzisionsgriff, erlernt mit Median ca. 9 Monaten; unvollständig = Daumen an medialer Phalange, vollständig = an distaler Phalange von D2.",
+    "Zangengriff wird ca. ab dem 12. Monat erlernt, unmittelbar nach dem Pinzettengriff; Daumen berührt Fingerkuppe eines Langfingers D2–D5.",
+    "Schlüsselgriff (= Lateralgriff) gilt als der kraftvollste Präzisionsgriff; Beispiel Schlüssel halten.",
+    "Dreipunktgriff: Daumen plus zwei flektierte Langfinger, Beispiel Stift halten; auf der klassischen Bildtafel (a–g) NICHT abgebildet.",
+    "Interdigitalgriff (= Zigarettengriff): Gegenstand zwischen zwei Langfingern D2–D5 eingeklemmt, z. B. Stift oder Papier."
+  ],
+  "figures": [
+    {"src": "assets/mofu/g376.png", "caption": "Greifformen a–g im Bild: a=Hakengriff, b=Interdigitalgriff, c=Schlüsselgriff, d=Pinzettengriff, e=Faustschluss, f=Sphärengriff, g=Zangengriff (Towfigh, Hierner, Langer & Friedel, 2011); Dreipunktgriff nicht abgebildet"}
+  ],
+  "flashcards": [
+    {"q": "Welche zwei Hauptgruppen von Greifformen werden unterschieden?", "a": "Kraft-/Grobgriffe und Präzisionsgriffe."},
+    {"q": "Was prüft der Sichtbefund bei Greifformen konkret – und was NICHT?", "a": "Er prüft nur, OB die Greifformen überhaupt vorgeführt werden können, nicht die Qualität. Quantifizierbare Daten liefern erst Assessments (Gelenk-/Kraftmessung)."},
+    {"q": "Wie unterscheiden sich unvollständiger und vollständiger Pinzettengriff?", "a": "Unvollständig: Daumen berührt die mediale Phalange von D2. Vollständig: Daumen berührt die distale Phalange von D2."},
+    {"q": "In welcher Reihenfolge und in welchem Alter werden Pinzetten- und Zangengriff erlernt?", "a": "Zuerst der Pinzettengriff (Median ca. 9 Monate), unmittelbar danach der Zangengriff (ca. ab dem 12. Monat)."},
+    {"q": "Welcher Präzisionsgriff gilt als der kraftvollste und wie wird er noch genannt?", "a": "Der Schlüsselgriff, auch Lateralgriff genannt."},
+    {"q": "Worin unterscheiden sich Dreipunktgriff und Interdigitalgriff (Zigarettengriff)?", "a": "Beim Dreipunktgriff wird der Gegenstand zwischen Daumen und zwei flektierten Langfingern gehalten (Beispiel Stift). Beim Interdigitalgriff wird der Gegenstand ohne Daumenbeteiligung zwischen zwei Langfingern D2–D5 eingeklemmt (Beispiel Stift/Papier)."},
+    {"q": "Welche Methode wird häufig zur Objektivierung von Greifformen/Fingerbeweglichkeit eingesetzt?", "a": "Die Abstandsmessung zwischen einzelnen Langfingern und der Hohlhand (Palma Manus) mit Maßband oder Lineal, ohne Nullabstand."}
+  ],
+  "quiz": [
+    {
+      "q": "Welcher Präzisionsgriff gilt als der kraftvollste?",
+      "options": ["Dreipunktgriff", "Schlüsselgriff (Lateralgriff)", "Pinzettengriff", "Interdigitalgriff"],
+      "answer": 1,
+      "explain": "Der Schlüsselgriff (= Lateralgriff), bei dem der Gegenstand zwischen Daumen und der lateralen Seite des Zeigefingers gehalten wird, stellt laut Kursmaterial den kraftvollsten Präzisionsgriff dar."
+    },
+    {
+      "q": "Auf der klassischen Bildtafel (a–g) nach Towfigh et al. (2011) zu den Greifformen fehlt welcher Griff?",
+      "options": ["Sphärengriff", "Hakengriff", "Dreipunktgriff", "Pinzettengriff"],
+      "answer": 2,
+      "explain": "Die Bildtafel zeigt nur 7 der genannten Greifformen (a–g); der Dreipunktgriff ist dort nicht separat abgebildet."
+    },
+    {
+      "q": "Was genau prüft der Sichtbefund im Hinblick auf Greifformen?",
+      "options": [
+        "Nur, ob die Greifform überhaupt vorgeführt werden kann, nicht die Qualität",
+        "Ausschließlich die maximale Grobkraft in kg",
+        "Die genaue Gelenkbeweglichkeit in Grad nach Neutral-Null-Methode",
+        "Die Qualität und Präzision jeder einzelnen Greifform"
+      ],
+      "answer": 0,
+      "explain": "Der Sichtbefund liefert zunächst nur eine Ja/Nein-Aussage, ob eine Greifform demonstriert werden kann. Qualitative/quantitative Werte liefern erst nachgeschaltete Assessments (Gelenk- und Kraftmessung)."
+    },
+    {
+      "q": "Welche Aussage zum Pinzettengriff ist korrekt?",
+      "options": [
+        "Er wird typischerweise vor dem Zangengriff erlernt, Median ca. 9 Monate",
+        "Er wird nach dem Zangengriff erlernt, ca. ab dem 12. Monat",
+        "Der vollständige Pinzettengriff bezeichnet den Kontakt des Daumens mit der medialen Phalange von D2",
+        "Er gilt als der kraftvollste aller Präzisionsgriffe"
+      ],
+      "answer": 0,
+      "explain": "Der Pinzettengriff ist der elementarste Präzisionsgriff und wird mit einem Median von ca. 9 Monaten erlernt – vor dem Zangengriff (ca. ab dem 12. Monat). Der vollständige Pinzettengriff bezeichnet den Kontakt an der distalen (nicht medialen) Phalange, und kraftvollster Griff ist der Schlüsselgriff."
+    }
+  ]
+}

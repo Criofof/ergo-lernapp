@@ -1,6 +1,11 @@
-# Zwischenprodukte der Pipeline (regenerierbar, groß) – NICHT ins Repo
-build/
+# Große, aus den PDFs jederzeit neu erzeugbare Render-Artefakte – NICHT ins Repo
+build/*/pages/
+build/*/text/
 *.log
+
+# ABER: die teure extrahierte Intelligenz (Notizen, Punkte, Fragmente,
+# Eingrenzung, Manifeste, Pläne) WIRD versioniert – als Ausfallsicherung,
+# damit bei Verlust von build/ kein Vision-Agent neu laufen muss.
 
 # OS
 Thumbs.db

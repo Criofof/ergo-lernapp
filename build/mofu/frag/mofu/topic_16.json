@@ -1,0 +1,102 @@
+{
+  "id": "gelenkmobilisation-indikationen",
+  "title": "Gelenkmobilisation: Indikationen, Kontraindikationen & assistive Mobilisation",
+  "eingrenzung": "Gelenkmobilisation: Indikationen und Kontraindikationen (Was machen und was nicht?); Assistive Gelenkmobilisation (Pro & Kontra)",
+  "prio": "high",
+  "body": "## Definition und Ziele der Gelenkmobilisation\nGelenkmobilisation ist eine wichtige Technik in Physio- und Ergotherapie zur Verbesserung bzw. Wiederherstellung der Gelenkbeweglichkeit. Ziel ist es, das vorhandene **aktive, schmerzfreie Bewegungsausmaß zu erhalten und zu erweitern**. Sie wirkt klassischerweise auf Ebene der Körperstrukturen und -funktionen (ICF-Bezug).\n\n**Mögliche Ziele von Mobilisationstechniken:**\n- Erweiterung des aktiven und passiven ROM\n- Anbahnen von physiologischen Bewegungsmustern\n- Verbesserung und Automatisierung von Bewegung\n- Normalisierung der Tonusverhältnisse\n- Anregung des Stoffwechsels im Muskel-Sehnen-Gewebe und im Knorpel\n- Förderung der Gleitfähigkeit der Gelenkflächen\n- Ödemreduktion\n- Kontrakturprophylaxe\n\n## Die drei Arten der Gelenkmobilisation\n\n### 1. Passive Gelenkmobilisation\nTherapeut:in oder Bewegungsschiene führt die Bewegung durch; Patient:in ist idealerweise entspannt, ohne eigene Muskelaktivität. Es werden isolierte oder komplexe Gelenkbewegungen ausgeführt.\n- **CAVE**: schnelle, ruckartige, hektische Bewegungen IMMER vermeiden.\n- **Vorteile**: gute Vorbereitung aktiver Mobilisation/aktiver Trainingsmethoden, grundlegende Bewegungsanbahnung, Kontrakturprophylaxe, Statuserhalt.\n- **Nachteile**: zirkulatorische Störungen nicht positiv beeinflussbar, Schmerz- und Bewegungsgrenze durch Therapeut:in schlecht abschätzbar, Entstehung von Reizzuständen (Mikrotraumata) durch zu starke Dehnung, ungenaue Bewegungsdosierung möglich.\n\n### 2. Assistive Gelenkmobilisation\nDie Patient:in hilft bei der Bewegungsausführung mit (evtl. nur gedanklich, zur Innervationsschulung). Die Therapeut:in führt die Bewegung mit manueller Unterstützung aus; diese dient der **teilweisen Aufhebung der Schwerkraft** und erfordert partielle Muskelarbeit der Patient:in. Auch Apparate (z. B. HelpArm) oder die Auftriebskraft von Wasser können die assistive Mobilisation unterstützen.\n- **Vorteile**: schmerzfreiere Bewegungen, Gelenkschutz, herabgesetzte Ermüdbarkeit der Muskulatur, fließender Übergang zu aktiveren Bewegungsformen.\n- **Nachteil**: größter Nachteil ist, dass durch zu viel Hilfestellung die aktiven Anteile der Patient:in abgeschwächt werden.\n\n### 3. Aktive Gelenkmobilisation\nPatient:in führt die Bewegung ohne fremde Hilfe unter Anleitung der Therapeut:in aus – auch gegen die Schwerkraft. Verbessert Muskelkraft und Kontrolle über das Gelenk.\n- **Vorteile**: achsengerechte Bewegung durch die Muskulatur, Gelenke werden nicht über den physiologischen Zustand hinausbewegt, besseres Handling der Schmerzgrenze, Durchblutungsförderung, besserer Abtransport von Flüssigkeit/Stoffwechselendprodukten durch Aktivierung der Muskelpumpe, Anbahnung eines physiologischen Bewegungsgefühls, erleichterter Transfer in ADL-Bewegungsabläufe.\n- **Nachteile**: unwillkürliche Bewegungseinschränkung durch einschießenden Schmerz möglich; bei manchen Krankheitsbildern sind passive Maßnahmen vor der Aktivierung unumgänglich, um ein Grundbewegungsausmaß zu erreichen.\n\nDie Wahl der Methode hängt ab von: Zustand/Bedürfnissen der Patient:in, spezifischem Krankheitsbild, Therapiezielen. Ein gründlicher Befund und das Studium der Patient:innenakte/Fremdbefunde erleichtern die Entscheidung.\n\n## Indikationen und Kontraindikationen (Kernpunkt der Eingrenzung)\n\n**Indikationen** (Was machen?):\n- Prä- und postoperative Behandlung\n- Sekundäre Behandlung nach Weichteildefekten oder Kontrakturen\n- Nach Ruhigstellungen\n- Nach entzündlichen Prozessen\n- Gelenksteifigkeit\n- Schmerzen\n\n**Kontraindikationen** (Was nicht machen?):\n- Patient:innen, die nur lagerungsstabil sind\n- Akute Entzündungen\n- Frakturen oder andere schwere Verletzungen\n- Infektionen\n- Maligne Tumoren\n- Osteoporose\n- Ödeme\n- Starke, unerklärliche Schmerzen (z. B. akutes CRPS)\n\n**CAVE**: Vor allem bei postoperativer oder posttraumatischer Behandlung sind die Nachbehandlungsschemata des/der behandelnden Arztes/Ärztin unbedingt zu beachten, um Fehlbehandlungen und Folgeschäden zu vermeiden. Patient:innen sollten für eine Gelenkmobilisation **mindestens bewegungsstabil** sein.\n\n## Stabilitätsgrade der Unfallchirurgie (4 Stufen, aufsteigend)\n1. **Lagerungsstabil**: äußerliche Ruhigstellung (Mobilisation kontraindiziert)\n2. **Bewegungsstabil**: Mobilisierung ohne Widerstand (Mindestvoraussetzung für Gelenkmobilisation)\n3. **Belastungsstabil**: Mobilisierung gegen abgestuften Widerstand\n4. **Trainingsstabil**: maximale Belastbarkeit\n\n## Einordnung in den Befund (ergänzender Kontext)\nVor jeder passiven Mobilisation sind drei Untersuchungsschritte unerlässlich: passive Bewegungsprüfung (Endgefühl → limitierende Strukturen), Joint Play (Gelenkstabilität) und Muskelfunktionsprüfung. Erst wenn der Befund zeigt, dass Gelenkstrukturen die Bewegungseinschränkung verursachen, rechtfertigen sich gezielte Mobilisationstechniken der Manuellen Therapie (z. B. Traktion, Kompression).",
+  "facts": [
+    "Ziel der Gelenkmobilisation ist der Erhalt und die Erweiterung des aktiven, schmerzfreien Bewegungsausmaßes.",
+    "Es gibt drei Arten der Gelenkmobilisation: passiv, assistiv und aktiv.",
+    "Bei der passiven Mobilisation führt Therapeut:in/Schiene die Bewegung ohne Muskelaktivität der Patient:in aus; schnelle, ruckartige Bewegungen sind IMMER zu vermeiden.",
+    "Bei der assistiven Mobilisation unterstützt die Patient:in aktiv mit, die Therapeut:in hebt die Schwerkraft teilweise auf; Hilfsmittel sind z. B. der HelpArm-Apparat oder die Auftriebskraft von Wasser.",
+    "Der größte Nachteil der assistiven Mobilisation: zu viel Hilfestellung schwächt die aktiven Anteile der Patient:in ab.",
+    "Bei der aktiven Mobilisation bewegt die Patient:in selbst, auch gegen die Schwerkraft, unter Anleitung der Therapeut:in; die Muskelpumpe fördert den Abtransport von Flüssigkeit/Stoffwechselendprodukten.",
+    "Indikationen für Gelenkmobilisation: prä-/postoperativ, sekundär nach Weichteildefekt/Kontraktur, nach Ruhigstellung, nach entzündlichen Prozessen, Gelenksteifigkeit, Schmerzen.",
+    "Kontraindikationen für Gelenkmobilisation: nur lagerungsstabile Patient:innen, akute Entzündungen, Frakturen/schwere Verletzungen, Infektionen, maligne Tumoren, Osteoporose, Ödeme, starke unerklärliche Schmerzen (z. B. akutes CRPS).",
+    "Patient:innen sollten für eine Gelenkmobilisation mindestens bewegungsstabil sein.",
+    "Die 4 Stabilitätsgrade der Unfallchirurgie (aufsteigend): lagerungsstabil < bewegungsstabil < belastungsstabil < trainingsstabil.",
+    "Bei postoperativer/posttraumatischer Behandlung müssen ärztliche Nachbehandlungsschemata beachtet werden (CAVE)."
+  ],
+  "figures": [
+    {
+      "src": "assets/mofu/g379.png",
+      "caption": "Stabilitätsgrade der Unfallchirurgie: lagerungsstabil, bewegungsstabil, belastungsstabil, trainingsstabil"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Welche drei Arten der Gelenkmobilisation gibt es?",
+      "a": "Passive, assistive und aktive Gelenkmobilisation."
+    },
+    {
+      "q": "Was ist bei der assistiven Gelenkmobilisation der größte Nachteil?",
+      "a": "Bei zu viel Hilfestellung durch die Therapeut:in werden die aktiven Anteile der Patient:in abgeschwächt."
+    },
+    {
+      "q": "Nenne zwei Hilfsmittel, die eine assistive Gelenkmobilisation unterstützen können.",
+      "a": "Apparate wie der HelpArm sowie die Auftriebskraft von Wasser."
+    },
+    {
+      "q": "Nenne mindestens vier Indikationen für Gelenkmobilisation.",
+      "a": "Z. B. prä-/postoperative Behandlung, nach Weichteildefekten/Kontrakturen, nach Ruhigstellungen, nach entzündlichen Prozessen, Gelenksteifigkeit, Schmerzen."
+    },
+    {
+      "q": "Nenne mindestens vier Kontraindikationen für Gelenkmobilisation.",
+      "a": "Z. B. lagerungsstabile Patient:innen, akute Entzündungen, Frakturen/schwere Verletzungen, Infektionen, maligne Tumoren, Osteoporose, Ödeme, starke unerklärliche Schmerzen (z. B. akutes CRPS)."
+    },
+    {
+      "q": "Welchen Stabilitätsgrad sollte eine Patient:in mindestens haben, um mobilisiert zu werden?",
+      "a": "Mindestens bewegungsstabil (Mobilisierung ohne Widerstand möglich)."
+    },
+    {
+      "q": "Was ist bei postoperativer oder posttraumatischer Behandlung unbedingt zu beachten?",
+      "a": "Die Nachbehandlungsschemata des behandelnden Arztes/der Ärztin, um Fehlbehandlungen und Folgeschäden zu vermeiden."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zur assistiven Gelenkmobilisation ist korrekt?",
+      "options": [
+        "Die Patient:in unterstützt die Bewegung aktiv mit, die Therapeut:in hebt die Schwerkraft teilweise auf.",
+        "Die Bewegung wird ausschließlich passiv durch die Therapeut:in ohne jede Beteiligung der Patient:in ausgeführt.",
+        "Die Patient:in führt die Bewegung vollständig selbstständig gegen die Schwerkraft aus.",
+        "Assistive Mobilisation ist ausschließlich mit apparativen Hilfsmitteln wie dem HelpArm möglich."
+      ],
+      "answer": 0,
+      "explain": "Bei der assistiven Mobilisation hilft die Patient:in aktiv mit (ggf. auch nur gedanklich), während die Therapeut:in manuell unterstützt und die Schwerkraft teilweise aufhebt. Option B beschreibt passive, Option C aktive Mobilisation; Wasser als Hilfsmittel widerlegt Option D."
+      },
+    {
+      "q": "Welche der folgenden ist KEINE Kontraindikation für Gelenkmobilisation?",
+      "options": [
+        "Gelenksteifigkeit nach Ruhigstellung",
+        "Akute Entzündung",
+        "Maligne Tumoren",
+        "Osteoporose"
+      ],
+      "answer": 0,
+      "explain": "Gelenksteifigkeit (z. B. nach Ruhigstellung) ist im Gegenteil eine klassische Indikation für Gelenkmobilisation. Akute Entzündungen, maligne Tumoren und Osteoporose sind hingegen Kontraindikationen."
+    },
+    {
+      "q": "Welchen Stabilitätsgrad muss eine Patient:in mindestens erreicht haben, damit eine Gelenkmobilisation überhaupt vertretbar ist?",
+      "options": [
+        "Trainingsstabil",
+        "Belastungsstabil",
+        "Bewegungsstabil",
+        "Lagerungsstabil"
+      ],
+      "answer": 2,
+      "explain": "Laut Kursnotizen sollten Patient:innen für die Gelenkmobilisation mindestens bewegungsstabil sein (Mobilisierung ohne Widerstand). Lagerungsstabil ist die niedrigste Stufe und eine Kontraindikation; belastungs-/trainingsstabil sind höhere, nicht die Mindestvoraussetzung."
+    },
+    {
+      "q": "Worin liegt laut Kursmaterial der größte Nachteil der assistiven Gelenkmobilisation?",
+      "options": [
+        "Zirkulatorische Störungen können nicht positiv beeinflusst werden.",
+        "Zu viel Hilfestellung durch die Therapeut:in schwächt die aktiven Anteile der Patient:in ab.",
+        "Es entstehen häufig Mikrotraumata durch zu starke Dehnung.",
+        "Die Muskelpumpe wird nicht aktiviert, wodurch der Flüssigkeitsabtransport gestört ist."
+      ],
+      "answer": 1,
+      "explain": "Der explizit genannte Hauptnachteil der assistiven Mobilisation ist, dass durch zu viel Hilfestellung die aktiven Anteile der Patient:in abgeschwächt werden. Die anderen Aussagen betreffen Nachteile der passiven Mobilisation bzw. Vorteile der aktiven Mobilisation."
+    }
+  ]
+}

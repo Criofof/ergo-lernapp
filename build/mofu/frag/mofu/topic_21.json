@@ -1,0 +1,100 @@
+{
+  "id": "narbenbehandlung-unterstuetzende-massnahmen",
+  "title": "Unterstützende Maßnahmen in der Narbenbehandlung",
+  "eingrenzung": "Unterstützende Maßnahmen in der Narbenbehandlung (Interdisziplinärer Blick z.B. Sanitäter)",
+  "prio": "high",
+  "body": "## Einordnung\nDie Narbenkontrolle ist Teil des ergotherapeutischen Sichtbefundes (Inspektion) und geht häufig fließend in Palpation und weitere Untersuchungstechniken über. Beurteilt werden Narbengröße, -farbe, -textur und -flexibilität. Leitfragen: Wie sieht die Narbe aus (Aussehen, Farbe), wie ist die Sensibilität, wie die tastbare Beschaffenheit? Eine Narbe, die **hart, erhöht, verfärbt oder schmerzhaft** ist, kann auf ein behandlungsbedürftiges Problem hinweisen.\n\nAuf Basis dieses Befundes kommen drei unterstützende Maßnahmen der Narbenbehandlung zum Einsatz: **Kompression, apparative Maßnahmen und Silikon**.\n\n## 1. Kompression\nHypertrophe Narben, Keloidnarben sowie Narben mit Wundkontraktionen (z. B. sklerotische Narben) reagieren positiv auf **permanente Kompression**.\n\n- **Wirkprinzip**: Die Blutzufuhr zum Narbengewebe wird gedrosselt, dadurch wird die überschießende Kollagensynthese reduziert.\n- **Umsetzung**: Kompressionsbandagen, Kompressionskleidung, Druckverbände, Fingerlinge.\n\n## 2. Apparative Maßnahmen\nLaser- und Ultraschallbehandlungen können die Narbenbehandlung unterstützen: Sie fördern die Wundheilung und verbessern das Erscheinungsbild der Narbe.\n\n**CAVE – Kontraindikationen / nur nach ärztlicher Rücksprache** anwenden bei Patient:innen mit:\n\n| Kontraindikation |\n|---|\n| Herzschrittmacher |\n| Metallimplantate im Behandlungsbereich |\n| akute Entzündungen |\n| hohe Entzündungsbereitschaft |\n| Gerinnungsstörungen |\n\n## 3. Silikon\nSilikonhaltigen Präparaten/Geweben wird eine Wirkung vor allem auf **hypertrophe und keloide Narben** nachgesagt (Wirkung als Weichmacher).\n\n- **Anwendungsformen**: Cremes, Gele sowie Patches, Bandagen und Schläuche mit eingewebtem Silikon.\n- **Wichtig**: Die Evidenz zur Wirksamkeit ist **nicht abschließend geklärt**.\n\n## Interdisziplinärer Blick (z. B. Sanitäter/Wundmanagement)\nIn der Praxis arbeiten Ergotherapie, Pflege/Sanitäter und Medizin bei der Narbenbehandlung zusammen: Anlage/Kontrolle von Kompression und Bandagierung sowie die Durchführung apparativer Maßnahmen erfolgen in Rücksprache mit dem/der behandelnden Arzt/Ärztin, insbesondere zur Abklärung von Kontraindikationen (z. B. Herzschrittmacher, Gerinnungsstörungen).\n\n## Zusammenhang zur Haut-, Wund- und Narbenkontrolle\nDie Auswahl der unterstützenden Maßnahme basiert auf dem Befund aus der Haut-, Wund- und Narbenkontrolle:\n- **Hautkontrolle**: Trophik, Rötung, Schwellung, Wärme, Trockenheit, Mazerationen, Haar-/Nagelwachstum.\n- **Wundkontrolle**: Wundgröße, -tiefe, -farbe, -geruch, Wundexsudat (serös/eitrig), vorhandene Klammern/Fäden; CAVE: entzündliche Prozesse müssen schnell erkannt und ärztlich abgeklärt werden.\n- **Narbenkontrolle**: Größe, Farbe, Textur, Flexibilität, Sensibilität, tastbare Beschaffenheit.",
+  "facts": [
+    "Es gibt drei unterstützende Maßnahmen der Narbenbehandlung: Kompression, apparative Maßnahmen (Laser/Ultraschall) und Silikon.",
+    "Kompression wirkt bei hypertrophen Narben, Keloiden und sklerotischen/kontrahierten Narben: sie drosselt die Blutzufuhr und reduziert die überschießende Kollagensynthese.",
+    "Kompressionsmittel sind z. B. Kompressionsbandagen, Kompressionskleidung, Druckverbände und Fingerlinge.",
+    "Apparative Maßnahmen (Laser-, Ultraschallbehandlung) fördern die Wundheilung und verbessern das Erscheinungsbild der Narbe.",
+    "Kontraindikationen für apparative Maßnahmen (nur nach Arztrücksprache): Herzschrittmacher, Metallimplantate im Behandlungsbereich, akute Entzündungen, hohe Entzündungsbereitschaft, Gerinnungsstörungen.",
+    "Silikon (Cremes, Gel, Patches, Bandagen, Schläuche) wirkt v. a. bei hypertrophen und keloiden Narben; die Evidenz ist nicht abschließend geklärt.",
+    "Eine harte, erhöhte, verfärbte oder schmerzhafte Narbe kann auf ein behandlungsbedürftiges Problem hinweisen.",
+    "Bei der Wundkontrolle müssen entzündliche Prozesse schnell erkannt, dokumentiert und ärztlich abgeklärt werden.",
+    "Interdisziplinäre Zusammenarbeit (z. B. mit Sanitätern/Wundmanagement, Medizin) ist besonders bei Bandagierung und apparativen Maßnahmen zur Kontraindikationsabklärung wichtig."
+  ],
+  "figures": [
+    {
+      "src": "assets/mofu/g396.png",
+      "caption": "Kompressionshandschuh als Beispiel für eine unterstützende Kompressionsmaßnahme in der Narbenbehandlung."
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Welche drei unterstützenden Maßnahmen der Narbenbehandlung gibt es?",
+      "a": "Kompression, apparative Maßnahmen (Laser/Ultraschall) und Silikon."
+    },
+    {
+      "q": "Bei welchen Narbentypen wirkt Kompression positiv, und wie ist der Wirkmechanismus?",
+      "a": "Bei hypertrophen Narben, Keloidnarben und Narben mit Wundkontraktion (z. B. sklerotisch). Wirkung: Drosselung der Blutzufuhr, dadurch Reduktion der überschießenden Kollagensynthese."
+    },
+    {
+      "q": "Nenne vier Beispiele für Kompressionsmittel in der Narbenbehandlung.",
+      "a": "Kompressionsbandagen, Kompressionskleidung, Druckverbände, Fingerlinge."
+    },
+    {
+      "q": "Welche apparativen Maßnahmen unterstützen die Narbenbehandlung und was bewirken sie?",
+      "a": "Laser- und Ultraschallbehandlung; sie fördern die Heilung und verbessern das Erscheinungsbild der Narbe."
+    },
+    {
+      "q": "Nenne fünf Kontraindikationen, bei denen apparative Maßnahmen nicht oder nur nach Arztrücksprache angewendet werden dürfen.",
+      "a": "Herzschrittmacher, Metallimplantate im Behandlungsbereich, akute Entzündungen, hohe Entzündungsbereitschaft, Gerinnungsstörungen."
+    },
+    {
+      "q": "Bei welchen Narbentypen wird Silikon vor allem eingesetzt und wie ist die Evidenzlage?",
+      "a": "Vor allem bei hypertrophen und keloiden Narben (als Weichmacher, z. B. Creme, Gel, Patches, Bandagen). Die Evidenz ist nicht abschließend geklärt."
+    },
+    {
+      "q": "Worauf weist eine harte, erhöhte, verfärbte oder schmerzhafte Narbe hin?",
+      "a": "Auf ein möglicherweise behandlungsbedürftiges Problem, das weitere Behandlung erfordert."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welcher Wirkmechanismus liegt der Kompressionsbehandlung von hypertrophen Narben zugrunde?",
+      "options": [
+        "Drosselung der Blutzufuhr und Reduktion der überschießenden Kollagensynthese",
+        "Erwärmung des Gewebes zur Steigerung der Durchblutung",
+        "Mechanische Ablösung von Verklebungen durch Reibung",
+        "Anregung der Schweißdrüsenaktivität"
+      ],
+      "answer": 0,
+      "explain": "Permanente Kompression drosselt die Blutzufuhr zur Narbe und reduziert dadurch die überschießende Kollagensynthese. Die anderen Optionen beschreiben keine in den Notizen genannten Wirkprinzipien."
+    },
+    {
+      "q": "Bei welchem Patienten sollten Laser- oder Ultraschallbehandlungen zur Narbenbehandlung NICHT ohne Rücksprache mit dem Arzt eingesetzt werden?",
+      "options": [
+        "Bei einem Patienten mit trockener, leicht schuppiger Haut",
+        "Bei einem Patienten mit Herzschrittmacher",
+        "Bei einem Patienten mit blasser Narbenfarbe",
+        "Bei einem Patienten mit leichtem Juckreiz an der Narbe"
+      ],
+      "answer": 1,
+      "explain": "Herzschrittmacher sind eine explizit genannte Kontraindikation für apparative Maßnahmen wie Laser/Ultraschall, ebenso Metallimplantate, akute Entzündungen, hohe Entzündungsbereitschaft und Gerinnungsstörungen."
+    },
+    {
+      "q": "Was trifft auf silikonhaltige Präparate/Gewebe in der Narbenbehandlung zu?",
+      "options": [
+        "Sie wirken vor allem bei hypertrophen und keloiden Narben, ihre Evidenz ist aber nicht abschließend geklärt",
+        "Sie sind ausschließlich bei frischen, offenen Wunden zugelassen",
+        "Ihre Wirksamkeit ist wissenschaftlich vollständig belegt und unumstritten",
+        "Sie ersetzen die Kompressionsbehandlung bei Keloiden vollständig"
+      ],
+      "answer": 0,
+      "explain": "Laut Kursmaterial wird Silikon vor allem bei hypertrophen/keloiden Narben eine Wirkung nachgesagt, die Evidenz ist jedoch nicht abschließend geklärt – nicht 'vollständig belegt' und kein automatischer Ersatz für Kompression."
+    },
+    {
+      "q": "Welche Aussage zur Narbenkontrolle im Rahmen des Sichtbefundes ist korrekt?",
+      "options": [
+        "Eine harte, erhöhte, verfärbte oder schmerzhafte Narbe kann auf ein behandlungsbedürftiges Problem hinweisen",
+        "Die Narbenkontrolle erfolgt unabhängig von Palpation und Ödemmessung",
+        "Narbenfarbe und -flexibilität sind für den Befund irrelevant",
+        "Nur die Narbengröße wird bei der Kontrolle beurteilt"
+      ],
+      "answer": 0,
+      "explain": "Die Notizen nennen ausdrücklich, dass eine harte, erhöhte, verfärbte oder schmerzhafte Narbe auf ein Problem hinweisen kann. Die Narbenkontrolle geht zudem fließend in Palpation/Ödemmessung über und umfasst Größe, Farbe, Textur und Flexibilität."
+    }
+  ]
+}

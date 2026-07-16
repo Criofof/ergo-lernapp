@@ -1,0 +1,2518 @@
+{
+ "slug": "skl-chirurgie",
+ "subject_dir": "C:\\Users\\chris\\Desktop\\Valeria\\Examen - Relevante Fächer (sehr wichtig)\\Examen - Fächergruppe 1\\Fach = SKL Chirurgie",
+ "pages": [
+  {
+   "gidx": 1,
+   "source_pdf": "Abszess, Furunkel, Karbunkel, Empyem, Phlegmone, Panaritium.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0001.png",
+   "txt": "build/skl-chirurgie/text/p0001.txt",
+   "text_len": 1744
+  },
+  {
+   "gidx": 2,
+   "source_pdf": "Abszess, Furunkel, Karbunkel, Empyem, Phlegmone, Panaritium.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0002.png",
+   "txt": "build/skl-chirurgie/text/p0002.txt",
+   "text_len": 811
+  },
+  {
+   "gidx": 3,
+   "source_pdf": "Abszess, Furunkel, Karbunkel, Empyem, Phlegmone, Panaritium.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0003.png",
+   "txt": "build/skl-chirurgie/text/p0003.txt",
+   "text_len": 537
+  },
+  {
+   "gidx": 4,
+   "source_pdf": "Abszess, Furunkel, Karbunkel, Empyem, Phlegmone, Panaritium.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0004.png",
+   "txt": "build/skl-chirurgie/text/p0004.txt",
+   "text_len": 649
+  },
+  {
+   "gidx": 5,
+   "source_pdf": "Abszess, Furunkel, Karbunkel, Empyem, Phlegmone, Panaritium.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0005.png",
+   "txt": "build/skl-chirurgie/text/p0005.txt",
+   "text_len": 1638
+  },
+  {
+   "gidx": 6,
+   "source_pdf": "Abszess, Furunkel, Karbunkel, Empyem, Phlegmone, Panaritium.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0006.png",
+   "txt": "build/skl-chirurgie/text/p0006.txt",
+   "text_len": 918
+  },
+  {
+   "gidx": 7,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0007.png",
+   "txt": "build/skl-chirurgie/text/p0007.txt",
+   "text_len": 1490
+  },
+  {
+   "gidx": 8,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0008.png",
+   "txt": "build/skl-chirurgie/text/p0008.txt",
+   "text_len": 1026
+  },
+  {
+   "gidx": 9,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0009.png",
+   "txt": "build/skl-chirurgie/text/p0009.txt",
+   "text_len": 1254
+  },
+  {
+   "gidx": 10,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0010.png",
+   "txt": "build/skl-chirurgie/text/p0010.txt",
+   "text_len": 488
+  },
+  {
+   "gidx": 11,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0011.png",
+   "txt": "build/skl-chirurgie/text/p0011.txt",
+   "text_len": 75
+  },
+  {
+   "gidx": 12,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0012.png",
+   "txt": "build/skl-chirurgie/text/p0012.txt",
+   "text_len": 1157
+  },
+  {
+   "gidx": 13,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0013.png",
+   "txt": "build/skl-chirurgie/text/p0013.txt",
+   "text_len": 1168
+  },
+  {
+   "gidx": 14,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0014.png",
+   "txt": "build/skl-chirurgie/text/p0014.txt",
+   "text_len": 1705
+  },
+  {
+   "gidx": 15,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0015.png",
+   "txt": "build/skl-chirurgie/text/p0015.txt",
+   "text_len": 15
+  },
+  {
+   "gidx": 16,
+   "source_pdf": "Achillodynie und Achillessehnenruptur.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0016.png",
+   "txt": "build/skl-chirurgie/text/p0016.txt",
+   "text_len": 1111
+  },
+  {
+   "gidx": 17,
+   "source_pdf": "Akutes Abdomen.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0017.png",
+   "txt": "build/skl-chirurgie/text/p0017.txt",
+   "text_len": 823
+  },
+  {
+   "gidx": 18,
+   "source_pdf": "Akutes Abdomen.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0018.png",
+   "txt": "build/skl-chirurgie/text/p0018.txt",
+   "text_len": 702
+  },
+  {
+   "gidx": 19,
+   "source_pdf": "Akutes Abdomen.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0019.png",
+   "txt": "build/skl-chirurgie/text/p0019.txt",
+   "text_len": 997
+  },
+  {
+   "gidx": 20,
+   "source_pdf": "Akutes Abdomen.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0020.png",
+   "txt": "build/skl-chirurgie/text/p0020.txt",
+   "text_len": 484
+  },
+  {
+   "gidx": 21,
+   "source_pdf": "Appendizitis.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0021.png",
+   "txt": "build/skl-chirurgie/text/p0021.txt",
+   "text_len": 1433
+  },
+  {
+   "gidx": 22,
+   "source_pdf": "Appendizitis.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0022.png",
+   "txt": "build/skl-chirurgie/text/p0022.txt",
+   "text_len": 80
+  },
+  {
+   "gidx": 23,
+   "source_pdf": "Appendizitis.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0023.png",
+   "txt": "build/skl-chirurgie/text/p0023.txt",
+   "text_len": 28
+  },
+  {
+   "gidx": 24,
+   "source_pdf": "Appendizitis.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0024.png",
+   "txt": "build/skl-chirurgie/text/p0024.txt",
+   "text_len": 415
+  },
+  {
+   "gidx": 25,
+   "source_pdf": "Appendizitis.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0025.png",
+   "txt": "build/skl-chirurgie/text/p0025.txt",
+   "text_len": 827
+  },
+  {
+   "gidx": 26,
+   "source_pdf": "Appendizitis.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0026.png",
+   "txt": "build/skl-chirurgie/text/p0026.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 27,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 05.12.2025.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0027.png",
+   "txt": "build/skl-chirurgie/text/p0027.txt",
+   "text_len": 1416
+  },
+  {
+   "gidx": 28,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 05.12.2025.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0028.png",
+   "txt": "build/skl-chirurgie/text/p0028.txt",
+   "text_len": 863
+  },
+  {
+   "gidx": 29,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 16.12.2025 - KW51.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0029.png",
+   "txt": "build/skl-chirurgie/text/p0029.txt",
+   "text_len": 1300
+  },
+  {
+   "gidx": 30,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 16.12.2025 - KW51.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0030.png",
+   "txt": "build/skl-chirurgie/text/p0030.txt",
+   "text_len": 1964
+  },
+  {
+   "gidx": 31,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 16.12.2025 - KW51.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0031.png",
+   "txt": "build/skl-chirurgie/text/p0031.txt",
+   "text_len": 1637
+  },
+  {
+   "gidx": 32,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 16.12.2025 - KW51.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0032.png",
+   "txt": "build/skl-chirurgie/text/p0032.txt",
+   "text_len": 1897
+  },
+  {
+   "gidx": 33,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 16.12.2025 - KW51.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0033.png",
+   "txt": "build/skl-chirurgie/text/p0033.txt",
+   "text_len": 1864
+  },
+  {
+   "gidx": 34,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 16.12.2025 - KW51.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0034.png",
+   "txt": "build/skl-chirurgie/text/p0034.txt",
+   "text_len": 1807
+  },
+  {
+   "gidx": 35,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 16.12.2025 - KW51.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0035.png",
+   "txt": "build/skl-chirurgie/text/p0035.txt",
+   "text_len": 1777
+  },
+  {
+   "gidx": 36,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag - SKL Chirurgie _ Ausarbeitung von Valeria Flaum - ETK18B - 16.12.2025 - KW51.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0036.png",
+   "txt": "build/skl-chirurgie/text/p0036.txt",
+   "text_len": 358
+  },
+  {
+   "gidx": 37,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag ETK 17A Chirurgie 07.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0037.png",
+   "txt": "build/skl-chirurgie/text/p0037.txt",
+   "text_len": 2064
+  },
+  {
+   "gidx": 38,
+   "source_pdf": "Arbeitsaufträge/Arbeitsauftrag ETK 17A Chirurgie 07.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0038.png",
+   "txt": "build/skl-chirurgie/text/p0038.txt",
+   "text_len": 1483
+  },
+  {
+   "gidx": 39,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B(20)_Arbeitsauftrag_ Chirurgie_12.06.2026.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0039.png",
+   "txt": "build/skl-chirurgie/text/p0039.txt",
+   "text_len": 1093
+  },
+  {
+   "gidx": 40,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B(20)_Arbeitsauftrag_ Chirurgie_12.06.2026.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0040.png",
+   "txt": "build/skl-chirurgie/text/p0040.txt",
+   "text_len": 1472
+  },
+  {
+   "gidx": 41,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B(20)_Arbeitsauftrag_ Chirurgie_12.06.2026.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0041.png",
+   "txt": "build/skl-chirurgie/text/p0041.txt",
+   "text_len": 1434
+  },
+  {
+   "gidx": 42,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B(20)_Arbeitsauftrag_ Chirurgie_12.06.2026.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0042.png",
+   "txt": "build/skl-chirurgie/text/p0042.txt",
+   "text_len": 1070
+  },
+  {
+   "gidx": 43,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B(20)_Arbeitsauftrag_ Chirurgie_12.06.2026.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0043.png",
+   "txt": "build/skl-chirurgie/text/p0043.txt",
+   "text_len": 723
+  },
+  {
+   "gidx": 44,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B(20)_Arbeitsauftrag_ Chirurgie_28.05.2026.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0044.png",
+   "txt": "build/skl-chirurgie/text/p0044.txt",
+   "text_len": 1572
+  },
+  {
+   "gidx": 45,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B(20)_Arbeitsauftrag_ Chirurgie_28.05.2026.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0045.png",
+   "txt": "build/skl-chirurgie/text/p0045.txt",
+   "text_len": 1975
+  },
+  {
+   "gidx": 46,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B(20)_Arbeitsauftrag_ Chirurgie_28.05.2026.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0046.png",
+   "txt": "build/skl-chirurgie/text/p0046.txt",
+   "text_len": 1946
+  },
+  {
+   "gidx": 47,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B(20)_Arbeitsauftrag_ Chirurgie_28.05.2026.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0047.png",
+   "txt": "build/skl-chirurgie/text/p0047.txt",
+   "text_len": 2138
+  },
+  {
+   "gidx": 48,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B_Arbeitsauftrag_ Chirurgie_Traumatologie_05.03.2026.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0048.png",
+   "txt": "build/skl-chirurgie/text/p0048.txt",
+   "text_len": 1516
+  },
+  {
+   "gidx": 49,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B_Arbeitsauftrag_ Chirurgie_Traumatologie_05.03.2026.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0049.png",
+   "txt": "build/skl-chirurgie/text/p0049.txt",
+   "text_len": 2018
+  },
+  {
+   "gidx": 50,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B_Arbeitsauftrag_ Chirurgie_Traumatologie_05.03.2026.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0050.png",
+   "txt": "build/skl-chirurgie/text/p0050.txt",
+   "text_len": 1559
+  },
+  {
+   "gidx": 51,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B_Arbeitsauftrag_ Chirurgie_Traumatologie_05.03.2026.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0051.png",
+   "txt": "build/skl-chirurgie/text/p0051.txt",
+   "text_len": 2079
+  },
+  {
+   "gidx": 52,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B_Arbeitsauftrag_ Chirurgie_Traumatologie_05.03.2026.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0052.png",
+   "txt": "build/skl-chirurgie/text/p0052.txt",
+   "text_len": 1703
+  },
+  {
+   "gidx": 53,
+   "source_pdf": "Arbeitsaufträge/Valeria Flaum_ETK18B_Arbeitsauftrag_ Chirurgie_Traumatologie_05.03.2026.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0053.png",
+   "txt": "build/skl-chirurgie/text/p0053.txt",
+   "text_len": 572
+  },
+  {
+   "gidx": 54,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0054.png",
+   "txt": "build/skl-chirurgie/text/p0054.txt",
+   "text_len": 651
+  },
+  {
+   "gidx": 55,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0055.png",
+   "txt": "build/skl-chirurgie/text/p0055.txt",
+   "text_len": 53
+  },
+  {
+   "gidx": 56,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0056.png",
+   "txt": "build/skl-chirurgie/text/p0056.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 57,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0057.png",
+   "txt": "build/skl-chirurgie/text/p0057.txt",
+   "text_len": 1137
+  },
+  {
+   "gidx": 58,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0058.png",
+   "txt": "build/skl-chirurgie/text/p0058.txt",
+   "text_len": 692
+  },
+  {
+   "gidx": 59,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0059.png",
+   "txt": "build/skl-chirurgie/text/p0059.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 60,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0060.png",
+   "txt": "build/skl-chirurgie/text/p0060.txt",
+   "text_len": 668
+  },
+  {
+   "gidx": 61,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0061.png",
+   "txt": "build/skl-chirurgie/text/p0061.txt",
+   "text_len": 78
+  },
+  {
+   "gidx": 62,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0062.png",
+   "txt": "build/skl-chirurgie/text/p0062.txt",
+   "text_len": 536
+  },
+  {
+   "gidx": 63,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0063.png",
+   "txt": "build/skl-chirurgie/text/p0063.txt",
+   "text_len": 500
+  },
+  {
+   "gidx": 64,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0064.png",
+   "txt": "build/skl-chirurgie/text/p0064.txt",
+   "text_len": 520
+  },
+  {
+   "gidx": 65,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0065.png",
+   "txt": "build/skl-chirurgie/text/p0065.txt",
+   "text_len": 344
+  },
+  {
+   "gidx": 66,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 13,
+   "img": "build/skl-chirurgie/pages/p0066.png",
+   "txt": "build/skl-chirurgie/text/p0066.txt",
+   "text_len": 463
+  },
+  {
+   "gidx": 67,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Dickdarms.pdf",
+   "source_page": 14,
+   "img": "build/skl-chirurgie/pages/p0067.png",
+   "txt": "build/skl-chirurgie/text/p0067.txt",
+   "text_len": 542
+  },
+  {
+   "gidx": 68,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0068.png",
+   "txt": "build/skl-chirurgie/text/p0068.txt",
+   "text_len": 781
+  },
+  {
+   "gidx": 69,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0069.png",
+   "txt": "build/skl-chirurgie/text/p0069.txt",
+   "text_len": 520
+  },
+  {
+   "gidx": 70,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0070.png",
+   "txt": "build/skl-chirurgie/text/p0070.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 71,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0071.png",
+   "txt": "build/skl-chirurgie/text/p0071.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 72,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0072.png",
+   "txt": "build/skl-chirurgie/text/p0072.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 73,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0073.png",
+   "txt": "build/skl-chirurgie/text/p0073.txt",
+   "text_len": 1250
+  },
+  {
+   "gidx": 74,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0074.png",
+   "txt": "build/skl-chirurgie/text/p0074.txt",
+   "text_len": 1126
+  },
+  {
+   "gidx": 75,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0075.png",
+   "txt": "build/skl-chirurgie/text/p0075.txt",
+   "text_len": 751
+  },
+  {
+   "gidx": 76,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0076.png",
+   "txt": "build/skl-chirurgie/text/p0076.txt",
+   "text_len": 69
+  },
+  {
+   "gidx": 77,
+   "source_pdf": "Ausgewaehlte Erkrankungen des Duenndarms.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0077.png",
+   "txt": "build/skl-chirurgie/text/p0077.txt",
+   "text_len": 23
+  },
+  {
+   "gidx": 78,
+   "source_pdf": "CRPS.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0078.png",
+   "txt": "build/skl-chirurgie/text/p0078.txt",
+   "text_len": 1089
+  },
+  {
+   "gidx": 79,
+   "source_pdf": "CRPS.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0079.png",
+   "txt": "build/skl-chirurgie/text/p0079.txt",
+   "text_len": 1028
+  },
+  {
+   "gidx": 80,
+   "source_pdf": "CRPS.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0080.png",
+   "txt": "build/skl-chirurgie/text/p0080.txt",
+   "text_len": 1039
+  },
+  {
+   "gidx": 81,
+   "source_pdf": "CRPS.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0081.png",
+   "txt": "build/skl-chirurgie/text/p0081.txt",
+   "text_len": 840
+  },
+  {
+   "gidx": 82,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0082.png",
+   "txt": "build/skl-chirurgie/text/p0082.txt",
+   "text_len": 1408
+  },
+  {
+   "gidx": 83,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0083.png",
+   "txt": "build/skl-chirurgie/text/p0083.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 84,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0084.png",
+   "txt": "build/skl-chirurgie/text/p0084.txt",
+   "text_len": 952
+  },
+  {
+   "gidx": 85,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0085.png",
+   "txt": "build/skl-chirurgie/text/p0085.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 86,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0086.png",
+   "txt": "build/skl-chirurgie/text/p0086.txt",
+   "text_len": 323
+  },
+  {
+   "gidx": 87,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0087.png",
+   "txt": "build/skl-chirurgie/text/p0087.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 88,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0088.png",
+   "txt": "build/skl-chirurgie/text/p0088.txt",
+   "text_len": 832
+  },
+  {
+   "gidx": 89,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0089.png",
+   "txt": "build/skl-chirurgie/text/p0089.txt",
+   "text_len": 72
+  },
+  {
+   "gidx": 90,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0090.png",
+   "txt": "build/skl-chirurgie/text/p0090.txt",
+   "text_len": 25
+  },
+  {
+   "gidx": 91,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0091.png",
+   "txt": "build/skl-chirurgie/text/p0091.txt",
+   "text_len": 880
+  },
+  {
+   "gidx": 92,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0092.png",
+   "txt": "build/skl-chirurgie/text/p0092.txt",
+   "text_len": 895
+  },
+  {
+   "gidx": 93,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0093.png",
+   "txt": "build/skl-chirurgie/text/p0093.txt",
+   "text_len": 1273
+  },
+  {
+   "gidx": 94,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 13,
+   "img": "build/skl-chirurgie/pages/p0094.png",
+   "txt": "build/skl-chirurgie/text/p0094.txt",
+   "text_len": 712
+  },
+  {
+   "gidx": 95,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 14,
+   "img": "build/skl-chirurgie/pages/p0095.png",
+   "txt": "build/skl-chirurgie/text/p0095.txt",
+   "text_len": 852
+  },
+  {
+   "gidx": 96,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 15,
+   "img": "build/skl-chirurgie/pages/p0096.png",
+   "txt": "build/skl-chirurgie/text/p0096.txt",
+   "text_len": 649
+  },
+  {
+   "gidx": 97,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 16,
+   "img": "build/skl-chirurgie/pages/p0097.png",
+   "txt": "build/skl-chirurgie/text/p0097.txt",
+   "text_len": 1283
+  },
+  {
+   "gidx": 98,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 17,
+   "img": "build/skl-chirurgie/pages/p0098.png",
+   "txt": "build/skl-chirurgie/text/p0098.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 99,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 18,
+   "img": "build/skl-chirurgie/pages/p0099.png",
+   "txt": "build/skl-chirurgie/text/p0099.txt",
+   "text_len": 1565
+  },
+  {
+   "gidx": 100,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 19,
+   "img": "build/skl-chirurgie/pages/p0100.png",
+   "txt": "build/skl-chirurgie/text/p0100.txt",
+   "text_len": 63
+  },
+  {
+   "gidx": 101,
+   "source_pdf": "Die Verbrennungskrankheit.pdf",
+   "source_page": 20,
+   "img": "build/skl-chirurgie/pages/p0101.png",
+   "txt": "build/skl-chirurgie/text/p0101.txt",
+   "text_len": 320
+  },
+  {
+   "gidx": 102,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0102.png",
+   "txt": "build/skl-chirurgie/text/p0102.txt",
+   "text_len": 317
+  },
+  {
+   "gidx": 103,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0103.png",
+   "txt": "build/skl-chirurgie/text/p0103.txt",
+   "text_len": 823
+  },
+  {
+   "gidx": 104,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0104.png",
+   "txt": "build/skl-chirurgie/text/p0104.txt",
+   "text_len": 1066
+  },
+  {
+   "gidx": 105,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0105.png",
+   "txt": "build/skl-chirurgie/text/p0105.txt",
+   "text_len": 1419
+  },
+  {
+   "gidx": 106,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0106.png",
+   "txt": "build/skl-chirurgie/text/p0106.txt",
+   "text_len": 672
+  },
+  {
+   "gidx": 107,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0107.png",
+   "txt": "build/skl-chirurgie/text/p0107.txt",
+   "text_len": 936
+  },
+  {
+   "gidx": 108,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0108.png",
+   "txt": "build/skl-chirurgie/text/p0108.txt",
+   "text_len": 1393
+  },
+  {
+   "gidx": 109,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0109.png",
+   "txt": "build/skl-chirurgie/text/p0109.txt",
+   "text_len": 126
+  },
+  {
+   "gidx": 110,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0110.png",
+   "txt": "build/skl-chirurgie/text/p0110.txt",
+   "text_len": 120
+  },
+  {
+   "gidx": 111,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0111.png",
+   "txt": "build/skl-chirurgie/text/p0111.txt",
+   "text_len": 1260
+  },
+  {
+   "gidx": 112,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0112.png",
+   "txt": "build/skl-chirurgie/text/p0112.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 113,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0113.png",
+   "txt": "build/skl-chirurgie/text/p0113.txt",
+   "text_len": 711
+  },
+  {
+   "gidx": 114,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 13,
+   "img": "build/skl-chirurgie/pages/p0114.png",
+   "txt": "build/skl-chirurgie/text/p0114.txt",
+   "text_len": 465
+  },
+  {
+   "gidx": 115,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 14,
+   "img": "build/skl-chirurgie/pages/p0115.png",
+   "txt": "build/skl-chirurgie/text/p0115.txt",
+   "text_len": 894
+  },
+  {
+   "gidx": 116,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 15,
+   "img": "build/skl-chirurgie/pages/p0116.png",
+   "txt": "build/skl-chirurgie/text/p0116.txt",
+   "text_len": 606
+  },
+  {
+   "gidx": 117,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 16,
+   "img": "build/skl-chirurgie/pages/p0117.png",
+   "txt": "build/skl-chirurgie/text/p0117.txt",
+   "text_len": 230
+  },
+  {
+   "gidx": 118,
+   "source_pdf": "Frakturen des Femurs.pdf",
+   "source_page": 17,
+   "img": "build/skl-chirurgie/pages/p0118.png",
+   "txt": "build/skl-chirurgie/text/p0118.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 119,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0119.png",
+   "txt": "build/skl-chirurgie/text/p0119.txt",
+   "text_len": 823
+  },
+  {
+   "gidx": 120,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0120.png",
+   "txt": "build/skl-chirurgie/text/p0120.txt",
+   "text_len": 28
+  },
+  {
+   "gidx": 121,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0121.png",
+   "txt": "build/skl-chirurgie/text/p0121.txt",
+   "text_len": 195
+  },
+  {
+   "gidx": 122,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0122.png",
+   "txt": "build/skl-chirurgie/text/p0122.txt",
+   "text_len": 69
+  },
+  {
+   "gidx": 123,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0123.png",
+   "txt": "build/skl-chirurgie/text/p0123.txt",
+   "text_len": 116
+  },
+  {
+   "gidx": 124,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0124.png",
+   "txt": "build/skl-chirurgie/text/p0124.txt",
+   "text_len": 575
+  },
+  {
+   "gidx": 125,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0125.png",
+   "txt": "build/skl-chirurgie/text/p0125.txt",
+   "text_len": 1050
+  },
+  {
+   "gidx": 126,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0126.png",
+   "txt": "build/skl-chirurgie/text/p0126.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 127,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0127.png",
+   "txt": "build/skl-chirurgie/text/p0127.txt",
+   "text_len": 1049
+  },
+  {
+   "gidx": 128,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0128.png",
+   "txt": "build/skl-chirurgie/text/p0128.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 129,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0129.png",
+   "txt": "build/skl-chirurgie/text/p0129.txt",
+   "text_len": 1122
+  },
+  {
+   "gidx": 130,
+   "source_pdf": "Frakturen und Pseudarthrose.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0130.png",
+   "txt": "build/skl-chirurgie/text/p0130.txt",
+   "text_len": 122
+  },
+  {
+   "gidx": 131,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0131.png",
+   "txt": "build/skl-chirurgie/text/p0131.txt",
+   "text_len": 487
+  },
+  {
+   "gidx": 132,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0132.png",
+   "txt": "build/skl-chirurgie/text/p0132.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 133,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0133.png",
+   "txt": "build/skl-chirurgie/text/p0133.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 134,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0134.png",
+   "txt": "build/skl-chirurgie/text/p0134.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 135,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0135.png",
+   "txt": "build/skl-chirurgie/text/p0135.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 136,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0136.png",
+   "txt": "build/skl-chirurgie/text/p0136.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 137,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0137.png",
+   "txt": "build/skl-chirurgie/text/p0137.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 138,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0138.png",
+   "txt": "build/skl-chirurgie/text/p0138.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 139,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0139.png",
+   "txt": "build/skl-chirurgie/text/p0139.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 140,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0140.png",
+   "txt": "build/skl-chirurgie/text/p0140.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 141,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0141.png",
+   "txt": "build/skl-chirurgie/text/p0141.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 142,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0142.png",
+   "txt": "build/skl-chirurgie/text/p0142.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 143,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 13,
+   "img": "build/skl-chirurgie/pages/p0143.png",
+   "txt": "build/skl-chirurgie/text/p0143.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 144,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 14,
+   "img": "build/skl-chirurgie/pages/p0144.png",
+   "txt": "build/skl-chirurgie/text/p0144.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 145,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 15,
+   "img": "build/skl-chirurgie/pages/p0145.png",
+   "txt": "build/skl-chirurgie/text/p0145.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 146,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 16,
+   "img": "build/skl-chirurgie/pages/p0146.png",
+   "txt": "build/skl-chirurgie/text/p0146.txt",
+   "text_len": 189
+  },
+  {
+   "gidx": 147,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 17,
+   "img": "build/skl-chirurgie/pages/p0147.png",
+   "txt": "build/skl-chirurgie/text/p0147.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 148,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 18,
+   "img": "build/skl-chirurgie/pages/p0148.png",
+   "txt": "build/skl-chirurgie/text/p0148.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 149,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 19,
+   "img": "build/skl-chirurgie/pages/p0149.png",
+   "txt": "build/skl-chirurgie/text/p0149.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 150,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 20,
+   "img": "build/skl-chirurgie/pages/p0150.png",
+   "txt": "build/skl-chirurgie/text/p0150.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 151,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 21,
+   "img": "build/skl-chirurgie/pages/p0151.png",
+   "txt": "build/skl-chirurgie/text/p0151.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 152,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 22,
+   "img": "build/skl-chirurgie/pages/p0152.png",
+   "txt": "build/skl-chirurgie/text/p0152.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 153,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 23,
+   "img": "build/skl-chirurgie/pages/p0153.png",
+   "txt": "build/skl-chirurgie/text/p0153.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 154,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 24,
+   "img": "build/skl-chirurgie/pages/p0154.png",
+   "txt": "build/skl-chirurgie/text/p0154.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 155,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 25,
+   "img": "build/skl-chirurgie/pages/p0155.png",
+   "txt": "build/skl-chirurgie/text/p0155.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 156,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 26,
+   "img": "build/skl-chirurgie/pages/p0156.png",
+   "txt": "build/skl-chirurgie/text/p0156.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 157,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 27,
+   "img": "build/skl-chirurgie/pages/p0157.png",
+   "txt": "build/skl-chirurgie/text/p0157.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 158,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 28,
+   "img": "build/skl-chirurgie/pages/p0158.png",
+   "txt": "build/skl-chirurgie/text/p0158.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 159,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 29,
+   "img": "build/skl-chirurgie/pages/p0159.png",
+   "txt": "build/skl-chirurgie/text/p0159.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 160,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 30,
+   "img": "build/skl-chirurgie/pages/p0160.png",
+   "txt": "build/skl-chirurgie/text/p0160.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 161,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 31,
+   "img": "build/skl-chirurgie/pages/p0161.png",
+   "txt": "build/skl-chirurgie/text/p0161.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 162,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 32,
+   "img": "build/skl-chirurgie/pages/p0162.png",
+   "txt": "build/skl-chirurgie/text/p0162.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 163,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 33,
+   "img": "build/skl-chirurgie/pages/p0163.png",
+   "txt": "build/skl-chirurgie/text/p0163.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 164,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 34,
+   "img": "build/skl-chirurgie/pages/p0164.png",
+   "txt": "build/skl-chirurgie/text/p0164.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 165,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 35,
+   "img": "build/skl-chirurgie/pages/p0165.png",
+   "txt": "build/skl-chirurgie/text/p0165.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 166,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 36,
+   "img": "build/skl-chirurgie/pages/p0166.png",
+   "txt": "build/skl-chirurgie/text/p0166.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 167,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 37,
+   "img": "build/skl-chirurgie/pages/p0167.png",
+   "txt": "build/skl-chirurgie/text/p0167.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 168,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 38,
+   "img": "build/skl-chirurgie/pages/p0168.png",
+   "txt": "build/skl-chirurgie/text/p0168.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 169,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 39,
+   "img": "build/skl-chirurgie/pages/p0169.png",
+   "txt": "build/skl-chirurgie/text/p0169.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 170,
+   "source_pdf": "Grundlagen-1.pdf",
+   "source_page": 40,
+   "img": "build/skl-chirurgie/pages/p0170.png",
+   "txt": "build/skl-chirurgie/text/p0170.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 171,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0171.png",
+   "txt": "build/skl-chirurgie/text/p0171.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 172,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0172.png",
+   "txt": "build/skl-chirurgie/text/p0172.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 173,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0173.png",
+   "txt": "build/skl-chirurgie/text/p0173.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 174,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0174.png",
+   "txt": "build/skl-chirurgie/text/p0174.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 175,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0175.png",
+   "txt": "build/skl-chirurgie/text/p0175.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 176,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0176.png",
+   "txt": "build/skl-chirurgie/text/p0176.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 177,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0177.png",
+   "txt": "build/skl-chirurgie/text/p0177.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 178,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0178.png",
+   "txt": "build/skl-chirurgie/text/p0178.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 179,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0179.png",
+   "txt": "build/skl-chirurgie/text/p0179.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 180,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0180.png",
+   "txt": "build/skl-chirurgie/text/p0180.txt",
+   "text_len": 4
+  },
+  {
+   "gidx": 181,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0181.png",
+   "txt": "build/skl-chirurgie/text/p0181.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 182,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0182.png",
+   "txt": "build/skl-chirurgie/text/p0182.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 183,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 13,
+   "img": "build/skl-chirurgie/pages/p0183.png",
+   "txt": "build/skl-chirurgie/text/p0183.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 184,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 14,
+   "img": "build/skl-chirurgie/pages/p0184.png",
+   "txt": "build/skl-chirurgie/text/p0184.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 185,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 15,
+   "img": "build/skl-chirurgie/pages/p0185.png",
+   "txt": "build/skl-chirurgie/text/p0185.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 186,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 16,
+   "img": "build/skl-chirurgie/pages/p0186.png",
+   "txt": "build/skl-chirurgie/text/p0186.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 187,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 17,
+   "img": "build/skl-chirurgie/pages/p0187.png",
+   "txt": "build/skl-chirurgie/text/p0187.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 188,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 18,
+   "img": "build/skl-chirurgie/pages/p0188.png",
+   "txt": "build/skl-chirurgie/text/p0188.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 189,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 19,
+   "img": "build/skl-chirurgie/pages/p0189.png",
+   "txt": "build/skl-chirurgie/text/p0189.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 190,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 20,
+   "img": "build/skl-chirurgie/pages/p0190.png",
+   "txt": "build/skl-chirurgie/text/p0190.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 191,
+   "source_pdf": "Grundlagen-1b.pdf",
+   "source_page": 21,
+   "img": "build/skl-chirurgie/pages/p0191.png",
+   "txt": "build/skl-chirurgie/text/p0191.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 192,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0192.png",
+   "txt": "build/skl-chirurgie/text/p0192.txt",
+   "text_len": 632
+  },
+  {
+   "gidx": 193,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0193.png",
+   "txt": "build/skl-chirurgie/text/p0193.txt",
+   "text_len": 632
+  },
+  {
+   "gidx": 194,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0194.png",
+   "txt": "build/skl-chirurgie/text/p0194.txt",
+   "text_len": 908
+  },
+  {
+   "gidx": 195,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0195.png",
+   "txt": "build/skl-chirurgie/text/p0195.txt",
+   "text_len": 1335
+  },
+  {
+   "gidx": 196,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0196.png",
+   "txt": "build/skl-chirurgie/text/p0196.txt",
+   "text_len": 54
+  },
+  {
+   "gidx": 197,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0197.png",
+   "txt": "build/skl-chirurgie/text/p0197.txt",
+   "text_len": 168
+  },
+  {
+   "gidx": 198,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0198.png",
+   "txt": "build/skl-chirurgie/text/p0198.txt",
+   "text_len": 153
+  },
+  {
+   "gidx": 199,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0199.png",
+   "txt": "build/skl-chirurgie/text/p0199.txt",
+   "text_len": 789
+  },
+  {
+   "gidx": 200,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0200.png",
+   "txt": "build/skl-chirurgie/text/p0200.txt",
+   "text_len": 1262
+  },
+  {
+   "gidx": 201,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0201.png",
+   "txt": "build/skl-chirurgie/text/p0201.txt",
+   "text_len": 880
+  },
+  {
+   "gidx": 202,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0202.png",
+   "txt": "build/skl-chirurgie/text/p0202.txt",
+   "text_len": 255
+  },
+  {
+   "gidx": 203,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0203.png",
+   "txt": "build/skl-chirurgie/text/p0203.txt",
+   "text_len": 439
+  },
+  {
+   "gidx": 204,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 13,
+   "img": "build/skl-chirurgie/pages/p0204.png",
+   "txt": "build/skl-chirurgie/text/p0204.txt",
+   "text_len": 766
+  },
+  {
+   "gidx": 205,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 14,
+   "img": "build/skl-chirurgie/pages/p0205.png",
+   "txt": "build/skl-chirurgie/text/p0205.txt",
+   "text_len": 892
+  },
+  {
+   "gidx": 206,
+   "source_pdf": "Humerusfrakturen.pdf",
+   "source_page": 15,
+   "img": "build/skl-chirurgie/pages/p0206.png",
+   "txt": "build/skl-chirurgie/text/p0206.txt",
+   "text_len": 544
+  },
+  {
+   "gidx": 207,
+   "source_pdf": "Klavikulafrakturen.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0207.png",
+   "txt": "build/skl-chirurgie/text/p0207.txt",
+   "text_len": 635
+  },
+  {
+   "gidx": 208,
+   "source_pdf": "Klavikulafrakturen.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0208.png",
+   "txt": "build/skl-chirurgie/text/p0208.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 209,
+   "source_pdf": "Klavikulafrakturen.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0209.png",
+   "txt": "build/skl-chirurgie/text/p0209.txt",
+   "text_len": 219
+  },
+  {
+   "gidx": 210,
+   "source_pdf": "Klavikulafrakturen.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0210.png",
+   "txt": "build/skl-chirurgie/text/p0210.txt",
+   "text_len": 85
+  },
+  {
+   "gidx": 211,
+   "source_pdf": "Klavikulafrakturen.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0211.png",
+   "txt": "build/skl-chirurgie/text/p0211.txt",
+   "text_len": 666
+  },
+  {
+   "gidx": 212,
+   "source_pdf": "Klavikulafrakturen.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0212.png",
+   "txt": "build/skl-chirurgie/text/p0212.txt",
+   "text_len": 269
+  },
+  {
+   "gidx": 213,
+   "source_pdf": "Klavikulafrakturen.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0213.png",
+   "txt": "build/skl-chirurgie/text/p0213.txt",
+   "text_len": 922
+  },
+  {
+   "gidx": 214,
+   "source_pdf": "Klavikulafrakturen.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0214.png",
+   "txt": "build/skl-chirurgie/text/p0214.txt",
+   "text_len": 1017
+  },
+  {
+   "gidx": 215,
+   "source_pdf": "Klavikulafrakturen.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0215.png",
+   "txt": "build/skl-chirurgie/text/p0215.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 216,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0216.png",
+   "txt": "build/skl-chirurgie/text/p0216.txt",
+   "text_len": 1238
+  },
+  {
+   "gidx": 217,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0217.png",
+   "txt": "build/skl-chirurgie/text/p0217.txt",
+   "text_len": 981
+  },
+  {
+   "gidx": 218,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0218.png",
+   "txt": "build/skl-chirurgie/text/p0218.txt",
+   "text_len": 772
+  },
+  {
+   "gidx": 219,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0219.png",
+   "txt": "build/skl-chirurgie/text/p0219.txt",
+   "text_len": 864
+  },
+  {
+   "gidx": 220,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0220.png",
+   "txt": "build/skl-chirurgie/text/p0220.txt",
+   "text_len": 944
+  },
+  {
+   "gidx": 221,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0221.png",
+   "txt": "build/skl-chirurgie/text/p0221.txt",
+   "text_len": 717
+  },
+  {
+   "gidx": 222,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0222.png",
+   "txt": "build/skl-chirurgie/text/p0222.txt",
+   "text_len": 1088
+  },
+  {
+   "gidx": 223,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0223.png",
+   "txt": "build/skl-chirurgie/text/p0223.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 224,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0224.png",
+   "txt": "build/skl-chirurgie/text/p0224.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 225,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0225.png",
+   "txt": "build/skl-chirurgie/text/p0225.txt",
+   "text_len": 1132
+  },
+  {
+   "gidx": 226,
+   "source_pdf": "Kompartmentsyndrom.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0226.png",
+   "txt": "build/skl-chirurgie/text/p0226.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 227,
+   "source_pdf": "Kreuzbandrupturen.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0227.png",
+   "txt": "build/skl-chirurgie/text/p0227.txt",
+   "text_len": 294
+  },
+  {
+   "gidx": 228,
+   "source_pdf": "Kreuzbandrupturen.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0228.png",
+   "txt": "build/skl-chirurgie/text/p0228.txt",
+   "text_len": 27
+  },
+  {
+   "gidx": 229,
+   "source_pdf": "Kreuzbandrupturen.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0229.png",
+   "txt": "build/skl-chirurgie/text/p0229.txt",
+   "text_len": 997
+  },
+  {
+   "gidx": 230,
+   "source_pdf": "Kreuzbandrupturen.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0230.png",
+   "txt": "build/skl-chirurgie/text/p0230.txt",
+   "text_len": 793
+  },
+  {
+   "gidx": 231,
+   "source_pdf": "Kreuzbandrupturen.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0231.png",
+   "txt": "build/skl-chirurgie/text/p0231.txt",
+   "text_len": 991
+  },
+  {
+   "gidx": 232,
+   "source_pdf": "Kreuzbandrupturen.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0232.png",
+   "txt": "build/skl-chirurgie/text/p0232.txt",
+   "text_len": 828
+  },
+  {
+   "gidx": 233,
+   "source_pdf": "Kreuzbandrupturen.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0233.png",
+   "txt": "build/skl-chirurgie/text/p0233.txt",
+   "text_len": 854
+  },
+  {
+   "gidx": 234,
+   "source_pdf": "Luxation des AC-Gelenks.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0234.png",
+   "txt": "build/skl-chirurgie/text/p0234.txt",
+   "text_len": 756
+  },
+  {
+   "gidx": 235,
+   "source_pdf": "Luxation des AC-Gelenks.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0235.png",
+   "txt": "build/skl-chirurgie/text/p0235.txt",
+   "text_len": 320
+  },
+  {
+   "gidx": 236,
+   "source_pdf": "Luxation des AC-Gelenks.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0236.png",
+   "txt": "build/skl-chirurgie/text/p0236.txt",
+   "text_len": 1332
+  },
+  {
+   "gidx": 237,
+   "source_pdf": "Luxation des AC-Gelenks.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0237.png",
+   "txt": "build/skl-chirurgie/text/p0237.txt",
+   "text_len": 1638
+  },
+  {
+   "gidx": 238,
+   "source_pdf": "Luxation des AC-Gelenks.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0238.png",
+   "txt": "build/skl-chirurgie/text/p0238.txt",
+   "text_len": 1042
+  },
+  {
+   "gidx": 239,
+   "source_pdf": "Luxation des AC-Gelenks.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0239.png",
+   "txt": "build/skl-chirurgie/text/p0239.txt",
+   "text_len": 653
+  },
+  {
+   "gidx": 240,
+   "source_pdf": "Luxation des Sternoclavikulargelenks.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0240.png",
+   "txt": "build/skl-chirurgie/text/p0240.txt",
+   "text_len": 1155
+  },
+  {
+   "gidx": 241,
+   "source_pdf": "Luxation des Sternoclavikulargelenks.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0241.png",
+   "txt": "build/skl-chirurgie/text/p0241.txt",
+   "text_len": 985
+  },
+  {
+   "gidx": 242,
+   "source_pdf": "Lymphadenitis und Lymphangitis.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0242.png",
+   "txt": "build/skl-chirurgie/text/p0242.txt",
+   "text_len": 1045
+  },
+  {
+   "gidx": 243,
+   "source_pdf": "Lymphadenitis und Lymphangitis.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0243.png",
+   "txt": "build/skl-chirurgie/text/p0243.txt",
+   "text_len": 1230
+  },
+  {
+   "gidx": 244,
+   "source_pdf": "Lymphadenitis und Lymphangitis.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0244.png",
+   "txt": "build/skl-chirurgie/text/p0244.txt",
+   "text_len": 867
+  },
+  {
+   "gidx": 245,
+   "source_pdf": "Lymphadenitis und Lymphangitis.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0245.png",
+   "txt": "build/skl-chirurgie/text/p0245.txt",
+   "text_len": 295
+  },
+  {
+   "gidx": 246,
+   "source_pdf": "Meniskuschaeden.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0246.png",
+   "txt": "build/skl-chirurgie/text/p0246.txt",
+   "text_len": 830
+  },
+  {
+   "gidx": 247,
+   "source_pdf": "Meniskuschaeden.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0247.png",
+   "txt": "build/skl-chirurgie/text/p0247.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 248,
+   "source_pdf": "Meniskuschaeden.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0248.png",
+   "txt": "build/skl-chirurgie/text/p0248.txt",
+   "text_len": 32
+  },
+  {
+   "gidx": 249,
+   "source_pdf": "Meniskuschaeden.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0249.png",
+   "txt": "build/skl-chirurgie/text/p0249.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 250,
+   "source_pdf": "Meniskuschaeden.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0250.png",
+   "txt": "build/skl-chirurgie/text/p0250.txt",
+   "text_len": 567
+  },
+  {
+   "gidx": 251,
+   "source_pdf": "Meniskuschaeden.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0251.png",
+   "txt": "build/skl-chirurgie/text/p0251.txt",
+   "text_len": 886
+  },
+  {
+   "gidx": 252,
+   "source_pdf": "Meniskuschaeden.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0252.png",
+   "txt": "build/skl-chirurgie/text/p0252.txt",
+   "text_len": 651
+  },
+  {
+   "gidx": 253,
+   "source_pdf": "Pneumothorax.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0253.png",
+   "txt": "build/skl-chirurgie/text/p0253.txt",
+   "text_len": 1305
+  },
+  {
+   "gidx": 254,
+   "source_pdf": "Pneumothorax.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0254.png",
+   "txt": "build/skl-chirurgie/text/p0254.txt",
+   "text_len": 410
+  },
+  {
+   "gidx": 255,
+   "source_pdf": "Pneumothorax.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0255.png",
+   "txt": "build/skl-chirurgie/text/p0255.txt",
+   "text_len": 910
+  },
+  {
+   "gidx": 256,
+   "source_pdf": "Pneumothorax.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0256.png",
+   "txt": "build/skl-chirurgie/text/p0256.txt",
+   "text_len": 850
+  },
+  {
+   "gidx": 257,
+   "source_pdf": "Pneumothorax.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0257.png",
+   "txt": "build/skl-chirurgie/text/p0257.txt",
+   "text_len": 0
+  },
+  {
+   "gidx": 258,
+   "source_pdf": "Schnellender Finger und Ueberbein.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0258.png",
+   "txt": "build/skl-chirurgie/text/p0258.txt",
+   "text_len": 1410
+  },
+  {
+   "gidx": 259,
+   "source_pdf": "Schnellender Finger und Ueberbein.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0259.png",
+   "txt": "build/skl-chirurgie/text/p0259.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 260,
+   "source_pdf": "Schnellender Finger und Ueberbein.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0260.png",
+   "txt": "build/skl-chirurgie/text/p0260.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 261,
+   "source_pdf": "Schnellender Finger und Ueberbein.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0261.png",
+   "txt": "build/skl-chirurgie/text/p0261.txt",
+   "text_len": 1276
+  },
+  {
+   "gidx": 262,
+   "source_pdf": "Schnellender Finger und Ueberbein.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0262.png",
+   "txt": "build/skl-chirurgie/text/p0262.txt",
+   "text_len": 315
+  },
+  {
+   "gidx": 263,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0263.png",
+   "txt": "build/skl-chirurgie/text/p0263.txt",
+   "text_len": 648
+  },
+  {
+   "gidx": 264,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0264.png",
+   "txt": "build/skl-chirurgie/text/p0264.txt",
+   "text_len": 245
+  },
+  {
+   "gidx": 265,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0265.png",
+   "txt": "build/skl-chirurgie/text/p0265.txt",
+   "text_len": 373
+  },
+  {
+   "gidx": 266,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0266.png",
+   "txt": "build/skl-chirurgie/text/p0266.txt",
+   "text_len": 441
+  },
+  {
+   "gidx": 267,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0267.png",
+   "txt": "build/skl-chirurgie/text/p0267.txt",
+   "text_len": 1489
+  },
+  {
+   "gidx": 268,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0268.png",
+   "txt": "build/skl-chirurgie/text/p0268.txt",
+   "text_len": 411
+  },
+  {
+   "gidx": 269,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0269.png",
+   "txt": "build/skl-chirurgie/text/p0269.txt",
+   "text_len": 887
+  },
+  {
+   "gidx": 270,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0270.png",
+   "txt": "build/skl-chirurgie/text/p0270.txt",
+   "text_len": 595
+  },
+  {
+   "gidx": 271,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0271.png",
+   "txt": "build/skl-chirurgie/text/p0271.txt",
+   "text_len": 931
+  },
+  {
+   "gidx": 272,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0272.png",
+   "txt": "build/skl-chirurgie/text/p0272.txt",
+   "text_len": 740
+  },
+  {
+   "gidx": 273,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0273.png",
+   "txt": "build/skl-chirurgie/text/p0273.txt",
+   "text_len": 634
+  },
+  {
+   "gidx": 274,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0274.png",
+   "txt": "build/skl-chirurgie/text/p0274.txt",
+   "text_len": 682
+  },
+  {
+   "gidx": 275,
+   "source_pdf": "Unterarmfrakturen.pdf",
+   "source_page": 13,
+   "img": "build/skl-chirurgie/pages/p0275.png",
+   "txt": "build/skl-chirurgie/text/p0275.txt",
+   "text_len": 1062
+  },
+  {
+   "gidx": 276,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0276.png",
+   "txt": "build/skl-chirurgie/text/p0276.txt",
+   "text_len": 446
+  },
+  {
+   "gidx": 277,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0277.png",
+   "txt": "build/skl-chirurgie/text/p0277.txt",
+   "text_len": 1348
+  },
+  {
+   "gidx": 278,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0278.png",
+   "txt": "build/skl-chirurgie/text/p0278.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 279,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0279.png",
+   "txt": "build/skl-chirurgie/text/p0279.txt",
+   "text_len": 849
+  },
+  {
+   "gidx": 280,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0280.png",
+   "txt": "build/skl-chirurgie/text/p0280.txt",
+   "text_len": 309
+  },
+  {
+   "gidx": 281,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0281.png",
+   "txt": "build/skl-chirurgie/text/p0281.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 282,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0282.png",
+   "txt": "build/skl-chirurgie/text/p0282.txt",
+   "text_len": 32
+  },
+  {
+   "gidx": 283,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0283.png",
+   "txt": "build/skl-chirurgie/text/p0283.txt",
+   "text_len": 563
+  },
+  {
+   "gidx": 284,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0284.png",
+   "txt": "build/skl-chirurgie/text/p0284.txt",
+   "text_len": 1281
+  },
+  {
+   "gidx": 285,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0285.png",
+   "txt": "build/skl-chirurgie/text/p0285.txt",
+   "text_len": 857
+  },
+  {
+   "gidx": 286,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0286.png",
+   "txt": "build/skl-chirurgie/text/p0286.txt",
+   "text_len": 960
+  },
+  {
+   "gidx": 287,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0287.png",
+   "txt": "build/skl-chirurgie/text/p0287.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 288,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 13,
+   "img": "build/skl-chirurgie/pages/p0288.png",
+   "txt": "build/skl-chirurgie/text/p0288.txt",
+   "text_len": 1459
+  },
+  {
+   "gidx": 289,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 14,
+   "img": "build/skl-chirurgie/pages/p0289.png",
+   "txt": "build/skl-chirurgie/text/p0289.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 290,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 15,
+   "img": "build/skl-chirurgie/pages/p0290.png",
+   "txt": "build/skl-chirurgie/text/p0290.txt",
+   "text_len": 39
+  },
+  {
+   "gidx": 291,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 16,
+   "img": "build/skl-chirurgie/pages/p0291.png",
+   "txt": "build/skl-chirurgie/text/p0291.txt",
+   "text_len": 947
+  },
+  {
+   "gidx": 292,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 17,
+   "img": "build/skl-chirurgie/pages/p0292.png",
+   "txt": "build/skl-chirurgie/text/p0292.txt",
+   "text_len": 904
+  },
+  {
+   "gidx": 293,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 18,
+   "img": "build/skl-chirurgie/pages/p0293.png",
+   "txt": "build/skl-chirurgie/text/p0293.txt",
+   "text_len": 694
+  },
+  {
+   "gidx": 294,
+   "source_pdf": "Verletzungen der Hand Teil 1.pdf",
+   "source_page": 19,
+   "img": "build/skl-chirurgie/pages/p0294.png",
+   "txt": "build/skl-chirurgie/text/p0294.txt",
+   "text_len": 794
+  },
+  {
+   "gidx": 295,
+   "source_pdf": "Verletzungen der Hand Teil 2.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0295.png",
+   "txt": "build/skl-chirurgie/text/p0295.txt",
+   "text_len": 1168
+  },
+  {
+   "gidx": 296,
+   "source_pdf": "Verletzungen der Hand Teil 2.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0296.png",
+   "txt": "build/skl-chirurgie/text/p0296.txt",
+   "text_len": 645
+  },
+  {
+   "gidx": 297,
+   "source_pdf": "Verletzungen der Hand Teil 2.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0297.png",
+   "txt": "build/skl-chirurgie/text/p0297.txt",
+   "text_len": 316
+  },
+  {
+   "gidx": 298,
+   "source_pdf": "Verletzungen der Hand Teil 2.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0298.png",
+   "txt": "build/skl-chirurgie/text/p0298.txt",
+   "text_len": 1084
+  },
+  {
+   "gidx": 299,
+   "source_pdf": "Verletzungen der Hand Teil 2.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0299.png",
+   "txt": "build/skl-chirurgie/text/p0299.txt",
+   "text_len": 14
+  },
+  {
+   "gidx": 300,
+   "source_pdf": "Verletzungen der Hand Teil 2.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0300.png",
+   "txt": "build/skl-chirurgie/text/p0300.txt",
+   "text_len": 1075
+  },
+  {
+   "gidx": 301,
+   "source_pdf": "Verletzungen der Hand Teil 2.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0301.png",
+   "txt": "build/skl-chirurgie/text/p0301.txt",
+   "text_len": 1017
+  },
+  {
+   "gidx": 302,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 1,
+   "img": "build/skl-chirurgie/pages/p0302.png",
+   "txt": "build/skl-chirurgie/text/p0302.txt",
+   "text_len": 1171
+  },
+  {
+   "gidx": 303,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 2,
+   "img": "build/skl-chirurgie/pages/p0303.png",
+   "txt": "build/skl-chirurgie/text/p0303.txt",
+   "text_len": 657
+  },
+  {
+   "gidx": 304,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 3,
+   "img": "build/skl-chirurgie/pages/p0304.png",
+   "txt": "build/skl-chirurgie/text/p0304.txt",
+   "text_len": 643
+  },
+  {
+   "gidx": 305,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 4,
+   "img": "build/skl-chirurgie/pages/p0305.png",
+   "txt": "build/skl-chirurgie/text/p0305.txt",
+   "text_len": 578
+  },
+  {
+   "gidx": 306,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 5,
+   "img": "build/skl-chirurgie/pages/p0306.png",
+   "txt": "build/skl-chirurgie/text/p0306.txt",
+   "text_len": 377
+  },
+  {
+   "gidx": 307,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 6,
+   "img": "build/skl-chirurgie/pages/p0307.png",
+   "txt": "build/skl-chirurgie/text/p0307.txt",
+   "text_len": 731
+  },
+  {
+   "gidx": 308,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 7,
+   "img": "build/skl-chirurgie/pages/p0308.png",
+   "txt": "build/skl-chirurgie/text/p0308.txt",
+   "text_len": 835
+  },
+  {
+   "gidx": 309,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 8,
+   "img": "build/skl-chirurgie/pages/p0309.png",
+   "txt": "build/skl-chirurgie/text/p0309.txt",
+   "text_len": 224
+  },
+  {
+   "gidx": 310,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 9,
+   "img": "build/skl-chirurgie/pages/p0310.png",
+   "txt": "build/skl-chirurgie/text/p0310.txt",
+   "text_len": 64
+  },
+  {
+   "gidx": 311,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 10,
+   "img": "build/skl-chirurgie/pages/p0311.png",
+   "txt": "build/skl-chirurgie/text/p0311.txt",
+   "text_len": 64
+  },
+  {
+   "gidx": 312,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 11,
+   "img": "build/skl-chirurgie/pages/p0312.png",
+   "txt": "build/skl-chirurgie/text/p0312.txt",
+   "text_len": 1580
+  },
+  {
+   "gidx": 313,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 12,
+   "img": "build/skl-chirurgie/pages/p0313.png",
+   "txt": "build/skl-chirurgie/text/p0313.txt",
+   "text_len": 1231
+  },
+  {
+   "gidx": 314,
+   "source_pdf": "Verletzungen der Wirbelsaeule und Rippenfrakturen.pdf",
+   "source_page": 13,
+   "img": "build/skl-chirurgie/pages/p0314.png",
+   "txt": "build/skl-chirurgie/text/p0314.txt",
+   "text_len": 838
+  }
+ ]
+}
