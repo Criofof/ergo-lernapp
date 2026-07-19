@@ -1,0 +1,80 @@
+{
+  "id": "rueckenmark-aufbau-querschnitt",
+  "title": "Rückenmark: Aufbau und Querschnitt",
+  "eingrenzung": "Rückenmark (Beschriften; Was ist das?; Detaillierter Aufbau des Querschnitts)",
+  "prio": "high",
+  "body": "## Was ist das Rückenmark?\n\nDas Rückenmark (Medulla spinalis) ist der längliche Teil des Zentralnervensystems, der im Wirbelkanal (Spinalkanal) verläuft. Es reicht vom Hirnstamm bis zur Lendenwirbelsäule und geht dort in das Nervengeflecht der **Cauda Equina** über.\n\nFunktion: Es ist die zentrale Informationsbahn zwischen Gehirn und Körper:\n- Leitet **sensorische (afferente)** Informationen von der Peripherie zum Gehirn.\n- Leitet **motorische (efferente)** Befehle vom Gehirn zu den Muskeln.\n- Spielt eine entscheidende Rolle bei **Reflexen** (z. B. Dehnungsreflex/Reflexbogen).\n\n## Lage und Verlauf\n\nDas Rückenmark liegt geschützt im Wirbelkanal und setzt den Hirnstamm nach kaudal fort (Brain stem → Spinal cord). Es endet nicht am unteren Ende der Wirbelsäule, sondern bereits im Bereich der Lendenwirbelsäule; darunter ziehen nur noch die Nervenwurzeln als Cauda Equina weiter.\n\n## Detaillierter Aufbau des Querschnitts\n\nIm Querschnitt zeigt das Rückenmark einen queroval geformten Aufbau aus zwei Substanzen:\n\n| Struktur | Lage | Beschreibung |\n|---|---|---|\n| **Weiße Substanz** | außen (Ring) | v. a. auf- und absteigende Nervenfaserbahnen (markhaltige Axone) |\n| **Graue Substanz** | innen, schmetterlings-/H-förmig | Nervenzellkörper; unterteilt in Vorder- und Hinterhorn |\n| **Zentralkanal (Canalis centralis)** | Zentrum der grauen Substanz | kleiner, liquorgefüllter Kanal in der Mitte |\n| **Vorderhorn** | ventral | motorische Nervenzellen (efferent) |\n| **Hinterhorn** | dorsal | sensible Umschaltneurone (afferent) |\n\nWeitere Orientierungsmerkmale im Querschnitt:\n- **Fissura mediana anterior**: tiefe Einkerbung am ventralen (vorderen) Rand.\n- **Sulcus medianus posterior**: feinere Furche am dorsalen (hinteren) Rand.\n\n### Wurzeln und Spinalnerv\nSeitlich treten aus dem Rückenmark zwei Wurzeln aus, die sich zum Spinalnerv vereinigen:\n- **Hintere (dorsale) Wurzel**: sensibel/afferent, mit einer Verdickung, dem **Spinalganglion**.\n- **Vordere (ventrale) Wurzel**: motorisch/efferent.\n\nMerksatz: *dorsal = sensibel (Hinterhorn/hintere Wurzel), ventral = motorisch (Vorderhorn/vordere Wurzel).*\n\n## Regionale Unterschiede des Querschnitts (zervikal bis sakral)\n\nForm und Größe des Rückenmarksquerschnitts verändern sich je nach Höhe:\n\n| Höhe | Segment-Beispiele | Besonderheit |\n|---|---|---|\n| Zervikal | C5 | große Vorderhörner (Innervation der oberen Extremität/Arme) |\n| Thorakal | T2, T8 | schlankere H-Form der grauen Substanz |\n| Lumbal | L1, L2 | graue Substanz breit/kräftig (Innervation der unteren Extremität/Beine) |\n| Sakral | S2 | Gesamtquerschnitt am kleinsten; graue Substanz im Verhältnis zur weißen Substanz größer (Conus-medullaris-Region) |\n\nGrundprinzip: Je mehr Extremitätenmuskulatur auf einer Höhe innerviert wird, desto ausgeprägter die graue Substanz an dieser Stelle.\n\n## Dermatome – segmentale Zuordnung\n\nJedes Rückenmarkssegment (von C1 bis S5) versorgt sensibel ein bestimmtes Hautareal, das **Dermatom**.\n- Am Rumpf verlaufen die Dermatome (v. a. thorakal, T1–T12) **bandförmig/gürtelförmig** quer um den Körper; T10 liegt etwa auf Nabelhöhe (klassische klinische Landmarke).\n- An den Extremitäten verlaufen die Dermatome **längs**.\n- Die sakralen Segmente S3–S5 versorgen die Anogenital-/Dammregion ('Reithosen-Areal') – klinisch wichtig z. B. bei Cauda-equina-Symptomatik.\n\nDermatomkarten dienen klinisch der Höhenlokalisation von Rückenmarks-/Nervenwurzelläsionen anhand des Sensibilitätsausfalls.\n\n## Klinischer Bezug: Reflexbogen im Querschnitt (Spastik)\n\nAm Beispiel der Spastik lässt sich der Reflexbogen im Rückenmarksquerschnitt nachvollziehen:\n1. Ein **propriozeptiver Dehnungsreiz** trifft afferent über die hintere Wurzel/das Hinterhorn im Rückenmark ein.\n2. Der **Reflexbogen** verschaltet den Reiz im Rückenmark (graue Substanz) auf den motorischen (Vorderhorn-)Anteil.\n3. Normalerweise übt die **Pyramidenbahn** eine hemmende (inhibitorische) Kontrolle auf diese Verschaltung aus.\n4. Fehlt diese **pyramidale Hemmung**, resultiert ein **überschießender, tonischer Reflex**, der über die vordere Wurzel zur Muskulatur zieht – die spastische Reaktion.\n\nDies zeigt, wie der anatomische Aufbau des Querschnitts (Hinterhorn = afferenter Eingang, Vorderhorn = efferenter Ausgang) die Grundlage für Reflexe und ihre pathologische Enthemmung bildet.",
+  "facts": [
+    "Das Rückenmark (Medulla spinalis) verläuft im Wirbelkanal vom Hirnstamm bis zur Lendenwirbelsäule und geht dort in die Cauda Equina über.",
+    "Es leitet sensorische Informationen zum Gehirn (afferent), motorische Befehle vom Gehirn zu den Muskeln (efferent) und ist zentral an Reflexen beteiligt.",
+    "Im Querschnitt liegt die graue Substanz (schmetterlingsförmig, mit Vorder- und Hinterhorn) innen, umgeben von weißer Substanz außen.",
+    "Im Zentrum der grauen Substanz liegt der Zentralkanal (Canalis centralis).",
+    "Ventral liegt die Fissura mediana anterior, dorsal der Sulcus medianus posterior als Orientierungsmerkmale im Querschnitt.",
+    "Die hintere (dorsale) Wurzel ist sensibel/afferent und trägt das Spinalganglion; die vordere (ventrale) Wurzel ist motorisch/efferent – beide vereinigen sich zum Spinalnerv.",
+    "Form und Größe des Querschnitts ändern sich je nach Höhe: zervikal (C5) und lumbal (L1/L2) größere Vorderhörner wegen Extremitäteninnervation, sakral (S2) insgesamt am kleinsten.",
+    "Ein Dermatom ist das Hautareal, das von einem einzelnen Rückenmarkssegment sensibel versorgt wird; thorakale Dermatome verlaufen gürtelförmig, Extremitäten-Dermatome längs.",
+    "Die Segmente S3–S5 versorgen die Anogenital-/Dammregion ('Reithosen-Areal') – klinisch wichtig bei Cauda-equina-Symptomatik.",
+    "Beim spastischen Reflexmechanismus fehlt die hemmende pyramidale Kontrolle am Vorderhorn, wodurch ein überschießender tonischer Reflex entsteht."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g124.png", "caption": "Rückenmark-Querschnitt: weiße/graue Substanz, Vorder- und Hinterhorn, Zentralkanal, vordere/hintere Wurzel mit Spinalganglion und Spinalnerv."},
+    {"src": "assets/neurophysio/g64.png", "caption": "Rückenmarksquerschnitte auf verschiedenen Höhen (C5, T2, T8, L1, L2, S2) – Form- und Größenänderung von zervikal bis sakral."},
+    {"src": "assets/neurophysio/g67.png", "caption": "Dermatom-Karte: segmentale Hautversorgung durch die Rückenmarkssegmente C1–S5 (ventral und dorsal)."},
+    {"src": "assets/neurophysio/g302.png", "caption": "Mechanismus der Spastik im Rückenmarksquerschnitt: Dehnungsreiz → Reflexbogen → fehlende pyramidale Hemmung → überschießender tonischer Reflex."}
+  ],
+  "flashcards": [
+    {"q": "Wo beginnt und wo endet das Rückenmark?", "a": "Es beginnt am Hirnstamm und verläuft im Wirbelkanal bis zur Lendenwirbelsäule, wo es in die Cauda Equina übergeht."},
+    {"q": "Welche Substanz liegt im Rückenmarksquerschnitt außen, welche innen?", "a": "Außen liegt die weiße Substanz (Faserbahnen), innen die graue Substanz (schmetterlingsförmig, Zellkörper)."},
+    {"q": "Was befindet sich im Zentrum der grauen Substanz des Rückenmarks?", "a": "Der Zentralkanal (Canalis centralis)."},
+    {"q": "Wie unterscheiden sich vordere und hintere Wurzel funktionell?", "a": "Die vordere (ventrale) Wurzel ist motorisch/efferent; die hintere (dorsale) Wurzel ist sensibel/afferent und trägt das Spinalganglion."},
+    {"q": "Warum ist die graue Substanz auf zervikaler und lumbaler Höhe stärker ausgeprägt?", "a": "Weil dort die Extremitäten (Arme bzw. Beine) innerviert werden, was mehr graue Substanz/Vorderhorn-Volumen erfordert."},
+    {"q": "Was ist ein Dermatom?", "a": "Das Hautareal, das sensibel von einem einzelnen Rückenmarkssegment/Spinalnerv versorgt wird."},
+    {"q": "Welche Rückenmarkssegmente versorgen die Anogenital-/Dammregion ('Reithosen-Areal')?", "a": "Die sakralen Segmente S3–S5, klinisch relevant beim Cauda-equina-Syndrom."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zum Aufbau des Rückenmarksquerschnitts ist richtig?",
+      "options": [
+        "Die graue Substanz liegt außen, die weiße Substanz innen.",
+        "Die graue Substanz liegt innen (schmetterlingsförmig) mit dem Zentralkanal im Zentrum, umgeben von weißer Substanz außen.",
+        "Das Rückenmark besitzt keine graue Substanz.",
+        "Der Zentralkanal liegt in der weißen Substanz am äußeren Rand."
+      ],
+      "answer": 1,
+      "explain": "Im Rückenmarksquerschnitt liegt die graue Substanz zentral/schmetterlingsförmig mit dem Zentralkanal in der Mitte, umgeben von der weißen Substanz (Faserbahnen) außen."
+    },
+    {
+      "q": "Welche Wurzel des Rückenmarks ist sensibel und trägt das Spinalganglion?",
+      "options": [
+        "Die vordere (ventrale) Wurzel",
+        "Die hintere (dorsale) Wurzel",
+        "Beide Wurzeln gleichermaßen",
+        "Keine – das Spinalganglion liegt im Gehirn"
+      ],
+      "answer": 1,
+      "explain": "Die hintere/dorsale Wurzel führt afferente sensible Fasern und trägt die Verdickung des Spinalganglions; die vordere Wurzel ist motorisch/efferent."
+    },
+    {
+      "q": "Warum ist die graue Substanz auf Höhe C5 (zervikal) besonders ausgeprägt?",
+      "options": [
+        "Weil dort vor allem Bauchorgane innerviert werden",
+        "Weil dort die obere Extremität (Arm) innerviert wird",
+        "Weil dort der Zentralkanal am größten ist",
+        "Weil dort keine weiße Substanz vorhanden ist"
+      ],
+      "answer": 1,
+      "explain": "Auf zervikaler Höhe sind die Vorderhörner größer ausgeprägt, da hier die motorische/sensible Innervation der Arme erfolgt."
+    },
+    {
+      "q": "Welche Segmente versorgen sensibel die Anogenital-/Dammregion ('Reithosen-Areal')?",
+      "options": [
+        "C1–C4",
+        "T1–T12",
+        "L1–L5",
+        "S3–S5"
+      ],
+      "answer": 3,
+      "explain": "Die sakralen Segmente S3–S5 versorgen die Anogenital-/Dammregion; klinisch wichtig bei Cauda-equina-Symptomatik."
+    }
+  ]
+}

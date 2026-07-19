@@ -1,0 +1,72 @@
+{
+  "id": "tia-transitorische-ischaemische-attacke",
+  "title": "TIA (Transitorische ischämische Attacke)",
+  "eingrenzung": "TIA (Anfall)",
+  "prio": "high",
+  "body": "## Schlaganfall als Oberbegriff\n\nDer **Schlaganfall** (früher: Apoplex, veraltete Bezeichnung) ist die plötzliche Unterbrechung der Blutzufuhr zu einem Gehirnbereich. Dadurch kommt es zu einem schnellen Untergang von Nervengewebe und in der Folge zum Verlust neurologischer Funktionen. Es handelt sich um einen akuten, potenziell lebensbedrohlichen medizinischen Notfall – schnelle Diagnose und Behandlung sind entscheidend für Überleben und Ausmaß der bleibenden Beeinträchtigung.\n\n**Zwei Typen nach Genese:**\n\n| Typ | Anteil | Mechanismus |\n|---|---|---|\n| Ischämischer Schlaganfall (Hirninfarkt) | ca. 80–85 % | Unterversorgung eines Hirnareals mit Sauerstoff (Ischämie), meist durch Gefäßverschluss |\n| Hämorrhagischer Schlaganfall (Hirnblutung) | ca. 15 % | Blutung, intrazerebral oder im Subarachnoidalraum |\n\n## TIA – Transitorische Ischämische Attacke\n\nDie TIA ist eine **Sonderform des Schlaganfalls**: Ein Gehirnareal wird nur **kurzzeitig** von der Blutzufuhr abgeschnitten.\n\n- **Abgrenzung zum \"echten\" Hirnschlag:** Die Schwere der Symptome und der Folgeschäden ist bei der TIA meist gering; häufig bleiben keine neurologischen Ausfälle oder Folgeschäden zurück.\n- **Trotzdem ein medizinischer Notfall:** Da die Symptomatik im Akutmoment oft nicht sicher von einem manifesten Hirnschlag unterscheidbar ist, gilt auch die TIA als medizinischer Notfall mit sofortigem Handlungsbedarf.\n- **Warnzeichen:** Eine TIA kann der **Vorbote eines drohenden Hirninfarktes** sein. Sie muss daher immer ursächlich abgeklärt werden, um einem nachfolgenden, gegebenenfalls bleibenden Schlaganfall vorzubeugen.\n\n## Ätiologie und Pathogenese (gemeinsam für Schlaganfall/TIA)\n\n**Häufige Ursachen:**\n- Arteriosklerotische Gefäßveränderungen und Gefäßverschlüsse\n- Thrombosen bzw. Embolien\n- Hypertensive Krisen (rascher Blutdruckanstieg), die zu Gefäßrupturen bzw. Blutungen führen können\n- Kopfverletzungen / stumpfe Gewalteinwirkung, Aneurysmen (als Ursache hämorrhagischer Formen)\n\n**Weitere Risikofaktoren:** Rauchen, Alkohol, Drogenmissbrauch (z. B. Kokain), bestimmte Medikamente.\n\n**Lokalisation entscheidet über das Ausfallmuster:**\n- Ischämische Schläge betreffen häufig Versorgungsgebiete großer Arterien, insbesondere die **Arteria cerebri media** – das Ausmaß der Ausfälle hängt von der Verschlusslokalisation ab.\n- Bei einer Blutung kommt es zu einer Druckschädigung des Hirngewebes, häufig mit rapidem Funktionsverlust.\n- Hämorrhagische Schlaganfälle können traumatisch oder spontan auftreten und sich intrazerebral oder im Subarachnoidalraum ereignen.\n\n**Wichtig für die Klinik:** Ischämischer und hämorrhagischer Schlaganfall sind im Akutmoment anhand der Symptomatik allein oft **nicht sicher zu unterscheiden** – dies gilt in noch stärkerem Maß für die TIA, weshalb jede TIA notfallmäßig abgeklärt werden muss.\n\n## Prüfungsrelevanter Kontext\n\nDas Thema TIA ist eng verzahnt mit den Eingrenzungspunkten zum Schlaganfall allgemein (Definition, Pathophysiologie, ischämisch vs. hämorrhagisch) sowie mit Fragen zu Akut- und Spätsymptomen, statistischen Häufigkeiten und Risikofaktoren. Wichtig ist, die TIA klar als eigenständige, aber verwandte Entität von Hirninfarkt und Hirnblutung abzugrenzen: gleiche Grundursachen (v. a. Ischämie), aber vorübergehender Charakter mit meist folgenlosem Verlauf – dennoch mit hoher Warnfunktion für einen künftigen Schlaganfall.",
+  "facts": [
+    "TIA = Transitorische Ischämische Attacke: kurzzeitige Unterbrechung der Blutzufuhr in einem Gehirnareal.",
+    "Bei der TIA sind Symptome und Folgeschäden meist gering ausgeprägt; oft bleiben keine neurologischen Ausfälle zurück.",
+    "Die TIA gilt trotz meist milder Symptomatik als medizinischer Notfall, da sie im Akutfall oft nicht sicher vom manifesten Hirnschlag zu unterscheiden ist.",
+    "Eine TIA kann Vorbote eines drohenden Hirninfarktes sein und muss deshalb immer ursächlich abgeklärt werden.",
+    "Schlaganfall allgemein: ca. 80–85 % ischämisch (Hirninfarkt), ca. 15 % hämorrhagisch (Hirnblutung).",
+    "Häufige Ursachen von Schlaganfall/TIA: Arteriosklerose, Thrombosen/Embolien, hypertensive Krisen; Risikofaktoren: Rauchen, Alkohol, Drogen (z. B. Kokain), bestimmte Medikamente.",
+    "Die Arteria cerebri media ist bei ischämischen Schlaganfällen häufig das betroffene Versorgungsgebiet."
+  ],
+  "figures": [],
+  "flashcards": [
+    {"q": "Was bedeutet TIA?", "a": "Transitorische Ischämische Attacke – eine kurzzeitige Unterbrechung der Blutzufuhr in einem Gehirnareal."},
+    {"q": "Warum gilt die TIA trotz meist geringer Symptome als medizinischer Notfall?", "a": "Weil sie im Akutmoment oft nicht sicher von einem manifesten Hirnschlag zu unterscheiden ist und daher sofortige Abklärung erfordert."},
+    {"q": "Welche prognostische Bedeutung kann eine TIA haben?", "a": "Sie kann Vorbote eines kommenden Hirninfarktes sein und muss deshalb ursächlich abgeklärt werden."},
+    {"q": "Wie unterscheidet sich die TIA vom vollständigen Hirnschlag hinsichtlich der Folgen?", "a": "Bei der TIA sind Schwere der Symptome und Folgeschäden meist gering, häufig ohne bleibende neurologische Ausfälle – im Gegensatz zum manifesten Schlaganfall."},
+    {"q": "Wie hoch ist der Anteil ischämischer bzw. hämorrhagischer Schlaganfälle insgesamt?", "a": "Ca. 80–85 % ischämisch (Hirninfarkt), ca. 15 % hämorrhagisch (Hirnblutung)."},
+    {"q": "Welches Gefäß ist bei ischämischen Schlaganfällen besonders häufig betroffen?", "a": "Die Arteria cerebri media."},
+    {"q": "Nenne typische Ursachen/Risikofaktoren für Schlaganfall und TIA.", "a": "Arteriosklerose, Thrombosen/Embolien, hypertensive Krisen sowie Rauchen, Alkohol, Drogenmissbrauch und bestimmte Medikamente."}
+  ],
+  "quiz": [
+    {
+      "q": "Was ist das zentrale Merkmal, das eine TIA von einem manifesten ischämischen Schlaganfall unterscheidet?",
+      "options": [
+        "Die Durchblutungsunterbrechung ist nur vorübergehend, Symptome/Folgeschäden meist gering",
+        "Die TIA betrifft ausschließlich das Rückenmark",
+        "Bei der TIA liegt immer eine Blutung vor",
+        "Die TIA verursacht grundsätzlich dauerhafte Lähmungen"
+      ],
+      "answer": 0,
+      "explain": "Bei der TIA ist die Blutzufuhr nur kurzzeitig unterbrochen, weshalb Symptome und Folgeschäden meist gering sind und oft keine bleibenden Ausfälle zurückbleiben. Eine Blutung oder dauerhafte Lähmung wäre kein typisches TIA-Merkmal, und das Rückenmark ist hier nicht das betroffene Organ."
+    },
+    {
+      "q": "Warum wird eine TIA trotz oft milder und vorübergehender Symptomatik als medizinischer Notfall behandelt?",
+      "options": [
+        "Weil sie im Akutfall oft nicht sicher von einem manifesten Hirnschlag unterscheidbar ist und Vorbote eines Hirninfarktes sein kann",
+        "Weil TIA per Definition immer tödlich verläuft",
+        "Weil bei einer TIA sofort eine Operation nötig ist",
+        "Weil die TIA ausschließlich bei jungen Menschen auftritt"
+      ],
+      "answer": 0,
+      "explain": "Die Symptomatik lässt im akuten Moment keine sichere Abgrenzung zum vollständigen Schlaganfall zu, und die TIA kann ein Warnsignal für einen bevorstehenden Hirninfarkt sein – daher die Notfall-Abklärung. Die anderen Aussagen sind fachlich falsch."
+    },
+    {
+      "q": "Wie hoch ist ungefähr der Anteil ischämischer Schlaganfälle (Hirninfarkte) an allen Schlaganfällen?",
+      "options": [
+        "Ca. 80–85 %",
+        "Ca. 50 %",
+        "Ca. 15 %",
+        "Ca. 100 %"
+      ],
+      "answer": 0,
+      "explain": "Rund 80–85 % der Schlaganfälle sind ischämisch bedingt (Hirninfarkt), die restlichen ca. 15 % sind hämorrhagisch (Hirnblutung)."
+    },
+    {
+      "q": "Welche Arterie ist bei ischämischen Schlaganfällen besonders häufig das betroffene Versorgungsgebiet?",
+      "options": [
+        "Arteria cerebri media",
+        "Arteria femoralis",
+        "Arteria carotis externa allein, ohne intrakranielle Beteiligung",
+        "Arteria pulmonalis"
+      ],
+      "answer": 0,
+      "explain": "Die Notizen nennen die Arteria cerebri media als häufig betroffenes Versorgungsgebiet bei ischämischen Schlaganfällen. Die Arteria femoralis und Arteria pulmonalis liegen außerhalb des zerebralen Kreislaufs und sind hier nicht relevant."
+    }
+  ]
+}

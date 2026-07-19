@@ -1,0 +1,57 @@
+{
+  "id": "intero-extero-sinnessysteme",
+  "title": "Extero- und interozeptive Sinnessysteme",
+  "eingrenzung": "Intero- und exterozeptive Systeme (Intero-/Exterozeption) + Sinne",
+  "prio": "high",
+  "body": "## Sensorik – Grundlagen\n\nSensorik ist die Fähigkeit, sensorische Informationen (Reize) aus der Umwelt aufzunehmen, zu verarbeiten und darauf zu reagieren. Sie ist grundlegend für menschliche Interaktion und tägliches Funktionieren und wird in der Ergotherapie genutzt, um zu verstehen, wie Menschen ihre Umwelt wahrnehmen und darauf reagieren.\n\n## Die 7 Sinnesmodalitäten\n\nSinnessysteme sind entscheidend für die Erfassung und Interpretation von Umweltinformationen. Neben den 5 klassischen Sinnen werden in den Neurowissenschaften zwei weitere Sinnesmodalitäten unterschieden. Alle Sinnessysteme sind **multimodal**, d.h. sie wirken gleichzeitig und aktiv zusammen.\n\n**Die 5 klassischen Sinne:**\n- **Visuelles System** (Gesichtssinn): Erkennung von Licht, Farben, Formen; wesentliche Rolle bei Raumorientierung sowie Objekt-/Gesichtserkennung.\n- **Akustisches System** (Gehörsinn): Wahrnehmung/Interpretation von Schallwellen und Tönen; wichtig für Sprachverständigung und Erkennen von Umgebungsgeräuschen.\n- **Olfaktorisches System** (Geruchssinn): Erkennen und Unterscheiden verschiedener Gerüche; enge Verbindung zu Gedächtnis und Emotionen.\n- **Gustatorisches System** (Geschmackssinn): Wahrnehmung/Differenzierung der Geschmacksrichtungen süß, sauer, bitter, salzig.\n- **Taktiles System** (Tastsinn): Wahrnehmung von Berührung, Druck, Temperatur und Schmerz über Rezeptoren in der Haut.\n\n**Die 2 zusätzlichen Sinnesmodalitäten:**\n- **Propriozeptives System** (Tiefensensibilität): Wahrnehmung der Stellung und Bewegung des Körpers im Raum – ermöglicht das Erkennen von Position/Bewegung der Gliedmaßen auch ohne visuelle Kontrolle.\n- **Vestibuläres System** (Gleichgewicht): sitzt im Innenohr, entscheidend für Gleichgewicht und räumliche Orientierung; stabilisiert die Körperhaltung und unterstützt die Koordination von Bewegungen.\n\n## Exterozeption vs. Interozeption\n\nDie 7 Sinnessysteme lassen sich zwei Hauptgruppen von Rezeptoren (Sensoren) zuordnen:\n\n- **Exterozeptoren:** finden sich in den 5 Sinnesorganen (Auge, Ohr, Nase, Zunge, Haut); zuständig für die Wahrnehmung externer Reize (Licht, Schall, Berührung, Temperatur, chemische Reize/Gerüche/Geschmack).\n- **Interozeptoren:** Sensoren, die Informationen aus dem Körperinneren erfassen; spezialisiert auf Propriozeption und Gleichgewicht.\n\n### Tabelle: Sinnsysteme des Menschen (modifiziert nach Haus, 2014)\n\n| Kategorie | Rezeptoren | Sinnesmodalität | Organ |\n|---|---|---|---|\n| Exterozeptoren | Photorezeptoren (Retina) | Visuell | Auge |\n| Exterozeptoren | Haarzellen (Innenohr) | Akustisch | Ohr |\n| Exterozeptoren | Riechepithelzellen (Nasenschleimhaut) | Olfaktorisch | Nase |\n| Exterozeptoren | Geschmacksknospen | Gustatorisch | Zunge |\n| Exterozeptoren | Mechano-, Thermo-, Nozizeptoren | Taktil/Oberflächensensibilität | Haut |\n| Interozeptoren | Muskelspindeln, Golgi-Sehnenorgan, Gelenkrezeptoren | Propriozeption: Stellungs-, Kraft-, Bewegungssinn | Muskeln, Sehnen, Gelenke |\n| Interozeptoren | Makulaorgane (Macula sacculi & utriculi), Bogengänge | Vestibulär | Vestibulum (Gleichgewichtsorgan des Innenohrs) |\n\n## Limbisches System und sensorische Integration\n\nDas limbische System spielt eine zentrale Rolle bei der **emotionalen Bewertung** sensorischer Eindrücke:\n\n- **Emotionale Bewertung:** Jeder sensorische Reiz (Geruch, Klang, visuelle Szene, Berührung) wird nicht nur physikalisch als elektrisches Signal verarbeitet, sondern erhält zusätzlich eine emotionale Bedeutung. Diese emotionale Färbung ist entscheidend dafür, was wir vorziehen oder meiden, und beeinflusst Verhalten und Entscheidungen. *Beispiel:* Der Geruch von frisch gebackenem Brot löst positive Emotionen/Kindheitserinnerungen aus.\n- **Gedächtnis und Lernen:** Das limbische System ist zentral für Lernen und Gedächtnisbildung, besonders das emotionale Gedächtnis. Durch die emotionale Bewertung werden Ereignisse/Erfahrungen als wichtig markiert und eher im Langzeitgedächtnis gespeichert. *Beispiel:* Traumatische Erlebnisse mit starker sensorischer Komponente (lauter Knall, stechender Geruch) werden tief im Gedächtnis verankert und können später durch ähnliche Reize wieder hervorgerufen werden (Trigger).\n- **Integration von Sinneseindrücken mit emotionalem Zustand:** Das limbische System verknüpft Sinneseindrücke mit dem aktuellen emotionalen Zustand und vergangenen Erfahrungen – entscheidend für die individuelle Wahrnehmung/Interpretation. *Beispiel:* Musik wird je nach Kontext/Erfahrung/emotionalem Zustand unterschiedlich wahrgenommen.\n- **Rolle bei der Verarbeitung olfaktorischer Informationen:** Von den verglichenen Systemen (Formatio reticularis, Thalamus, limbisches System) ist das limbische System das **einzige**, das direkt mit der Verarbeitung olfaktorischer Informationen verbunden ist. Gerüche können daher besonders starke emotionale Reaktionen/Erinnerungen auslösen. *Beispiel:* Der Geruch von Lavendel fördert Entspannung/Ruhe durch Assoziation mit entspannenden Erfahrungen, verankert im limbischen System.",
+  "facts": [
+    "Es gibt 7 Sinnesmodalitäten: visuell, akustisch, olfaktorisch, gustatorisch, taktil, vestibulär und propriozeptiv.",
+    "Zu den 5 klassischen Sinnen (visuell, akustisch, olfaktorisch, gustatorisch, taktil) kommen in den Neurowissenschaften zusätzlich Vestibulär (Gleichgewicht) und Propriozeption (Tiefensensibilität) hinzu.",
+    "Alle Sinnessysteme sind multimodal, d.h. sie wirken gleichzeitig und aktiv zusammen.",
+    "Exterozeptoren nehmen externe Reize über die 5 Sinnesorgane (Auge, Ohr, Nase, Zunge, Haut) wahr.",
+    "Interozeptoren erfassen Informationen aus dem Körperinneren und sind spezialisiert auf Propriozeption und Gleichgewicht.",
+    "Propriozeptoren (Muskelspindeln, Golgi-Sehnenorgan, Gelenkrezeptoren) in Muskeln, Sehnen und Gelenken vermitteln Stellungs-, Kraft- und Bewegungssinn.",
+    "Vestibuläre Rezeptoren (Makulaorgane, Bogengänge) sitzen im Vestibulum (Innenohr) und sind zuständig für Gleichgewicht und räumliche Orientierung.",
+    "Das taktile System erfasst über Mechano-, Thermo- und Nozizeptoren Berührung, Druck, Temperatur und Schmerz in der Haut.",
+    "Das limbische System bewertet jeden sensorischen Reiz emotional (nicht nur physikalisch) und ist zentral für das emotionale Gedächtnis/Langzeitgedächtnis.",
+    "Von Formatio reticularis, Thalamus und limbischem System ist das limbische System das einzige, das direkt mit der Verarbeitung olfaktorischer Informationen verbunden ist."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g132.png", "caption": "Tabelle: Sinnsysteme des Menschen – Extero- und Interozeptoren mit Rezeptoren, Sinnesmodalität und Organ (modifiziert nach Haus, 2014)"}
+  ],
+  "flashcards": [
+    {"q": "Wie viele Sinnesmodalitäten werden in den Neurowissenschaften unterschieden und welche 2 kommen zu den klassischen 5 Sinnen hinzu?", "a": "7 Sinnesmodalitäten insgesamt; zusätzlich zu den 5 klassischen Sinnen kommen Vestibulär (Gleichgewicht) und Propriozeption (Tiefensensibilität) hinzu."},
+    {"q": "Was unterscheidet Exterozeptoren von Interozeptoren?", "a": "Exterozeptoren nehmen externe Reize über die 5 Sinnesorgane (Auge, Ohr, Nase, Zunge, Haut) wahr; Interozeptoren erfassen Informationen aus dem Körperinneren (Propriozeption, Gleichgewicht)."},
+    {"q": "Welche Rezeptoren vermitteln die Propriozeption und wo sitzen sie?", "a": "Muskelspindeln, Golgi-Sehnenorgan und Gelenkrezeptoren in Muskeln, Sehnen und Gelenken; sie vermitteln Stellungs-, Kraft- und Bewegungssinn."},
+    {"q": "Welche Rezeptoren sind für den Vestibularsinn zuständig und wo befinden sie sich?", "a": "Makulaorgane (Macula sacculi & utriculi) und Bogengänge im Vestibulum (Gleichgewichtsorgan des Innenohrs)."},
+    {"q": "Welche 4 Reizqualitäten erfasst das taktile System und über welche Rezeptoren?", "a": "Berührung, Druck, Temperatur und Schmerz über Mechano-, Thermo- und Nozizeptoren in der Haut."},
+    {"q": "Welche zentrale Rolle spielt das limbische System bei der sensorischen Verarbeitung?", "a": "Es bewertet jeden sensorischen Reiz emotional (nicht nur physikalisch) und ist zentral für das emotionale Gedächtnis/Langzeitgedächtnis."},
+    {"q": "Welches System ist als einziges direkt mit der Verarbeitung olfaktorischer Informationen verbunden?", "a": "Das limbische System (im Gegensatz zu Formatio reticularis und Thalamus) – daher die enge Verbindung von Gerüchen zu Emotionen und Erinnerungen."}
+  ],
+  "quiz": [
+    {
+      "q": "Wie viele Sinnesmodalitäten werden dem Menschen in den Neurowissenschaften zugeordnet?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 2,
+      "explain": "Zu den 5 klassischen Sinnen (visuell, akustisch, olfaktorisch, gustatorisch, taktil) kommen Vestibulär und Propriozeption hinzu – insgesamt 7 Sinnesmodalitäten."
+    },
+    {
+      "q": "Welche Rezeptoren gehören zu den Interozeptoren?",
+      "options": ["Photorezeptoren der Retina", "Muskelspindeln und Golgi-Sehnenorgan", "Geschmacksknospen der Zunge", "Haarzellen des Innenohrs (Hören)"],
+      "answer": 1,
+      "explain": "Muskelspindeln, Golgi-Sehnenorgan und Gelenkrezeptoren sind Interozeptoren (Propriozeption). Retina, Geschmacksknospen und Haarzellen für das Hören sind dagegen Exterozeptoren."
+    },
+    {
+      "q": "Welches System ist laut Kursmaterial als einziges direkt mit der Verarbeitung olfaktorischer Informationen verbunden?",
+      "options": ["Thalamus", "Formatio reticularis", "Limbisches System", "Kleinhirn"],
+      "answer": 2,
+      "explain": "Von den drei verglichenen Systemen (Formatio reticularis, Thalamus, limbisches System) ist nur das limbische System direkt mit der Geruchsverarbeitung verbunden – daher die besonders starke emotionale Wirkung von Gerüchen."
+    },
+    {
+      "q": "Wo befinden sich die Rezeptoren des vestibulären Systems?",
+      "options": ["In der Retina des Auges", "Im Innenohr (Vestibulum: Makulaorgane, Bogengänge)", "In den Muskelspindeln der Skelettmuskulatur", "In der Nasenschleimhaut"],
+      "answer": 1,
+      "explain": "Das vestibuläre System sitzt im Innenohr; Makulaorgane (Macula sacculi & utriculi) und Bogengänge erfassen Gleichgewicht und räumliche Orientierung."
+    }
+  ]
+}

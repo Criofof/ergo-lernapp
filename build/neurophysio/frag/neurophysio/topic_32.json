@@ -1,0 +1,78 @@
+{
+  "id": "normoton-normaler-tonus",
+  "title": "Normoton / Normaler Tonus",
+  "eingrenzung": "Normoton / normaler Tonus",
+  "prio": "high",
+  "body": "## Was ist Tonus?\nTonus bezeichnet den **Spannungszustand der Muskulatur**. Im gesunden Körper herrscht in Ruhe ein bestimmter Grundspannungszustand, der als **\"normaler Tonus\"** oder **\"normoton\"** bezeichnet wird. Dieser normale Ruhetonus ermöglicht gleichzeitig **Stabilität** und **flüssige, effiziente Bewegung** – zwei scheinbar gegensätzliche Anforderungen, die der gesunde Tonus in Einklang bringt.\n\n## Normaler Tonus im Detail\n- In Ruhe besteht eine **permanente, leichte Erregung der Muskulatur** über die Innervation der **α-Motoneurone**. Dies ist der sogenannte **Grund- bzw. Ruhetonus**.\n- Ein anschauliches Bild aus dem Kurs: Der Ruhetonus ist vergleichbar mit dem **Standgas eines Autos** – der Motor läuft, ohne dass das Fahrzeug bereits in Bewegung ist, aber jederzeit bereit für Aktivität.\n- An der Aufrechterhaltung des normalen Tonus sind mehrere zentrale Strukturen beteiligt: **Hirnstamm, Formatio reticularis, Kleinhirn und Basalganglien**.\n- Unter Aktivität **variiert** der normale Tonus je nach Bewegungsanforderung und externen Einflüssen:\n  - **Niedriger Tonus** wird für **Feinmotorik** benötigt.\n  - **Hoher Tonus** wird für **kraftvolle bzw. statische Bewegungen/Haltungen** benötigt.\n- Beim gesunden Menschen passt sich der Tonus flexibel der jeweiligen Bewegung/Situation an, **ohne dass die Kontrolle verloren geht**.\n\n**Merksatz (prüfungsrelevant):** Der normale Tonus ist **hoch genug, um den Körper gegen die Schwerkraft aufrecht zu halten**, und gleichzeitig **niedrig genug, um selektive und flüssige Bewegungen zu ermöglichen**.\n\n## Assoziierte Bewegungen\nAssoziierte Bewegungen sind **unbewusste, automatische Bewegungen**, die eine Hauptbewegung in zunächst unbeteiligten Körperteilen begleiten.\n- Sie treten häufig bei **intensiver Anstrengung** auf.\n- Bei gesunden Menschen sind sie meist **subtil** und – wenn bewusst wahrgenommen – **willentlich unterdrückbar**.\n- Beispiele für physiologische assoziierte Bewegungen bei Gesunden:\n  - Öffnen des eigenen Mundes beim Füttern eines Kindes bzw. beim Beobachten einer essenden Person.\n  - Seitliches Herausstrecken der Zunge (z. B. bei Konzentration).\n  - Seitliche Kopfneigung bei hoher Konzentration, etwa beim Malen oder Schreiben.\n  - Mitbewegen einzelner Finger der kontralateralen (nicht aktiv arbeitenden) Hand bei intensiver Feinmotorik der Haupthand.\n- In **pathologischen Zuständen** können assoziierte Bewegungen **verstärkt und unkontrolliert** auftreten – vergleichbar mit Tics – und die Bewegungseffizienz beeinträchtigen.\n- Bei Patient:innen mit **Halbseitensymptomatik (Hemiparese)** kann eine normale assoziierte Bewegung erwartungsgemäß verstärkt als **pathologische Mitbewegung** auftreten.\n\n## Abgrenzung: Hyper- und Hypotonus\nZum Verständnis von \"normoton\" gehört die Abgrenzung zu den beiden pathologischen Tonuszuständen:\n\n| Tonuszustand | Beschreibung | Ursache | Kennzeichen |\n|---|---|---|---|\n| **Hypertonus** | Pathologisch erhöhter Tonus bei verminderter muskulärer Kontrolle; in der Neurologie häufig als **\"Spastizität\"/\"Spastik\"** bezeichnet | Störung im **zentralen Nervensystem**, verursacht durch Ausfälle des **oberen Motoneurons** | Immer gekennzeichnet durch **erhöhten Widerstand gegen passive Bewegung** UND **Exazerbation (Verschlimmerung) von assoziierten Reaktionen** |\n| **Hypotonus** | Ungewöhnlich niedrige Muskelspannung | Meist Schädigung des **peripheren Nervensystems** | Deutlich reduzierte Muskelkraft und -kontrolle → Beeinträchtigung von Haltung/Bewegung; Muskulatur neigt zu **schnellerer Atrophie** |\n\n## Dokumentation des Tonus: Allgemeiner Tonusbefund (6.3.1)\nIn der Ergotherapie wird der Muskeltonus mittels einer **Körperschemazeichnung** dokumentiert (dieselbe Methode wird auch im Schmerzbefund verwendet). Dabei wird eine einfache Zeichnung des menschlichen Körpers von **ventral und dorsal** verwendet, auf der Therapeut:innen mit standardisierten Symbolen den Tonuszustand markieren:\n\n- **Minuszeichen (-)**: markiert **Hypotonus**, skalierbar bis zu drei Minuszeichen (- - -) bei starker Ausprägung.\n- **Pluszeichen (+)**: markiert **Hypertonus**, skalierbar bis zu drei Pluszeichen (+++) bei starker Ausprägung.\n- **Blitzsymbol (⚡)**: klassischerweise für **Schmerz** verwendet, ebenfalls bis zu drei Blitze für unterschiedliche Schmerzintensitäten.\n\nVorteile dieser Methode: **Klarheit**, **Einfachheit der Darstellung**, **schnelle Anfertigung und Aktualisierung** sowie eine **erleichterte Kommunikation** mit anderen Behandlungsteams.",
+  "facts": [
+    "Tonus = Spannungszustand der Muskulatur; im gesunden Körper herrscht in Ruhe der 'normale Tonus'/'normoton'.",
+    "Normaler Ruhetonus entsteht durch permanente, leichte Erregung der Muskulatur über die α-Motoneurone; Vergleich: Standgas eines Autos.",
+    "An der Aufrechterhaltung des normalen Tonus beteiligt: Hirnstamm, Formatio reticularis, Kleinhirn, Basalganglien.",
+    "Merksatz: Normaler Tonus ist hoch genug, um den Körper gegen die Schwerkraft aufrecht zu halten, und niedrig genug für selektive/flüssige Bewegungen.",
+    "Unter Aktivität variiert der Tonus: niedriger Tonus für Feinmotorik, hoher Tonus für kraftvolle/statische Bewegungen.",
+    "Assoziierte Bewegungen = unbewusste, automatische Begleitbewegungen einer Hauptbewegung in unbeteiligten Körperteilen; bei Gesunden meist subtil und willentlich unterdrückbar.",
+    "Bei Halbseitensymptomatik/Hemiparese können assoziierte Bewegungen verstärkt als pathologische Mitbewegung auftreten.",
+    "Hypertonus (Spastizität) entsteht durch ZNS-Störung/Ausfall des oberen Motoneurons und ist gekennzeichnet durch erhöhten Widerstand gegen passive Bewegung sowie Exazerbation assoziierter Reaktionen.",
+    "Hypotonus entsteht meist durch Schädigung des peripheren Nervensystems, führt zu reduzierter Muskelkraft/-kontrolle und schnellerer Muskelatrophie.",
+    "Allgemeiner Tonusbefund: Dokumentation per Körperschemazeichnung (ventral/dorsal) mit Symbolen: Minus (-) = Hypotonus, Plus (+) = Hypertonus (je bis zu 3 Stufen), Blitz (⚡) = Schmerz."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g169.png", "caption": "Allgemeiner Tonusbefund: Körperschemazeichnung ventral/dorsal mit Symbolen für Hypotonus (-), Hypertonus (+) und Schmerz (Blitz)."}
+  ],
+  "flashcards": [
+    {"q": "Was bedeutet 'normoton' bzw. 'normaler Tonus'?", "a": "Der gesunde Ruhetonus der Muskulatur – eine permanente, leichte Erregung der Muskulatur über Innervation der α-Motoneurone, die Stabilität bei gleichzeitig flüssiger, effizienter Bewegung ermöglicht."},
+    {"q": "Welche Strukturen sind an der Aufrechterhaltung des normalen Tonus beteiligt?", "a": "Hirnstamm, Formatio reticularis, Kleinhirn und Basalganglien."},
+    {"q": "Nenne den Merksatz zum normalen Tonus.", "a": "Normaler Tonus ist hoch genug, um den Körper gegen die Schwerkraft aufrecht zu halten, und niedrig genug, um selektive und flüssige Bewegungen zu ermöglichen."},
+    {"q": "Was sind assoziierte Bewegungen?", "a": "Unbewusste, automatische Bewegungen, die eine Hauptbewegung in zunächst unbeteiligten Körperteilen begleiten, häufig bei intensiver Anstrengung; bei Gesunden meist subtil und willentlich unterdrückbar."},
+    {"q": "Nenne zwei Beispiele für physiologische assoziierte Bewegungen bei gesunden Menschen.", "a": "Z.B. Öffnen des eigenen Mundes beim Füttern eines Kindes/Beobachten einer essenden Person; seitliche Kopfneigung bei hoher Konzentration (Malen/Schreiben); Mitbewegen einzelner Finger der kontralateralen Hand bei Feinmotorik."},
+    {"q": "Was passiert mit assoziierten Bewegungen bei Patient:innen mit Hemiparese?", "a": "Sie können erwartungsgemäß verstärkt als pathologische Mitbewegung auftreten."},
+    {"q": "Wodurch ist Spastizität (Hypertonus) laut Kursnotizen immer gekennzeichnet?", "a": "Durch erhöhten Widerstand gegen passive Bewegung UND Exazerbation (Verschlimmerung) von assoziierten Reaktionen."},
+    {"q": "Welche Symbole werden im Allgemeinen Tonusbefund verwendet und wofür stehen sie?", "a": "Minus (-) = Hypotonus, Plus (+) = Hypertonus (jeweils bis zu drei Stufen skalierbar), Blitz (⚡) = Schmerz (bis zu drei Blitze für Intensität), dokumentiert auf einer Körperschemazeichnung ventral und dorsal."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zum normalen Tonus (Normoton) ist korrekt?",
+      "options": [
+        "Normaler Tonus ist hoch genug, um den Körper gegen die Schwerkraft aufrecht zu halten, und niedrig genug, um selektive und flüssige Bewegungen zu ermöglichen.",
+        "Normaler Tonus ist ein statischer Zustand, der sich nie an die Bewegungsanforderung anpasst.",
+        "Normaler Tonus entsteht ausschließlich durch die Aktivität der Basalganglien.",
+        "Normaler Tonus ist bei gesunden Menschen immer maximal hoch, um Stürze zu vermeiden."
+      ],
+      "answer": 0,
+      "explain": "Der Kursmerksatz beschreibt genau diese Balance. Der Tonus variiert je nach Aktivität (niedrig bei Feinmotorik, hoch bei kraftvollen/statischen Bewegungen) und wird von mehreren Strukturen (Hirnstamm, Formatio reticularis, Kleinhirn, Basalganglien) gemeinsam reguliert, nicht nur von den Basalganglien."
+    },
+    {
+      "q": "Was sind 'assoziierte Bewegungen'?",
+      "options": [
+        "Ausschließlich pathologische Mitbewegungen bei Spastik.",
+        "Bewusst geplante Kompensationsbewegungen bei Lähmungen.",
+        "Unbewusste, automatische Begleitbewegungen einer Hauptbewegung in zunächst unbeteiligten Körperteilen, die bei Gesunden meist subtil und unterdrückbar sind.",
+        "Reflexe, die ausschließlich beim Neugeborenen auftreten."
+      ],
+      "answer": 2,
+      "explain": "Assoziierte Bewegungen kommen bei Gesunden physiologisch vor (z.B. Mitbewegung der Zunge bei Konzentration) und sind meist subtil/unterdrückbar. Erst bei Halbseitensymptomatik können sie verstärkt und unkontrolliert als pathologische Mitbewegung auftreten – sie sind also nicht per se pathologisch."
+    },
+    {
+      "q": "Wodurch entsteht Hypertonus (Spastizität) laut Kursnotizen typischerweise?",
+      "options": [
+        "Durch eine Schädigung des peripheren Nervensystems.",
+        "Durch eine Störung im zentralen Nervensystem mit Ausfall des oberen Motoneurons.",
+        "Durch eine reine Muskelüberlastung ohne neurologische Ursache.",
+        "Durch eine Schädigung der Formatio reticularis allein."
+      ],
+      "answer": 1,
+      "explain": "Hypertonus/Spastizität resultiert aus einer zentralnervösen Störung durch Ausfälle des oberen Motoneurons. Eine Schädigung des peripheren Nervensystems ist dagegen typischerweise Ursache für Hypotonus."
+    },
+    {
+      "q": "Welche Symbole werden beim 'Allgemeinen Tonusbefund' auf der Körperschemazeichnung verwendet?",
+      "options": [
+        "Kreis für Hypotonus, Dreieck für Hypertonus, Stern für Schmerz.",
+        "Minuszeichen (-) für Hypotonus, Pluszeichen (+) für Hypertonus, Blitzsymbol (⚡) für Schmerz, jeweils skalierbar bis zu drei Stufen.",
+        "Nur ein einziges Symbol für alle Tonusabweichungen.",
+        "Farbcodierung ohne Symbole: Rot für Hypertonus, Blau für Hypotonus."
+      ],
+      "answer": 1,
+      "explain": "Der Allgemeine Tonusbefund nutzt Minus (-) für Hypotonus, Plus (+) für Hypertonus (jeweils bis zu drei Stufen) und ein Blitzsymbol für Schmerz (bis zu drei Blitze für Intensität), dokumentiert ventral und dorsal auf einer Körperschemazeichnung."
+    }
+  ]
+}
