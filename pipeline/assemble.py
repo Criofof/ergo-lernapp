@@ -10,6 +10,7 @@ from plan import NAMES
 
 def assemble_subject(sub):
     slug, ru = sub["slug"], sub["render_unit"]
+    fach = sub.get("fach") or NAMES.get(slug, slug)
     fdir = os.path.join(C.ROOT, "build", ru, "frag", slug)
     topics, bad = [], []
     for f in sorted(glob.glob(os.path.join(fdir, "topic_*.json")),
@@ -39,8 +40,8 @@ def assemble_subject(sub):
     ncards = sum(len(t.get("flashcards", [])) for t in topics)
     nquiz = sum(len(t.get("quiz", [])) for t in topics)
     data = {
-        "slug": slug, "fach": sub["fach"], "gruppe": sub["gruppe"],
-        "intro": f"Diese Lerneinheit deckt **{len(topics)} prüfungsrelevante Themen** von {sub['fach']} ab "
+        "slug": slug, "fach": fach, "gruppe": sub["gruppe"],
+        "intro": f"Diese Lerneinheit deckt **{len(topics)} prüfungsrelevante Themen** von {fach} ab "
                  f"(gemäß offizieller Eingrenzung), mit {ncards} Karteikarten und {nquiz} Quizfragen.",
         "topics": topics, "extra": extra,
     }
