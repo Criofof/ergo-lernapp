@@ -1,0 +1,55 @@
+{
+  "id": "trunk-control-test",
+  "title": "Trunk Control Test (TCT)",
+  "eingrenzung": "Trunk-Control-Test",
+  "prio": "high",
+  "body": "## Einordnung\nDer **Trunk Control Test (TCT)** ist laut Skript ein klinischer Test zur **Befunderhebung der Rumpfkontrolle** in der Neurologie (Kapitel 6.3 „Weitere Tests“, Quelle: Fischer 2016). Er steht dort neben anderen neurologischen Assessments wie Ashworth Scale, Modifizierter Tardieu Skala, Motricity Index, Fugl-Meyer Assessment, Rivermead Motor Assessment und Glasgow Coma Scale.\n\nZiel des TCT ist es, zu prüfen, wie gut ein/e Patient:in (typischerweise nach Schlaganfall) den Rumpf selbstständig kontrollieren und aus Rumpfbewegungen heraus funktionelle Positionswechsel durchführen kann.\n\n## Die 4 Items des TCT\nDer TCT besteht aus **4 Items**, die jeweils eine funktionelle Rumpfleistung prüfen:\n1. **Drehen zur paretischen Seite** (im Bett/auf der Behandlungsbank)\n2. **Drehen zur nichtparetischen Seite**\n3. **Sich aus der Rückenlage aufsetzen** – bewertet die Fähigkeit, sich selbstständig in eine sitzende Position zu begeben\n4. **Freies Sitzen an der Bettkante für mindestens 30 Sekunden ohne Fuß-Boden-Kontakt** – misst die Sitzstabilität ohne Unterstützung durch die Füße\n\n## Bewertungsskala\nJedes der 4 Items wird nach einem einheitlichen Punkteschema bewertet:\n\n| Punkte | Befund |\n|---|---|\n| **0 Punkte** | Patient:in kann die Aktivität nicht selbstständig ausführen |\n| **12 Punkte** | Patient:in kann die Aktivität selbstständig durchführen, muss dabei jedoch Kompensationstechniken anwenden |\n| **25 Punkte** | Patient:in kann die Aktivität selbstständig **und** physiologisch korrekt ausführen |\n\n**Maximalpunktzahl: 100 Punkte** (4 Items × je maximal 25 Punkte) = vollständige Rumpfkontrolle. Je niedriger der erreichte Gesamtwert, desto ausgeprägter die Rumpfkontrollstörung.\n\n## Testgüte und klinische Bedeutung\n- Reliabilität und Validität des TCT sind **gut dokumentiert**.\n- Der Test weist eine **hohe Test-Retest-Reliabilität** auf (wiederholte Messungen liefern konsistente Ergebnisse).\n- Prognostischer Wert: Ein **hoher TCT-Score in der Frühphase nach Schlaganfall korreliert stark mit der späteren motorischen Erholung und Gehfähigkeit** – gute TCT-Werte in den ersten Wochen sprechen für eine signifikant bessere Prognose. Der TCT eignet sich damit nicht nur zur Verlaufsmessung, sondern auch zur frühzeitigen Prognoseeinschätzung.\n\n## Praktischer Bezug: Gleichgewichts-/Stellreaktionen im Sitz\nIm Skript wird die Rumpfkontrolle zusätzlich anhand einer Bildserie veranschaulicht, die typische **Gleichgewichts- bzw. Stellreaktionen im Sitz** zeigt – ein Prinzip, das auch der Testung im Rahmen des TCT bzw. der allgemeinen Rumpfkontrolle zugrunde liegt:\n- **Ausgangshaltung:** aufrechter, symmetrischer Sitz am Tischrand/auf der Behandlungsbank, Füße auf dem Boden, Hände auf den Knien; Körperachse (senkrecht durch die Körpermitte, waagrecht durch die Schultern) als Referenz für die Beurteilung.\n- **Reichbewegung zur Seite:** Die Therapeutin hält ein Kissen vor, die Patientin lehnt sich seitlich über die Unterstützungsfläche hinaus, um danach zu greifen – dies löst eine **Stellreaktion (Equilibriumsreaktion) des Rumpfes** bei Gewichtsverlagerung aus.\n- **Reichbewegung nach vorn-unten:** Bei stärkerer Vorneigung und tieferem Greifen zeigt sich die **Grenze der Stellreaktion**, ggf. mit Übergang zu einer Stützreaktion (Ausstrecken der Hand zur Absicherung).\n\nDiese Beobachtung von Rumpf- und Extremitätenachsen bei Gewichtsverlagerung ist ein anschauliches Beispiel dafür, wie Rumpfkontrolle – wie sie der TCT quantitativ erfasst – klinisch beobachtet und trainiert wird.",
+  "facts": [
+    "TCT = Trunk Control Test, ein klinischer Test zur Befunderhebung der Rumpfkontrolle (Kapitel 6.3, Quelle Fischer 2016).",
+    "Der TCT umfasst 4 Items: Drehen zur paretischen Seite, Drehen zur nichtparetischen Seite, Aufsetzen aus Rückenlage, freies Sitzen an der Bettkante für mind. 30 Sek. ohne Fuß-Boden-Kontakt.",
+    "Bewertung je Item: 0 Punkte (nicht selbstständig möglich), 12 Punkte (selbstständig mit Kompensation), 25 Punkte (selbstständig und physiologisch korrekt).",
+    "Maximale Gesamtpunktzahl des TCT: 100 Punkte (4 Items × 25 Punkte) = vollständige Rumpfkontrolle.",
+    "Der TCT hat eine hohe Test-Retest-Reliabilität sowie gut dokumentierte Reliabilität und Validität.",
+    "Ein hoher TCT-Score in der Frühphase nach Schlaganfall korreliert stark mit besserer späterer motorischer Erholung und Gehfähigkeit (prognostischer Wert).",
+    "Der TCT steht im Skript neben weiteren neurologischen Assessments wie Ashworth Scale, Motricity Index, Fugl-Meyer Assessment, Rivermead Motor Assessment und Glasgow Coma Scale."
+  ],
+  "figures": [
+    {"src": "assets/neurophysio/g175.png", "caption": "Trunk Control Test: Bewertungsskala (0/12/25 Punkte je Item, max. 100 Punkte)"},
+    {"src": "assets/neurophysio/g293.png", "caption": "Gleichgewichts-/Stellreaktionen im Sitz: Ausgangshaltung und Reichbewegungen über die Unterstützungsfläche hinaus"}
+  ],
+  "flashcards": [
+    {"q": "Wofür steht die Abkürzung TCT und wozu dient der Test?", "a": "Trunk Control Test – klinischer Test zur Befunderhebung der Rumpfkontrolle, z. B. nach Schlaganfall."},
+    {"q": "Nenne die 4 Items des Trunk Control Test.", "a": "Drehen zur paretischen Seite, Drehen zur nichtparetischen Seite, Aufsetzen aus Rückenlage, freies Sitzen an der Bettkante ≥30 Sek. ohne Fuß-Boden-Kontakt."},
+    {"q": "Welche 3 Punktwerte kann ein Item im TCT erhalten und was bedeuten sie?", "a": "0 Punkte = nicht selbstständig möglich; 12 Punkte = selbstständig, aber mit Kompensationstechniken; 25 Punkte = selbstständig und physiologisch korrekt."},
+    {"q": "Wie hoch ist die maximale Gesamtpunktzahl im TCT und wie setzt sie sich zusammen?", "a": "100 Punkte, aus 4 Items × maximal 25 Punkte je Item."},
+    {"q": "Welche Aussage lässt ein hoher TCT-Score in der Frühphase nach Schlaganfall zu?", "a": "Er korreliert stark mit einer besseren späteren motorischen Erholung und Gehfähigkeit – guter prognostischer Wert."},
+    {"q": "Wie ist es um Reliabilität und Validität des TCT bestellt?", "a": "Beide sind gut dokumentiert; der TCT hat insbesondere eine hohe Test-Retest-Reliabilität."},
+    {"q": "Was zeigt eine Stellreaktion (Equilibriumsreaktion) des Rumpfes im Sitz klinisch?", "a": "Bei Gewichtsverlagerung über die Unterstützungsfläche hinaus (z. B. Reichen nach einem Gegenstand) reagiert der Rumpf mit einer Ausgleichsbewegung, um das Gleichgewicht zu halten."}
+  ],
+  "quiz": [
+    {
+      "q": "Wie viele Punkte kann ein Item des Trunk Control Test maximal erreichen, wenn die Aktivität selbstständig und physiologisch korrekt ausgeführt wird?",
+      "options": ["12 Punkte", "25 Punkte", "50 Punkte", "100 Punkte"],
+      "answer": 1,
+      "explain": "25 Punkte pro Item ist die höchste Einzelbewertung (selbstständig + physiologisch korrekt). 100 Punkte ist die Summe aller 4 Items, 12 Punkte steht für selbstständig mit Kompensation."
+    },
+    {
+      "q": "Welches der folgenden ist KEIN Item des Trunk Control Test?",
+      "options": ["Drehen zur paretischen Seite", "Freies Sitzen an der Bettkante ≥30 Sek.", "Stehen auf einem Bein für 10 Sek.", "Aufsetzen aus der Rückenlage"],
+      "answer": 2,
+      "explain": "Der Einbeinstand gehört nicht zu den 4 TCT-Items. Der TCT prüft Drehen (beide Seiten), Aufsetzen und freies Sitzen an der Bettkante."
+    },
+    {
+      "q": "Was bedeutet ein Punktwert von 12 bei einem Item des TCT?",
+      "options": ["Die Aktivität ist gar nicht möglich", "Die Aktivität wird selbstständig, aber mit Kompensationstechniken ausgeführt", "Die Aktivität wird selbstständig und physiologisch korrekt ausgeführt", "Die Aktivität wird nur mit Fremdhilfe ausgeführt"],
+      "answer": 1,
+      "explain": "12 Punkte steht für selbstständige Durchführung mit Kompensationstechniken. 0 Punkte bedeutet 'nicht selbstständig möglich', 25 Punkte bedeutet 'selbstständig und physiologisch korrekt'."
+    },
+    {
+      "q": "Welche prognostische Aussage trifft das Skript zum TCT-Score in der Frühphase nach Schlaganfall?",
+      "options": ["Der TCT hat keinen Bezug zur Prognose", "Ein hoher früher TCT-Score korreliert mit besserer motorischer Erholung und Gehfähigkeit", "Ein niedriger früher TCT-Score korreliert mit besserer motorischer Erholung", "Der TCT-Score ist nur für die Sensibilität aussagekräftig"],
+      "answer": 1,
+      "explain": "Laut Skript korreliert ein hoher TCT-Score früh nach Schlaganfall stark mit besserer späterer motorischer Erholung und Gehfähigkeit – guter Prädiktor für die Prognose."
+    }
+  ]
+}
