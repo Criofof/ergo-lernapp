@@ -1,0 +1,164 @@
+{
+  "batch": "01",
+  "pages": [
+    {
+      "gidx": 1,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 1",
+      "slide_title": "Behindertenpädagogik — Was ist das?!",
+      "type": "titel",
+      "notes_md": "Titelfolie des Moduls **Behindertenpädagogik** mit dem Untertitel „Was ist das?!“. Kein fachlicher Inhalt. Grünes Corporate-Design (Lebenshilfe-Farbschema), keine Schaubilder.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Modultitel: Behindertenpädagogik — Leitfrage: „Was ist das?!”"
+      ]
+    },
+    {
+      "gidx": 2,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 2",
+      "slide_title": "(ohne Titel — Einstiegsgrafik)",
+      "type": "deko",
+      "notes_md": "Reine Dekofolie ohne Text: schwarze Piktogramme zweier Personen, darüber eine Sprechblase mit Fragezeichen. Dient als Einstieg/Icebreaker (Fragehaltung zum Thema). Kein prüfungsrelevanter Inhalt.",
+      "figures": [
+        {
+          "caption": "Zwei Personen mit Fragezeichen-Sprechblase",
+          "shows": "Piktogramm: zwei Personen, Sprechblase mit Fragezeichen — symbolisiert Einstiegsfrage „Was ist Behindertenpädagogik?“",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 3,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 3",
+      "slide_title": "Zu mir….",
+      "type": "deko",
+      "notes_md": "Vorstellung der Dozentin **Daniela Verhülsdonk** (organisatorisch, nicht prüfungsrelevant):\n- 1983 geboren\n- 2004–2007 Ausbildung zur **Heilerziehungspflegerin** in Köln\n- In dem Zuge Praktika und Nebentätigkeiten in verschiedenen Kitas, Förderschulen, Wohneinrichtungen, Werkstätten für Menschen mit Behinderung\n- 2007–2009 Bildungsreferentin und Freizeitkoordinatorin bei der **Lebenshilfe NRW**\n- 2009–2012 Fachkraft im Betreuten Wohnen Lebenshilfe Bonn\n- Seit 2012 Fachkraft im Betreuten Wohnen Lebenshilfe Rodenkirchen e.V.\n- 2016–2018 Studium BA „Sozialpädagogik und Management“ in Köln\n- Seit 2018 Leitung Fachbereich ambulant betreutes Wohnen Lebenshilfe Rodenkirchen e.V.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 4,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 4",
+      "slide_title": "Zu euch….",
+      "type": "deko",
+      "notes_md": "Organisatorische Einstiegsfolie (Kennenlernrunde), mit Icon „Kopf mit Glühbirne“. Leitpunkte:\n- Kurze Vorstellung (Name, Alter, etc.)\n- Vorerfahrungen? (Berührungspunkte mit Menschen mit Behinderung? Beruflich? Privat?) Wenn ja, welche? Hindernisse? Probleme? Barrieren?\n- Wünsche, Erwartungen an das Modul? An mich?\n- Überschneidungen mit anderen Fächern/Modulen?\n\nKein direkter Prüfungsinhalt; begrifflich tauchen bereits „Hindernisse / Probleme / Barrieren“ auf (Anknüpfung an das Barrierekonzept der UN-BRK, vgl. Folie 12).",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 5,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 5",
+      "slide_title": "Dialog….",
+      "type": "deko",
+      "notes_md": "Dialogfolie (Icon: zwei Sprechblasen) zur Vertiefung der Einstiegsrunde:\n- Austausch zu den Erfahrungen….\n- Wissen aus anderen Modulen/Fächern….\n\nKein prüfungsrelevanter Fachinhalt.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 6,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 6",
+      "slide_title": "Ausblick…",
+      "type": "gliederung",
+      "notes_md": "Themenübersicht des Moduls (Gliederung, wortwörtlich transkribiert):\n1. **Definitionen**: Behinderung, Sonder-, Heil-, Behindertenpädagogik\n2. **Geschichtliche Entwicklung** der Begriffe\n3. **Ursprünge und Entwicklung Heilpädagogik**\n4. **Haltung, Wertevorstellungen, Menschenbild**\n5. **Gesellschaftlicher Kontext** (Inklusion, aktuelle Entwicklungen: **UN-BRK, BTHG**, etc.)\n6. **Systematiken von Behinderung**\n7. **Behinderungsarten** (Definitionen, Ursachen, Aufgaben)\n8. **Konzepte und Methoden** (Basale Stimulation, Frühförderung, etc.)\n9. **Institutionen und Berufsgruppen**\n10. **Ergotherapeutische Aufgaben im Bereich der Sonderpädagogik**\n\nPrüfungsrelevant: Die Gliederung deckt sich weitgehend mit der offiziellen Eingrenzung (Definitionen, UN-BRK, Sonderpädagogik, Frühförderung, Behinderungsarten/Ursachen).",
+      "figures": [],
+      "eingrenzung_hits": [1, 3, 4, 5, 9, 10],
+      "key_facts": [
+        "Das Modul behandelt u. a. Definitionen von Behinderung, Sonder-, Heil- und Behindertenpädagogik.",
+        "Gesellschaftlicher Kontext: Inklusion, UN-BRK und BTHG (Bundesteilhabegesetz) sind Kursthemen.",
+        "Ergotherapeutische Aufgaben im Bereich der Sonderpädagogik sind explizites Modulthema."
+      ]
+    },
+    {
+      "gidx": 7,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 7",
+      "slide_title": "Definitionen: Behinderung…",
+      "type": "inhalt",
+      "notes_md": "Schriftliche Aufgabe im Kurs (Icons: denkender Kopf mit Glühbirne, Timer):\n- Dauer: ca. 10 Minuten\n- Aufgabe: Definition „Behinderung“ **in eigenen Worten** (nicht googlen!!!)\n\nDidaktischer Hintergrund: Eigene Begriffsbildung vor der Konfrontation mit den offiziellen Definitionen (SGB IX, Bildungsrat, WHO/ICF, UN-BRK auf den Folien 8–12).",
+      "figures": [],
+      "eingrenzung_hits": [1, 8],
+      "key_facts": [
+        "Der Begriff „Behinderung“ soll zunächst in eigenen Worten definiert werden — Vorbereitung auf die offiziellen Definitionsansätze."
+      ]
+    },
+    {
+      "gidx": 8,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 8",
+      "slide_title": "Definition Behinderung…",
+      "type": "inhalt",
+      "notes_md": "Grundlegende Aussagen zum Definitionsproblem (wortwörtlich):\n- „In der wissenschaftlichen Literatur gibt es diverse Begrifflichkeiten und Definitionsansätze von Behinderung“\n- „Sie werden aus unterschiedlichen fachdisziplinären Perspektiven gebildet (bspw. **medizinisch, psychologisch, soziologisch, pädagogisch, sozialrechtlich**)“\n- „Jede Behinderung zeigt allerdings mehrere Aspekte auf, beispielsweise einen medizinischen, einen soziologischen und oder einen pädagogischen.“\n- „Aufgrund dieser unterschiedlichen Sichtweisen gibt es auch **keine theoretisch endgültige, allein gültige anerkannte Definition von Behinderung**.“\n\nPrüfungsrelevant: Multiperspektivität des Behinderungsbegriffs — Behinderung ist kein einheitlich definierter Begriff; je nach Disziplin (Medizin, Psychologie, Soziologie, Pädagogik, Sozialrecht) unterschiedliche Akzente.",
+      "figures": [],
+      "eingrenzung_hits": [1, 8],
+      "key_facts": [
+        "Es gibt keine theoretisch endgültige, allein gültige anerkannte Definition von Behinderung.",
+        "Definitionen von Behinderung entstehen aus fachdisziplinären Perspektiven: medizinisch, psychologisch, soziologisch, pädagogisch, sozialrechtlich.",
+        "Jede Behinderung weist mehrere Aspekte gleichzeitig auf (u. a. medizinischen, soziologischen, pädagogischen)."
+      ]
+    },
+    {
+      "gidx": 9,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 9",
+      "slide_title": "Definitionen: Behinderung… (SGB IX)",
+      "type": "inhalt",
+      "notes_md": "Legaldefinition **SGB IX, § 2, Abs. 1** (wortwörtlich transkribiert):\n\n„Menschen sind behindert, wenn ihre körperliche Funktion, geistige Fähigkeit oder seelische Gesundheit mit hoher Wahrscheinlichkeit länger als sechs Monate von dem für das Lebensalter typischen Zustand abweicht und daher ihre Teilhabe am Leben in der Gesellschaft beeinträchtigt ist.“\n\nPrüfungsrelevante Merkmale der Definition:\n- drei Ebenen: **körperliche Funktion / geistige Fähigkeit / seelische Gesundheit**\n- Zeitkriterium: mit hoher Wahrscheinlichkeit **länger als sechs Monate**\n- Bezugsgröße: Abweichung vom **für das Lebensalter typischen Zustand**\n- Folge: **Teilhabe am Leben in der Gesellschaft ist beeinträchtigt** (Teilhabebegriff zentral!)",
+      "figures": [],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "SGB IX § 2 Abs. 1: Behinderung = Abweichung der körperlichen Funktion, geistigen Fähigkeit oder seelischen Gesundheit vom lebensaltertypischen Zustand.",
+        "Zeitkriterium im SGB IX: Abweichung mit hoher Wahrscheinlichkeit länger als sechs Monate.",
+        "Kern der SGB-IX-Definition: Beeinträchtigung der Teilhabe am Leben in der Gesellschaft."
+      ]
+    },
+    {
+      "gidx": 10,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 10",
+      "slide_title": "Behinderung…. (Bildungskommission des deutschen Bildungsrates)",
+      "type": "inhalt",
+      "notes_md": "Definition der **Bildungskommission des deutschen Bildungsrates** (wortwörtlich transkribiert):\n\n„Menschen, die in ihrem **Lernen**, im **sozialen Verhalten**, in der **sprachlichen Kommunikation** oder in den **psychomotorischen Fähigkeiten** soweit beeinträchtigt sind, dass ihre **Teilnahme am Leben in der Gesellschaft wesentlich erschwert** ist. Deshalb bedürfen sie **besonderer pädagogischer Förderung**. Behinderungen können ihren Ausgang nehmen von Beeinträchtigungen des **Sehens**, des **Hörens**, der **Sprache**, der **Stütz- und Bewegungsfunktionen**, der **Intelligenz**, der **Emotionalität**, des **äußeren Erscheinungsbildes** sowie von bestimmten **chronischen Krankheiten**.“\n\nPrüfungsrelevant:\n- Pädagogisch geprägte Definition (vier Beeinträchtigungsbereiche: Lernen, soziales Verhalten, sprachliche Kommunikation, psychomotorische Fähigkeiten)\n- Konsequenz: Anspruch auf **besondere pädagogische Förderung**\n- Aufzählung möglicher Ausgangspunkte von Behinderungen (Sinne, Motorik, Intelligenz, Emotionalität, Erscheinungsbild, chronische Krankheiten) — relevant für Behinderungsarten/Ursachen.",
+      "figures": [],
+      "eingrenzung_hits": [1, 5, 12],
+      "key_facts": [
+        "Bildungskommission des deutschen Bildungsrates: Behinderung betrifft Lernen, soziales Verhalten, sprachliche Kommunikation und psychomotorische Fähigkeiten.",
+        "Folge dieser Definition: Betroffene bedürfen besonderer pädagogischer Förderung.",
+        "Ausgangspunkte von Behinderung laut Bildungskommission: Sehen, Hören, Sprache, Stütz- und Bewegungsfunktionen, Intelligenz, Emotionalität, äußeres Erscheinungsbild, chronische Krankheiten."
+      ]
+    },
+    {
+      "gidx": 11,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 11",
+      "slide_title": "Behinderung…. (WHO / ICF)",
+      "type": "inhalt",
+      "notes_md": "**WHO (World Health Organisation)** — wörtliches Zitat:\n„Behinderung ist ein **formaler Oberbegriff** zu Beeinträchtigungen der Funktionsfähigkeit unter **expliziter Bezugnahme auf Kontextfaktoren**“\n\n**ICF (International Classification of Functioning, Disability and Health)** — 4 ausschlaggebende Faktoren (wortwörtlich):\n1. **Schädigung**: Beeinträchtigung einer physiologischen oder psychischen Körperfunktion oder -struktur im Sinne einer wesentlichen Abweichung oder eines Verlustes.\n2. **Aktivität**: individuelle Möglichkeiten der Aktivität eines Menschen, persönliche Verwirklichungen durch zweckgerichtete Handlungen zu erreichen.\n3. **Teilhabe**: Maß der Teilhabe an öffentlichen, gesellschaftlichen, kulturellen Aufgaben, Angelegenheiten und Errungenschaften.\n4. **Kontextfaktoren**: physikalische, soziale und einstellungsbezogene Umwelt, in der ein Mensch das eigene Leben gestaltet.\n\nPrüfungsrelevant (Eingrenzung Punkt 8: WHO-Zitat, Oberbegriff Beeinträchtigung, kein Lückentext; ausschlaggebende Faktoren in eigene Worte fassen):\n- Merksatz in eigenen Worten: Schädigung = Körperebene (Funktion/Struktur beeinträchtigt), Aktivität = Handlungsebene des Einzelnen (was die Person tun kann), Teilhabe = Gesellschaftsebene (Einbezug in Lebensbereiche), Kontextfaktoren = Umweltbedingungen (physisch, sozial, einstellungsbezogen), die Behinderung erst wirksam machen.",
+      "figures": [],
+      "eingrenzung_hits": [8, 1],
+      "key_facts": [
+        "WHO-Definition: Behinderung ist ein formaler Oberbegriff zu Beeinträchtigungen der Funktionsfähigkeit unter expliziter Bezugnahme auf Kontextfaktoren.",
+        "ICF = International Classification of Functioning, Disability and Health.",
+        "ICF-Faktor Schädigung: Beeinträchtigung einer physiologischen oder psychischen Körperfunktion oder -struktur (wesentliche Abweichung oder Verlust).",
+        "ICF-Faktor Aktivität: individuelle Möglichkeiten, persönliche Verwirklichungen durch zweckgerichtete Handlungen zu erreichen.",
+        "ICF-Faktor Teilhabe: Maß der Teilhabe an öffentlichen, gesellschaftlichen, kulturellen Aufgaben, Angelegenheiten und Errungenschaften.",
+        "ICF-Faktor Kontextfaktoren: physikalische, soziale und einstellungsbezogene Umwelt, in der ein Mensch das eigene Leben gestaltet."
+      ]
+    },
+    {
+      "gidx": 12,
+      "source": "Behindertenpädagogik-Folien (D. Verhülsdonk), Folie 12",
+      "slide_title": "Behinderung…. (UN-BRK Artikel 1)",
+      "type": "inhalt",
+      "notes_md": "**Artikel 1 und Präambel der UN-BRK (Behindertenrechtskonvention)** — wörtliches Zitat:\n\n„Zu den Menschen mit Behinderungen zählen Menschen, die **langfristige körperliche, seelische, geistige oder Sinnesbeeinträchtigungen** haben, welche sie **in Wechselwirkung mit verschiedenen (gemeint sind: einstellungs- und umweltbedingte) Barrieren** an der **vollen, wirksamen und gleichberechtigten Teilhabe an der Gesellschaft** hindern können.“\n\nGrundsatz (wörtlich): **„Wir sind nicht behindert, wir werden behindert“**\n\nPrüfungsrelevant (Eingrenzung Punkt 1 — Definition Behinderung UN-BRK Art. 1 — und Punkt 10 — UN-BRK, was ist das?):\n- UN-BRK = **Behindertenrechtskonvention der Vereinten Nationen** (völkerrechtlicher Vertrag; auf der Folie als „Behinderten Rechts Konvention“ ausgeschrieben).\n- Kerngedanke: Behinderung entsteht **nicht allein durch die Beeinträchtigung**, sondern erst in der **Wechselwirkung mit Barrieren** (einstellungs- und umweltbedingt) → soziales Modell der Behinderung.\n- Ziel: volle, wirksame und gleichberechtigte Teilhabe an der Gesellschaft.\n- Beeinträchtigungsarten im Wortlaut: körperlich, seelisch, geistig, Sinnesbeeinträchtigungen — Kriterium: **langfristig**.",
+      "figures": [],
+      "eingrenzung_hits": [1, 10],
+      "key_facts": [
+        "UN-BRK Art. 1: Menschen mit Behinderungen haben langfristige körperliche, seelische, geistige oder Sinnesbeeinträchtigungen.",
+        "Behinderung entsteht laut UN-BRK in Wechselwirkung mit einstellungs- und umweltbedingten Barrieren.",
+        "Ziel der UN-BRK: volle, wirksame und gleichberechtigte Teilhabe an der Gesellschaft.",
+        "Grundsatz: „Wir sind nicht behindert, wir werden behindert“ — Behinderung wird gesellschaftlich gemacht (soziales Modell)."
+      ]
+    }
+  ]
+}

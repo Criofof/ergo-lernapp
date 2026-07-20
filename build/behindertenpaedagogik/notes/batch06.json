@@ -1,0 +1,204 @@
+{
+  "batch": "06",
+  "pages": [
+    {
+      "gidx": 61,
+      "source": "Behindertenpädagogik-Folien, Fachschule (Thesing u. Vogt/Borchert-Kontext)",
+      "slide_title": "Systematik der Behinderungen – Klassifikation nach Folgen",
+      "type": "inhalt",
+      "notes_md": "## Klassifikation nach Folgen: Mehrfachbehinderung\n\nEine besondere Form der Behinderung ist die **Mehrfachbehinderung**. Hier werden unterschiedliche **Kombinationen** beschrieben, die teilweise **sekundäre Folgen der primären Einschränkungen** darstellen.\n\nBeispiele (wortwörtlich):\n- „Eine angeborene Körperbehinderung kann zu sekundären Einschränkungen der kognitiven Entwicklung führen\"\n- „Kinder mit kognitiver Behinderung haben oft gleichzeitig auch körperliche Beeinträchtigungen\"\n- „Eine Hörbehinderung führt häufig auch zu einer Sprachbehinderung\"\n\nPrüfungsrelevanz: Verständnis des Zusammenhangs **primäre Einschränkung → sekundäre Folgestörung** (z. B. Hörschädigung → Sprachentwicklungsstörung). Mehrfachbehinderung = gleichzeitiges Vorliegen mehrerer Behinderungsarten bzw. einer primären Behinderung mit sekundären Folgebeeinträchtigungen.",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Mehrfachbehinderung = besondere Form der Behinderung mit unterschiedlichen Kombinationen; teilweise sekundäre Folgen primärer Einschränkungen",
+        "Angeborene Körperbehinderung kann sekundäre Einschränkungen der kognitiven Entwicklung verursachen",
+        "Kinder mit kognitiver Behinderung haben oft gleichzeitig körperliche Beeinträchtigungen",
+        "Hörbehinderung führt häufig auch zu Sprachbehinderung"
+      ]
+    },
+    {
+      "gidx": 62,
+      "source": "Behindertenpädagogik-Folien (nach Bach 1976 in Borchert 2007, S. 11)",
+      "slide_title": "Systematik der Behinderungen – Klassifikation nach Schweregrad",
+      "type": "inhalt",
+      "notes_md": "## Klassifikation nach Schweregrad — Grad der unterscheidbaren Beeinträchtigungen\n\n**Bach (1976)** hat eine Klassifikation von Behinderung entwickelt, die **nicht an Fachrichtungen gebunden** ist — eine Alternative, die eine eher **grobe Möglichkeit der Unterscheidung** bietet (nach Bach 1976 in Borchert 2007, S. 11):\n\nDrei Abstufungen (wortwörtlich):\n- **Behinderungen**: umfänglich, schwer, langfristig\n- **Störungen**: partiell, kurzfristig, weniger schwer\n- **Gefährdungen**: begrenzte individuelle Disposition (Veranlagung)\n\nPrüfungsrelevanz: Die Trias Behinderung – Störung – Gefährdung nach Bach einordnen können (schwerste Form = Behinderung; Gefährdung = nur Disposition/Risiko, noch keine manifeste Beeinträchtigung).",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Bach (1976): Klassifikation von Behinderung unabhängig von Fachrichtungen, grobe Unterscheidung (zit. in Borchert 2007, S. 11)",
+        "Behinderungen nach Bach: umfänglich, schwer, langfristig",
+        "Störungen nach Bach: partiell, kurzfristig, weniger schwer",
+        "Gefährdungen nach Bach: begrenzte individuelle Disposition (Veranlagung)"
+      ]
+    },
+    {
+      "gidx": 63,
+      "source": "Behindertenpädagogik-Folien (Schwerbehindertenrecht/Versorgungsamt)",
+      "slide_title": "Systematik der Behinderungen – Grad der Behinderung / Minderung der Erwerbsfähigkeit",
+      "type": "inhalt",
+      "notes_md": "## Grad der Behinderung (GdB) und Grad der Minderung der Erwerbsfähigkeit (GdE)\n\nDer **Grad der Behinderung kennzeichnet die Funktionsbeeinträchtigung** eines Menschen. Um das Ausmaß der Beeinträchtigung bestimmen zu können, wird der Behinderungsgrad in **gestuften Prozentzahlen** festgelegt und in den Maßeinheiten **„Grad der Behinderung“ (GdB)** und **„Grad der Minderung der Erwerbsfähigkeit“ (GdE)** ausgedrückt. Rechtlich zuständig: **Versorgungsamt oder Sozialamt (Schwerbehindertengesetz)**.\n\n**Definition (wortwörtlich):** Der GdB bezieht sich auf **alle Gesundheitsstörungen unabhängig von ihrer Ursache**. Der GdE ist ein Begriff aus dem **Unfallversicherungsrecht**; er wird benötigt, um die **Höhe einer Ausgleichsleistung** zu regeln. Beide Maßeinheiten werden nach **gleichen Grundsätzen** bemessen: Kennzeichnung von **20 bis 100 in Zehnerschritten** (früher in Prozent).\n\nSchwellenwerte:\n- Status **„anerkannte Behinderung“**: GdB von **mindestens 20**\n- Status **„Schwerbehinderung“**: ab GdB **50**\n\nDer sogenannte **Behindertenstatus wirkt sich auf sozial- und arbeitsrechtliche Rechte und Hilfen aus**.\n\nPrüfungsrelevanz: Zahlen 20/50, Zehnerschritte 20–100, Zuständigkeit Versorgungsamt/Sozialamt, Unterschied GdB (alle Gesundheitsstörungen) vs. GdE (Unfallversicherungsrecht, Ausgleichsleistung).",
+      "figures": [],
+      "eingrenzung_hits": [5, 7],
+      "key_facts": [
+        "GdB kennzeichnet die Funktionsbeeinträchtigung eines Menschen",
+        "Festsetzung durch Versorgungsamt oder Sozialamt (Schwerbehindertengesetz)",
+        "GdB bezieht sich auf alle Gesundheitsstörungen unabhängig von ihrer Ursache",
+        "GdE stammt aus dem Unfallversicherungsrecht und regelt die Höhe einer Ausgleichsleistung",
+        "Bemessung: 20 bis 100 in Zehnerschritten (früher in Prozent)",
+        "Anerkannte Behinderung ab GdB 20; Schwerbehinderung ab GdB 50",
+        "Behindertenstatus wirkt sich auf sozial- und arbeitsrechtliche Rechte und Hilfen aus"
+      ]
+    },
+    {
+      "gidx": 64,
+      "source": "Behindertenpädagogik-Folien (Quelle: www.zbfs.bayern.de/schwbg/wegweise/wegbehinderung.html)",
+      "slide_title": "Systematik der Behinderungen – Ausprägung der Schwerbehinderung (Merkzeichen)",
+      "type": "inhalt",
+      "notes_md": "## Ausprägung der Schwerbehinderung — Merkzeichen im Schwerbehindertenausweis\n\nDie Einstufung erfolgt nach den Regeln der **Versorgungsmedizin-Verordnung** und hat Auswirkungen auf **sozialrechtlich geregelte Hilfen und Zuwendungen**. Dokumentiert wird die Ausprägung durch folgende **Kennzeichnungen (Merkzeichen) im Schwerbehindertenausweis** (wortwörtlich):\n\n- **G**: Bewegungsfähigkeit (Gehfähigkeit) im Straßenverkehr erheblich eingeschränkt\n- **aG**: außergewöhnlich gebehindert\n- **H**: hilflos\n- **Bl**: blind\n- **Gl**: gehörlos\n- **B**: Berechtigung zur Mitnahme einer Begleitperson\n\nQuelle auf der Folie: http://www.zbfs.bayern.de/schwbg/wegweise/wegbehinderung.html\n\nPrüfungsrelevanz (Eingrenzung Punkt 7, höchste Priorität!): Alle sechs Merkzeichen mit Bedeutung auswendig können. G = erheblich eingeschränkte Gehfähigkeit im Straßenverkehr; aG = außergewöhnlich gehbehindert; H = hilflos; Bl = blind; Gl = gehörlos; B = Begleitpersonenberechtigung. Rechtsgrundlage der Einstufung: Versorgungsmedizin-Verordnung.",
+      "figures": [],
+      "eingrenzung_hits": [7, 11],
+      "key_facts": [
+        "Einstufung der Schwerbehinderung erfolgt nach Regeln der Versorgungsmedizin-Verordnung",
+        "Merkzeichen G: Bewegungsfähigkeit (Gehfähigkeit) im Straßenverkehr erheblich eingeschränkt",
+        "Merkzeichen aG: außergewöhnlich gebehindert",
+        "Merkzeichen H: hilflos",
+        "Merkzeichen Bl: blind",
+        "Merkzeichen Gl: gehörlos",
+        "Merkzeichen B: Berechtigung zur Mitnahme einer Begleitperson",
+        "Merkzeichen werden im Schwerbehindertenausweis dokumentiert und steuern sozialrechtliche Hilfen/Zuwendungen"
+      ]
+    },
+    {
+      "gidx": 65,
+      "source": "Behindertenpädagogik-Folien (Arbeitsauftrag)",
+      "slide_title": "Aufgabe „Behinderungsarten“",
+      "type": "inhalt",
+      "notes_md": "## Arbeitsauftrag: Recherche der Behinderungsarten\n\nAufgabe (wortwörtlich): „Bitte recherchiert die Definitionen der Behinderungsarten und die jeweiligen möglichen Ursachen:“\n\nAufgelistete Behinderungsarten (Gliederung des Kursabschnitts, wortwörtlich):\n1. Körperliche Behinderung\n2. Geistige Behinderung\n3. Lernbehinderung\n4. Sehbehinderung/Blindheit\n5. Hörbehinderung/Gehörlosigkeit\n6. Sprachbehinderung\n7. Psychische/seelische Behinderung\n8. Entwicklungsstörung\n9. Verhaltensbehinderung\n10. Mehrfachbehinderung/Schwerstbehinderung\n\nDiese Liste bildet das **Systematik-Gerüst** für die folgenden Kursabschnitte (Definition + Ursachen je Behinderungsart). Oben rechts zwei Icons: Kopf mit Glühbirne (Denken/Idee) und Kreisdiagramm — dekorativ.",
+      "figures": [
+        {
+          "caption": "Icons Kopf mit Glühbirne und Kreisdiagramm",
+          "shows": "Zwei dekorative Strich-Icons oben rechts: menschlicher Kopf mit Glühbirne und Tortendiagramm",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [5, 12],
+      "key_facts": [
+        "Behinderungsarten-Übersicht: körperlich, geistig, Lernbehinderung, Sehbehinderung/Blindheit, Hörbehinderung/Gehörlosigkeit, Sprachbehinderung, psychisch/seelisch, Entwicklungsstörung, Verhaltensbehinderung, Mehrfach-/Schwerstbehinderung",
+        "Zu jeder Behinderungsart sind Definition und mögliche Ursachen prüfungsrelevant"
+      ]
+    },
+    {
+      "gidx": 66,
+      "source": "Behindertenpädagogik-Folien",
+      "slide_title": "Körperbehinderungen – Klientel (Definition)",
+      "type": "inhalt",
+      "notes_md": "## Definition Körperbehinderung\n\nWortwörtlich von der Folie:\n„Als körperbehindert gelten Menschen, deren **Bewegungsfähigkeit** aufgrund einer Schädigung des **zentralen und peripheren Nervensystems**, der **Muskeln** oder des **Skelettsystems** dauerhaft beeinträchtigt sind **oder** deren **motorisches Leistungsvermögen** infolge **chronischer Erkrankungen von inneren Organen und Organsystemen** eingeschränkt ist.\n\nNeben der Auswirkung auf die Funktionsfähigkeit der Bewegungsorgane kann die Schädigung als **Mitschädigung** oder als **psychosoziale Folge** die **Wahrnehmung, das Denken, das soziale Verhalten, das emotionale Empfinden oder die Kommunikationsfähigkeit** beeinträchtigen.“\n\nPrüfungsrelevanz: Zwei Definitionsebenen unterscheiden: (1) primär motorisch (ZNS/peripheres Nervensystem, Muskeln, Skelett) und (2) motorisches Leistungsvermögen durch chronische innere Erkrankungen. Sekundäre Mitschädigungen betreffen Wahrnehmung, Denken, soziales Verhalten, Emotion, Kommunikation.",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Körperbehinderung: dauerhaft beeinträchtigte Bewegungsfähigkeit durch Schädigung von zentralem/peripherem Nervensystem, Muskeln oder Skelettsystem",
+        "Auch eingeschränktes motorisches Leistungsvermögen durch chronische Erkrankungen innerer Organe/Organsysteme zählt zur Körperbehinderung",
+        "Mitschädigung/psychosoziale Folgen: Beeinträchtigung von Wahrnehmung, Denken, sozialem Verhalten, emotionalem Empfinden, Kommunikationsfähigkeit"
+      ]
+    },
+    {
+      "gidx": 67,
+      "source": "Behindertenpädagogik-Folien (in Anlehnung an Thesing u. Vogt 1997, S. 164 ff.)",
+      "slide_title": "Körperbehinderungen – Klassifikation nach Thesing und Vogt",
+      "type": "inhalt",
+      "notes_md": "## Klassifikation der Körperbehinderungen nach Thesing und Vogt\n\nIn Anlehnung an **Thesing u. Vogt 1997, S. 164 ff.** können Körperbehinderungen wie folgt eingeteilt werden (wortwörtlich):\n\n1. **Zerebrale Bewegungsstörungen**: infantile Zerebralparesen, Zerebralparesen nach Verletzungen, Tumorerkrankungen, Entzündungen, Schlaganfall\n2. **Periphere Bewegungsstörungen**: Spina bifida, unfallbedingte Querschnittslähmungen, Poliomyelitis, Multiple Sklerose\n3. **Muskelerkrankungen**: Muskeldystrophien, Schäden am Bandapparat\n4. **Schädigungen und Fehlbildungen des Skelettsystems**: Wachstumsstörungen, Dysmelien, Wirbelsäulendeformitäten\n5. **Anfallsleiden**: mit Veränderungen der Organstrukturen und Psyche\n6. **Chronische Erkrankungen und Störungen im Bereich der inneren Organe**: Diabetes, Rheuma, Herzerkrankungen, Hämophilie, u. a.\n\nPrüfungsrelevanz: Sechs Kategorien mit Beispieldiagnosen zuordnen können (z. B. Spina bifida = periphere Bewegungsstörung; Muskeldystrophie = Muskel-erkrankung; Dysmelie = Skelettfehlbildung; Hämophilie = chronische Erkrankung innere Organe).",
+      "figures": [],
+      "eingrenzung_hits": [5, 12],
+      "key_facts": [
+        "Klassifikation der Körperbehinderung nach Thesing u. Vogt 1997 (S. 164 ff.): 6 Kategorien",
+        "Zerebrale Bewegungsstörungen: infantile Zerebralparese, Zerebralparesen nach Verletzungen, Tumoren, Entzündungen, Schlaganfall",
+        "Periphere Bewegungsstörungen: Spina bifida, unfallbedingte Querschnittslähmung, Poliomyelitis, Multiple Sklerose",
+        "Muskelerkrankungen: Muskeldystrophien, Schäden am Bandapparat",
+        "Schädigungen/Fehlbildungen des Skelettsystems: Wachstumsstörungen, Dysmelien, Wirbelsäulendeformitäten",
+        "Anfallsleiden: mit Veränderungen der Organstrukturen und Psyche",
+        "Chronische Erkrankungen innerer Organe: Diabetes, Rheuma, Herzerkrankungen, Hämophilie u. a."
+      ]
+    },
+    {
+      "gidx": 68,
+      "source": "Behindertenpädagogik-Folien (ICD-10)",
+      "slide_title": "Körperbehinderungen – Klassifikation nach ICD-10",
+      "type": "inhalt",
+      "notes_md": "## Klassifikation nach ICD-10 und personenzentrierter Ansatz\n\n**ICD-10 (wortwörtlich):** „Je nach Schädigung und deren Auswirkungen werden körperliche Beeinträchtigungen im Kodierungsschlüssel der jeweiligen Symptombereiche berücksichtigt.“\n\nKörperbehinderungen **resultieren aus körperlichen, psychischen und sozialen Wechselbeziehungen** und wirken sich je nach **Bewegungsanforderungen, bestehenden Funktionen und Kompensationsmöglichkeiten** in den verschiedenen sozialen Situationen eines jeden Betroffenen anders aus.\n\nEinflussfaktoren auf Erleben und Handeln in der Umwelt:\n- individuell belastete **psychosoziale Situation**\n- Besonderheiten in der Entwicklung der **Perzeption (Wahrnehmung)**\n- **Erfahrungsmangel durch Einschränkungen in der Fortbewegung**\n\nKonsequenz: Die speziellen pädagogischen und therapeutischen Förderungen müssen sich an den **individuellen Schädigungen, Bedürfnissen und sozialmedizinischen Erfordernissen** orientieren.\n\n**Personenzentrierter Ansatz (heute gültiger Grundsatz, wortwörtlich):** „Heute gilt der Grundsatz des personenzentrierten Ansatzes, in dem **Bedürfnisse und Prioritäten des körperbehinderten Menschen** als wichtige Faktoren für die Förderung berücksichtigt werden.“\n\nPrüfungsrelevanz: ICD-10 als Kodierungsschlüssel nach Symptombereichen; personenzentrierter Ansatz als heutiges Leitprinzip (passt zu Eingrenzung Punkt 2, pädagogische Leitprinzipien).",
+      "figures": [],
+      "eingrenzung_hits": [2, 5],
+      "key_facts": [
+        "ICD-10: körperliche Beeinträchtigungen werden je nach Schädigung und Auswirkungen im Kodierungsschlüssel der jeweiligen Symptombereiche berücksichtigt",
+        "Körperbehinderung resultiert aus körperlichen, psychischen und sozialen Wechselbeziehungen",
+        "Einflussfaktoren: psychosoziale Situation, Perzeptionsentwicklung, Erfahrungsmangel durch eingeschränkte Fortbewegung",
+        "Förderung orientiert sich an individuellen Schädigungen, Bedürfnissen und sozialmedizinischen Erfordernissen",
+        "Personenzentrierter Ansatz: Bedürfnisse und Prioritäten des körperbehinderten Menschen sind wichtige Faktoren für die Förderung"
+      ]
+    },
+    {
+      "gidx": 69,
+      "source": "Behindertenpädagogik-Folien (angelehnt an Kuhnert 1972 in Thesing u. Vogt 1997, S. 170 ff.)",
+      "slide_title": "Körperbehinderungen – Erziehungsauftrag und Ziele (pädagogische Prinzipien)",
+      "type": "inhalt",
+      "notes_md": "## Pädagogische Prinzipien in der Förderung von Menschen mit Behinderung\n\nBestimmte Prinzipien der allgemeinen Pädagogik werden **individualisiert und differenziert** bei der Förderung von Menschen mit Behinderung **aller Altersklassen** angewendet (angelehnt an **Kuhnert 1972 in Thesing u. Vogt 1997, S. 170 ff.**).\n\nDie fünf Prinzipien (wortwörtlich):\n\n1. **Prinzip der Anschaulichkeit**: lebens- und wirklichkeitsnahe Anschauungsmaterialien zur Entwicklung der Vorstellungsfähigkeit und Aktivierung aller Sinne.\n2. **Prinzip der Selbstständigkeit**: Anerkennung und Verstärkung als Hilfe für den Autonomieerwerb, realisierbare Problemlösesituationen schaffen, Impulse für Bewältigung anbieten, um Überforderung zu vermeiden.\n3. **Prinzip der abnehmenden Hilfe**: motorische, emotionale und kognitive Hilfen werden dann eingesetzt, wenn der Mensch aufgrund seiner Einschränkungen eine weitere Verselbstständigung nicht erreichen kann. Der Mensch soll erfahren, einen legitimen Anspruch auf Hilfeleistungen zu haben, ohne dass er Beeinträchtigungen für sein Selbstwertgefühl erleben muss.\n4. **Prinzip der Individualisierung**: Anpassung aller pädagogischen Hilfen an die individuellen Möglichkeiten und Fähigkeiten des behinderten Menschen.\n5. **Prinzip der Verstärkung**: vielfältige Formen der Verstärkung nutzen, um Motivation für neue Aktivitäten zu erschließen.\n\nPrüfungsrelevanz (Eingrenzung Punkt 2 — pädagogische Leitprinzipien, höchste Priorität!): Alle fünf Prinzipien mit Kernbotschaft auswendig: Anschaulichkeit (Sinne/Vorstellung), Selbstständigkeit (Autonomie, keine Überforderung), abnehmende Hilfe (Hilfe nur, wenn Verselbstständigung nicht möglich; legitimer Hilfeanspruch ohne Selbstwertschaden), Individualisierung (Anpassung an Fähigkeiten), Verstärkung (Motivation).",
+      "figures": [],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Pädagogische Prinzipien nach Kuhnert 1972 (in Thesing u. Vogt 1997, S. 170 ff.), individualisiert für alle Altersklassen",
+        "Prinzip der Anschaulichkeit: lebens-/wirklichkeitsnahe Materialien, Vorstellungsfähigkeit, Aktivierung aller Sinne",
+        "Prinzip der Selbstständigkeit: Autonomieerwerb, realisierbare Problemlösesituationen, Überforderung vermeiden",
+        "Prinzip der abnehmenden Hilfe: Hilfen nur, wenn weitere Verselbstständigung nicht erreichbar; legitimer Anspruch auf Hilfe ohne Selbstwertbeeinträchtigung",
+        "Prinzip der Individualisierung: Anpassung aller pädagogischen Hilfen an individuelle Möglichkeiten und Fähigkeiten",
+        "Prinzip der Verstärkung: vielfältige Verstärkungsformen zur Motivation für neue Aktivitäten"
+      ]
+    },
+    {
+      "gidx": 70,
+      "source": "Behindertenpädagogik-Folien (Myschker 1999, S. 45 ff.)",
+      "slide_title": "Sozial-emotionale Beeinträchtigungen (Verhaltensstörung) – Klientel",
+      "type": "inhalt",
+      "notes_md": "## Definitionsversuch Verhaltensstörung (Myschker 1999, S. 45 ff.)\n\nWortwörtlich:\n„Menschen, deren **sozial-emotionale Verhaltensmöglichkeiten eingeschränkt** sind, weichen in ihrem Verhalten **deutlich von den kulturspezifischen Verhaltensnormen** ab. Diese Beeinträchtigungen werden auch als **Verhaltensstörung** oder **Störung in der Verhaltensentwicklung** oder als **Verhaltensschwierigkeiten** gekennzeichnet. Das gezeigte Fehlverhalten ist **organogen und/oder milieureaktiv** bedingt. Wegen der **Mehrdimensionalität, der Häufigkeit und des Schweregrades** sind die **Entwicklungs-, Lern- und Arbeitsfähigkeit** sowie das **Interaktionsgeschehen in der Umwelt** beeinträchtigt. Ohne eine besondere **pädagogisch-therapeutische Hilfe** kann dieses abweichende Verhalten **nicht oder nur unzureichend überwunden** werden (Myschker 1999, S. 45 ff.).“\n\nPrüfungsrelevanz: Kernkriterien — Abweichung von kulturspezifischen Normen; Ursachen organogen und/oder milieureaktiv; Beeinträchtigung von Entwicklungs-, Lern-, Arbeitsfähigkeit und Interaktion; ohne spezielle Hilfe nicht (vollständig) überwindbar.",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Verhaltensstörung (Myschker 1999): eingeschränkte sozial-emotionale Verhaltensmöglichkeiten, deutliche Abweichung von kulturspezifischen Verhaltensnormen",
+        "Synonyme: Verhaltensstörung, Störung in der Verhaltensentwicklung, Verhaltensschwierigkeiten",
+        "Fehlverhalten ist organogen und/oder milieureaktiv bedingt",
+        "Beeinträchtigt: Entwicklungs-, Lern- und Arbeitsfähigkeit sowie Interaktionsgeschehen in der Umwelt",
+        "Ohne besondere pädagogisch-therapeutische Hilfe nicht oder nur unzureichend überwindbar"
+      ]
+    },
+    {
+      "gidx": 71,
+      "source": "Behindertenpädagogik-Folien (Myschker, Definition)",
+      "slide_title": "Sozial-emotionale Beeinträchtigungen (Verhaltensstörung) – Typische Merkmale",
+      "type": "inhalt",
+      "notes_md": "## Typische Merkmale der Verhaltensstörung\n\nWortwörtlich:\n„Die Frage, welches Verhalten als eine von der Regel abweichende Störung zu bezeichnen ist, kann nur unter Berücksichtigung **kulturell geklärter Verhaltensnormen** beantwortet und damit diagnostiziert werden. Myschker (Definition) weist darauf hin, dass Verhaltensstörungen nur **innerhalb von gewissen Normenvorgaben** und im **direkten Vergleich mit den gewohnten Umständen** zu bestimmen sind, denn sie sind durch eine **Abweichung** von diesen gekennzeichnet und sie **kehren immer wieder**.“\n\nPrüfungsrelevanz: Drei diagnostische Anker — (1) Bezug zu kulturell geklärten Normen, (2) Vergleich mit gewohnten Umständen/Normvorgaben, (3) Wiederholungscharakter (kehrt immer wieder). Diagnose ist nur normrelativ möglich.",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Diagnose einer Verhaltensstörung nur unter Berücksichtigung kulturell geklärter Verhaltensnormen möglich",
+        "Myschker: Verhaltensstörungen nur innerhalb von Normenvorgaben und im direkten Vergleich mit gewohnten Umständen bestimmbar",
+        "Kennzeichen: Abweichung von Normen und Wiederholungscharakter (kehren immer wieder)"
+      ]
+    },
+    {
+      "gidx": 72,
+      "source": "Behindertenpädagogik-Folien",
+      "slide_title": "Sozial-emotionale Beeinträchtigungen (Verhaltensstörung) – Typische Verhaltensweisen",
+      "type": "inhalt",
+      "notes_md": "## Typische Verhaltensweisen bei Verhaltensstörung\n\nZu den typischen Verhaltensweisen zählen (wortwörtlich):\n- **Unbefriedigende Leistungen**\n- **Unkonzentriertheit**\n- **Körperliche Unruhe**\n- **Aggressivität**\n- **Schlechte Arbeitshaltung**\n- **Sturheit**, bzw. nur wenig oder gar nicht zugänglich gegenüber erzieherischen Maßnahmen und **Impulsivität**\n\nWeitere Aussagen (wortwörtlich):\n„Die Symptome der Verhaltensstörung sind dennoch **reparabel und reversibel**. Je nach Ausmaß treten sie teilweise nur vorübergehend und mit sehr individuellen Ausprägungen auf. Verhaltensstörungen, die **mehrdimensional in sozialen, emotionalen und psychosomatischen Bereichen** auftreten, beeinträchtigen das ganze Leben eines Menschen. Eine **adäquate Persönlichkeitsentwicklung ist gefährdet**, da **Lern-, Sozial- und Leistungsvermögen** beeinträchtigt werden können und **metakognitive Prozesse**, also **Planung, Kontrolle und Regulation eigener Abläufe** eingeschränkt sind.“\n\nPrüfungsrelevanz: Liste der Verhaltensweisen auswendig; wichtig: Symptome sind reparabel/reversibel (therapeutisch beeinflussbar), mehrdimensionales Auftreten (sozial, emotional, psychosomatisch), Gefährdung der Persönlichkeitsentwicklung durch eingeschränkte Metakognition (Planung, Kontrolle, Regulation).",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Typische Verhaltensweisen: unbefriedigende Leistungen, Unkonzentriertheit, körperliche Unruhe, Aggressivität, schlechte Arbeitshaltung, Sturheit/Impulsivität",
+        "Sturheit = nur wenig oder gar nicht zugänglich gegenüber erzieherischen Maßnahmen",
+        "Symptome der Verhaltensstörung sind reparabel und reversibel",
+        "Mehrdimensionales Auftreten: soziale, emotionale und psychosomatische Bereiche",
+        "Adäquate Persönlichkeitsentwicklung gefährdet: Lern-, Sozial- und Leistungsvermögen beeinträchtigt",
+        "Metakognitive Prozesse (Planung, Kontrolle, Regulation eigener Abläufe) eingeschränkt"
+      ]
+    }
+  ]
+}
