@@ -1,0 +1,119 @@
+{
+  "id": "allgemeine-testverfahren-rey-cft",
+  "title": "Allgemeine Testverfahren: Rey Complex Figure Test & kognitive Screenings",
+  "eingrenzung": "Allgemeine Testverfahren (Rey Complex Figure Test)",
+  "prio": "high",
+  "body": "## Überblick\nDie Eingrenzung verlangt den Überblick über allgemeine neuropsychologische Testverfahren – mit dem **Rey Complex Figure Test (CFT)** als explizit genanntem Kernverfahren. Dazu gehören prüfungsrelevant außerdem die großen kognitiven Screenings (MMST, MoCA, DemTect, Uhren-Tests), Aufmerksamkeits-, Apraxie- und Planungsverfahren.\n\n## Rey Complex Figure Test (CFT / Rey-Osterrieth)\n**Was wird geprüft?** Der CFT ist ein **visuokonstruktiver Test**: Er erfasst Gestaltwahrnehmung und die zielstrebige Umsetzung einer visuellen Vorstellung in ein zeichnerisches Handlungsprogramm (**Abzeichnen**) sowie das **visuelle (nonverbale) Gedächtnis** (Reproduktionen aus dem Gedächtnis). Einsatz u. a. im Frankfurter Neuropsychologischen Testprofil (FNTP).\n\n**Vorlage:** eine komplexe geometrische Figur (Rey-Osterrieth-Figur) – großes Rechteck mit Diagonal- und Mittellinien, aufgesetztes Dreieck oben mit kleiner Raute an der Spitze, Dreieck rechts außen mit Diamant, Kreis mit drei Punkten, kleines Quadrat unten links u. a.\n\n### Durchführung – drei Durchgänge\n1. **Abzeichnen (Copy, Rohwert So):** Vorlage im Querformat (Kreuz links oben als Orientierungsmarke). **Kein Lineal, kein Radiergummi** – nur Bleistift. **Keine Zeitbegrenzung** (die benötigte Zeit wird unauffällig miterfasst); Abbruch bei offensichtlicher Überforderung, spätestens nach **10 Minuten**. Instruktion: „Bitte versuchen Sie, diese etwas komplizierte Figur möglichst genau abzuzeichnen. Ohne Lineal, so wie sie hier liegt, in derselben Stellung und genauso groß. Die Zeit ist dabei nicht wichtig.\" Spontanes Drehen der Vorlage unterbinden; den Zeichenverlauf durch Nummerierung der Strichfolge protokollieren und qualitative Beobachtungen (z. B. Neglect-Zeichen) notieren.\n2. **Gedächtnis 1 (S1):** unmittelbar nach dem Abzeichnen auf leerem DIN-A4-Blatt aus der Erinnerung. **Kein vorheriger Hinweis** auf diese Abfrage → **inzidentelles Lernen**.\n3. **Gedächtnis 2 (S2):** nach einem **30-minütigen Intervall** (mit anderen Testaufgaben gefüllt) erneute Reproduktion ohne Vorlage.\n\n### Normalzeichnung\nGesunde mit zumindest durchschnittlicher Intelligenz zeichnen die Figur mehr oder weniger exakt ab. Typischer Ablauf: Kreuz links oben → großes Rechteck → Dreieck rechts außen → inneres Diagonalkreuz mit Mittellinien → oberes Dreieck. Hauptkennzeichen: **Gestaltstimmigkeit im Endprodukt** und ein systematisches, zielstrebiges Vorgehen (Strategien variieren, z. B. „außenherum zuerst\" oder Zerteilen in Teilgestalten bei zaghaften Personen).\n\n### Scoring\n- Die Figur wird in **18 Teil-Einheiten** zerlegt; jede wird isoliert (Genauigkeit) **und** in ihrer Lage zur Gesamtgestalt (Anordnung) bewertet. Die Bewertung ist halbobjektiv und erfahrungsabhängig – Training ist nötig.\n\n| Teilgestalt für sich betrachtet | Anordnung richtig | Falsch angeordnet |\n|---|---|---|\n| Teil korrekt gezeichnet | 2 | 1 |\n| Teil ungenau/inkomplett – aber noch identifizierbar | 1 | 0,5 |\n| Teil fehlt / nicht zu erkennen | 0 | 0 |\n\n- Maximalwerte: **So (Abzeichnen) = 36** (18 × 2), **Gedächtnis S1 + S2 = 72**. Die beiden Gedächtnisreproduktionen werden **großzügiger** bewertet als die Abzeichnen-Zeichnung (sie werden oft lässiger gezeichnet).\n- **Motorik „wegdenken\":** Zittriges, Verkrakeltes oder motorisch Ungenaues bei rein motorischen Störungen (M. Parkinson, Kleinhirnerkrankung, Paresen, Polyneuropathie) fließt nicht in die Bewertung ein – der CFT ist kein Motoriktest. Feinmotorik-Störungen werden besser mit **Purdue Pegboard** oder **Tapping** erfasst.\n\n### Gedächtnisvariablen und Normen\n- **CFM (klassische Gedächtnisvariable):** S1 + S2, Maximum 72.\n- **CQM (Gedächtnisquotient):** **(S1 + S2) / So × 100** – setzt die Behaltensleistung ins Verhältnis zur Abzeichenleistung und rechnet eine schwache Ausgangsleistung beim Lernen heraus.\n- Altersbezogene T-Werte: Copy (Tabelle B8, N = 1162), CFM (Tabelle B9a, N = 1161), CQM (Tabelle B9b, N = 1553). Die Mittelwerte sinken mit dem Alter: Copy M = 29,4 (15–25 J.) → 22,1 (76–85 J.); CFM 39,5 → 16,6; CQM 134 → 65.\n\n## Kognitive Screeningverfahren\n### MMST (Mini Mental Status Test)\n| Bereich | Inhalt | Punkte |\n|---|---|---|\n| A. Orientierung | 5 zeitliche Items (Jahr, Jahreszeit, Datum, Wochentag, Monat) + 5 räumliche Items (Land, Bundesland, Stadt, Klinik/Praxis, Stockwerk) | 10 |\n| B. Merkfähigkeit | 3 Wörter („Katze\", „Apfel\", „Dach\"), max. 6 Lerndurchgänge | 3 |\n| C. Aufmerksamkeit u. Rechenfähigkeit | Serial Sevens ab 100 (93/86/79/72/65) **oder** „LESEN\" rückwärts buchstabieren (N-E-S-E-L) | 5 |\n| D. Erinnerungsfähigkeit | die 3 Wörter aus B abrufen | 3 |\n| E. Sprache | Benennen (Uhr, Stift), Nachsprechen, 3-Stufen-Kommando, Anweisung lesen und befolgen, Satz schreiben, Figur abzeichnen (zwei sich überschneidende Fünfecke, die ein Viereck bilden) | 9 |\n| **Summe** | | **30** |\n\n### MoCA (Montreal Cognitive Assessment)\nScreening bei Demenzverdacht bzw. leichter kognitiver Beeinträchtigung. Aufgaben: Verbindungstest (1-A-2-B … E; exekutive Funktionen/kognitive Flexibilität), Würfel nachzeichnen, **Uhr zeichnen („10 nach 11\")**, Benennen von Tieren, Wortliste lernen (2 Durchgänge + verzögerter Abruf am Testende), Zahlenspanne vorwärts/rückwärts, Buchstaben-Vigilanz (Klopfen bei „A\"), Serial Sevens ab 100, Satzwiederholung, **F-Wörter** (phonematische Wortflüssigkeit, volle 60 s, Punkt ab 11 Wörtern), Gemeinsamkeiten finden (abstraktes Denken), Orientierung.\n- **Cut-off: ≥ 23 von 30 Punkten = normal.**\n- **Bildungskorrektur:** +1 Punkt bei ≤ 12 Jahren formaler Schulbildung (Maximum bleibt 30).\n- Orientierung streng: schon 1 Tag Abweichung bei Datum/Wochentag = 0 Punkte für das Item.\n- MoCA-Uhr (max. 3 Punkte): je 1 Punkt für **Kontur** (kreisförmig, nur geringe Verzerrung), **Zahlen** (alle 12, korrekte Reihenfolge/Quadranten; römische Zahlen und Zahlen außerhalb des Kreises werden akzeptiert), **Zeiger** (zwei unterschiedliche, Stundenzeiger kürzer/dicker, korrekte Zeit).\n\n### DemTect\n5 Subtests: Wortliste, Zahlen umwandeln (Transkodierung Zahlwort ↔ Ziffer), Supermarktaufgabe (Wortflüssigkeit), Zahlenfolge rückwärts, verzögerter Abruf. **Altersabhängige Normwerte** (< 60 vs. ≥ 60 Jahre); Gesamtscore max. **18 Punkte**.\n\n| Punktzahl | Diagnose | Handlungsempfehlung |\n|---|---|---|\n| 13–18 | altersgemäße kognitive Leistung | Kontrolle nach 12 Monaten |\n| 9–12 | leichte kognitive Beeinträchtigung (MCI) | Kontrolle nach 6 Monaten, Verlauf beobachten |\n| ≤ 8 | Demenzverdacht | weitere diagnostische Abklärung, Therapie einleiten |\n\n### Uhren-Test nach Shulman (1993)\nVorgezeichneter Kreis; Ziffern ergänzen und die Uhrzeit **„10 nach 11\"** einzeichnen. Skala **1 (perfekt) bis 6 (keine Uhr erkennbar)** – **niedrig = gut** (umgekehrt zum MoCA!). **Validierter Cut-off: Score ≥ 3 = pathologisch.** Bei Score 6 gilt: **cave – Depression oder Delir ausschließen**, bevor Demenz angenommen wird. Typische Fehler bei Score 4: Perseveration, Rechts-Links-Umkehr (Ziffern gegen den Uhrzeigersinn), Dysgraphie.\n⚠ Der Uhrentest ist zugleich ein klassischer **Neglect-Nachweis**: Beim visuellen Neglect werden Ziffern nur auf der ipsiläsionalen (nicht betroffenen) Seite eingetragen.\n\n### Clock Completion Test (Watson et al. 1993)\nDer Kreis wird in 4 Quadranten geteilt (Linie von der „12\" durch die Mitte + Senkrechte dazu); pro Quadrant werden 3 Ziffern erwartet (im Uhrzeigersinn ab der 12 gezählt; Zeichen auf Referenzlinien zählen zum folgenden Quadranten). Fehlerpunkte: je 1 in den ersten drei Quadranten, 4 im vierten Quadranten; maximal **7**. **> 3 Fehlerpunkte = Hinweis auf eine Hirnleistungsstörung.**\n\n## Aufmerksamkeitsdiagnostik\n- **Explorationsgespräch:** Leitfragen zu Ausprägung, auslösenden/begünstigenden Bedingungen, Verlauf, Folgen, belastenden Situationen und Begleitstörungen → daraus Hypothesen ableiten.\n- **Gezielte Beobachtung bei Arbeitsproben:** Aufgaben mit unterschiedlichem Schwierigkeitsgrad, Komplexität und Dauer (z. B. Problemlöse-, Rechen-, Alltagsaufgaben).\n- **MAI (Münchner Aufmerksamkeitsinventar, Helmke 1992):** Beobachtung im Unterricht in **5-Sekunden-Intervallen**; Protokoll von **On-Task** (bei der Sache) vs. **Off-Task** (abgelenkt, störend, träumend); 2–3 Vergleichskinder werden mitbeobachtet.\n- **Test d2 (Bickenkamp 2002):** Papier-Bleistift-Verfahren; nur der Buchstabe **„d\" mit zwei Strichen** wird durchgestrichen, ähnlich aussehende Buchstaben (z. B. p) werden übergangen. **Lösungsgüte = Zahl der richtigen minus Zahl der falschen Lösungen**; Altersnormen vorhanden.\n- **DAT (Dortmunder Aufmerksamkeitstest, Lauth 2002):** Kinder von 7–11 Jahren, 12–13 Aufgaben, Prinzip „Finde das Gleiche!\" (Standardreiz unter 6 ähnlichen Reizen wiederfinden). Erfasst **Antwortlatenz** und Zahl richtiger Lösungen → selektive Aufmerksamkeit und Daueraufmerksamkeit; zeigt, ob unbedacht/schnell/fehlerhaft oder überlegt/innehaltend/richtig gearbeitet wird.\n- **TAP (Testbatterie zur Aufmerksamkeitsprüfung, Zimmermann 2004):** PC-gestützt, **12 Einzeltests** für spezielle Aufmerksamkeitsbereiche (Reaktionszeit, Fehlerzahl/-art, Konzentrationskurve); Normwerte für Kinder, Jugendliche und Erwachsene.\n\n## Apraxie-Testverfahren nach Goldenberg (2003)\n(Neuropsychologisches Befundsystem für die Ergotherapie, Götze/Zenz/Michal)\n- **Pantomime des Objektgebrauchs:** 7 Objekte (Glas, Hammer, Zahnbürste, Kamm, Löffel, Schlüssel, Brotmesser); die Bewegung ist zu zeigen, **ohne** den Gegenstand in die Hand zu nehmen; bei Paresen wird die **nicht betroffene Hand** getestet. Pro Item max. 3 Punkte (Griff- und Bewegungskriterien), **max. 21 Punkte**; **< 18 = Hinweis auf Apraxie**. Typische apraktische Auffälligkeiten: undifferenzierte, schwer verständliche Pantomime; stereotype Bewegungen; Perseverationen; Umriss in die Luft zeichnen statt Pantomime.\n- **Imitation bedeutungsloser Handstellungen:** 10 Handstellungen im Gesichts-/Kopfbereich imitieren; 2 Punkte (im 1. Durchgang korrekt), 1 Punkt (erst im 2. Durchgang), 0 Punkte; **max. 20**, **< 18 = Hinweis auf Apraxie**.\n- **Objektgebrauch und Handlungsfolgen:** 6 Items einfacher (realer) Objektgebrauch (z. B. Nagel einschlagen, Glas öffnen) + 4 mehrschrittige Handlungsfolgen (z. B. Papier lochen und abheften, Kerze anzünden, Kugelschreibermine wechseln); **Hinweis auf Apraxie bereits ab 1 Fehler**, die genaue Abklärung folgt über die Beobachtung einer Alltagstätigkeit.\n\n## Planung / exekutive Funktionen: Organisations-Aufgabe (AOT)\nAlltagsplanungstest: **8 Besorgungen** an einem Nachmittag unter festen Terminfenstern (z. B. Brief an den Zug 18:27–18:29 Uhr, Anwesenheit in der Wohnung 17:00–17:30 Uhr, Verabredung 18:10 Uhr), Abmarsch 15:00 Uhr, Geschäftsschluss 19:00 Uhr. Wegenetz mit Fußwegzeiten; das Fahrrad (1/3 der Fußwegzeit) ist zunächst nicht fahrbereit – Reparatur dauert 1,5 Stunden. **Bearbeitungszeit exakt 30 Minuten** (Erinnerung nach 20 Minuten). Prüft Planung, Problemlösen, Zeitmanagement und Handlungskontrolle (exekutive Funktionen).\n\n## Einordnung: Stärken neuropsychologischer Diagnostik\n- Hohe Sensitivität für Hirnfunktionsstörungen: Laut Metaanalyse (Zakzanis 1998) ist die Sensitivität psychometrischer Leistungstests bei Alzheimer-Demenz **mehr als doppelt so hoch** wie die bildgebender Verfahren (MRT, SPECT, PET) – neuropsychologische Tests sind derzeit die **beste Methode zur Früherkennung** beginnenden kognitiven Abbaus.\n- Beitrag zu **Früherkennung, Differenzialdiagnose, Verlaufsbeobachtung und Schweregraderfassung**; spezielle Verfahren auch forensisch (Simulation, Neurotoxine, Fahreignung).\n- Wichtige Verfahren im Überblick: Gedächtnis – NAI, AVLT, VLMT, WMS; Aufmerksamkeit – TAP, ANT, TEA; exekutive Funktionen – BADS, WCST; Intellekt – LPS / LPS 50+; Demenz – DemTect; Aktivitätseinschränkungen – FIM; Testsystem – Wiener Testsystem.",
+  "facts": [
+    "Der Rey Complex Figure Test (CFT) prüft visuokonstruktive Fähigkeiten (Abzeichnen) und das visuelle/nonverbale Gedächtnis (zwei Reproduktionen).",
+    "Der CFT hat drei Durchgänge: Abzeichnen (So, max. 36), Gedächtnis 1 unmittelbar danach (S1) und Gedächtnis 2 nach 30 Minuten (S2); CFM = S1 + S2, max. 72.",
+    "Der Gedächtnisquotient CQM = (S1 + S2) / So × 100 rechnet eine schwache Abzeichenleistung aus dem Gedächtniswert heraus.",
+    "Beim CFT-Abzeichnen wird die spätere Gedächtnisabfrage nicht angekündigt (inzidentelles Lernen); Lineal und Radiergummi sind verboten, es gibt keine Zeitbegrenzung (Abbruch spätestens nach 10 Minuten).",
+    "CFT-Scoring: 18 Teil-Einheiten; korrekt + richtig angeordnet = 2, korrekt + falsch angeordnet = 1, ungenau + richtig angeordnet = 1, ungenau + falsch angeordnet = 0,5, fehlend = 0 Punkte.",
+    "Der MMST umfasst 5 Bereiche mit max. 30 Punkten: Orientierung 10, Merkfähigkeit 3, Aufmerksamkeit/Rechnen 5, Erinnerungsfähigkeit 3, Sprache 9.",
+    "MoCA: Cut-off ≥ 23 von 30 Punkten = normal; +1 Punkt Bildungskorrektur bei ≤ 12 Schuljahren; die Uhr wird mit je 1 Punkt für Kontur, Zahlen und Zeiger bewertet.",
+    "DemTect (max. 18 Punkte): 13–18 = altersgemäß, 9–12 = leichte kognitive Beeinträchtigung, ≤ 8 = Demenzverdacht.",
+    "Uhren-Test nach Shulman: Skala 1 (perfekt) bis 6 (keine Uhr erkennbar) – niedrig ist gut; Score ≥ 3 ist pathologisch; bei Score 6 muss Depression/Delir ausgeschlossen werden.",
+    "Goldenberg-Apraxietests: Pantomime des Objektgebrauchs max. 21 Punkte (< 18 = Apraxie-Hinweis), Imitation bedeutungsloser Handstellungen max. 20 Punkte (< 18 = Hinweis); bei Paresen wird die nicht betroffene Hand getestet.",
+    "Laut Zakzanis (1998) ist die Sensitivität neuropsychologischer Leistungstests bei Alzheimer-Demenz mehr als doppelt so hoch wie die bildgebender Verfahren.",
+    "Test d2: Nur der Buchstabe „d“ mit zwei Strichen wird durchgestrichen; Lösungsgüte = richtige minus falsche Lösungen."
+  ],
+  "figures": [
+    {
+      "src": "assets/neuropsycho/g145.png",
+      "caption": "Rey-Osterrieth Complex Figure – die standardisierte komplexe Testvorlage des CFT zum Abzeichnen"
+    },
+    {
+      "src": "assets/neuropsycho/g148.png",
+      "caption": "CFT-Verlaufsprotokollblatt: die 18 auswertungsrelevanten Teil-Einheiten der Figur (Nummerierung 1–18)"
+    },
+    {
+      "src": "assets/neuropsycho/g149.png",
+      "caption": "CFT-Scoring-Tabelle: 18 Figurbereiche mit Punktevergabe (2 / 1 / 0,5 / 0) für Abzeichnen (So), Gedächtnis 1 (S1) und Gedächtnis 2 (S2)"
+    },
+    {
+      "src": "assets/neuropsycho/g59.png",
+      "caption": "Uhren-Test nach Shulman (1993): Bewertungsskala 1 (perfekt) bis 6 (keine Uhr erkennbar) mit Beispielen; Cut-off ≥ 3 pathologisch"
+    },
+    {
+      "src": "assets/neuropsycho/g60.png",
+      "caption": "MMST-Testbogen: Orientierung (10), Merkfähigkeit (3), Aufmerksamkeit/Rechnen (5), Erinnerung (3), Sprache (9) – Summe max. 30 Punkte"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Welche drei Durchgänge umfasst der Rey Complex Figure Test?",
+      "a": "1. Abzeichnen (Copy, Rohwert So, max. 36), 2. Gedächtnis 1 unmittelbar nach dem Abzeichnen (S1), 3. Gedächtnis 2 nach einem 30-minütigen Intervall (S2)."
+    },
+    {
+      "q": "Wie lautet die Formel des Gedächtnisquotienten CQM beim CFT – und was bezweckt sie?",
+      "a": "CQM = (S1 + S2) / So × 100. Sie setzt die Behaltensleistung ins Verhältnis zur Abzeichenleistung und rechnet so eine schwache Ausgangsleistung beim Lernen heraus."
+    },
+    {
+      "q": "Welche Maximalwerte haben Abzeichnen (So) und Gedächtnis (CFM) beim CFT, und wie entstehen sie?",
+      "a": "So = max. 36 Punkte (18 Teil-Einheiten × 2 Punkte); CFM = S1 + S2 = max. 72 Punkte."
+    },
+    {
+      "q": "Nennen Sie die fünf Leistungsbereiche des MMST mit ihren Maximalpunkten.",
+      "a": "A. Orientierung 10, B. Merkfähigkeit 3, C. Aufmerksamkeit u. Rechenfähigkeit 5, D. Erinnerungsfähigkeit 3, E. Sprache 9 – Gesamtsumme 30 Punkte."
+    },
+    {
+      "q": "Ab welchem Gesamtwert gilt der MoCA als normal, und welche Bildungskorrektur gibt es?",
+      "a": "≥ 23 von 30 Punkten = normal (Cut-off); +1 Punkt für Testpersonen mit ≤ 12 Jahren formaler Schulbildung."
+    },
+    {
+      "q": "Wie ist die Skala des Uhren-Tests nach Shulman aufgebaut, und wo liegt der Cut-off?",
+      "a": "Score 1 (perfekt) bis 6 (keine Uhr erkennbar) – niedrig = gut (umgekehrt zum MoCA); Score ≥ 3 gilt als pathologisch. Bei Score 6: Depression/Delir ausschließen."
+    },
+    {
+      "q": "Pantomime-Test nach Goldenberg: Wie viele Punkte sind maximal möglich, ab wann liegt ein Apraxie-Hinweis vor, und welche Hand wird bei Parese getestet?",
+      "a": "Max. 21 Punkte (7 Objekte × 3); weniger als 18 Punkte = Hinweis auf Apraxie; bei Paresen wird die nicht betroffene Hand getestet."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Warum wird dem Patienten beim CFT vor dem Abzeichnen NICHT gesagt, dass er die Figur später aus dem Gedächtnis zeichnen soll?",
+      "options": [
+        "Damit inzidentelles (unbeabsichtigtes) Lernen geprüft wird",
+        "Um die Gesamtdauer des Tests zu verkürzen",
+        "Um motorische Störungen auszuschließen",
+        "Weil die Gedächtnisabfrage nur bei Demenzverdacht erfolgt"
+      ],
+      "answer": 0,
+      "explain": "Die unangekündigte Reproduktion (S1 direkt danach, S2 nach 30 Minuten) misst inzidentelles Lernen. Ein Hinweis würde gezieltes Einprägen ermöglichen und das Gedächtnisergebnis verfälschen."
+    },
+    {
+      "q": "Beim CFT-Scoring ist ein Figurteil ungenau, aber noch identifizierbar gezeichnet und richtig angeordnet. Wie viele Punkte gibt es?",
+      "options": [
+        "0 Punkte",
+        "0,5 Punkte",
+        "1 Punkt",
+        "2 Punkte"
+      ],
+      "answer": 2,
+      "explain": "Ungenau/inkomplett + richtig angeordnet = 1 Punkt. 2 Punkte gibt es nur bei korrekt gezeichnet UND richtig angeordnet; 0,5 bei ungenau + falsch angeordnet; 0, wenn der Teil fehlt."
+    },
+    {
+      "q": "Welche Aussage zum Uhren-Test nach Shulman (1993) ist richtig?",
+      "options": [
+        "Ein Score von 1 gilt als pathologisch",
+        "Ein Score von ≥ 3 gilt als pathologisch",
+        "Die Maximalpunktzahl beträgt 30",
+        "Hohe Scores bedeuten eine gute Leistung"
+      ],
+      "answer": 1,
+      "explain": "Skala 1 (perfekt) bis 6 (keine Uhr erkennbar) – hier ist NIEDRIG gut (Falle: umgekehrt zum MoCA!). Der validierte Cut-off liegt zwischen 2 und 3, also ist ≥ 3 pathologisch. Bei Score 6 muss man Depression/Delir ausschließen."
+    },
+    {
+      "q": "Eine Patientin nach rechtshemisphärischem Infarkt trägt beim Uhrentest alle Ziffern gedrängt nur auf der rechten Seite ein, die linke Uhrenhälfte bleibt leer. Welche Störung liegt am ehesten vor?",
+      "options": [
+        "Ideomotorische Apraxie",
+        "Visueller Neglect links",
+        "Broca-Aphasie",
+        "Visuelle Agnosie"
+      ],
+      "answer": 1,
+      "explain": "Halbseitiges Weglassen von Ziffern bzw. Bilddetails ist der klassische Pen-and-Paper-Befund eines visuellen Neglects (Vernachlässigung der kontraläsionalen, hier linken Raumhälfte) – keine Apraxie, Aphasie oder Agnosie."
+    }
+  ]
+}

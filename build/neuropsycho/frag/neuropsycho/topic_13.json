@@ -1,0 +1,120 @@
+{
+  "id": "gedaechtnis",
+  "title": "Gedächtnis: Gedächtnisleistungen benennen und unterscheiden",
+  "eingrenzung": "Gedächtnis (Gedächtnisleistungen (z.B. deklarativ) benennen und unterscheiden)",
+  "prio": "high",
+  "body": "## Definition und Grundprinzip\n\n**Gedächtnis (Mnestik, altgriech.)** ist die Fähigkeit des Nervensystems, aufgenommene Informationen **umzuwandeln, zu speichern und wieder abzurufen**. Die Informationsverarbeitung im Gehirn folgt dabei – analog zum **EVA-Prinzip** der EDV – den Schritten **Eingabe, Verarbeitung, Ausgabe**.\n\nEine einzelne gespeicherte und abrufbare Information (= Gedächtnisspur) wird als **Engramm** bezeichnet; die Gesamtheit aller Engramme ergibt das Gedächtnis.\n\n## Drei-Speicher-Modell (Atkinson und Shiffrin)\n\n### 1. Sensorisches Gedächtnis\nFrüher: Ultrakurzzeitgedächtnis. Für jede Sinnesmodalität spezifisch:\n- **Ikonisches Gedächtnis** – visuelle Wahrnehmung\n- **Echoisches Gedächtnis** – auditive Wahrnehmung\n\n### 2. Arbeitsgedächtnis\nUrsprünglich als Kurzzeitgedächtnis beschrieben (Grundlage bewusster Informationsverarbeitung). Seit 1974 ergänzt durch das **Arbeitsgedächtnismodell von Baddeley** mit vier Komponenten:\n\n| Komponente | Funktion |\n|---|---|\n| **Zentrale Exekutive** | verwaltet die Teilsysteme, verknüpft Informationen mit dem Langzeitgedächtnis |\n| **Phonologische Schleife** | Speicherung verbaler Informationen |\n| **Räumlich-visueller Notizblock** | kurzfristige Speicherung visueller Eindrücke |\n| **Episodischer Puffer** | multimodales Speichersystem; Informationen werden in Form von Episoden gespeichert |\n\nNeuroanatomisch wird das Arbeitsgedächtnis dem **präfrontalen Cortex** zugeordnet.\n\n### 3. Langzeitgedächtnis\nDauerhaftes Speichersystem des Gehirns mit zwei Hauptformen:\n\n#### a) Deklaratives (explizites) Gedächtnis = Wissensgedächtnis\nSpeichert Fakten und Ereignisse; **bewusst wiedergebbar**. Zwei Bereiche:\n- **Semantisches Gedächtnis**: Weltwissen, allgemeine Fakten (Bsp.: „Köln ist eine Stadt\")\n- **Episodisches Gedächtnis**: Ereignisse/Tatsachen aus dem eigenen Leben (Bsp.: Erinnerungen an Erlebnisse, Gesichter, Namen der Eltern)\n\n#### b) Non-deklaratives / prozedurales (implizites) Gedächtnis\nSpeichert **automatisierte Handlungsabläufe und Fertigkeiten** (Bsp.: Schwimmen, Radfahren, Tanzen, Klavierspielen) – komplexe Bewegungen, deren Ablauf gelernt/geübt wurde und ohne Nachdenken abgerufen wird.\n\n### Prozesse des Langzeitgedächtnisses\n- **Lernen / Enkodierung** – Einspeichern von Informationen\n- **Konsolidieren / Behalten** – Festigen durch wiederholtes Abrufen\n- **Erinnern / Abrufen** – Bewusstwerden von Gedächtnisinhalten\n- **Vergessen** – Löschen ungenutzter Informationen oder Abänderung durch konkurrierende Information\n\n## Anatomische Grundlagen\n\n| Gedächtnissystem | Beteiligte Strukturen |\n|---|---|\n| Deklaratives Gedächtnis | gesamter Neocortex, insb. **Frontal- und Temporalcortex**; bei der Speicherung zusätzlich subkortikale Regionen: **limbisches System, Hippocampus** und angrenzende Gebiete |\n| Prozedurales Gedächtnis | motorische und präfrontale Gebiete, insb. **Basalganglien und Kleinhirn** |\n| Emotionale Gedächtnisinhalte / Angstreaktionen | **Amygdala** |\n| Arbeitsgedächtnis | **präfrontaler Cortex** |\n\nDas Baumdiagramm der Gedächtnissysteme (Abb. 10.5) ordnet zu: **Deklarativ (explizit)** → semantisch (Fakten/Weltwissen) und episodisch (Ereignisse) → **medialer Temporallappen, Diencephalon**. **Nichtdeklarativ (implizit/prozedural)** → Priming (Neokortex), motorische Fertigkeiten (Striatum), klassisches Konditionieren (emotionale Antwort → Amygdala; Skelettmuskulatur → Cerebellum), nichtassoziatives Lernen (Reflexbögen).\n\n## Prospektives Gedächtnis\nDie Fähigkeit, sich **zur richtigen Zeit an zuvor gefasste Handlungsabsichten** zu erinnern. Im Alltag eine wichtige Fähigkeit, um absichtsvoll zu planen und Pläne durchzuführen.\n\n## Gedächtnisprüfung in den Screening-Verfahren\n\n### MoCA – Gedächtnis und verwandte Subtests\n- **Aufgabe 5 – Wörter lernen**: Wortliste wird in **zwei Lerndurchgängen** vorgelesen, TP nennt so viele Wörter wie möglich (Reihenfolge egal); Ankündigung eines späteren dritten Abrufs. Prüft das **deklarative/episodische Gedächtnis** (unmittelbarer Abruf, Lernkurve). Die Lerndurchgänge 1 und 2 werden **nicht bepunktet** – nur der spätere verzögerte Abruf zählt.\n- **Aufgabe 13 – Erinnerung (verzögerter Abruf)**: am Testende freier Abruf der Wortliste („Vor einiger Zeit habe ich Ihnen einige Wörter genannt ...\"), **1 Punkt pro richtig erinnertem Wort**. Klassische Prüfung des deklarativen (episodischen) Gedächtnisses (delayed recall).\n- **Aufgabe 6/7 – Zahlenspanne**: vorwärts = Merkspanne/Arbeitsgedächtnis; rückwärts = Arbeitsgedächtnis und exekutive Kontrolle (Manipulation).\n- **Aufgabe 8 – Buchstaben-Vigilanztest**: Klopfen nur beim Buchstaben „A\" → Daueraufmerksamkeit/Vigilanz und Inhibition. Punkt bei max. 1 Fehler, ab 2 Fehlern 0 Punkte.\n- **Aufgabe 9 – Serial Sevens**: von 100 fortlaufend 7 abziehen → Arbeitsgedächtnis, exekutive Funktionen, Rechenfähigkeit. 0–3 Punkte (1 korrekte Subtraktion = 1 Punkt, 2–3 = 2 Punkte, 4–5 = 3 Punkte; jede Subtraktion wird unabhängig von der vorhergehenden beurteilt).\n- **Gesamtauswertung**: Cut-off ≥ 23 von 30 Punkten = normal; Bildungskorrektur +1 Punkt bei ≤ 12 Jahren formaler Schulbildung.\n\n### DemTect – Aufbau (5 Subtests)\n1. **Wortliste** – 10 Wörter (Teller, Hund, Lampe, Brief, Apfel, Hose, Tisch, Wiese, Glas, Baum), **2 Lerndurchgänge** (max. 20)\n2. **Zahlen umwandeln** (max. 4)\n3. **Supermarktaufgabe** – Wortflüssigkeit, 1 Minute (max. 30)\n4. **Zahlen rückwärts** – steigende Länge, längste richtige Folge (max. 6)\n5. **Erneute Wortlisten-Abfrage** – verzögerter Abruf nach Ablenkung (max. 10)\n\nDieses **Encoding–Distraktion–Recall-Design** ist typisch für Gedächtnistests und dient der Differenzierung von **Enkodierungs- vs. Abrufstörungen**.\n\n### MMST – Gedächtnisbezogene Bereiche\nDer MMST (max. 30 Punkte) umfasst 5 Leistungsbereiche:\n- **A. Orientierung (10 P.)**: 5 zeitliche Items (Jahr, Jahreszeit, Datum, Wochentag, Monat) + 5 räumliche Items (Land, Bundesland, Stadt, Klinik/Praxis, Stockwerk)\n- **B. Merkfähigkeit (3 P.)**: 3 Wörter wiederholen („Katze\", „Apfel\", „Dach\"), Wiederholung bis gelernt (max. 6 Durchgänge) = Enkodierung\n- **C. Aufmerksamkeit und Rechenfähigkeit (5 P.)**: Serial 7 (100−7: 93, 86, 79, 72, 65) **oder** alternativ das Wort „LESEN\" rückwärts buchstabieren (N-E-S-E-L)\n- **D. Erinnerungsfähigkeit (3 P.)**: verzögerter Abruf der 3 Merkwörter\n- **E. Sprache (9 P.)**: Benennen (Uhr, Stift), Nachsprechen, 3-Schritt-Kommando, Lesen/Befolgen, Satz schreiben, Figur abzeichnen\n\n## Gedächtnisstörungen: Befund und Therapie (Überblick)\n\n**Ätiologie**: Das Gedächtnis kann von der Einspeicherung bis zum Abruf gestört sein – eine Unterbrechung des Informationsflusses an einer zentralen Stelle im Netzwerk reicht für eine Störung aus.\n\n**Typische Klagen**: Vergesslichkeit im Alltag, Termine werden nicht eingehalten, Dinge werden nicht wiedergefunden, Informationen können nicht hinreichend aufgenommen werden. Wichtig: Patienten beklagen die Störung nicht immer selbst – eine eingeschränkte **Selbstwahrnehmung (Awareness)** kann Teil des Störungsbildes sein.\n\n**Zu untersuchende Gedächtnisteilfunktionen**:\n- **Orientierung** (örtlich, zeitlich, situativ, zur Person)\n- **Kurzzeit-/Arbeitsgedächtnis** (kurzfristiges Halten und mentales Manipulieren)\n- **Langzeitgedächtnis** (verzögerte Reproduktion nach 20–30 Minuten, z.B. Rey-Figuren-Test; Wortlisten lernen)\n- **Altgedächtnis** (semantische und episodische Informationen aus verschiedenen Lebensepochen im Anamnesegespräch)\n\n**Therapie**: Zielstellung nach Schwere, verfügbaren kognitiven Funktionen, Störungsbewusstheit und Alltagsanforderungen. In der **Frühphase** steht oft die Verbesserung der Orientierung im Vordergrund. Übendes Funktionstraining spielt eine geringere Rolle (kann über verbesserte Aufmerksamkeit sekundär helfen). **Kompensationstherapie ist die Methode der Wahl**: externe Hilfsmittel (elektronische Gedächtnishilfen, Notizen) bei leicht Betroffenen selbstständig einsetzen; bei leichter Betroffenen lerntheoretisch fundierte Methoden/internale Lernstrategien intensiv üben. Zusammenarbeit mit Angehörigen/Arbeitgebern und Integration der Erkrankung in das Selbstkonzept sind wichtige Bestandteile.\n\n**Amnestisches Syndrom** (Abgrenzung): schwer beeinträchtigtes Lernen neuer Informationen (anterograde Amnesie) bei **intaktem Kurzzeit-/Arbeitsgedächtnis** und ohne schwerwiegende intellektuelle Defizite. Implizites/prozedurales Gedächtnis bleibt bei Amnesie meist erhalten.",
+  "facts": [
+    "Gedächtnis (Mnestik) = Fähigkeit des Nervensystems, Informationen umzuwandeln, zu speichern und wieder abzurufen (EVA-Prinzip).",
+    "Drei-Speicher-Modell (Atkinson & Shiffrin): sensorisches Gedächtnis → Arbeitsgedächtnis → Langzeitgedächtnis.",
+    "Ikonisches Gedächtnis = visuell, echoisches Gedächtnis = auditiv (beide sensorisches Gedächtnis).",
+    "Baddeleys Arbeitsgedächtnismodell (seit 1974): zentrale Exekutive, phonologische Schleife, räumlich-visueller Notizblock, episodischer Puffer.",
+    "Deklaratives (explizites) Gedächtnis = semantisch (Weltwissen) + episodisch (persönliche Ereignisse), bewusst abrufbar.",
+    "Non-deklaratives/prozedurales (implizites) Gedächtnis speichert automatisierte Fertigkeiten (z.B. Radfahren, Schwimmen).",
+    "Prospektives Gedächtnis = sich zur richtigen Zeit an zuvor gefasste Handlungsabsichten erinnern.",
+    "Deklaratives Gedächtnis: Neocortex (Frontal-/Temporalcortex), limbisches System, Hippocampus; prozedurales Gedächtnis: Basalganglien und Kleinhirn; Amygdala = emotionale Inhalte; Arbeitsgedächtnis = präfrontaler Cortex.",
+    "Prozesse des Langzeitgedächtnisses: Enkodierung, Konsolidierung/Behalten, Abruf/Erinnern, Vergessen; Engramm = einzelne Gedächtnisspur.",
+    "MoCA prüft deklaratives Gedächtnis über 2 Lerndurchgänge einer Wortliste plus verzögertem Abruf am Testende (nur der verzögerte Abruf wird bepunktet); Cut-off ≥ 23/30, Bildungskorrektur +1 Punkt bei ≤ 12 Schuljahren.",
+    "DemTect: 5 Subtests (Wortliste 2×10, Zahlen umwandeln, Supermarktaufgabe, Zahlen rückwärts, verzögerte Wortlisten-Abfrage) – Encoding-Distraktion-Recall-Design zur Differenzierung von Enkodierungs- vs. Abrufstörung.",
+    "MMST: Merkfähigkeit (3 Wörter: Katze, Apfel, Dach) = Enkodierung, Erinnerungsfähigkeit = verzögerter Abruf; Gesamtsumme 30 Punkte aus Orientierung (10), Merkfähigkeit (3), Aufmerksamkeit/Rechnen (5), Erinnerung (3), Sprache (9).",
+    "Kompensationstherapie ist die Methode der Wahl bei Gedächtnisstörungen; in der Frühphase steht die Orientierungsverbesserung im Vordergrund."
+  ],
+  "figures": [
+    {
+      "src": "assets/neuropsycho/g128.png",
+      "caption": "Abb. 10.5 – Gedächtnissysteme im Überblick: deklarativ (semantisch, episodisch → medialer Temporallappen/Diencephalon) vs. nichtdeklarativ (Priming, motorische Fertigkeiten, klassisches Konditionieren, nichtassoziatives Lernen)"
+    },
+    {
+      "src": "assets/neuropsycho/g60.png",
+      "caption": "MMST-Testbogen komplett (Bereiche A–E): Orientierung, Merkfähigkeit, Aufmerksamkeit/Rechenfähigkeit, Erinnerungsfähigkeit, Sprache – max. 30 Punkte"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Definieren Sie den Begriff Gedächtnis (Mnestik).",
+      "a": "Die Fähigkeit des Nervensystems, aufgenommene Informationen umzuwandeln, zu speichern und wieder abzurufen."
+    },
+    {
+      "q": "Nennen Sie die drei Speichersysteme nach Atkinson und Shiffrin.",
+      "a": "1. Sensorisches Gedächtnis (ikonisch = visuell, echoisch = auditiv), 2. Arbeitsgedächtnis, 3. Langzeitgedächtnis."
+    },
+    {
+      "q": "Aus welchen vier Komponenten besteht das Arbeitsgedächtnismodell nach Baddeley?",
+      "a": "Zentrale Exekutive (steuert/verknüpft mit Langzeitgedächtnis), phonologische Schleife (verbale Informationen), räumlich-visueller Notizblock (visuelle Eindrücke), episodischer Puffer (multimodal, episodenhafte Speicherung)."
+    },
+    {
+      "q": "Wie untergliedert sich das deklarative (explizite) Gedächtnis? Geben Sie je ein Beispiel.",
+      "a": "Semantisches Gedächtnis = Weltwissen/allgemeine Fakten (Bsp.: „Köln ist eine Stadt\"); episodisches Gedächtnis = Ereignisse aus dem eigenen Leben (Bsp.: Erinnerungen an Erlebnisse, Gesichter, Namen der Eltern). Beide sind bewusst wiedergebbar."
+    },
+    {
+      "q": "Was speichert das prozedurale (implizite/non-deklarative) Gedächtnis und welche Hirnstrukturen sind beteiligt?",
+      "a": "Automatisierte Handlungsabläufe und Fertigkeiten (z.B. Schwimmen, Radfahren, Klavierspielen). Beteiligt: motorische und präfrontale Gebiete, insbesondere Basalganglien und Kleinhirn."
+    },
+    {
+      "q": "Was ist das prospektive Gedächtnis?",
+      "a": "Die Fähigkeit, sich zur richtigen Zeit an zuvor gefasste Handlungsabsichten zu erinnern – wichtig für absichtsvolles Planen und Durchführen von Plänen im Alltag."
+    },
+    {
+      "q": "Nennen Sie die vier Prozesse des Langzeitgedächtnisses.",
+      "a": "Lernen/Enkodierung (Einspeichern), Konsolidieren/Behalten (Festigen durch wiederholtes Abrufen), Erinnern/Abrufen (Bewusstwerden), Vergessen (Löschen ungenutzter Informationen)."
+    },
+    {
+      "q": "Wie prüft der MoCA das deklarative Gedächtnis?",
+      "a": "Wortliste in zwei Lerndurchgängen vorlesen (unmittelbarer Abruf, Lernkurve, nicht bepunktet) und verzögerter freier Abruf am Testende (1 Punkt pro richtig erinnertem Wort)."
+    },
+    {
+      "q": "Welche 5 Subtests umfasst der DemTect?",
+      "a": "1. Wortliste (10 Wörter, 2 Durchgänge), 2. Zahlen umwandeln, 3. Supermarktaufgabe (Wortflüssigkeit, 1 Min.), 4. Zahlen rückwärts, 5. erneute Wortlisten-Abfrage (verzögerter Abruf)."
+    },
+    {
+      "q": "Welche Gedächtnisteilfunktionen sind in der Befunderhebung zu untersuchen?",
+      "a": "Orientierung (örtlich, zeitlich, situativ, zur Person), Kurzzeit-/Arbeitsgedächtnis, Langzeitgedächtnis (z.B. verzögerte Reproduktion nach 20–30 Min., Rey-Figuren-Test), Altgedächtnis (Anamnesegespräch)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Eine Patientin kann nach Hirnverletzung weiterhin fehlerfrei Radfahren und Klavierspielen, sich aber keine neuen Fakten merken. Welches Gedächtnissystem ist offenbar erhalten?",
+      "options": [
+        "Deklaratives (explizites) Gedächtnis",
+        "Prozedurales (implizites/non-deklaratives) Gedächtnis",
+        "Semantisches Gedächtnis",
+        "Ikonisches Gedächtnis"
+      ],
+      "answer": 1,
+      "explain": "Automatisierte Fertigkeiten (Radfahren, Klavierspielen) gehören zum prozeduralen/impliziten Gedächtnis – es bleibt bei Amnesie meist intakt. Falle: Deklarativ/semantisch wäre das Wissensgedächtnis, das hier gerade gestört ist."
+    },
+    {
+      "q": "Im MoCA werden zwei Lerndurchgänge einer Wortliste durchgeführt. Wie werden sie bepunktet?",
+      "options": [
+        "1 Punkt pro Wort in jedem Durchgang",
+        "Nur der zweite Durchgang wird bepunktet",
+        "Die Lerndurchgänge werden nicht bepunktet – nur der verzögerte Abruf am Testende",
+        "Beide Durchgänge zusammen ergeben maximal 5 Punkte"
+      ],
+      "answer": 2,
+      "explain": "Laut MoCA-Auswertungsrichtlinien erhalten die Lerndurchgänge 1 und 2 keine Punkte; bepunktet wird ausschließlich der spätere verzögerte freie Abruf (1 Punkt pro richtig erinnertem Wort)."
+    },
+    {
+      "q": "Der räumlich-visuelle Notizblock und die phonologische Schleife sind Komponenten ...",
+      "options": [
+        "des sensorischen Gedächtnisses",
+        "des Langzeitgedächtnisses",
+        "des Arbeitsgedächtnismodells nach Baddeley",
+        "des prospektiven Gedächtnisses"
+      ],
+      "answer": 2,
+      "explain": "Beide sind Teilsysteme des Baddeley-Modells (seit 1974), gesteuert von der zentralen Exekutive; ergänzt um den episodischen Puffer. Falle: Das sensorische Gedächtnis umfasst ikonisches und echoisches Gedächtnis."
+    },
+    {
+      "q": "Ein Patient beschreibt beim MMST-Subtest „Merkfähigkeit“ die Wörter Katze, Apfel und Dach korrekt nach. Welcher Gedächtnisprozess wird hier primär geprüft – und welcher Bereich prüft später denselben Inhalt erneut?",
+      "options": [
+        "Abruf – später geprüft im Bereich Orientierung",
+        "Enkodierung/Lernen – später verzögerter Abruf im Bereich Erinnerungsfähigkeit",
+        "Konsolidierung – später geprüft im Bereich Sprache",
+        "Vergessen – später geprüft in Aufmerksamkeit und Rechenfähigkeit"
+      ],
+      "answer": 1,
+      "explain": "Die Merkfähigkeit (B) prüft das Einspeichern (Enkodierung) der 3 Wörter; die Erinnerungsfähigkeit (D) fragt dieselben Wörter später als verzögerten Abruf erneut ab – analog zum Encoding-Distraktion-Recall-Design des DemTect."
+    }
+  ]
+}

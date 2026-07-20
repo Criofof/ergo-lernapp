@@ -1016,6 +1016,208 @@ Psychiatrische Versorgungsforschung: hohe Bedeutung für Planung bedarfsorientie
 **6.3 Literatur:** 10 Literaturangaben, u.a. Barmer Arztreport 2020, Becker/Hoffmann/Puschner/Weinmann Versorgungsmodelle in Psychiatrie und Psychotherapie (2008), DAK Gesundheits-Report 2019, Deister/Wilms zu §64b SGB V Modellprojekte (2014), Kaduszkiewicz et al. zur Versorgung Wohnungsloser (2017), KBV Abrechnungsdaten 2019, Techniker Krankenkasse Depressionsatlas 2015, u.a. zu Depressionsbehandlung im hausärztlichen/stationären Bereich. Kein eigenständiger Prüfungsinhalt, nur Quellenangaben.
 **Fakten:** Integrierte Versorgung nach §140a SGB V erlaubt sektorenübergreifende Behandlung (ambulant/tagesklinisch/stationär) mit pauschaler Vergütung | Regionales Budget: fester Betrag für gesamte psychiatrische/psychosomatische Versorgung einer Region unabhängig von Behandlungsart, kann Klinikaufenthalte reduzieren | Nach stationärer Depressionsbehandlung erfolgt ambulante Weiterbehandlung oft nicht leitliniengerecht, was Wiederaufnahmen und erhöhte Mortalität begünstigt
 
+### Seite gidx 601 — Liste der chronischen Erkrankungen (hausärztlicher Versorgungsbereich) – Aortenaneurysma, Hypotonie; Schlaganfall und Komplikationen (I60–I64) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 12 von 33)
+## Dokumentkontext
+Offizielle ICD-10-Code-Liste der Kassenärztlichen Vereinigung Nordrhein ('Engagiert für Gesundheit.'), Titel: **'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich'**, Stand: September 2016, Seite 12 von 33. Zweispaltige Tabelle: 'Kapitel ICD-10/ICD-10-Code' | 'Bezeichnung'. Relevanz für ET-Prüfung: ambulante/hausärztliche Versorgung chronisch Kranker (Versorgungslandschaft).
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+
+### Kreislaufsystem (Rest Kapitel IX)
+- **I79.8*** Sonstige Krankheiten der Arterien, Arteriolen und Kapillaren bei anderenorts klassifizierten Krankheiten
+- **Aortenaneurysma, ohne Erwähnung einer Ruptur:**
+  - I71.0- Dissektion der Aorta; I71.00 Dissektion der Aorta nicht näher bezeichneter Lokalisation, ohne Angabe einer Ruptur; I71.01 Dissektion der Aorta thoracica, ohne Angabe einer Ruptur; I71.02 Dissektion der Aorta abdominalis, ohne Angabe einer Ruptur; I71.03 Dissektion der Aorta, thorakoabdominal, ohne Angabe einer Ruptur
+  - I71.2 Aneurysma der Aorta thoracica, ohne Angabe einer Ruptur; I71.4 Aneurysma der Aorta abdominalis, ohne Angabe einer Ruptur; I71.6 Aortenaneurysma, thorakoabdominal, ohne Angabe einer Ruptur; I71.9 Aortenaneurysma nicht näher bezeichneter Lokalisation, ohne Angabe einer Ruptur
+- **Sonstige und nicht näher bezeichnete Krankheiten des Kreislaufsystems (I95-I99) – Hypotonie:** I95.0 Idiopathische Hypotonie; I95.1 Orthostatische Hypotonie; I95.2 Hypotonie durch Arzneimittel; I95.8 Sonstige Hypotonie; I95.9 Hypotonie, nicht näher bezeichnet
+
+### Kapitel IX + VI (roter Kapitelbalken): 'Krankheiten des Kreislaufsystems (I00-I99)/ Krankheiten des Nervensystems (G00-G99)'
+Abschnitt: **'Zerebrovaskuläre Krankheiten (I60-I69)/ Episodische und paroxysmale Krankheiten des Nervensystems (G40-G47)'** – Unterabschnitt: **'Schlaganfall und Komplikationen'**
+- **I60 Subarachnoidalblutung:** I60.0 vom Karotissiphon oder der Karotisbifurkation ausgehend; I60.1 von der A. cerebri media; I60.2 von der A. communicans anterior; I60.3 von der A. communicans posterior; I60.4 von der A. basilaris; I60.5 von der A. vertebralis; I60.6 von sonstigen intrakraniellen Arterien; I60.7 von nicht näher bezeichneter intrakranieller Arterie; I60.8 Sonstige; I60.9 nicht näher bezeichnet
+- **I61 Intrazerebrale Blutung:** I61.0 Großhirnhemisphäre, subkortikal; I61.1 Großhirnhemisphäre, kortikal; I61.2 Großhirnhemisphäre, n.n.bez.; I61.3 in den Hirnstamm; I61.4 in das Kleinhirn; I61.5 intraventrikulär; I61.6 an mehreren Lokalisationen; I61.8 Sonstige; I61.9 n.n.bez.
+- **I62.0- Subdurale Blutung (nichttraumatisch):** I62.00 akut; I62.01 subakut; I62.02 chronisch; I62.09 n.n.bez.; I62.1 Nichttraumatische extradurale Blutung; I62.9 Intrakranielle Blutung (nichttraumatisch), n.n.bez.
+- **I63 Hirninfarkt:** I63.0 durch Thrombose präzerebraler Arterien; I63.1 durch Embolie präzerebraler Arterien; I63.2 durch n.n.bez. Verschluss oder Stenose präzerebraler Arterien; I63.3 durch Thrombose zerebraler Arterien; I63.4 durch Embolie zerebraler Arterien; I63.5 durch n.n.bez. Verschluss oder Stenose zerebraler Arterien; I63.6 durch Thrombose der Hirnvenen, nichteitrig; I63.8 Sonstiger Hirninfarkt; I63.9 Hirninfarkt, n.n.bez.
+- **I64** Schlaganfall, nicht als Blutung oder Infarkt bezeichnet
+- **I67.80!** Vasospasmen bei Subarachnoidalblutung
+**Fakten:** Die 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich' (KV Nordrhein, Stand September 2016) benennt ICD-10-Diagnosen, die im ambulanten/hausärztlichen Bereich förderfähig sind | I60-I63 = Schlaganfall-Formen: Subarachnoidalblutung (I60), intrazerebrale Blutung (I61), subdurale/extradurale Blutung (I62), Hirninfarkt (I63) | I64 = Schlaganfall, nicht als Blutung oder Infarkt bezeichnet | Hirninfarkt (I63) wird nach Ursache unterschieden: Thrombose/Embolie präzerebraler vs. zerebraler Arterien, Hirnvenenthrombose | I95 = Hypotonie (idiopathisch, orthostatisch, arzneimittelbedingt) | I71 = Aortenaneurysma/-dissektion ohne Ruptur
+
+### Seite gidx 602 — Liste der chronischen Erkrankungen – Folgen zerebrovaskulärer Krankheiten (I69), Gefäßsyndrome (G46), Gefäßverschlüsse (I65/I66) und TIA (G45) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 13 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 13 von 33. Fortsetzung Abschnitt 'Schlaganfall und Komplikationen' bzw. 'Verschluss extrakranieller hirnversorgender Gefäße und transitorische ischämische Attacken'.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+
+### Folgen zerebrovaskulärer Krankheiten (I69) und Gefäßsyndrome des Gehirns (G46)
+- I69.0 Folgen einer Subarachnoidalblutung; I69.1 Folgen einer intrazerebralen Blutung; I69.2 Folgen einer sonstigen nichttraumatischen intrakraniellen Blutung; I69.3 Folgen eines Hirninfarktes; I69.4 Folgen eines Schlaganfalls, nicht als Blutung oder Infarkt bezeichnet; I69.8 Folgen sonstiger und n.n.bez. zerebrovaskulärer Krankheiten
+- G46.0* Arteria-cerebri-media-Syndrom; G46.1* Arteria-cerebri-anterior-Syndrom; G46.2* Arteria-cerebri-posterior-Syndrom; G46.3* Hirnstammsyndrom; G46.4* Kleinhirnsyndrom; G46.5* Rein motorisches lakunäres Syndrom; G46.6* Rein sensorisches lakunäres Syndrom; G46.7* Sonstige lakunäre Syndrome
+
+### Abschnitt: 'Verschluss extrakranieller hirnversorgender Gefäße und transitorische ischämische Attacken'
+- **I65 Verschluss/Stenose präzerebraler Arterien:** I65.0 A. vertebralis; I65.1 A. basilaris; I65.2 A. carotis; I65.3 mehrerer und beidseitiger präzerebraler Arterien; I65.8 sonstiger; I65.9 n.n.bez. präzerebraler Arterie
+- **I66 Verschluss/Stenose zerebraler Arterien:** I66.0 A. cerebri media; I66.1 A. cerebri anterior; I66.2 A. cerebri posterior; I66.3 Aa. cerebelli; I66.4 mehrerer und beidseitiger; I66.8 sonstiger; I66.9 n.n.bez. zerebraler Arterie
+- **G45 Transitorische ischämische Attacken (TIA) und verwandte Syndrome** (jeweils mit Subcodes: x2 = 'Komplette Rückbildung innerhalb von 1 bis 24 Stunden', x3 = 'Komplette Rückbildung innerhalb von weniger als 1 Stunde', x9 = 'Verlauf der Rückbildung nicht näher bezeichnet'):
+  - G45.0- Arteria-vertebralis-Syndrom mit Basilaris-Symptomatik (G45.02/.03/.09)
+  - G45.1- Arteria-carotis-interna-Syndrom (halbseitig) (G45.12/.13/.19)
+  - G45.2- Multiple und bilaterale Syndrome der extrazerebralen hirnversorgenden Arterien (G45.22/.23/.29)
+  - G45.3- Amaurosis fugax (G45.32/.33/.39)
+  - G45.4- Transiente globale Amnesie [amnestische Episode] (G45.42/.43/.49)
+  - G45.8- Sonstige zerebrale transitorische Ischämie und verwandte Syndrome (G45.82/.83/.89)
+  - G45.9- Zerebrale transitorische Ischämie, nicht näher bezeichnet (G45.92/.93/.99)
+- Beginn nächster Abschnitt (Tabellenfuß): **'Zerebrale Atherosklerose und Aneurysmen'**
+**Fakten:** I69 = Folgen/Spätfolgen zerebrovaskulärer Krankheiten (SAB, intrazerebrale Blutung, Hirninfarkt) | G46 = Gefäßsyndrome des Gehirns: Arteria-cerebri-media/-anterior/-posterior-Syndrom, Hirnstammsyndrom, Kleinhirnsyndrom, lakunäre Syndrome | TIA (G45) ist zeitlich definiert: komplette Rückbildung innerhalb von 1–24 Stunden bzw. <1 Stunde | G45.3 = Amaurosis fugax; G45.4 = Transiente globale Amnesie [amnestische Episode] | I65 = Verschluss/Stenose präzerebraler (extrakranieller) Arterien; I66 = zerebraler Arterien
+
+### Seite gidx 603 — Liste der chronischen Erkrankungen – Zerebrale Atherosklerose/Aneurysmen (I67/I68); Kapitel X Atmungssystem: Emphysem/COPD (J43/J44) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 14 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 14 von 33.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+
+### Zerebrale Atherosklerose und Aneurysmen (Ende Kapitel IX+VI)
+- I67.0 Dissektion zerebraler Arterien, nichtrupturiert
+- I67.1- Zerebrales Aneurysma und zerebrale arteriovenöse Fistel: I67.10 Zerebrales Aneurysma (erworben); I67.11 Zerebrale arteriovenöse Fistel (erworben)
+- I67.2 Zerebrale Atherosklerose; I67.3 Progressive subkortikale vaskuläre Enzephalopathie; I67.5 Moyamoya-Syndrom; I67.6 Nichteitrige Thrombose des intrakraniellen Venensystems; I67.7 Zerebrale Arteriitis, anderenorts nicht klassifiziert; I67.8-/I67.88 Sonstige näher bezeichnete zerebrovaskuläre Krankheiten; I67.9 Zerebrovaskuläre Krankheit, n.n.bez.
+- I68.0* Zerebrale Amyloidangiopathie; I68.1* Zerebrale Arteriitis bei anderenorts klassifizierten infektiösen und parasitären Krankheiten; I68.2* Zerebrale Arteriitis bei sonstigen anderenorts klassifizierten Krankheiten; I68.8* Sonstige zerebrovaskuläre Störungen bei anderenorts klassifizierten Krankheiten; G46.8* Sonstige Syndrome der Hirngefäße bei zerebrovaskulären Krankheiten
+
+### Kapitel X (roter Kapitelbalken): 'Krankheiten des Atmungssystems (J00-J99)'
+Abschnitt: **'Chronische Krankheiten der unteren Atemwege (J40-J47)/ Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen (J80-J84)/Sonstige Krankheiten des Atmungssystems (J95-J99)'** – Unterabschnitt: **'Emphysem / Chronische obstruktive Bronchitis'**
+- **J43 Emphysem:** J43.0 McLeod-Syndrom; J43.1 Panlobuläres Emphysem; J43.2 Zentrilobuläres Emphysem; J43.8 Sonstiges Emphysem; J43.9 Emphysem, n.n.bez.
+- **J44 Chronische obstruktive Lungenkrankheit (COPD)** – vier Gruppen, jeweils mit FEV1-Abstufung (Subcodes .x0 'FEV1 < 35 % des Sollwertes', .x1 'FEV1 >= 35 % und < 50 % des Sollwertes', .x2 'FEV1 >= 50 % und < 70 % des Sollwertes', .x3 'FEV1 >= 70 % des Sollwertes', .x9 'FEV1 nicht näher bezeichnet'):
+  - J44.0- mit akuter Infektion der unteren Atemwege (J44.00–J44.09)
+  - J44.1- mit akuter Exazerbation, nicht näher bezeichnet (J44.10–J44.19)
+  - J44.8- Sonstige näher bezeichnete chronische obstruktive Lungenkrankheit (J44.80–J44.89)
+  - J44.9- Chronische obstruktive Lungenkrankheit, nicht näher bezeichnet (J44.90–J44.99)
+- J47 Bronchiektasen; J98.2 Interstitielles Emphysem; J98.3 Kompensatorisches Emphysem
+- **Abschnitt: 'akutes Lungenödem und respiratorische Insuffizienz':** J80 Atemnotsyndrom des Erwachsenen [ARDS]; J81 Lungenödem
+**Fakten:** I67.2 = Zerebrale Atherosklerose; I67.3 = Progressive subkortikale vaskuläre Enzephalopathie; I67.5 = Moyamoya-Syndrom | ICD-10-Kapitel X = Krankheiten des Atmungssystems (J00-J99) | J44 = Chronische obstruktive Lungenkrankheit (COPD), Schweregrad über FEV1 (% des Sollwertes) kodiert: <35 %, 35–<50 %, 50–<70 %, >=70 % | J43 = Lungenemphysem (panlobulär, zentrilobulär); J47 = Bronchiektasen | J80 = Atemnotsyndrom des Erwachsenen [ARDS]; J81 = Lungenödem
+
+### Seite gidx 604 — Liste der chronischen Erkrankungen – Respiratorische Insuffizienz (J95/J96), Lungenfibrose (J84/J99); Kapitel XIII Muskel-Skelett-System: Rheumatoide Arthritis (M05) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 15 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 15 von 33.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+
+### Atmungssystem (Ende Kapitel X)
+- J95.1 akute pulmonale Insuffizienz nach Thoraxoperation; J95.2 akute pulmonale Insuffizienz nach nicht am Thorax vorgenommener Operation; J95.3 Chronische pulmonale Insuffizienz nach Operation
+- **J96 Respiratorische Insuffizienz** – Subcodes jeweils: .x0 'Typ I [hypoxisch]', .x1 'Typ II [hyperkapnisch]', .x9 'Typ nicht näher bezeichnet':
+  - J96.0- akute respiratorische Insuffizienz, anderenorts nicht klassifiziert (J96.00/.01/.09)
+  - J96.1- Chronische respiratorische Insuffizienz, anderenorts nicht klassifiziert (J96.10/.11/.19)
+  - J96.9- Respiratorische Insuffizienz, nicht näher bezeichnet (J96.90/.91/.99)
+- **Abschnitt: 'Postinflammatorische und interstitielle Lungenfibrose':** J99.0* Lungenkrankheit bei seropositiver chronischer Polyarthritis; J99.1* Krankheiten der Atemwege bei sonstigen diffusen Bindegewebskrankheiten; J99.8* Krankheiten der Atemwege bei sonstigen anderenorts klassifizierten Krankheiten; J84.0 Alveoläre und parietoalveoläre Krankheitszustände; J84.1 Sonstige interstitielle Lungenkrankheiten mit Fibrose; J84.8 Sonstige näher bezeichnete interstitielle Lungenkrankheiten; J84.9 Interstitielle Lungenkrankheit, n.n.bez.
+
+### Kapitel XIII (roter Kapitelbalken): 'Krankheiten des Muskel-Skelett-Systems und des Bindegewebes (M00-M99)'
+Abschnitt: **'Entzündliche Polyarthropathien (M05-M14)/ Arthrose (M15-M19)/ Systemkrankheiten des Bindegewebes (M30-M36)/ Spondylopathien (M45-M49)'** – Unterabschnitt: **'Rheumatoide Arthritis und entzündliche Bindegewebskrankheiten'**
+- **#M05.0- Felty-Syndrom** (M05.00–M05.09). Lokalisationsschlüssel (4. Stelle), der für alle folgenden M-Codes gilt: .0 'Mehrere Lokalisationen'; .1 'Schulterregion [Klavikula, Skapula, Akromioklavikular-, Schulter-, Sternoklavikulargelenk]'; .2 'Oberarm [Humerus, Ellenbogengelenk]'; .3 'Unterarm [Radius, Ulna, Handgelenk]'; .4 'Hand [Finger, Handwurzel, Mittelhand, Gelenke zwischen diesen Knochen]'; .5 'Beckenregion und Oberschenkel [Becken, Femur, Gesäß, Hüfte, Hüftgelenk, Iliosakralgelenk]'; .6 'Unterschenkel [Fibula, Tibia, Kniegelenk]'; .7 'Knöchel und Fuß [Fußwurzel, Mittelfuß, Zehen, Sprunggelenk, sonstige Gelenke des Fußes]'; .8 'Sonstige [Hals, Kopf, Rippen, Rumpf, Schädel, Wirbelsäule]'; .9 'nicht näher bezeichnete Lokalisationen'
+- **#M05.1-+ Lungenmanifestation der seropositiven chronischen Polyarthritis** (M05.10+ bis M05.19+, gleiche Lokalisationen)
+- **M05.2- Vaskulitis bei seropositiver chronischer Polyarthritis** (auf dieser Seite: M05.20 Mehrere Lokalisationen; M05.21 Schulterregion; M05.22 Oberarm; M05.23 Unterarm; M05.24 Hand)
+**Fakten:** J96 = Respiratorische Insuffizienz, unterschieden in Typ I [hypoxisch] und Typ II [hyperkapnisch], jeweils akut/chronisch | ICD-10-Kapitel XIII = Krankheiten des Muskel-Skelett-Systems und des Bindegewebes (M00-M99) | M05 = Seropositive chronische Polyarthritis (rheumatoide Arthritis): Felty-Syndrom (M05.0), Lungenmanifestation (M05.1), Vaskulitis (M05.2) | Felty-Syndrom = rheumatoide Arthritis mit Splenomegalie und Leukopenie | Lokalisationsschlüssel der M-Codes: .1 Schulterregion, .2 Oberarm, .3 Unterarm, .4 Hand, .5 Becken/Oberschenkel, .6 Unterschenkel, .7 Knöchel/Fuß, .8 sonstige, .9 n.n.bez.
+
+### Seite gidx 605 — Liste der chronischen Erkrankungen – Seropositive chronische Polyarthritis (M05.2–M05.9), Seronegative chronische Polyarthritis (M06.0) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 16 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 16 von 33. Fortsetzung Kapitel XIII / Abschnitt 'Rheumatoide Arthritis und entzündliche Bindegewebskrankheiten'. Alle Zeilen nutzen denselben Lokalisationsschlüssel (Mehrere Lokalisationen / Schulterregion / Oberarm / Unterarm / Hand / Beckenregion und Oberschenkel / Unterschenkel / Knöchel und Fuß / Sonstige / n.n.bez.).
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+- **M05.2- Vaskulitis bei seropositiver chronischer Polyarthritis (Forts.):** M05.25 Beckenregion und Oberschenkel; M05.26 Unterschenkel; M05.27 Knöchel und Fuß; M05.28 Sonstige; M05.29 n.n.bez. Lokalisationen
+- **#M05.3-+ Seropositive chronische Polyarthritis mit Beteiligung sonstiger Organe und Organsysteme:** M05.30+ Mehrere Lokalisationen; M05.31+ Schulterregion; M05.32+ Oberarm; M05.33+ Unterarm; M05.34+ Hand; M05.35+ Beckenregion und Oberschenkel; M05.36+ Unterschenkel; M05.37+ Knöchel und Fuß; M05.38+ Sonstige; M05.39+ n.n.bez. Lokalisationen
+- **#M05.8- Sonstige seropositive chronische Polyarthritis:** M05.80–M05.89 (alle 10 Lokalisationen)
+- **#M05.9- Seropositive chronische Polyarthritis, nicht näher bezeichnet:** M05.90–M05.99 (alle 10 Lokalisationen)
+- **#M06.0- Seronegative chronische Polyarthritis:** auf dieser Seite M06.00 Mehrere Lokalisationen; M06.01 Schulterregion; M06.02 Oberarm; M06.03 Unterarm; M06.04 Hand; M06.05 Beckenregion und Oberschenkel; M06.06 Unterschenkel; M06.07 Knöchel und Fuß; M06.08 Sonstige
+**Fakten:** M05.3 = Seropositive chronische Polyarthritis mit Beteiligung sonstiger Organe und Organsysteme | M05.8 = Sonstige seropositive chronische Polyarthritis; M05.9 = n.n.bez. | M06.0 = Seronegative chronische Polyarthritis (Rheumafaktor-negativ) | Unterscheidung seropositiv (M05) vs. seronegativ (M06) ist zentrales Ordnungskriterium der rheumatoiden Arthritis im ICD-10
+
+### Seite gidx 606 — Liste der chronischen Erkrankungen – Seronegative cP-Varianten (M06.1–M06.9): Still-Krankheit, Bursitis, Rheumaknoten, entzündliche Polyarthropathie (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 17 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 17 von 33. Fortsetzung M06 mit identischem Lokalisationsschlüssel.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+- M06.09 Seronegative chronische Polyarthritis: nicht näher bezeichnete Lokalisationen
+- **#M06.1- Adulte Form der Still-Krankheit:** M06.10–M06.19 (alle 10 Lokalisationen)
+- **#M06.2- Bursitis bei chronischer Polyarthritis:** M06.20–M06.29 (alle 10 Lokalisationen)
+- **#M06.3- Rheumaknoten:** M06.30–M06.39 (alle 10 Lokalisationen)
+- **#M06.4- Entzündliche Polyarthropathie:** M06.40–M06.49 (alle 10 Lokalisationen)
+- **#M06.8- Sonstige näher bezeichnete chronische Polyarthritis:** M06.80–M06.89 (alle 10 Lokalisationen)
+- **#M06.9- Chronische Polyarthritis, nicht näher bezeichnet** (Beginn am Seitenende)
+**Fakten:** M06.1 = Adulte Form der Still-Krankheit (Adult-onset Still disease) | M06.2 = Bursitis bei chronischer Polyarthritis; M06.3 = Rheumaknoten | M06.4 = Entzündliche Polyarthropathie; M06.8 = sonstige näher bezeichnete cP; M06.9 = cP n.n.bez. | Rheumaknoten sind typische extraartikuläre Manifestation der rheumatoiden Arthritis
+
+### Seite gidx 607 — Liste der chronischen Erkrankungen – Juvenile chronische Arthritis (M08): adulter Typ, Spondylitis ankylosans, systemische/oligoartikuläre Form (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 18 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 18 von 33. Fortsetzung Kapitel XIII; Übergang zu juvenilen Arthritiden (M08), gleicher Lokalisationsschlüssel.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+- **M06.90–M06.99 Chronische Polyarthritis, nicht näher bezeichnet** (alle 10 Lokalisationen)
+- **#M08.0- Juvenile chronische Polyarthritis, adulter Typ:** M08.00–M08.09 (alle 10 Lokalisationen)
+- **#M08.1- Juvenile Spondylitis ankylosans:** M08.10–M08.19 (alle 10 Lokalisationen)
+- **#M08.2- Juvenile chronische Arthritis, systemisch beginnende Form:** M08.20–M08.29 (alle 10 Lokalisationen)
+- **M08.3** Juvenile chronische Arthritis (seronegativ), polyartikuläre Form
+- **#M08.4- Juvenile chronische Arthritis, oligoartikuläre Form:** auf dieser Seite M08.40 Mehrere Lokalisationen; M08.41 Schulterregion; M08.42 Oberarm; M08.43 Unterarm; M08.44 Hand; M08.45 Beckenregion und Oberschenkel; M08.46 Unterschenkel; M08.47 Knöchel und Fuß
+**Fakten:** M08 = Juvenile chronische Arthritis (juvenile idiopathische Arthritis) | Unterformen M08: adulter Typ (M08.0), juvenile Spondylitis ankylosans (M08.1), systemisch beginnende Form (M08.2), seronegativ polyartikulär (M08.3), oligoartikuläre Form (M08.4) | Systemisch beginnende juvenile Arthritis = juveniler Morbus Still
+
+### Seite gidx 608 — Liste der chronischen Erkrankungen – Vaskulitis/sonstige juvenile Arthritis (M08.7–M08.9); juvenile Arthritis bei Psoriasis und Crohn (M09.0/M09.1) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 19 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 19 von 33.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+- M08.48 Juvenile chronische Arthritis, oligoartikuläre Form: Sonstige; M08.49 n.n.bez. Lokalisationen
+- **#M08.7- Vaskulitis bei juveniler Arthritis:** M08.70–M08.79 (alle 10 Lokalisationen)
+- **#M08.8- Sonstige juvenile Arthritis:** M08.80–M08.89 (alle 10 Lokalisationen)
+- **#M08.9- Juvenile Arthritis, nicht näher bezeichnet:** M08.90–M08.99 (alle 10 Lokalisationen)
+- **#M09.0-* Juvenile Arthritis bei Psoriasis:** M09.00*–M09.09* (alle 10 Lokalisationen)
+- **#M09.1-* Juvenile Arthritis bei Crohn-Krankheit [Enteritis regionalis]:** auf dieser Seite M09.10* Mehrere Lokalisationen; M09.11* Schulterregion; M09.12* Oberarm; M09.13* Unterarm; M09.14* Hand; M09.15* Beckenregion und Oberschenkel; M09.16* Unterschenkel; M09.17* Knöchel und Fuß; M09.18* Sonstige
+**Fakten:** M09.0* = Juvenile Arthritis bei Psoriasis | M09.1* = Juvenile Arthritis bei Crohn-Krankheit [Enteritis regionalis] | M08.7 = Vaskulitis bei juveniler Arthritis | Stern-Codes (*) kennzeichnen Manifestationen bei anderenorts klassifizierter Grunderkrankung
+
+### Seite gidx 609 — Liste der chronischen Erkrankungen – Juvenile Arthritis bei Colitis ulcerosa (M09.2/M09.8); palindromer Rheumatismus (M12.3); Vaskulitiden (M30/M31); SLE (M32); Myositiden (M33) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 20 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 20 von 33.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+- M09.19* Juvenile Arthritis bei Crohn-Krankheit: n.n.bez. Lokalisationen
+- **#M09.2-* Juvenile Arthritis bei Colitis ulcerosa:** M09.20*–M09.29* (alle 10 Lokalisationen)
+- **#M09.8-* Juvenile Arthritis bei sonstigen anderenorts klassifizierten Krankheiten:** M09.80*–M09.89* (alle 10 Lokalisationen)
+- **#M12.3- Palindromer Rheumatismus:** M12.30–M12.39 (alle 10 Lokalisationen)
+- **M30 Panarteriitis nodosa und verwandte Zustände:** M30.0 Panarteriitis nodosa; M30.1 Panarteriitis mit Lungenbeteiligung; M30.2 Juvenile Panarteriitis; M30.3 Mukokutanes Lymphknotensyndrom [Kawasaki-Krankheit]; M30.8 Sonstige mit Panarteriitis nodosa verwandte Zustände
+- **M31 Sonstige nekrotisierende Vaskulopathien:** M31.0 Hypersensitivitätsangiitis; M31.1 Thrombotische Mikroangiopathie; M31.2 Letales Mittelliniengranulom; M31.3 Wegener-Granulomatose; M31.4 Aortenbogen-Syndrom [Takayasu-Syndrom]; M31.5 Riesenzellarteriitis bei Polymyalgia rheumatica; M31.6 Sonstige Riesenzellarteriitis; M31.7 Mikroskopische Polyangiitis; M31.8 Sonstige näher bezeichnete nekrotisierende Vaskulopathien; M31.9 Nekrotisierende Vaskulopathie, n.n.bez.
+- **M32 Systemischer Lupus erythematodes (SLE):** M32.0 Arzneimittelinduzierter systemischer Lupus erythematodes; M32.1+ Systemischer Lupus erythematodes mit Beteiligung von Organen oder Organsystemen; M32.8 Sonstige Formen des systemischen Lupus erythematodes; M32.9 Systemischer Lupus erythematodes, n.n.bez.
+- **M33 Dermatopolymyositis:** M33.0 Juvenile Dermatomyositis; M33.1 Sonstige Dermatomyositis; M33.2 Polymyositis
+**Fakten:** M09.2* = Juvenile Arthritis bei Colitis ulcerosa | M12.3 = Palindromer Rheumatismus | M30.0 = Panarteriitis nodosa; M30.3 = Mukokutanes Lymphknotensyndrom [Kawasaki-Krankheit] | M31.3 = Wegener-Granulomatose; M31.4 = Aortenbogen-Syndrom [Takayasu-Syndrom]; M31.5 = Riesenzellarteriitis bei Polymyalgia rheumatica | M32 = Systemischer Lupus erythematodes (u.a. arzneimittelinduziert, mit Organbeteiligung) | M33.0 = Juvenile Dermatomyositis; M33.2 = Polymyositis
+
+### Seite gidx 610 — Liste der chronischen Erkrankungen – Systemische Sklerose (M34), Sjögren/Behçet/Polymyalgia (M35); Spondylitis ankylosans (M45), Spondylopathien (M46) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 21 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 21 von 33.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+- M33.9 Dermatomyositis-Polymyositis, nicht näher bezeichnet
+- **M34 Systemische Sklerose:** M34.0 Progressive systemische Sklerose; M34.1 CR(E)ST-Syndrom; M34.2 Systemische Sklerose, durch Arzneimittel oder chemische Substanzen induziert; M34.8 Sonstige Formen der systemischen Sklerose; M34.9 Systemische Sklerose, n.n.bez.
+- **M35 Sonstige Systemkrankheiten des Bindegewebes:** M35.0 Sicca-Syndrom [Sjögren-Syndrom]; M35.1 Sonstige Overlap-Syndrome; M35.2 Behçet-Krankheit; M35.3 Polymyalgia rheumatica; M35.4 Eosinophile Fasziitis; M35.5 Multifokale Fibrosklerose; M35.6 Rezidivierende Pannikulitis [Pfeifer-Weber-Christian-Krankheit]; M35.7 Hypermobilitäts-Syndrom; M35.8 Sonstige näher bezeichnete Krankheiten mit Systembeteiligung des Bindegewebes; M35.9 Krankheit mit Systembeteiligung des Bindegewebes, n.n.bez.
+- M36.0* Dermatomyositis-Polymyositis bei Neubildungen; M36.8* Systemkrankheiten des Bindegewebes bei sonstigen anderenorts klassifizierten Krankheiten
+- **M45.0- Spondylitis ankylosans (Morbus Bechterew):** M45.00–M45.09. Wirbelsäulen-Lokalisationsschlüssel: .0 'Mehrere Lokalisationen der Wirbelsäule'; .1 'Okzipito-Atlanto-Axialbereich'; .2 'Zervikalbereich'; .3 'Zervikothorakalbereich'; .4 'Thorakalbereich'; .5 'Thorakolumbalbereich'; .6 'Lumbalbereich'; .7 'Lumbosakralbereich'; .8 'Sakral- und Sakrokokzygealbereich'; .9 'nicht näher bezeichnete Lokalisation'
+- **#M46.0- Spinale Enthesopathie:** M46.00–M46.09 (gleiche Wirbelsäulen-Lokalisationen)
+- **#M46.8- Sonstige näher bezeichnete entzündliche Spondylopathien:** M46.80–M46.89
+- **#M46.9- Entzündliche Spondylopathie, nicht näher bezeichnet:** auf dieser Seite M46.90–M46.96 (Mehrere Lokalisationen, Okzipito-Atlanto-Axial, Zervikal, Zervikothorakal, Thorakal, Thorakolumbal, Lumbal)
+**Fakten:** M34.0 = Progressive systemische Sklerose; M34.1 = CR(E)ST-Syndrom | M35.0 = Sicca-Syndrom [Sjögren-Syndrom]; M35.2 = Behçet-Krankheit; M35.3 = Polymyalgia rheumatica | M45 = Spondylitis ankylosans (Morbus Bechterew) | M46.0 = Spinale Enthesopathie; M46.8/M46.9 = entzündliche Spondylopathien | Wirbelsäulen-Lokalisationen: Okzipito-Atlanto-Axial, Zervikal, Zervikothorakal, Thorakal, Thorakolumbal, Lumbal, Lumbosakral, Sakral/Sakrokokzygeal
+
+### Seite gidx 611 — Liste der chronischen Erkrankungen – Spondylopathien bei Grunderkrankungen (M49.3–M49.5); Gicht/Arthritis urica (M10.0 idiopathisch, M10.1 Bleigicht) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 22 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 22 von 33.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+- M46.97 Entzündliche Spondylopathie, n.n.bez.: Lumbosakralbereich; M46.98 Sakral- und Sakrokokzygealbereich; M46.99 n.n.bez. Lokalisation
+- **#M49.3-* Spondylopathie bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten:** M49.30*–M49.39* (alle Wirbelsäulen-Lokalisationen)
+- **#M49.4-* Neuropathische Spondylopathie:** M49.40*–M49.49* (alle Wirbelsäulen-Lokalisationen)
+- **M49.5-* Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten:** M49.50*–M49.59* (alle Wirbelsäulen-Lokalisationen)
+- **Abschnitt (grauer Zwischenbalken): 'Gicht / Arthritis urica'**
+  - **#M10.0- Idiopathische Gicht:** M10.00–M10.09 (alle 10 Gelenk-Lokalisationen wie M05/M06: Mehrere, Schulterregion, Oberarm, Unterarm, Hand, Beckenregion/Oberschenkel, Unterschenkel, Knöchel/Fuß, Sonstige, n.n.bez.)
+  - **#M10.1- Bleigicht:** auf dieser Seite M10.10–M10.17 (Mehrere Lokalisationen bis Knöchel und Fuß)
+**Fakten:** M49.4* = Neuropathische Spondylopathie; M49.5* = Wirbelkörperkompression bei anderenorts klassifizierten Krankheiten | M10 = Gicht (Arthritis urica) | M10.0 = Idiopathische Gicht; M10.1 = Bleigicht (Gicht durch Bleiintoxikation)
+
+### Seite gidx 612 — Liste der chronischen Erkrankungen – Gicht-Formen (M10.2–M10.9: arzneimittelinduziert, Nierenfunktionsstörung, sekundär); Apatitrheumatismus/Chondrokalzinose (M11) (Quelle: Kassenärztliche Vereinigung Nordrhein: Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich, Stand September 2016, Seite 23 von 33)
+## Dokumentkontext
+KV Nordrhein, 'Liste der chronischen Erkrankungen zur Förderung im hausärztlichen Versorgungsbereich', Stand September 2016, Seite 23 von 33. Fortsetzung Abschnitt 'Gicht / Arthritis urica', danach Kristallarthropathien M11.
+
+## Inhalt der Seite (wortwörtlich transkribiert)
+- M10.18 Bleigicht: Sonstige; M10.19 n.n.bez. Lokalisationen
+- **#M10.2- Arzneimittelinduzierte Gicht:** M10.20–M10.29 (alle 10 Lokalisationen)
+- **#M10.3- Gicht durch Nierenfunktionsstörung:** M10.30–M10.39 (alle 10 Lokalisationen)
+- **#M10.4- Sonstige sekundäre Gicht:** M10.40–M10.49 (alle 10 Lokalisationen)
+- **#M10.9- Gicht, nicht näher bezeichnet:** M10.90–M10.99 (alle 10 Lokalisationen)
+- **#M11.0- Apatitrheumatismus:** M11.00–M11.09 (alle 10 Lokalisationen)
+- **#M11.1- Familiäre Chondrokalzinose:** Beginn mit M11.10 Familiäre Chondrokalzinose: Mehrere Lokalisationen (Seite endet hier)
+**Fakten:** M10.2 = Arzneimittelinduzierte Gicht; M10.3 = Gicht durch Nierenfunktionsstörung; M10.4 = sonstige sekundäre Gicht; M10.9 = Gicht n.n.bez. | M11.0 = Apatitrheumatismus (Hydroxylapatit-Kristallarthropathie) | M11.1 = Familiäre Chondrokalzinose (Kalziumphosphat-Dihydrat-Ablagerung, 'Pseudogicht'-Gruppe) | Gicht-Ätiologien im ICD-10: idiopathisch, Blei, Arzneimittel, Nierenfunktionsstörung, sonstige sekundäre
+
 ### Seite gidx 631 — ET-Bereich: Ambulante, (Teil-)stationaere Versorgung und Selbsthilfe (Quelle: Folie 9)
 ## Versorgungslandschaft in Deutschland (psycho-sozialer Bereich)
 
