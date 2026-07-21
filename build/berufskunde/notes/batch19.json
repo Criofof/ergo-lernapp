@@ -1,0 +1,198 @@
+{
+  "batch": "19",
+  "pages": [
+    {
+      "gidx": 217,
+      "source": "Praesi_Krankenversicherung 18B.pdf, S. 9 (Gesundheitssystem der BRD)",
+      "slide_title": "internationaler Vergleich — Deutschland",
+      "type": "inhalt",
+      "notes_md": "## Internationaler Vergleich: Deutschland\n\nKennzeichen des deutschen Krankenversicherungssystems:\n\n- **Deutschland**\n  - hohe Standards\n  - „Wahlmöglichkeit“ durch duales System (gesetzlich/privat)\n  - verpflichtend => Universalität (Versicherungspflicht für alle)\n\n### Schaubild (wortwörtlich transkribiert)\nTitel: **„Wie ist Deutschland krankenversichert?“**\nUntertitel: „Versicherte und Ausgaben der gesetzlichen und privaten Krankenversicherungen 2015\"\n\nZwei horizontale Balken:\n1. **Versicherte**: GKV* **88,9 %** (grün) | PKV** **11,1 %** (blau); grauer Hinweisbalken: „Versicherte gesamt 79,5 Mio.“\n2. **Ausgaben**: GKV **86,8 %** (grün) | PKV **13,2 %** (blau); grauer Hinweisbalken: „Ausgaben GKV & PKV gesamt 230,5 Mrd. Euro\"\n\nMerksatz: In Deutschland sind knapp 9 von 10 Personen gesetzlich versichert; die PKV gibt mit ca. 11 % der Versicherten überproportional 13,2 % der Gesamtausgaben aus.",
+      "figures": [
+        {
+          "caption": "Wie ist Deutschland krankenversichert? (2015)",
+          "shows": "Balkendiagramm: Anteile GKV (88,9 %) und PKV (11,1 %) an Versicherten (gesamt 79,5 Mio.) sowie Anteile an Ausgaben (GKV 86,8 %, PKV 13,2 %; gesamt 230,5 Mrd. Euro)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 10],
+      "key_facts": [
+        "Deutschland: duales Krankenversicherungssystem (gesetzlich/privat) mit Wahlmöglichkeit",
+        "Krankenversicherung ist in Deutschland verpflichtend => Universalität",
+        "2015: 88,9 % GKV- vs. 11,1 % PKV-Versicherte (gesamt 79,5 Mio. Versicherte)",
+        "2015: Ausgabenanteile GKV 86,8 % / PKV 13,2 % (gesamt 230,5 Mrd. Euro)"
+      ]
+    },
+    {
+      "gidx": 218,
+      "source": "Praesi_Krankenversicherung 18B.pdf, S. 10 (Gesundheitssystem der BRD)",
+      "slide_title": "internationaler Vergleich — USA",
+      "type": "inhalt",
+      "notes_md": "## Internationaler Vergleich: USA\n\n- **USA**\n  - kein einheitliches Gesundheitssystem\n  - abhängig von privaten Versicherungen und staatlichen Programmen\n  - **nicht verpflichtend** => viele Menschen nicht versichert\n\n### Säulendiagramm (wortwörtlich transkribiert)\nAchse: „Einwohner in Millionen“ (0–175+)\nLegende und Werte:\n- Private Krankenversicherung durch Arbeitgeber: **181 Mio.**\n- Eigene private Krankenversicherung: **52 Mio.**\n- Medicaid: **56 Mio.**\n- Medicare: **62 Mio.**\n- Military Health, Tricare, Verterans Health Administration: **16 Mio.**\n- Ohne jegliche Krankenversicherung: **29 Mio.**\n\nEinordnung: Medicaid = staatliches Programm für Bedürftige; Medicare = staatliches Programm v. a. für Ältere; größte Gruppe ist über den Arbeitgeber versichert; 29 Mio. Menschen ganz ohne Versicherung.",
+      "figures": [
+        {
+          "caption": "Krankenversicherung in den USA (Einwohner in Mio.)",
+          "shows": "Säulendiagramm: Arbeitgeber-PKV 181, eigene PKV 52, Medicaid 56, Medicare 62, Military Health/Tricare/Veterans Health Administration 16, ohne jegliche Krankenversicherung 29 (Mio. Einwohner)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "USA: kein einheitliches Gesundheitssystem, keine Versicherungspflicht",
+        "Größte Gruppe: private Krankenversicherung durch Arbeitgeber (181 Mio.)",
+        "Medicaid (56 Mio.) und Medicare (62 Mio.) sind staatliche Programme",
+        "29 Mio. US-Einwohner ohne jegliche Krankenversicherung"
+      ]
+    },
+    {
+      "gidx": 219,
+      "source": "Praesi_Krankenversicherung 18B.pdf, S. 11 (Gesundheitssystem der BRD)",
+      "slide_title": "internationaler Vergleich — Schweden/Norwegen",
+      "type": "inhalt",
+      "notes_md": "## Internationaler Vergleich: Schweden/Norwegen\n\n- **Schweden/Norwegen**\n  - öffentlich finanziertes Gesundheitssystem\n  - Bevölkerung überwiegend staatlich versichert\n  - private Versicherungen nur für zusätzliche Leistungen\n  - Fokus auf Prävention => hohe Lebenserwartung & Qualität\n\nVergleichsmerksatz: Skandinavisches Modell = steuer-/staatsfinanziertes System (Beveridge-Prinzip) im Gegensatz zum deutschen dualen System und zum US-amerikanischen privat dominierten System.",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Schweden/Norwegen: öffentlich finanziertes Gesundheitssystem, Bevölkerung überwiegend staatlich versichert",
+        "Private Versicherungen dort nur für zusätzliche Leistungen",
+        "Fokus auf Prävention => hohe Lebenserwartung und Qualität"
+      ]
+    },
+    {
+      "gidx": 220,
+      "source": "Praesi_Krankenversicherung 18B.pdf, S. 12 (Gesundheitssystem der BRD)",
+      "slide_title": "HEALTH 2021 — Weltkarte (Gesundheitssystem-Ranking)",
+      "type": "inhalt",
+      "notes_md": "## HEALTH 2021 — internationales Ranking von Gesundheitssystemen\n\nWeltkarte mit farbcodiertem Ranking (Legende „Rank“):\n- 1–30 dunkelgrün | 31–60 grün | 61–90 hellgrün | 91–120 gelb | 121–150 orange | 151–167 rot\n\n**Strongest (Plätze 1–10):**\n1. Japan\n2. Singapore\n3. South Korea\n4. Norway\n5. Taiwan, China\n6. Israel\n7. China\n8. Iceland\n9. Netherlands\n10. Sweden\n\n**Weakest (Plätze 158–167):**\n158. Nigeria\n159. Liberia\n160. Eswatini\n161. Dem. Rep. Congo\n162. Sierra Leone\n163. Somalia\n164. Lesotho\n165. Chad\n166. South Sudan\n167. Central African Rep.\n\nKernaussage: Spitzenplätze dominieren asiatische Staaten (Japan, Singapur, Südkorea) sowie skandinavische Länder (Norwegen, Island, Schweden); die Schlussplätze liegen ausschließlich in Afrika. Deutschland liegt im grünen Bereich (Westeuropa überwiegend dunkelgrün/grün).",
+      "figures": [
+        {
+          "caption": "HEALTH 2021 Weltkarte — Ranking der Gesundheitssysteme",
+          "shows": "Farbkodierte Weltkarte (Rank 1–30 dunkelgrün bis 151–167 rot) mit Top-10-Liste (1 Japan … 10 Sweden) und Schlusslichtern (158 Nigeria … 167 Central African Rep.)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "HEALTH 2021 Ranking: Platz 1 Japan, 2 Singapore, 3 South Korea, 4 Norway",
+        "Skandinavische Länder unter den Top 10 (Norway 4, Iceland 8, Sweden 10)",
+        "Schwächste Gesundheitssysteme (158–167) liegen ausschließlich in Afrika (letzter: Central African Rep.)"
+      ]
+    },
+    {
+      "gidx": 221,
+      "source": "Praesi_Krankenversicherung 18B.pdf, S. 13 (Gesundheitssystem der BRD)",
+      "slide_title": "Fazit",
+      "type": "inhalt",
+      "notes_md": "## Fazit (zum Thema Krankenversicherung / Gesundheitssysteme im Vergleich)\n\n- **„zwei Klassengesellschaft“** (Kritik am Nebeneinander von GKV und PKV)\n- **Zuzahlungen für gesetzlich Versicherte**\n  - oft bei verschreibungspflichtigen Medikamenten\n- **längere Wartezeiten bei GKV**\n- Allerdings **hohe Qualität** in der med. Versorgung\n- **umfassend** (Leistungskatalog)\n\nPrüfungsrelevant: Typische Kritikpunkte am deutschen dualen System = Zwei-Klassen-Medizin, Zuzahlungen (z. B. bei verschreibungspflichtigen Medikamenten), längere Wartezeiten für GKV-Patienten; Stärken = hohe Qualität und umfassende Versorgung.",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Kritik am deutschen System: „zwei Klassengesellschaft“ (GKV vs. PKV)",
+        "Zuzahlungen für gesetzlich Versicherte, oft bei verschreibungspflichtigen Medikamenten",
+        "Längere Wartezeiten bei GKV-Patienten",
+        "Stärken: hohe Qualität und umfassende medizinische Versorgung"
+      ]
+    },
+    {
+      "gidx": 222,
+      "source": "Praesi_Krankenversicherung 18B.pdf, S. 14 (Gesundheitssystem der BRD)",
+      "slide_title": "Quellen",
+      "type": "quelle",
+      "notes_md": "## Quellen (der Präsentation Krankenversicherung)\n\n- de.statista.com\n- Studydrive.de\n- Pkv.de\n- https://jugend-und-bildung.de/fileadmin/user_upload_sozialpolitik/PDFs/Schaubild-Modelle-Krankenversicherung.pdf\n- Bundesministerium für Gesundheit\n\nKein fachlicher Prüfungsinhalt.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 223,
+      "source": "Rentenversicherung 18B.pdf, S. 1 (Gesundheitssystem der BRD)",
+      "slide_title": "Rentenversicherung",
+      "type": "titel",
+      "notes_md": "## Titelfolie: Rentenversicherung\n\nBeginn eines neuen Präsentationsabschnitts zur **gesetzlichen Rentenversicherung** (ein Zweig der Sozialversicherung; Träger: Deutsche Rentenversicherung). Kein weiterer Inhalt.",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": []
+    },
+    {
+      "gidx": 224,
+      "source": "Rentenversicherung 18B.pdf, S. 2 (Gesundheitssystem der BRD)",
+      "slide_title": "Gliederung",
+      "type": "gliederung",
+      "notes_md": "## Gliederung der Präsentation Rentenversicherung\n\n1. Leistungen der gesetzlichen Rentenversicherung\n2. Geschichte\n3. Säulen Modell\n4. Alternativen zur gesetzlichen Rentenversicherung/private Rentenversicherung\n5. Wichtige Fakten",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 225,
+      "source": "Rentenversicherung 18B.pdf, S. 3 (Gesundheitssystem der BRD)",
+      "slide_title": "Leistungen der gesetzlichen Rentenversicherung",
+      "type": "inhalt",
+      "notes_md": "## Leistungen der gesetzlichen Rentenversicherung\n\nWortwörtliches Zitat (Quelle: **BMAS** = Bundesministerium für Arbeit und Soziales):\n\n> „Die gesetzliche Rentenversicherung zahlt **Alters-**, **Erwerbsminderungs-** und **Hinterbliebenenrenten**, berücksichtigt dabei Kindererziehung (sogenannte **Mütterrente**) und ist **Reha-Träger**.“\n\nPrüfungsrelevante Leistungsübersicht der gesetzlichen Rentenversicherung (DRV):\n- **Altersrenten**\n- **Erwerbsminderungsrenten**\n- **Hinterbliebenenrenten**\n- Berücksichtigung von Kindererziehungszeiten („Mütterrente“)\n- **Reha-Träger** (medizinische und berufliche Rehabilitation — wichtig für ET: die DRV ist häufig Kostenträger ergotherapeutischer Leistungen im Reha-Kontext)",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "DRV zahlt Alters-, Erwerbsminderungs- und Hinterbliebenenrenten (BMAS)",
+        "Kindererziehung wird berücksichtigt (sogenannte Mütterrente)",
+        "Gesetzliche Rentenversicherung ist Reha-Träger",
+        "Quelle der Definition: BMAS (Bundesministerium für Arbeit und Soziales)"
+      ]
+    },
+    {
+      "gidx": 226,
+      "source": "Rentenversicherung 18B.pdf, S. 4 (Gesundheitssystem der BRD)",
+      "slide_title": "Geschichte",
+      "type": "inhalt",
+      "notes_md": "## Geschichte der Rentenversicherung (Zeittafel)\n\n- **1889**: Deutschland erste RV (Otto von Bismarck)\n- **1911**: Großbritannien führt staatliche RV ein\n- **1935**: USA verabschiedet SSA, der RV einführt (SSA = Social Security Act)\n- **1948**: viele europäische Länder (führen) nach 2. Weltkrieg RVs (ein)\n- **1957**: Europäische Gemeinschaft erkennt Bedeutung von Sozialversicherungen und fördert Zusammenarbeit\n- **1990er**: Länder reformieren Rentensystem wegen demografischem Wandel und hoher Alterserwartung\n\nZentrale Jahreszahl für die Prüfung: **1889 — erste gesetzliche Rentenversicherung weltweit in Deutschland unter Otto von Bismarck** (Reichsversicherungsordnung-Kontext, Bismarcksche Sozialgesetzgebung).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "1889: Deutschland führt als erstes Land eine Rentenversicherung ein (Otto von Bismarck)",
+        "1911: staatliche RV in Großbritannien",
+        "1935: Social Security Act (SSA) in den USA",
+        "1948: Ausbreitung der RV in Europa nach dem 2. Weltkrieg",
+        "1957: Europäische Gemeinschaft erkennt Bedeutung der Sozialversicherungen an",
+        "1990er: Rentenreformen wegen demografischem Wandel und hoher Lebenserwartung"
+      ]
+    },
+    {
+      "gidx": 227,
+      "source": "Rentenversicherung 18B.pdf, S. 5 (Gesundheitssystem der BRD)",
+      "slide_title": "3-Säulen-Modell",
+      "type": "inhalt",
+      "notes_md": "## 3-Säulen-Modell der Altersvorsorge\n\nSchaubild (Quelle: Deutsche Rentenversicherung): „Die Altersvorsorge basiert auf 3 Säulen:“ — Dach „Altersvorsorge / Das 3-Säulensystem“, darunter drei Säulen mit Fußleiste der Funktionen.\n\n### Säule 1: Betriebliche Altersversorgung\n- Direktversicherung\n- Pensionskasse\n- Pensionsfonds\n- Unterstützungskasse\n- Direktzusage\nFunktion (Fußzeile): **Ergänzungsfunktion**\n\n### Säule 2: Öffentlich-rechtliche Pflichtsysteme\n- Gesetzliche Rentenversicherung\n- Beamtenversorgung\n- Alterssicherung der Landwirte\n- Berufsständische Versorgung\nFunktion (Fußzeile): **Regelsicherungsfunktion**\n\n### Säule 3: Private Vorsorge\nz. B.\n- „Riester“-Verträge\n- Basisrenten-Verträge\n- Private Rentenversicherung\nFunktion (Fußzeile): **Ergänzungsfunktion**\n\nPrüfungsmerksatz: Nur die öffentlich-rechtlichen Pflichtsysteme (u. a. gesetzliche Rentenversicherung) haben Regelsicherungsfunktion; betriebliche und private Vorsorge ergänzen. Die 5 Durchführungswege der betrieblichen Altersvorsorge (Direktversicherung, Pensionskasse, Pensionsfonds, Unterstützungskasse, Direktzusage) auswendig können.",
+      "figures": [
+        {
+          "caption": "Das 3-Säulensystem der Altersvorsorge (Deutsche Rentenversicherung)",
+          "shows": "Drei Säulen unter dem Dach „Altersvorsorge“: Betriebliche Altersversorgung (Direktversicherung, Pensionskasse, Pensionsfonds, Unterstützungskasse, Direktzusage) = Ergänzungsfunktion; Öffentlich-rechtliche Pflichtsysteme (Gesetzliche RV, Beamtenversorgung, Alterssicherung der Landwirte, Berufsständische Versorgung) = Regelsicherungsfunktion; Private Vorsorge (Riester, Basisrente, private Rentenversicherung) = Ergänzungsfunktion",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "3 Säulen der Altersvorsorge: betriebliche Altersversorgung, öffentlich-rechtliche Pflichtsysteme, private Vorsorge",
+        "Durchführungswege betriebliche Altersvorsorge: Direktversicherung, Pensionskasse, Pensionsfonds, Unterstützungskasse, Direktzusage",
+        "Öffentlich-rechtliche Pflichtsysteme: Gesetzliche Rentenversicherung, Beamtenversorgung, Alterssicherung der Landwirte, Berufsständische Versorgung",
+        "Regelsicherungsfunktion haben nur die öffentlich-rechtlichen Pflichtsysteme; Säulen 1 und 3 haben Ergänzungsfunktion",
+        "Private Vorsorge: Riester-Verträge, Basisrenten-Verträge, private Rentenversicherung"
+      ]
+    },
+    {
+      "gidx": 228,
+      "source": "Rentenversicherung 18B.pdf, S. 6 (Gesundheitssystem der BRD)",
+      "slide_title": "Alternativen zur Rentenversicherung",
+      "type": "inhalt",
+      "notes_md": "## Alternativen zur Rentenversicherung — betriebliche Altersvorsorge\n\n- **Die betriebliche Altersvorsorge:**\n- Kann nur mit **Abstimmung des Arbeitgebers** abgeschlossen werden.\n- **Vorteile**: Der Arbeitgeber beteiligt sich finanziell an der Altersvorsorge. Dann bekommt man zu seinen beruflichen Leistungen mehr Gehalt.\n- **Nachteile**: Bei der Auszahlung sind die **Sozialabgaben (Steuern) sehr hoch** und **niedrige Zinsen**.\n\nPrüfungskontext: Betriebliche Altersvorsorge = 1. Säule des 3-Säulen-Modells; setzt Mitwirkung des Arbeitgebers voraus; Arbeitgeberbeteiligung als Plus, nachgelagerte Besteuerung/Sozialabgaben bei Auszahlung und Niedrigzinsen als Minus.",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Betriebliche Altersvorsorge kann nur mit Abstimmung des Arbeitgebers abgeschlossen werden",
+        "Vorteil: Arbeitgeber beteiligt sich finanziell an der Altersvorsorge",
+        "Nachteile: hohe Sozialabgaben/Steuern bei Auszahlung und niedrige Zinsen"
+      ]
+    }
+  ]
+}

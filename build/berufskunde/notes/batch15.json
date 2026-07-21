@@ -1,0 +1,303 @@
+{
+  "batch": "15",
+  "pages": [
+    {
+      "gidx": 169,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen'",
+      "slide_title": "(Kapitelauftakt-Bildseite ohne Text)",
+      "type": "deko",
+      "notes_md": "Reine Bildseite (Kapitelauftakt) ohne fachlichen Text: Strichzeichnung mit zwei großen Smartphones links und rechts, dazwischen Personen (eine gehende Frau mit gelbem Oberteil und blauer Hose, zwei Ärztinnen/Ärzte in Kitteln), darüber eine EKG-/Herzlinienkurve (schwarz-gelb) vor einem feinen Netz aus Knotenpunkten und Verbindungslinien (Symbol für Digitalisierung/Vernetzung im Gesundheitswesen). Kein prüfungsrelevanter Inhalt.",
+      "figures": [
+        {
+          "caption": "Kapitelauftakt-Illustration: Smartphones, Personen, EKG-Linie, Netzwerk",
+          "shows": "Symbolische Darstellung von Digitalisierung und Vernetzung im Gesundheitswesen (Telemedizin, Gesundheits-Apps)",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 170,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen'",
+      "slide_title": "Dynamisch ausgerichtet: Herausforderungen und Chancen",
+      "type": "titel",
+      "notes_md": "Kapiteltitelseite. Überschrift: **„Dynamisch ausgerichtet: Herausforderungen und Chancen“**. Links ein Smartphone-Ausschnitt mit Netzwerklinien. Das Kapitel behandelt die Themen Corona-Pandemie (Maßnahmen des BMG), Digitalisierung des Gesundheitswesens (Videosprechstunde, Corona-Warn-App, ePA, TI, DiGA, KI) und den Ausblick für das deutsche Gesundheitssystem.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Kapiteltitel: 'Dynamisch ausgerichtet: Herausforderungen und Chancen'"
+      ]
+    },
+    {
+      "gidx": 171,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 44",
+      "slide_title": "Besondere Herausforderung: die Corona-Pandemie",
+      "type": "inhalt",
+      "notes_md": "## Besondere Herausforderung: die Corona-Pandemie\n\nMit dem Jahr 2020 begann mit der **Corona-Pandemie** eine besondere Herausforderung, die es so zuvor noch nie gab.\n\n### Maßnahmen des BMG / IfSG\n- Um die Verbreitung des Coronavirus (**SARS-CoV-2**) einzudämmen, hat das **BMG** frühzeitig Gesetze und Maßnahmen initiiert.\n- Das BMG musste die Versorgung mit **persönlicher Schutzausrüstung, Desinfektionsmitteln, Medizinprodukten und Arzneimitteln** in Deutschland organisieren.\n- Dafür wurde das **Infektionsschutzgesetz (IfSG)** entsprechend geändert: Die Bundesregierung kann seither die **Einfuhr von Schutzausrüstungen eigenständig regeln**.\n\n### DIVI-Intensivregister\n- Mit einer **Verordnung** wurden die Kliniken bundesweit verpflichtet, **täglich alle freien Intensivbetten zu melden** (DIVI-Intensivregister; DIVI = **Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin**).\n- Ziel: Überblick über die Anzahl an Beatmungsbetten.\n- Um Betten für COVID-19-Erkrankte freizuhalten, wurden **planbare Operationen** durch die Krankenhäuser, soweit medizinisch möglich, **verschoben**.\n\n### Finanzielle Unterstützung\n- Kliniken, **Vorsorge- und Rehabilitationseinrichtungen** und die Ärzteschaft wurden während der Pandemie **finanziell unterstützt**.\n- Zugelassenen ambulanten und stationären Pflegeeinrichtungen wurden pandemiebedingte **Mehraufwendungen und Mindereinnahmen von den Pflegekassen erstattet**; die Unterstützungsmaßnahmen wurden mehrfach verlängert.\n- Corona-bedingte Sonderregelungen in der Pflege: Sicherstellung der pflegerischen Versorgung, präventive Testung (mit Kostenerstattung) von Beschäftigten, Pflegebedürftigen und – bei Pflegeheimen – Besuchspersonen, **Priorisierung des Pflegebereichs bei der Impfung** sowie die **einrichtungsbezogene Impfpflicht**.\n- Suchtkranke Menschen: Regeln für die **Substitutionsbehandlung** wurden durch die **SARS-CoV-2-Arzneimittelverordnung flexibilisiert**, sodass die Versorgung dieser vulnerablen Patientengruppe gesichert wurde.\n\n### Oberstes Gebot – der Schutz der Bevölkerung\n- Der Bund erhielt durch das **„Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite“** die Kompetenz, selbst Vorkehrungen zu treffen, z. B. **Reisebeschränkungen** oder **Melde- und Untersuchungspflichten** bei Verdacht einer Coronainfektion.\n- Die Einreise aus Risikogebieten wurde durch die **„Coronavirus-Einreiseverordnung“** geregelt (Vorschriften über digitale Anmelde-, Absonderungs- und Nachweispflicht, Fortsetzung auf Folgeseite).\n\n### Infobox (wörtlich)\n**DIVI-Intensivregister:** „Seit April 2020 erfasst das DIVI-Intensivregister (www.intensivregister.de) täglich die freien und belegten Behandlungskapazitäten in der Intensivmedizin von etwa 1.300 Akut-Krankenhäusern in Deutschland.“",
+      "figures": [
+        {
+          "caption": "Infobox DIVI-Intensivregister",
+          "shows": "Faktenbox: Seit April 2020 tägliche Erfassung freier/belegter Intensivkapazitäten von ca. 1.300 Akut-Krankenhäusern (www.intensivregister.de)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Ab 2020: Corona-Pandemie als besondere Herausforderung für das Gesundheitssystem",
+        "IfSG wurde geändert: Bundesregierung kann Einfuhr von Schutzausrüstungen eigenständig regeln",
+        "DIVI = Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin",
+        "Kliniken waren per Verordnung verpflichtet, täglich alle freien Intensivbetten zu melden",
+        "DIVI-Intensivregister seit April 2020: tägliche Erfassung freier/belegter Intensivkapazitäten von ca. 1.300 Akut-Krankenhäusern",
+        "Planbare Operationen wurden verschoben, um Betten für COVID-19-Patienten freizuhalten",
+        "Pflegeeinrichtungen: Erstattung pandemiebedingter Mehraufwendungen und Mindereinnahmen durch die Pflegekassen",
+        "SARS-CoV-2-Arzneimittelverordnung: Flexibilisierung der Substitutionsbehandlung für Suchtkranke",
+        "'Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite' gab dem Bund Kompetenzen für z. B. Reisebeschränkungen, Melde- und Untersuchungspflichten",
+        "Coronavirus-Einreiseverordnung regelte Einreise aus Risikogebieten (digitale Anmelde-, Absonderungs- und Nachweispflicht)"
+      ]
+    },
+    {
+      "gidx": 172,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 45",
+      "slide_title": "Sichere Impfstoffe – der Weg aus der Pandemie",
+      "type": "inhalt",
+      "notes_md": "## (Fortsetzung Coronavirus-Einreiseverordnung)\nMit den Vorschriften über digitale Anmelde-, Absonderungs- und Nachweispflicht lässt sich der grenzüberschreitende Reiseverkehr zuverlässiger steuern. Auch die **EU-weite Einführung eines digitalen Impf-, Genesenen- und Testzertifikates** erleichterte die Rückkehr zu einem grenzüberschreitenden Freizügigkeitsraum.\n\n## ÖGD, Teststrategie, Prämie\n- Der **Öffentliche Gesundheitsdienst (ÖGD)** wurde gestärkt, um Infizierte schneller zu identifizieren und zu versorgen.\n- Vorhandene Testkapazitäten – insbesondere für gefährdete Bereiche wie **Alten- und Pflegeheime** – wurden besser ausgenutzt, die **Meldepflichten erweitert**.\n- Beschäftigte in der **Langzeitpflege** erhielten im Jahr 2020 eine **Prämie** für ihre Arbeit in der herausfordernden Zeit.\n- Neue **Teststrategie**: kostenlose Coronatests für Bürgerinnen und Bürger (**„Bürgertests“**) und **Arbeitnehmertestungen** ermöglichten eigenverantwortliche Risikominderung.\n- Der Nachweis des **Impf-, Genesenen- und Teststatus** ließ das alltägliche Leben im Rahmen der Pandemieschutzmaßnahmen weitestgehend normal ablaufen.\n\n## Sichere Impfstoffe – der Weg aus der Pandemie\n- Erst die Entwicklung **wirksamer und sicherer Impfstoffe** zeichnete den Weg aus der Pandemie vor.\n- Die **Beschaffung der Impfstoffe** wurde mit den anderen Mitgliedstaaten der **Europäischen Union** abgestimmt → Bündelung finanzieller Verhandlungskapazitäten und sinnvolle **Impfstoffverteilung nach Bevölkerungsgröße**.\n- Durch stetig beschleunigte Produktion erzielte die nationale Impfkampagne schnell Fortschritte: **Im Juni 2021 hatte bereits die Hälfte der Bevölkerung – 41,8 Millionen Menschen – mindestens eine Impfdosis erhalten. Am 31. Dezember 2021 waren es bereits 62,6 Millionen Menschen.**\n- **Vulnerable Personengruppen** (hochbetagte Menschen, Pflegebedürftige, Personen mit akuten oder chronischen Grundkrankheiten) haben ein deutlich erhöhtes Risiko für schwere, ggf. tödliche COVID-19-Verläufe.\n- Zum Schutz dieser Gruppen und zur Entlastung des Gesundheitssystems wurde die **einrichtungsbezogene Impfpflicht zum 16. März 2022** eingeführt: Eine hohe Impfquote beim Personal in Gesundheitsberufen und in Berufen, in denen Pflegebedürftige und Menschen mit Behinderung betreut werden, senkt das Infektionsrisiko der besonders gefährdeten Personengruppen.\n\n### Infobox (wörtlich)\n**50 %:** „Am 27. Dezember 2020 startete die COVID-19-Impfkampagne in Deutschland. 50 Prozent der Bevölkerung waren am 15. Juni 2021 mindestens einmal geimpft.“",
+      "figures": [
+        {
+          "caption": "Infobox '50 %' – Impfkampagne",
+          "shows": "Start der COVID-19-Impfkampagne am 27.12.2020; am 15.06.2021 waren 50 % der Bevölkerung mindestens einmal geimpft",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "EU-weites digitales Impf-, Genesenen- und Testzertifikat erleichterte die Freizügigkeit",
+        "Öffentlicher Gesundheitsdienst (ÖGD) wurde gestärkt; Meldepflichten erweitert",
+        "2020: Prämie für Beschäftigte in der Langzeitpflege",
+        "Kostenlose 'Bürgertests' und Arbeitnehmertestungen als neue Teststrategie",
+        "Impfstoffbeschaffung EU-weit abgestimmt; Verteilung nach Bevölkerungsgröße",
+        "Start der COVID-19-Impfkampagne in Deutschland: 27. Dezember 2020",
+        "Juni 2021: 41,8 Mio. Menschen (Hälfte der Bevölkerung) mindestens einmal geimpft; 31.12.2021: 62,6 Mio.",
+        "Vulnerable Personengruppen: Hochbetagte, Pflegebedürftige, Menschen mit akuten/chronischen Grundkrankheiten",
+        "Einrichtungsbezogene Impfpflicht ab 16. März 2022 (Personal in Gesundheits- und Betreuungsberufen)"
+      ]
+    },
+    {
+      "gidx": 173,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 46",
+      "slide_title": "Die Pandemie und ihre Langzeitfolgen / Zusammen gegen Corona",
+      "type": "inhalt",
+      "notes_md": "## Die Pandemie und ihre Langzeitfolgen\n- Die Corona-Pandemie hat die wichtige Rolle des **ÖGD** für den Gesundheitsschutz der Bevölkerung gezeigt.\n- **Im September 2020** haben Bund und Länder den **„Pakt für den ÖGD“** vereinbart. Ziel: umfassende Stärkung der **personellen, digitalen und technischen Ausstattung des ÖGD**. Die Bundesregierung stellt für die Umsetzung **4 Milliarden Euro in den Jahren 2021 bis 2026** zur Verfügung.\n- Der Nachweis des Impf-, Genesenen- und Teststatus spielt eine sehr wichtige Rolle, damit das alltägliche Leben im Rahmen der Pandemieschutzmaßnahmen weitestgehend normal ablaufen kann.\n- Das BMG beschäftigt sich intensiv mit den **Langzeitfolgen von SARS-CoV-2-Infektionen und COVID-19-Erkrankungen**: Eine **interministerielle Arbeitsgruppe (IMA) Long COVID** hat 2021 den aktuellen Sach- und Wissensstand zu Long-COVID gebündelt, Handlungsempfehlungen abgeleitet und in einem Abschlussbericht veröffentlicht.\n- Mit dem **Gesetz zur Änderung des Infektionsschutzgesetzes und anderer Vorschriften vom 18. März 2022** traten die meisten Schutzmaßnahmen außer Kraft. Die Anschlussregelung sieht einen **Basisschutz besonders für Risikogruppen** vor; strengere Maßnahmen sind in sogenannten **„Hotspots“** mit gefährlichem Infektionsgeschehen möglich.\n- Das BMG informiert über Corona-Schutzimpfung, Maßnahmen und Gesetze auf seiner Website, in sozialen Netzwerken, über TV- und Radiospots, Zeitungsanzeigen und Plakate; barrierefreie und mehrsprachige Informationsmaterialien können bestellt oder heruntergeladen werden; in der Mediathek finden sich Video- und Audioinhalte zum Thema COVID-19.\n\n### Infobox (wörtlich)\n**Zusammen gegen Corona:** „Auf der Website ‚Zusammen gegen Corona‘ (www.zusammengegencorona.de) bietet das BMG gebündelt verlässliche Antworten und konkrete Informationen, wie die Bevölkerung sich schützen und anderen helfen kann.“",
+      "figures": [
+        {
+          "caption": "Infobox 'Zusammen gegen Corona'",
+          "shows": "BMG-Website www.zusammengegencorona.de mit gebündelten Informationen zum Selbstschutz und Helfen",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "September 2020: 'Pakt für den ÖGD' von Bund und Ländern vereinbart",
+        "Pakt für den ÖGD: 4 Milliarden Euro (2021–2026) für personelle, digitale und technische Stärkung des ÖGD",
+        "Interministerielle Arbeitsgruppe (IMA) Long COVID bündelte 2021 Wissensstand und Handlungsempfehlungen",
+        "18. März 2022: Gesetz zur Änderung des IfSG – die meisten Schutzmaßnahmen traten außer Kraft",
+        "Anschlussregelung: Basisschutz für Risikogruppen; strengere Maßnahmen in 'Hotspots' möglich",
+        "Website 'Zusammen gegen Corona' (www.zusammengegencorona.de) als BMG-Informationsangebot"
+      ]
+    },
+    {
+      "gidx": 174,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 47",
+      "slide_title": "Digitalisierung vorantreiben",
+      "type": "inhalt",
+      "notes_md": "## Digitalisierung vorantreiben\n- Die kluge Weiterentwicklung der Gesundheitsversorgung ist eines der zentralen Themen im BMG. Wesentliches Ziel: eine **umfassende, flächendeckende und qualitativ hochwertige Gesundheitsversorgung für alle Menschen – unabhängig von Wohnort, Kontostand, Alter oder Geschlecht**; diese soll auch für nachfolgende Generationen gesichert und verbessert werden.\n- Große Erwartungen verbinden sich mit der **Digitalisierung im Gesundheitswesen**: Innovative Informationstechnologien verbessern die Versorgung in vielfacher Hinsicht.\n- Die Corona-Pandemie hat die Vorteile der Digitalisierung erfahrbar gemacht und Entwicklungen stark beschleunigt.\n\n### Videosprechstunde – Zahlen\n- Vorteile: medizinische Versorgung **über Distanzen und ohne Ansteckungsgefahr**; inzwischen selbstverständlicher Teil des Praxisalltags.\n- **2019:** nur wenige tausend Videosprechstunden im gesamten Jahr.\n- **1. Quartal 2020:** über **200.000**; **2. Quartal 2020:** über **1,2 Millionen**.\n- **Jahr 2021:** insgesamt **2,25 Millionen Behandlungsfälle** per Videosprechstunde.\n\n### Corona-Warn-App (CWA)\n- Die CWA ist die **erfolgreichste Corona-App in Europa** und wird in Deutschland millionenfach genutzt.\n- Offenes und transparentes Entwicklungsverfahren; im Pandemieverlauf wurden immer wieder neue Lösungen und Mehrwerte geschaffen:\n  - technische Verbesserungen in der **Risikoermittlung**,\n  - Anzeige von Informationen zum **Infektionsgeschehen**,\n  - Einbindung der **Eventregistrierung**,\n  - Nutzung als **digitale Brieftasche für Testergebnisse**, für den **digitalen Coronaimpfausweis** oder das **Genesenenzertifikat**.\n- Erfahrung: In Ausnahmesituationen ist es wichtig, **effiziente Tools entwickeln und bereitstellen** zu können. Die App konnte **sicher, datenschutzkonform und grenzüberschreitend** zur Pandemiebekämpfung beitragen.\n\n### Abbildung\nSmartphone mit Landkarte und Standort-Pins; ein Pin als Coronavirus-Symbol (orange) – Symbolbild für digitale Kontaktnachverfolgung/Standortbezug in der Pandemiebekämpfung.",
+      "figures": [
+        {
+          "caption": "Smartphone mit Karte und Corona-Standort-Pins",
+          "shows": "Symbolbild: Smartphone mit Landkarte, mehreren Ortungs-Pins und einem Pin in Coronavirus-Form (digitale Pandemiebekämpfung, z. B. CWA)",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Ziel des BMG: flächendeckende, qualitativ hochwertige Gesundheitsversorgung – unabhängig von Wohnort, Kontostand, Alter oder Geschlecht",
+        "Videosprechstunde: 2019 wenige tausend → Q1/2020 über 200.000 → Q2/2020 über 1,2 Mio. → 2021 insgesamt 2,25 Mio. Behandlungsfälle",
+        "Corona-Warn-App (CWA) ist die erfolgreichste Corona-App in Europa",
+        "CWA-Funktionen: Risikoermittlung, Infektionsgeschehen, Eventregistrierung, digitale Brieftasche für Testergebnisse/Impfausweis/Genesenenzertifikat",
+        "CWA trug sicher, datenschutzkonform und grenzüberschreitend zur Pandemiebekämpfung bei"
+      ]
+    },
+    {
+      "gidx": 175,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 48",
+      "slide_title": "CovPass / CovPass-Check und DIVI-Intensiv-Register",
+      "type": "inhalt",
+      "notes_md": "## CovPass und CovPass-Check\n- Die Apps **CovPass** und **CovPass-Check** verwalten **europäische digitale COVID-Zertifikate (EU DCC)** und leisten einen wichtigen Beitrag zur **Wiederherstellung der innereuropäischen Freizügigkeit** sowie zur Normalisierung des Alltagslebens in Deutschland.\n- Die Anwendungen wurden millionenfach heruntergeladen; das **digitale COVID-Zertifikat** ist fester Bestandteil der Pandemiebekämpfung geworden und hat dazu beigetragen, auf Maßnahmen wie **„Lockdowns“** verzichten zu können.\n\n## DIVI-Intensiv-Register als internationales Vorbild\n- Mit dem **DIVI-Intensiv-Register** zur **Echtzeiterfassung von Intensivbetten-Kapazitäten** ist Deutschland international Vorbild.\n- Es schuf eine wertvolle Grundlage zur **datengestützten Handlungssteuerung in Echtzeit**, die wichtige Entscheidungen während der Pandemie ermöglichte.\n\n### Abbildung\nIllustration einer **Videosprechstunde**: Eine Ärztin (grünes Oberteil, Stethoskop, Klemmbrett in der Hand) sitzt vor einem Monitor mit Webcam; auf dem Bildschirm ein winkender Patient und daneben ein kleines Bild (z. B. Hautbefund/Röntgenbild einer Hand). Symbolisiert Telemedizin/Diagnose über Distanz.",
+      "figures": [
+        {
+          "caption": "Illustration Videosprechstunde",
+          "shows": "Ärztin mit Stethoskop und Klemmbrett vor Monitor mit Webcam; Patient winkt auf dem Bildschirm, daneben medizinisches Bild einer Hand – Telemedizin",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "CovPass und CovPass-Check verwalten europäische digitale COVID-Zertifikate (EU DCC)",
+        "Digitales COVID-Zertifikat half, auf 'Lockdowns' verzichten zu können",
+        "DIVI-Intensiv-Register: Echtzeiterfassung von Intensivbetten-Kapazitäten – Deutschland international Vorbild",
+        "DIVI-Register ermöglichte datengestützte Handlungssteuerung in Echtzeit"
+      ]
+    },
+    {
+      "gidx": 176,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 49",
+      "slide_title": "DEMIS / Telematikinfrastruktur, ePA / PDSG, E-Rezept, FDZ",
+      "type": "inhalt",
+      "notes_md": "## DEMIS\n- Das **Deutsche Elektronische Melde- und Informationssystem für den Infektionsschutz (DEMIS)** wurde aufgebaut: **Infektionsmeldungen und Kontaktnachverfolgung** können schnell und effizient in einheitlichen elektronischen Systemen erfolgen.\n- DEMIS wird sukzessive weiter als **zentrale digitale Infrastruktur für den ÖGD** ausgebaut.\n\n## Eine flächendeckende Infrastruktur für das Gesundheitswesen\n- Wichtig: Die gewonnene Dynamik beibehalten und Pandemie-Erfahrungen in den übergreifenden Digitalisierungsprozess mitnehmen.\n- **Telematikinfrastruktur (TI):** flächendeckende technologische Basis für den **sicheren Austausch von Informationen im Gesundheitswesen**.\n- **Seit Januar 2021** steht die **elektronische Patientenakte (ePA)** zur Verfügung; Versicherte können auch per **Smartphone oder Tablet** darauf zugreifen.\n- Das BMG ist **Mehrheitsgesellschafter der für die TI zuständigen gematik GmbH** und damit treibende Kraft der Digitalisierung im deutschen Gesundheitssystem.\n- Europäische Ebene: Deutschland engagiert sich im Aufbau der grenzüberschreitenden elektronischen Gesundheitsdiensteinfrastruktur (**eHDSI/MyHealth@EU**). Wesentliches Vorhaben: Aufbau einer **nationalen eHealth-Kontaktstelle (NCPeH)** für einen reibungslosen grenzüberschreitenden Austausch von Gesundheitsdaten (nahtloser Versorgungsprozess).\n\n## Weiterer Ausbau der Digitalisierung\n- **Patientendaten-Schutz-Gesetz (PDSG)**, seit **Oktober 2020** geltend:\n  - Für die TI (ausgebaut durch Anbindung weiterer Leistungserbringer) wurden **Datenschutz, Datensicherheit und datenschutzrechtliche Verantwortlichkeit klar geregelt**.\n  - Grundlagen für **elektronische Verordnungen** geschaffen; das **E-Rezept** wird in einer Test- und Pilotphase bundesweit erprobt und optimiert.\n  - Das **E-Rezept ersetzt das Papierrezept** in seiner bisherigen Form. Ausstellung: in der Praxis im Anschluss an eine Behandlung **oder aus der Ferne**; Einlösung: in einer Apotheke vor Ort **oder bei einer Versandapotheke**.\n- Für eine bessere Gesundheitsversorgung ist ein **europäisch anschlussfähiger Datenraum für Gesundheitsdaten** nötig: Er soll vorhandene Datenhalter vernetzen und die **Sekundärnutzung von Gesundheitsdaten** erleichtern.\n- Ein Datenhalter ist das **Forschungsdatenzentrum (FDZ) Gesundheit**, angesiedelt beim **Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)**; es soll im **dritten Quartal 2022** seine Arbeit aufnehmen.\n\n### Infoboxen (wörtlich)\n**DEMIS:** „Das Deutsche Elektronische Melde- und Informationssystem für den Infektionsschutz macht Infektionsmeldungen und Kontaktnachverfolgungen schneller und effizienter.“\n**2021:** „wurde die elektronische Patientenakte eingeführt und erhält schrittweise weitere Funktionen.“",
+      "figures": [
+        {
+          "caption": "Infobox DEMIS",
+          "shows": "DEMIS macht Infektionsmeldungen und Kontaktnachverfolgungen schneller und effizienter",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Infobox 2021 – ePA",
+          "shows": "2021 wurde die elektronische Patientenakte (ePA) eingeführt und erhält schrittweise weitere Funktionen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [16],
+      "key_facts": [
+        "DEMIS = Deutsches Elektronisches Melde- und Informationssystem für den Infektionsschutz",
+        "DEMIS: schnelle, einheitliche elektronische Infektionsmeldungen und Kontaktnachverfolgung; zentrale digitale Infrastruktur des ÖGD",
+        "Telematikinfrastruktur (TI): technologische Basis für sicheren Informationsaustausch im Gesundheitswesen",
+        "Elektronische Patientenakte (ePA) seit Januar 2021 verfügbar (Zugriff auch per Smartphone/Tablet)",
+        "BMG ist Mehrheitsgesellschafter der gematik GmbH (zuständig für die TI)",
+        "eHDSI/MyHealth@EU: grenzüberschreitende elektronische Gesundheitsdiensteinfrastruktur; nationale eHealth-Kontaktstelle NCPeH",
+        "PDSG (Patientendaten-Schutz-Gesetz) seit Oktober 2020: regelt Datenschutz, Datensicherheit und Verantwortlichkeit in der TI",
+        "E-Rezept ersetzt das Papierrezept; Ausstellung in Praxis oder aus der Ferne; Einlösung vor Ort oder Versandapotheke",
+        "FDZ Gesundheit beim BfArM als Datenhalter; Arbeitsaufnahme ab Q3 2022; Ziel: Sekundärnutzung von Gesundheitsdaten erleichtern"
+      ]
+    },
+    {
+      "gidx": 177,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 50",
+      "slide_title": "DVPMG / Digitalisierung von Krankenhäusern (KHZG) / DiGA / Künstliche Intelligenz",
+      "type": "inhalt",
+      "notes_md": "## DVPMG\n- Das **Gesetz zur digitalen Modernisierung von Versorgung und Pflege (Digitale-Versorgung-und-Pflege-Modernisierungs-Gesetz – DVPMG)** trat am **9. Juni 2021** in Kraft.\n- Inhalte: Erweiterung der Möglichkeiten digitaler Kommunikation durch einen **Videokommunikations- und Messengersdienst**; für Pflegebedürftige in häuslicher Pflege ein **neuer Leistungsanspruch auf Versorgung mit digitalen Pflegeanwendungen (DiPA)** und ergänzenden Unterstützungsleistungen.\n\n## Digitalisierung von Krankenhäusern – KHZG\n- **Krankenhauszukunftsgesetz (KHZG)**, in Kraft getreten am **1. Januar 2021**: Investitionsprogramm für ein schnelles, effektives digitales Update der Krankenhäuser.\n- Finanzierung: **Bund: 3 Milliarden Euro**; Länder bzw. Krankenhausträger: **weitere 1,3 Milliarden Euro** → **Krankenhauszukunftsfonds**.\n- Gefördert werden Investitionen in **moderne Notfallkapazitäten** und eine **bessere digitale Infrastruktur**, z. B. **digitale Patientenportale** oder **digitales Medikationsmanagement**.\n\n## Digitale Gesundheitsanwendungen (DiGA)\n- Das BMG erleichtert Einsatz und Nutzung digitaler Anwendungen im Gesundheitswesen.\n- **Seit 2020** haben Versicherte Anspruch auf **erstattungsfähige DiGA**, die ähnlich wie Arzneimittel von **Ärztinnen und Ärzten sowie Psychotherapeutinnen und -therapeuten verordnet** werden können (**„App auf Rezept“**).\n- Voraussetzung: Hersteller müssen gegenüber dem **BfArM** nachweisen, dass ihre DiGA **positive Versorgungseffekte** erzielt und u. a. bestimmte **Sicherheits-, Qualitäts- und Datenschutzanforderungen** erfüllt.\n\n## Künstliche Intelligenz (KI)\n- KI und **Big Data** spielen für die Gesundheitsversorgung der Zukunft eine große Rolle und bieten Chancen zur Verbesserung der Versorgung.\n- KI kann Ärztinnen und Ärzten helfen, **schneller eine Diagnose zu stellen**; Anwendungsszenario z. B. **Behandlung Seltener Erkrankungen**.\n- Voraussetzung: Gesundheitsdaten müssen nutzbar gemacht werden; KI muss auf **großen und qualitativ hochwertigen Datensätzen trainiert und getestet** werden.\n- **KI-gestützte Therapien** können individueller auf Patientinnen und Patienten abgestimmt werden – findet schon heute in der **Krebsbehandlung** Anwendung.\n- KI-Anwendungen werden bald genauso wie **Stethoskop oder Röntgenbild** im ärztlichen Instrumentenkoffer zu finden sein. Ziel ist **nicht, Ärztinnen und Ärzte zu ersetzen**, sondern sie zu unterstützen, **schneller und präziser zu behandeln** – so bleibt mehr Zeit für das persönliche Gespräch mit den Patienten.\n\n### Infoboxen (wörtlich)\n**App auf Rezept:** „Sichere und wirkungsvolle digitale Gesundheitsanwendungen werden erstattungsfähig.“\n**KI-Anwendungen:** „werden bald genauso wie das Stethoskop oder das Röntgenbild im ärztlichen Instrumentenkoffer zu finden sein.“",
+      "figures": [
+        {
+          "caption": "Infobox 'App auf Rezept'",
+          "shows": "Sichere und wirkungsvolle digitale Gesundheitsanwendungen (DiGA) werden erstattungsfähig",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Infobox 'KI-Anwendungen'",
+          "shows": "KI-Anwendungen werden bald wie Stethoskop oder Röntgenbild zum ärztlichen Standard-Instrumentarium gehören",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [16],
+      "key_facts": [
+        "DVPMG = Digitale-Versorgung-und-Pflege-Modernisierungs-Gesetz; in Kraft seit 9. Juni 2021",
+        "DVPMG: neuer Leistungsanspruch auf digitale Pflegeanwendungen (DiPA) für Pflegebedürftige in häuslicher Pflege",
+        "KHZG = Krankenhauszukunftsgesetz; in Kraft seit 1. Januar 2021",
+        "Krankenhauszukunftsfonds: 3 Mrd. Euro Bund + 1,3 Mrd. Euro Länder/Krankenhausträger",
+        "KHZG fördert moderne Notfallkapazitäten und digitale Infrastruktur (digitale Patientenportale, digitales Medikationsmanagement)",
+        "DiGA = Digitale Gesundheitsanwendung; seit 2020 Anspruch auf erstattungsfähige DiGA ('App auf Rezept')",
+        "DiGA-Verordnung durch Ärztinnen/Ärzte und Psychotherapeutinnen/-therapeuten möglich",
+        "DiGA: Hersteller muss dem BfArM positive Versorgungseffekte sowie Sicherheits-, Qualitäts- und Datenschutzanforderungen nachweisen",
+        "KI und Big Data: schnellere Diagnosen, Anwendung bei Seltenen Erkrankungen und in der Krebsbehandlung",
+        "KI soll Ärzte nicht ersetzen, sondern unterstützen – mehr Zeit für das persönliche Patientengespräch"
+      ]
+    },
+    {
+      "gidx": 178,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 51",
+      "slide_title": "KI-Förderung / Digitale Gesundheitskompetenz",
+      "type": "inhalt",
+      "notes_md": "## KI-Forschungsförderung\n- Um mehr über die konkreten Vorteile von KI im Gesundheitswesen zu erfahren, fördert das BMG aktuell **über 20 Forschungsprojekte**.\n- Dafür erhält es **185 Mio. Euro** aus den Mitteln im Rahmen der **KI-Strategie der Bundesregierung von 2019 bis 2025**.\n- Die Pandemie hat das Potenzial von KI bei globalen Herausforderungen gezeigt: KI kann helfen, **Pandemievorhersagen zu verbessern**, **Infektionsketten zu identifizieren** und **gezieltere und schnellere Maßnahmen zur Krankheitseindämmung** zu veranlassen. Auch **Versorgungskapazitäten** (Intensivbetten, Personal, Arzneimittel, Ausrüstung) können eingeschätzt und die Versorgung besser gesteuert werden.\n\n## Digitale Gesundheitskompetenz\n- Wichtig ist Aufklärungsarbeit und mehr Verständnis für digitale Lösungen in der Versorgung.\n- **Akzeptanz und Vertrauen sind elementare Voraussetzungen**, um die digitale Versorgung voranzutreiben und Gesundheit und Wohlergehen zu fördern – aufseiten der Ärztinnen und Ärzte, Psychotherapeutinnen und -therapeuten und weiterer Leistungserbringer, aber auch bei den Patientinnen und Patienten.\n- Die Stärkung der **Gesundheitskompetenz der Bevölkerung** ist ein Beitrag für mehr **Teilhabe und Nachhaltigkeit** im Gesundheitswesen.\n- **Die Krankenkassen sind verpflichtet**, ihren Versicherten **Angebote zur Förderung der digitalen Gesundheitskompetenz** zu machen; Versicherte können sich etwa im Umgang mit **Gesundheits-Apps oder der ePA** schulen lassen.\n\n### Infoboxen (wörtlich)\n**185 Mio. Euro:** „erhält das BMG von 2019 bis 2025 aus den Mitteln im Rahmen der KI-Strategie der Bundesregierung.“\n**Akzeptanz und Vertrauen:** „sind elementare Voraussetzungen, um die digitale Versorgung voranzutreiben und Gesundheit und Wohlergehen zu fördern.“",
+      "figures": [
+        {
+          "caption": "Infobox '185 Mio. Euro'",
+          "shows": "185 Mio. Euro erhält das BMG 2019–2025 aus Mitteln der KI-Strategie der Bundesregierung (über 20 Forschungsprojekte)",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Infobox 'Akzeptanz und Vertrauen'",
+          "shows": "Akzeptanz und Vertrauen als elementare Voraussetzungen für digitale Versorgung und Förderung von Gesundheit und Wohlergehen",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "BMG fördert über 20 KI-Forschungsprojekte im Gesundheitswesen",
+        "185 Mio. Euro für das BMG aus der KI-Strategie der Bundesregierung (2019–2025)",
+        "KI-Potenziale in der Pandemie: bessere Vorhersagen, Identifikation von Infektionsketten, Steuerung von Versorgungskapazitäten (Intensivbetten, Personal, Arzneimittel, Ausrüstung)",
+        "Akzeptanz und Vertrauen = elementare Voraussetzungen für digitale Versorgung",
+        "Krankenkassen sind verpflichtet, Angebote zur Förderung der digitalen Gesundheitskompetenz zu machen (z. B. Schulung zu Gesundheits-Apps oder ePA)"
+      ]
+    },
+    {
+      "gidx": 179,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 52",
+      "slide_title": "Das „Nationale Gesundheitsportal“",
+      "type": "inhalt",
+      "notes_md": "## Das „Nationale Gesundheitsportal“\n- Mit dem **Nationalen Gesundheitsportal (gesund.bund.de)** erhalten Bürgerinnen und Bürger in Deutschland **wissenschaftlich fundierte, neutrale und gut verständliche Informationen** zu ausgewählten Gesundheits- und Pflegethemen.\n- Dadurch werden sie in die Lage versetzt, **gemeinsam mit ihrer Ärztin bzw. ihrem Arzt informierte Entscheidungen zu treffen**.\n- **Ziel: nachhaltig die Gesundheitskompetenz erhöhen und die Patientensouveränität stärken.**\n\n### Portal „Migration und Gesundheit“\n- Das Portal **„Migration und Gesundheit“ (migration-gesundheit.bund.de)** unterstützt Menschen mit Einwanderungsgeschichte, sich mit dem Gesundheitswesen vertraut zu machen.\n- Das BMG stellt dort zahlreiche, bereits in **mehreren Sprachen** vorhandene Materialien zur Verfügung, die über das Gesundheitswesen in Deutschland, die Leistungen der **Kranken- und Pflegeversicherung** sowie das Thema **Sucht und Drogen** informieren.\n\n### Grafik (wörtlich transkribiert)\nÜberschrift im Bild: **„Das ‚Nationale Gesundheitsportal‘“** – darunter: „stärkt die Rolle der selbstbestimmten Patientinnen und Patienten. Das Portal bietet beispielsweise praktische Suchdienste zu **ICD-Codes (Internationale Klassifikation der Krankheiten)**, Arztpraxen oder Krankenhäusern.“\nGrafik: stilisierte Deutschlandkarte (schraffiert), darüber ein Formular/Dokument mit Lupe; in der Lupe steht **„ICD-Code M23.3“**; rechts unten zwei Personen-Icons (Frau/Mann).",
+      "figures": [
+        {
+          "caption": "Grafik Nationales Gesundheitsportal mit ICD-Code-Suche",
+          "shows": "Deutschlandkarte mit Formular und Lupe 'ICD-Code M23.3': Das Portal bietet Suchdienste zu ICD-Codes (Internationale Klassifikation der Krankheiten), Arztpraxen oder Krankenhäusern und stärkt selbstbestimmte Patienten",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Nationales Gesundheitsportal: gesund.bund.de",
+        "Bietet wissenschaftlich fundierte, neutrale und gut verständliche Informationen zu Gesundheits- und Pflegethemen",
+        "Ziel: Gesundheitskompetenz erhöhen und Patientensouveränität stärken",
+        "Suchdienste u. a. zu ICD-Codes (Internationale Klassifikation der Krankheiten), Arztpraxen, Krankenhäusern",
+        "ICD-Code-Beispiel in der Grafik: M23.3",
+        "Portal 'Migration und Gesundheit': migration-gesundheit.bund.de – mehrsprachige Materialien zu Gesundheitswesen, Kranken-/Pflegeversicherung, Sucht und Drogen"
+      ]
+    },
+    {
+      "gidx": 180,
+      "source": "BMG-Bericht, Kapitel 'Dynamisch ausgerichtet: Herausforderungen und Chancen', S. 53",
+      "slide_title": "Ausblick",
+      "type": "inhalt",
+      "notes_md": "## Ausblick\n- Grundversprechen des deutschen Gesundheitssystems: die **hochwertige Gesundheitsversorgung, die allen Menschen im Land zur Verfügung steht – unabhängig von Wohnort, Kontostand, Alter oder Geschlecht** – auch für nachfolgende Generationen zu bewahren. Dazu sind kontinuierliche Anstrengungen und Reformen nötig.\n- Der **medizinische und technische Fortschritt** wird dazu führen, dass die Menschen **immer besser versorgt und damit auch immer älter** werden. Politische Kräfte in Bund und Ländern bemühen sich, das Gesundheitssystem noch **effektiver und effizienter** zu gestalten.\n- Für hochwertige und effiziente Versorgung ist **mehr Zusammenarbeit und Dialog aller an der Versorgung Beteiligten** nötig: Ärztinnen und Ärzte, **Therapeutinnen und Therapeuten**, Gesundheits- und Krankenpflegerinnen und -pfleger, Krankenhäuser, **Rehabilitations- und Pflegeeinrichtungen**, aber auch die Wissenschaft – um neue Behandlungsmöglichkeiten zu erschließen und neue Wege in der Patientenversorgung zu gehen.\n- Die **Digitalisierung des Gesundheitswesens** leistet hierfür einen entscheidenden Beitrag.\n- Rückmeldungen über die **erlebte Versorgungsrealität der Patientinnen und Patienten** sind eine wertvolle Quelle für die Weiterentwicklung: Die **Unabhängige Patientenberatung (UPD)** ist gesetzlich verpflichtet, Beratungsanfragen dahingehend auszuwerten.\n- Rahmenbedingungen müssen immer wieder überdacht und weiterentwickelt werden; Ergebnisse aus der **Gesundheitsforschung und dem Innovationsfonds beim G-BA** liefern konkrete Ansatzpunkte und ermöglichen, den Wandel auf Grundlage **wissenschaftlicher Erkenntnisse** zu gestalten.\n- Das deutsche Gesundheitssystem hat sich in seiner **fast 140-jährigen Geschichte** als ausgesprochen **robust** erwiesen. Es muss kontinuierlich dem gesellschaftlichen Wandel angepasst werden.\n- Deutschland engagiert sich in der **Europäischen Gemeinschaft**; ebenso sind jeder Staat, jedes Bundesland und jede Kommune in der Verantwortung – denn zumeist dort, unmittelbar vor Ort, werden die Bürgerinnen und Bürger versorgt.\n\n### Randbox (wörtlich)\n„Der medizinische und technische Fortschritt wird dazu führen, dass die Menschen immer besser versorgt und damit auch immer älter werden.“",
+      "figures": [
+        {
+          "caption": "Randbox medizinischer/technischer Fortschritt",
+          "shows": "Fortschritt führt dazu, dass Menschen immer besser versorgt und damit immer älter werden",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Grundversprechen des Gesundheitssystems: hochwertige Versorgung für alle – unabhängig von Wohnort, Kontostand, Alter oder Geschlecht",
+        "Medizinisch-technischer Fortschritt: Menschen werden immer besser versorgt und immer älter",
+        "Nötig: Zusammenarbeit und Dialog aller Versorgungsbeteiligten (Ärzte, Therapeuten, Pflege, Kliniken, Reha-/Pflegeeinrichtungen, Wissenschaft)",
+        "UPD = Unabhängige Patientenberatung: gesetzlich verpflichtet, Beratungsanfragen zur erlebten Versorgungsrealität auszuwerten",
+        "Innovationsfonds beim G-BA liefert Ansatzpunkte für den Wandel im Gesundheitssystem",
+        "Deutsches Gesundheitssystem: fast 140-jährige Geschichte, ausgesprochen robust",
+        "Versorgung findet zumeist unmittelbar vor Ort statt – Staat, Bundesländer und Kommunen in der Verantwortung"
+      ]
+    }
+  ]
+}

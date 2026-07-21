@@ -1,0 +1,246 @@
+{
+  "batch": "14",
+  "pages": [
+    {
+      "gidx": 157,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, Kapitelanfang \"Gesundheitsversorgung und Pflege\" (vor S. 32)",
+      "slide_title": "(Kapitelauftakt – Illustration Gesundheitsteam)",
+      "type": "deko",
+      "notes_md": "## Kapitelauftakt: Gesundheitsversorgung und Pflege\n\nReine Illustrationsseite ohne Text: Gruppenbild eines interprofessionellen Gesundheitsteams (sechs Personen in Arbeitskleidung, teils mit Stethoskop und Namensschildern – u. a. OP-Kleidung, Pflegekittel, Arztkittel). Leitet das Kapitel \"Gesundheitsversorgung und Pflege\" ein. Kein fachlicher Inhalt.",
+      "figures": [
+        {
+          "caption": "Illustration: interprofessionelles Gesundheitsteam",
+          "shows": "Gruppenbild von sechs Gesundheitsfachkräften (Chirurgie, Pflege, Medizin) mit Stethoskop und Namensschildern",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 158,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, Kapiteltitel \"Gesundheitsversorgung und Pflege\" (vor S. 32)",
+      "slide_title": "Umfassend betreut: Gesundheitsversorgung und Pflege",
+      "type": "titel",
+      "notes_md": "## Kapiteltitel\n\n**\"Umfassend betreut: Gesundheitsversorgung und Pflege\"**\n\nTitelseite des Kapitels mit Illustration: Ärztin/Pflegekraft mit Stethoskop zeigt einer sitzenden Person (Patientin in OP-/Klinikkleidung) ein Klemmbrett mit Dokument/Diagramm. Leitet das Thema Gesundheitsversorgung und Pflege ein – Rahmung für die folgenden Inhalte zu ambulanter/stationärer Versorgung, Arzneimittelversorgung, Pflegeversicherung, Prävention und Rehabilitation.",
+      "figures": [
+        {
+          "caption": "Titelillustration: Betreuungssituation",
+          "shows": "Gesundheitsfachkraft mit Stethoskop hält einer sitzenden Patientin ein Klemmbrett mit Befund/Diagramm hin",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [4, 12],
+      "key_facts": [
+        "Kapiteltitel: \"Umfassend betreut: Gesundheitsversorgung und Pflege\""
+      ]
+    },
+    {
+      "gidx": 159,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 32 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Ambulante und stationäre Versorgung / Gesundheitsleistungen in Deutschland (Kreisdiagramm)",
+      "type": "inhalt",
+      "notes_md": "## Gliederung des deutschen Gesundheitssystems: ambulant vs. stationär\n\nGrundidee: Wer krank wird, geht zur Ärztin/zum Arzt; wer schwerer erkrankt, wird im Krankenhaus behandelt. Dank medizinischem Fortschritt sind die Behandlungsmöglichkeiten heute wesentlich vielfältiger – auch Menschen mit **chronischen Erkrankungen** können nahezu ohne Beeinträchtigungen ein normales Leben führen.\n\nDas deutsche Gesundheitssystem gliedert sich u. a. in **ambulante und stationäre Behandlungen**. Sowohl die medizinische Versorgung als auch die Pflege werden **sowohl ambulant als auch stationär** erbracht. Angebote, die beide Bereiche verbinden, stellen eher die **Ausnahme** der medizinischen Versorgung dar.\n\n**Alle Behandlungen, Rehabilitationsmaßnahmen und Therapien, die außerhalb von Kliniken erbracht werden, gehören zur ambulanten Versorgung.** Aber auch Kliniken können ambulante Versorgung anbieten, beispielsweise in **Krankenhausambulanzen**. Zudem sind einige niedergelassene Ärztinnen und Ärzte als **Belegärztinnen und Belegärzte** zeitweise im Krankenhaus tätig.\n\n### Infobox: Notruf 112\n\n**\"In lebensbedrohlichen Notfällen ist der Rettungsdienst unter der Rufnummer 112 zu verständigen.\"**\n\n### Schaubild: Gesundheitsleistungen in Deutschland (Kreisdiagramm)\n\nTitel: **\"Gesundheitsleistungen in Deutschland\"** – Untertitel: \"Anteil ausgewählter Leistungsarten an den Gesamtausgaben für Leistungen der GKV im Jahr 2020 in Höhe von **248,9 Mrd. Euro** in Prozent\".\n\nAnteile (wortwörtlich aus dem Kreisdiagramm):\n- **Krankenhausbehandlung: 32,8 %**\n- **Sonstige: 18,8 %**\n- **Ärztliche Behandlung: 17,7 %**\n- **Arzneimittel: 17,4 %**\n- **Heil- und Hilfsmittel: 7,3 %**\n- **Zahnärztliche Behandlung (inkl. Zahnersatz): 6,0 %**\n\nPrüfungsrelevant: Krankenhausbehandlung ist mit knapp einem Drittel der größte Ausgabenblock der GKV; Heil- und Hilfsmittel (darunter Ergotherapie!) machen 7,3 % aus.",
+      "figures": [
+        {
+          "caption": "Kreisdiagramm: Gesundheitsleistungen in Deutschland (GKV-Ausgaben 2020)",
+          "shows": "Anteile ausgewählter Leistungsarten an den GKV-Gesamtausgaben 2020 (248,9 Mrd. Euro): Krankenhausbehandlung 32,8 %, Sonstige 18,8 %, ärztliche Behandlung 17,7 %, Arzneimittel 17,4 %, Heil- und Hilfsmittel 7,3 %, zahnärztliche Behandlung inkl. Zahnersatz 6,0 %",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 12],
+      "key_facts": [
+        "Das deutsche Gesundheitssystem gliedert sich u. a. in ambulante und stationäre Behandlungen.",
+        "Alle Behandlungen, Rehabilitationsmaßnahmen und Therapien außerhalb von Kliniken gehören zur ambulanten Versorgung.",
+        "Kliniken können ambulante Versorgung anbieten (z. B. Krankenhausambulanzen); Belegärzte sind zeitweise im Krankenhaus tätig.",
+        "Rettungsdienst-Rufnummer bei lebensbedrohlichen Notfällen: 112.",
+        "GKV-Gesamtausgaben für Leistungen 2020: 248,9 Mrd. Euro.",
+        "Größter Ausgabenblock der GKV 2020: Krankenhausbehandlung mit 32,8 %.",
+        "Heil- und Hilfsmittel: 7,3 % der GKV-Leistungsausgaben 2020 (relevant für Ergotherapie als Heilmittel).",
+        "Ärztliche Behandlung 17,7 %, Arzneimittel 17,4 %, Sonstige 18,8 %, Zahnärztliche Behandlung inkl. Zahnersatz 6,0 %."
+      ]
+    },
+    {
+      "gidx": 160,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 33 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Die ambulante / stationäre medizinische Versorgung / Freie Arztwahl / 116117",
+      "type": "inhalt",
+      "notes_md": "## Die ambulante medizinische Versorgung\n\nAmbulant behandeln: **niedergelassene Haus-, Fach-, Zahnärztinnen und -ärzte, Psychotherapeutinnen und Psychotherapeuten sowie Fachkräfte aus nichtärztlichen Heilberufen** (z. B. Physiotherapeutinnen/Physiotherapeuten, Logopädinnen/Logopäden – hierzu zählt auch die Ergotherapie als Heilmittelberuf).\n\nDie meisten niedergelassenen Ärztinnen/Ärzte, Zahnärztinnen/-ärzte und Psychotherapeutinnen/-therapeuten nehmen an der **vertrags(zahn)ärztlichen Versorgung** teil (**Kassenzulassung**). Das heißt:\n- Zulassung zur Teilnahme an der vertrags(zahn)ärztlichen Versorgung erhalten\n- Mitglied in einer **Kassenärztlichen Vereinigung (KV)** bzw. **Kassenzahnärztlichen Vereinigung (KZV)**\n- Dürfen gesetzlich Versicherte behandeln und Leistungen bei der **GKV abrechnen**\n- Die Zulassung ist an den **Praxisstandort** und damit an die jeweilige **KV- bzw. KZV-Region und deren Bedarfsplanung** gebunden\n\nNeben niedergelassenen Ärztinnen/Ärzten können auch einzelne **Krankenhausärztinnen und -ärzte oder stationäre Einrichtungen** zur Teilnahme an der vertragsärztlichen Versorgung **ermächtigt** werden.\n\nAußerhalb der Sprechstunden bieten die niedergelassene Ärzteschaft und Zahnärzteschaft einen **ärztlichen sowie zahnärztlichen Bereitschaftsdienst** an.\n\n## Die stationäre medizinische Versorgung\n\nIn den **rund 1.900 Krankenhäusern** in Deutschland werden Patientinnen und Patienten stationär versorgt. Die meisten Krankenhäuser behandeln **alle Bürgerinnen und Bürger – egal ob gesetzlich oder privat versichert**. Voraussetzung: **Einweisung einer Ärztin/eines Arztes** – außer im **Notfall**, in dem Kliniken sofort behandeln. Patientinnen und Patienten können sich das **Krankenhaus ihrer Wahl** aussuchen.\n\nDie GKV übernimmt die Kosten, wenn die Einrichtung zur Versorgung gesetzlich Versicherter **zugelassen** ist. Zugelassene Krankenhäuser sind solche, die:\n1. in den **Krankenhausplan des Landes** aufgenommen sind (sog. **Plankrankenhäuser**),\n2. einen **Versorgungsvertrag** mit den gesetzlichen Krankenkassen oder den privaten Krankenversicherungsunternehmen abgeschlossen haben, oder\n3. nach landesrechtlichen Vorschriften eine Anerkennung als **Hochschulklinik** besitzen.\n\nDie ganz überwiegende Mehrheit der Krankenhäuser ist so zugelassen. **Trägerschaft** der Krankenhäuser: **private, freigemeinnützige und öffentliche** Häuser.\n\nBei stationärer Behandlung müssen gesetzlich Versicherte eine **Zuzahlung für Unterbringung und Verpflegung** leisten – vor der Behandlung im **Krankenhausvertrag** zwischen Patientin/Patient und Klinik festgehalten.\n\n## Infobox: Rufnummer 116117\n\nUnter der Rufnummer **116117** erhalten Patientinnen und Patienten auch im akuten Fall medizinische Hilfe in der gebotenen Versorgungsebene (z. B. geöffnete Arztpraxis, Bereitschaftsdienstpraxis oder Notfallambulanz eines Krankenhauses). Über diesen Service können sie sich **täglich 24 Stunden an sieben Tagen in der Woche Arzttermine vermitteln** lassen. Zusätzlich erreichbar über **www.116117.de** oder die App **116117.app**.\n\n## Infobox: Freie Arztwahl (wortwörtlich)\n\n\"Bei einer Erkrankung ist der erste Ansprechpartner für Patientinnen und Patienten zumeist die Hausärztin oder der Hausarzt. Grundsätzlich können gesetzlich Versicherte jedoch jede Ärztin und jeden Arzt aufsuchen, die an der vertragsärztlichen Versorgung teilnehmen. **Es besteht freie Arztwahl.** Andere Ärztinnen und Ärzte dürfen nur in Notfällen in Anspruch genommen werden.\"",
+      "figures": [],
+      "eingrenzung_hits": [4, 12],
+      "key_facts": [
+        "Ambulant behandeln niedergelassene Haus-/Fach-/Zahnärzte, Psychotherapeuten und Fachkräfte nichtärztlicher Heilberufe (z. B. Physio-, Logopädie; Ergotherapie gehört als Heilmittelberuf dazu).",
+        "Kassenzulassung = Zulassung zur vertrags(zahn)ärztlichen Versorgung, Mitgliedschaft in KV bzw. KZV, Abrechnung mit der GKV.",
+        "Die Kassenzulassung ist an Praxisstandort, KV-/KZV-Region und Bedarfsplanung gebunden.",
+        "Außerhalb der Sprechstunden gibt es ärztlichen und zahnärztlichen Bereitschaftsdienst.",
+        "Rund 1.900 Krankenhäuser in Deutschland; stationäre Aufnahme grundsätzlich nur mit ärztlicher Einweisung (außer im Notfall).",
+        "Zugelassene Krankenhäuser: Plankrankenhäuser (Krankenhausplan des Landes), Krankenhäuser mit Versorgungsvertrag oder Hochschulkliniken.",
+        "Krankenhaus-Trägerschaft: privat, freigemeinnützig, öffentlich.",
+        "Stationäre Behandlung: Zuzahlung für Unterbringung und Verpflegung, festgehalten im Krankenhausvertrag.",
+        "116117: Terminservicestelle/ärztlicher Bereitschaftsdienst – 24 Stunden an 7 Tagen, auch über www.116117.de und App 116117.app.",
+        "Freie Arztwahl: GKV-Versicherte können jede(n) an der vertragsärztlichen Versorgung teilnehmende(n) Ärztin/Arzt aufsuchen; andere nur in Notfällen."
+      ]
+    },
+    {
+      "gidx": 161,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 34 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Arzneimittelversorgung (Zuzahlung, Belastungsgrenzen, Generika)",
+      "type": "inhalt",
+      "notes_md": "## Arzneimittelversorgung\n\nAblauf: Rezept in der Arztpraxis ausgestellt → damit in die Apotheke. Für das verschriebene Arzneimittel trägt die **Krankenkasse den wesentlichen Anteil der Kosten**.\n\n**Zuzahlung für GKV-Versicherte: 10 % des Verkaufspreises, mindestens 5 Euro und höchstens 10 Euro.**\nRechenbeispiele aus dem Text:\n- Arzneimittel kostet 17,80 Euro → Patientin zahlt den Mindestbetrag von **5 Euro**\n- Arzneimittel kostet 70 Euro → Eigenanteil 10 % = **7 Euro** Zuzahlung\n\n**Kinder und Jugendliche bis zum 18. Lebensjahr sind von der Zuzahlung ausgenommen.** Ansonsten gelten **Belastungsgrenzen**: Zuzahlungen sind höchstens in Höhe von **2 % der jährlichen Bruttoeinnahmen zum Lebensunterhalt** zu leisten (bei **chronisch kranken Versicherten 1 %**). Ob die Belastungsgrenze erreicht ist, prüft die zuständige Krankenkasse – hierfür ist ein **Antrag** bei der Krankenkasse durch die Versicherten zu stellen.\n\n**Freie Apothekenwahl / einheitliche Preise:** Patientinnen und Patienten können mit ihrem Rezept in **jede Apotheke** gehen – Arzneimittel kosten in allen Apotheken dasselbe. Das stellt die **Arzneimittelpreisverordnung** sicher: Für verschreibungspflichtige Arzneimittel gibt es überall einen **einheitlichen Abgabepreis**.\n\n**Preisgestaltung / Generika:** Grundsätzlich entscheiden **pharmazeutische Unternehmer selbst** über die Preise ihrer Arzneimittel. Es gibt:\n- **Altoriginale**: Arzneimittel, bei denen der **Patentschutz abgelaufen** ist\n- **Generika**: Arzneimittel, die den Originalpräparaten **nachentwickelt** sind, aber nicht das Original – deswegen oft sehr viel günstiger\n\nZur Begrenzung der Arzneimittelkosten legen die Krankenkassen oft fest, **welche Arzneimittel ihre Mitglieder verschrieben bekommen** – sofern die behandelnde Ärztin/der behandelnde Arzt dies nicht ausgeschlossen hat. Folge: Die Apotheke gibt ggf. das Arzneimittel eines **anderen Herstellers** ab als früher. Diese Generika **wirken genau gleich** – Patientinnen und Patienten können sogar profitieren, weil ihre **Zuzahlung geringer** ist.\n\n### Kennzahl\n\n**Fast 18.800 Apotheken** in Deutschland versorgen täglich **3,3 Millionen Menschen** mit Arzneimitteln.",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Zuzahlung Arzneimittel (GKV): 10 % des Verkaufspreises, mindestens 5 Euro, höchstens 10 Euro.",
+        "Kinder und Jugendliche bis 18 Jahre sind von der Arzneimittel-Zuzahlung ausgenommen.",
+        "Belastungsgrenze für Zuzahlungen: 2 % der jährlichen Bruttoeinnahmen zum Lebensunterhalt; bei chronisch Kranken 1 %.",
+        "Erreichen der Belastungsgrenze: Prüfung durch die Krankenkasse, Antrag durch die Versicherten erforderlich.",
+        "Arzneimittelpreisverordnung: einheitlicher Abgabepreis für verschreibungspflichtige Arzneimittel in allen Apotheken; freie Apothekenwahl.",
+        "Generika = den Originalpräparaten nachentwickelte, günstigere Arzneimittel mit gleicher Wirkung; Altoriginale = Präparate mit abgelaufenem Patentschutz.",
+        "Krankenkassen können festlegen, welche Arzneimittel abgegeben werden (Rabattverträge), sofern der Arzt dies nicht ausschließt.",
+        "Fast 18.800 Apotheken versorgen täglich 3,3 Millionen Menschen mit Arzneimitteln."
+      ]
+    },
+    {
+      "gidx": 162,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 35 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Nutzenbewertung neuer Arzneimittel (AMNOG, G-BA) / 79 % Generika",
+      "type": "inhalt",
+      "notes_md": "## Nutzenbewertung neuer Arzneimittel\n\nNeue Arzneimittel müssen nicht nur gründlich **getestet und medizinisch zugelassen** werden – sie müssen auch hinsichtlich ihres **Nutzens bewertet** werden, damit die GKV sie bezahlt.\n\nSeit Inkrafttreten des **Arzneimittelmarktneuordnungsgesetzes (AMNOG) im Jahr 2011** bewertet der **G-BA (Gemeinsamer Bundesausschuss)** den Nutzen eines neuen Arzneimittels **im Vergleich zu anderen Arzneimitteln für die gleiche Erkrankung**.\n\nAuf Grundlage dieser Bewertung vereinbaren der jeweilige **pharmazeutische Unternehmer** und der **GKV-Spitzenverband** einen **nutzenadäquaten Preis** für das neue Arzneimittel.\n\n## Kennzahl: 79 % Generika\n\n**79 %** der Menge aller in der gesetzlichen Krankenversicherung verordneten Arzneimittel entfielen im Jahr **2020** auf **Generika**. Insbesondere für Generika können die Krankenkassen **Rabattverträge** abschließen.\n\n(Illustration: Apotheker/Arzt im Kittel vor einer überdimensionierten Kapsel – dekorativ.)",
+      "figures": [
+        {
+          "caption": "Illustration: Person vor überdimensionierter Arzneimittelkapsel",
+          "shows": "Dekorative Zeichnung eines Kittelträgers neben einer großen zweifarbigen Kapsel",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "AMNOG (Arzneimittelmarktneuordnungsgesetz) seit 2011: Nutzenbewertung neuer Arzneimittel als Voraussetzung für die Erstattung durch die GKV.",
+        "Der G-BA bewertet den Nutzen neuer Arzneimittel im Vergleich zu anderen Arzneimitteln für die gleiche Erkrankung.",
+        "Nutzenadäquater Preis: Vereinbarung zwischen pharmazeutischem Unternehmer und GKV-Spitzenverband auf Grundlage der Nutzenbewertung.",
+        "2020 entfielen 79 % aller in der GKV verordneten Arzneimittel (Menge) auf Generika.",
+        "Für Generika können Krankenkassen Rabattverträge abschließen."
+      ]
+    },
+    {
+      "gidx": 163,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 36 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Pflege / Pflegeversicherung (SGB XI) / Die Pflegegrade",
+      "type": "inhalt",
+      "notes_md": "## Pflege – Definition und Ziel\n\nPflegebedürftig im Sinne des Textes: Ein Mensch ist **nicht in der Lage, körperliche, kognitive oder psychische Beeinträchtigungen oder gesundheitlich bedingte Belastungen oder Anforderungen ohne Hilfe durch andere auszugleichen oder zu bewältigen** – etwa sich im Alltag selbstständig zu versorgen. Dann kann er Pflege in Anspruch nehmen. Ziel guter Pflege: trotz Einschränkungen ein **möglichst selbstständiges und selbstbestimmtes Leben** führen, das der **Würde des Menschen** entspricht.\n\nZur Unterstützung der Pflegebedürftigen und ihrer Angehörigen wurde am **1. Januar 1995** eine umfassende **Versicherungspflicht** für alle gesetzlich und privat Versicherten für das **Pflegerisiko** eingeführt.\n\n## Finanzierung der sozialen Pflegeversicherung\n\n- **Paritätische Finanzierung** durch Arbeitgeber sowie Arbeitnehmerinnen und Arbeitnehmer\n- **Beitragssatz: 3,05 Prozent**\n- **Kinderlose Mitglieder** zahlen zusätzlich einen **Beitragszuschlag von 0,35 Prozent**\n\nDie Pflegeversicherung deckt **nicht alle Kosten** der Pflege ab – den Rest tragen die Pflegebedürftigen oder ihre Angehörigen selbst bzw. im Bedarfsfall die **Sozialhilfe**. Die Pflegeversicherung wird deshalb auch als **\"Teilkostenversicherung\"** bezeichnet.\n\nWeiterentwicklung: Seit Einführung kontinuierlich angepasst. Bedeutender Schritt: **Neufassung des Pflegebedürftigkeitsbegriffs** mit **differenzierter Betrachtung der Selbstständigkeit** (anstelle von zeitlichen Bedarfen an körperlicher Unterstützung) als Grundlage der Begutachtung.\n\n## Die Pflegegrade (Schaubild, wortwörtlich)\n\n1. **geringe Beeinträchtigung der Selbstständigkeit**\n2. **erhebliche Beeinträchtigung der Selbstständigkeit**\n3. **schwere Beeinträchtigung der Selbstständigkeit**\n4. **schwerste Beeinträchtigung der Selbstständigkeit**\n5. **schwerste Beeinträchtigung der Selbstständigkeit mit besonderen Anforderungen an die pflegerische Versorgung**\n\n## Infobox (wortwörtlich)\n\n**\"Die Pflegeversicherung ist ein eigenständiger Zweig der Sozialversicherung (SGB XI).\"**",
+      "figures": [
+        {
+          "caption": "Übersicht: Die fünf Pflegegrade",
+          "shows": "Nummerierte Auflistung der Pflegegrade 1–5 mit den jeweiligen Beeinträchtigungsstufen der Selbstständigkeit",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [10, 12],
+      "key_facts": [
+        "Pflegeversicherung: eigenständiger Zweig der Sozialversicherung (SGB XI).",
+        "Versicherungspflicht für das Pflegerisiko seit 1. Januar 1995 (für gesetzlich und privat Versicherte).",
+        "Beitragssatz der sozialen Pflegeversicherung: 3,05 %, paritätisch von Arbeitgebern und Arbeitnehmern finanziert.",
+        "Kinderlose zahlen zusätzlich 0,35 Prozentpunkte Beitragszuschlag.",
+        "Pflegeversicherung = Teilkostenversicherung: Restkosten tragen Pflegebedürftige/Angehörige selbst oder die Sozialhilfe.",
+        "Begutachtungsgrundlage: differenzierte Betrachtung der Selbstständigkeit (neuer Pflegebedürftigkeitsbegriff, nicht mehr zeitliche Bedarfe).",
+        "Pflegegrade 1–5: geringe / erhebliche / schwere / schwerste Beeinträchtigung der Selbstständigkeit; Grad 5 zusätzlich mit besonderen Anforderungen an die pflegerische Versorgung."
+      ]
+    },
+    {
+      "gidx": 164,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 37 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Pflegegrade und Demenz / Statistik Pflegeversicherung (4,9 Mio.)",
+      "type": "inhalt",
+      "notes_md": "## Pflegegrade und Berücksichtigung von Demenz\n\nDer aufgefächerte Blick auf den einzelnen Pflegebedürftigen (Selbstständigkeitsbegriff) ermöglicht heute für **alle Pflegebedürftigen** eine Aufteilung der Leistungsansprüche in **fünf Pflegegrade**.\n\nZuvor waren die Bedarfslagen von **Menschen mit Demenz** beim Zugang zu Pflegeleistungen nicht ausreichend berücksichtigt: Auch wenn sie körperlich oft keine schwerwiegenden Einschränkungen haben, benötigen viele Menschen mit Demenz **Unterstützung bei der Gestaltung und Bewältigung ihres Alltags**.\n\n**Seit 2017** werden neben körperlichen auch **geistige und psychische Einschränkungen der Selbstständigkeit** berücksichtigt – wie sie etwa bei **Alzheimer und anderen demenziellen Erkrankungen** vorkommen. Mit der Umsetzung der **Nationalen Demenzstrategie ab 2020** wird die Situation für Menschen mit Demenz weiter verbessert.\n\n## Kennzahl: Rund 4,9 Mio. Leistungsempfänger\n\nDurchschnittlich rund **4,9 Mio. Menschen** nahmen im Jahr **2021** Leistungen der Pflegeversicherung in Anspruch. Die meisten davon – **knapp 4 Millionen** – wurden **ambulant** gepflegt. **Stationär** wurden 2021 rund **900.000 Menschen** versorgt (Statistik der Pflegekassen und privaten Pflegeversicherungen).\n\n(Illustration: Pflegebedürftige Person im Bett, Besucher liest vor, Bücherstapel um das Bett – dekorativ.)",
+      "figures": [
+        {
+          "caption": "Illustration: Besuch und Vorlesen am Krankenbett",
+          "shows": "Person im Pflegebett, eine zweite Person sitzt daneben und liest aus einem Buch vor; Bücherstapel als Dekor",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Leistungsansprüche in der Pflege werden in fünf Pflegegrade aufgeteilt.",
+        "Seit 2017 werden auch geistige und psychische Einschränkungen der Selbstständigkeit (z. B. bei Alzheimer/Demenz) bei der Begutachtung berücksichtigt.",
+        "Nationale Demenzstrategie ab 2020 verbessert die Situation für Menschen mit Demenz.",
+        "2021 nahmen rund 4,9 Mio. Menschen Leistungen der Pflegeversicherung in Anspruch: knapp 4 Mio. ambulant, rund 900.000 stationär."
+      ]
+    },
+    {
+      "gidx": 165,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 38 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Kennzahl: Rund 7,58 Mrd. Euro (Vorsorge, Rehabilitation, Früherkennung, Impfungen)",
+      "type": "inhalt",
+      "notes_md": "## Kennzahlen: Ausgaben der GKV für Vorsorge, Rehabilitation, Früherkennung und Schutzimpfungen\n\n**Rund 7,58 Mrd. Euro** – die Ausgaben der GKV für **Vorsorge- und Rehabilitationsleistungen, Leistungen zur Früherkennung von Krankheiten und Schutzimpfungen** lagen **2020** bei rund **7,58 Milliarden Euro**.\n\nDavon investierte die GKV im Jahr 2020 rund **414 Millionen Euro (genau: 414.259.853 Euro)** in **Primärprävention und Gesundheitsförderung**.\n\n(Illustration: seilspringende Person, das Springseil bildet oben eine EKG-/Herzkurvenlinie – Symbolbild für Prävention/Gesundheitsförderung, dekorativ.)",
+      "figures": [
+        {
+          "caption": "Illustration: Seilspringen mit EKG-Linie",
+          "shows": "Springseil endet in einer Herzfrequenz-/EKG-Kurve – Symbol für Prävention und Gesundheitsförderung",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "GKV-Ausgaben 2020 für Vorsorge-/Rehabilitationsleistungen, Früherkennung und Schutzimpfungen: rund 7,58 Mrd. Euro.",
+        "Davon rund 414 Mio. Euro (414.259.853) für Primärprävention und Gesundheitsförderung."
+      ]
+    },
+    {
+      "gidx": 166,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 39 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Prävention und Gesundheitsförderung (Nationale Präventionskonferenz, Präventionsgesetz)",
+      "type": "inhalt",
+      "notes_md": "## Prävention und Gesundheitsförderung\n\nIndividuell: ausgewogene Ernährung, Sport, gesunder Ausgleich zwischen Job und Freizeit. Auch das **Gesundheitssystem und andere Sozialleistungsbereiche** haben sich Prävention und Gesundheitsförderung zur Aufgabe gemacht.\n\n### Nationale Präventionskonferenz (2015)\n\nDafür haben sich **2015** die **Spitzenorganisationen der gesetzlichen Kranken-, Unfall-, Renten- und Pflegeversicherung** sowie der **Verband der privaten Krankenversicherungsunternehmen e.V.** in der **\"Nationalen Präventionskonferenz\"** zusammengefunden und unter Mitwirkung vieler weiterer Akteure eine **nationale Präventionsstrategie** vereinbart.\n\n**Gemeinsame Ziele (wortwörtlich sinngemäß):** Die Menschen sollen **gesund aufwachsen, leben und arbeiten und auch im Alter gesund bleiben**. Kurzum: In allen **Lebenswelten** (Kindergärten, Schulen, Betriebe, Pflegeheime), in denen sie im Laufe ihres Lebens Zeit verbringen, sollen sie Rahmenbedingungen vorfinden, die ihre **Gesundheit, Sicherheit und Teilhabe** fördern.\n\nUmsetzung: gemeinsame Ziele und ein **einheitlicher Handlungsrahmen**, um die Leistungen der **Sozialversicherungsträger** zielorientiert aufeinander abzustimmen. Mit ihren gesetzlichen Aufgaben unterstützen sie die Verantwortlichen der Lebenswelten dabei, **Strukturen aufzubauen und zu stärken**, die zu gesundheitsförderlichen Lebens- und Arbeitsbedingungen beitragen. Engagement zielt auch auf die Verbesserung der **Gesundheitskompetenz** der Bürgerinnen und Bürger und darauf, ihre **Ressourcen für ein gesundes Leben** voll auszuschöpfen.\n\n### Weitere Angebote\n\n- **Präventionskurse** der Krankenkassen: Motivation und Befähigung zu gesunder Lebensführung\n- **Betriebliche Gesundheitsförderung**: Beratungs- und Unterstützungsangebote für kleine und mittlere Unternehmen, insbesondere Krankenhäuser und Pflegeeinrichtungen\n- **Präventionsgesetz**: Gesundheits- und Früherkennungsuntersuchungen für Kinder, Jugendliche und Erwachsene weiterentwickelt; stärkeres Augenmerk auf **individuelle Belastungen und Risikofaktoren** für das Entstehen von Krankheiten\n- **Präventionsempfehlungen durch Ärztinnen und Ärzte**: Beitrag zum Erhalt und zur Verbesserung der Gesundheit der Patientinnen und Patienten\n- **Krebsfrüherkennung**: Erwachsene Versicherte haben regelmäßigen Anspruch auf Untersuchungen zur Früherkennung bestimmter Krebserkrankungen: **Darm-, Haut-, Brust-, Gebärmutterhals- und Prostatakrebs**",
+      "figures": [],
+      "eingrenzung_hits": [4, 10],
+      "key_facts": [
+        "Nationale Präventionskonferenz seit 2015: Spitzenorganisationen der gesetzlichen Kranken-, Unfall-, Renten- und Pflegeversicherung plus Verband der privaten Krankenversicherungsunternehmen e.V.",
+        "Ziel der nationalen Präventionsstrategie: gesund aufwachsen, leben und arbeiten und im Alter gesund bleiben – in allen Lebenswelten.",
+        "Lebenswelten-Ansatz: Kindergärten, Schulen, Betriebe, Pflegeheime – Förderung von Gesundheit, Sicherheit und Teilhabe.",
+        "Krankenkassen bieten Präventionskurse an; betriebliche Gesundheitsförderung für kleine/mittlere Unternehmen, Krankenhäuser und Pflegeeinrichtungen.",
+        "Präventionsgesetz: Weiterentwicklung der Gesundheits- und Früherkennungsuntersuchungen; Fokus auf individuelle Belastungen und Risikofaktoren.",
+        "Regelmäßiger Anspruch erwachsener Versicherter auf Krebsfrüherkennung: Darm-, Haut-, Brust-, Gebärmutterhals- und Prostatakrebs."
+      ]
+    },
+    {
+      "gidx": 167,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 40 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Ambulante und stationäre Rehabilitationseinrichtungen / Misch- und Sonderformen medizinischer Leistungen / SGB IX",
+      "type": "inhalt",
+      "notes_md": "## Ambulante und stationäre Rehabilitationseinrichtungen\n\nEine schwere Krankheit, lange Therapiezeiten oder eine Operation markieren **tiefe Einschnitte** im Leben eines Menschen, oftmals mit langwierigen Folgen. Ziel der Rehabilitation: Patientinnen und Patienten möglichst schnell wieder die **Teilnahme am Alltag** ermöglichen.\n\nBreites Spektrum an Rehabilitationsangeboten – **ambulant und stationär**:\n- **physiotherapeutische Behandlungen**\n- **psychologische Betreuung**\n- **Unterstützung beim Umgang mit Hilfsmitteln**\n\nDarüber hinaus bietet das deutsche Gesundheitssystem Rehabilitationseinrichtungen für **spezielle Indikationen** an, z. B. **Essstörungen oder Suchterkrankungen**.\n\n### Infobox: Neuntes Buch Sozialgesetzbuch (SGB IX)\n\n**\"Die ambulante und stationäre Rehabilitation wird gesetzlich weitgehend im Rahmen des SGB IX erfasst und ist damit ebenfalls ein eigenständiger Bereich im deutschen Sozialversicherungsrecht.\"**\n\n## Misch- und Sonderformen medizinischer Leistungen\n\nAmbulant und stationär, hausärztliche und fachärztliche Versorgung, Akutmedizin und Rehabilitation, Prävention und Langzeittherapie – das deutsche Gesundheitssystem ist **vielfältig**. Zunehmende Erkenntnis: **Die Versorgung von Patientinnen und Patienten ist eine Mannschaftsleistung.**\n\nBeispiel Versorgungskette (Hüftgelenkschmerzen): ambulant orthopädisch untersucht → womöglich stationär operiert → anschließend **Rehaklinik** → nach Entlassung zur **Physiotherapeutin/zum Physiotherapeuten vor Ort**. Medizinische Behandlungen gehen oft **über die einzelnen Sektoren hinaus**.\n\nGerade **chronisch kranke Menschen** profitieren von Angeboten, die Bausteine ambulanter und stationärer Therapien zur **individuell optimalen Behandlung** zusammensetzen. Dafür sind in den vergangenen Jahren ganz **neue Versorgungsmodelle** entstanden (Beispiele auf der Folgeseite: DMP, Integrierte Versorgung, Hausarztverträge, ASV).",
+      "figures": [],
+      "eingrenzung_hits": [10, 12],
+      "key_facts": [
+        "Rehabilitation: Ziel ist die möglichst schnelle Rückkehr in den Alltag; Angebote ambulant und stationär (Physiotherapie, psychologische Betreuung, Hilfsmittelunterstützung).",
+        "Spezielle Reha-Indikationen: z. B. Essstörungen, Suchterkrankungen.",
+        "Rehabilitation ist im SGB IX geregelt – eigenständiger Bereich des deutschen Sozialversicherungsrechts.",
+        "Versorgung ist eine \"Mannschaftsleistung\" über Sektorengrenzen hinweg (Beispiel Hüft-OP: Orthopäde ambulant → stationäre OP → Rehaklinik → Physiotherapie vor Ort).",
+        "Neue sektorenübergreifende Versorgungsmodelle wurden für chronisch Kranke entwickelt."
+      ]
+    },
+    {
+      "gidx": 168,
+      "source": "Das-deutsche-Gesundheitssystem.pdf, S. 41 (Kapitel: Gesundheitsversorgung und Pflege)",
+      "slide_title": "Beispiele aus der Praxis: DMP, Integrierte Versorgung, Hausarztverträge, ASV / Innovationsfonds",
+      "type": "inhalt",
+      "notes_md": "## Beispiele aus der Praxis – neue Versorgungsmodelle\n\n### 1. Disease-Management-Programme (DMP)\n\nFür bestimmte **chronische Krankheiten** bieten die Krankenkassen **strukturierte Behandlungsprogramme** an – u. a. bei:\n- **Diabetes mellitus Typ 1 und Typ 2**\n- **Brustkrebs**\n- **koronare Herzkrankheit**\n- **Asthma bronchiale**\n- **chronisch obstruktive Lungenerkrankung (COPD)**\n\nBesonderheit: **Die ganze Therapie wird aus einer Hand koordiniert.** An diesen sogenannten **Disease-Management-Programmen (DMP)** können chronisch Kranke **freiwillig** teilnehmen. Bei diesen Programmen können auch **Krankenhäuser zur ambulanten Behandlung berechtigt** sein.\n\n### 2. Integrierte Versorgung\n\n**\"Integrierte Versorgung\"** erlaubt es Ärztinnen und Ärzten sowie Krankenhäusern, **gemeinsame Versorgungskonzepte zu erarbeiten – über die Grenzen von ambulant und stationär hinaus**. Mit den Kassen schließen sie **Verträge** ab, sodass diese ihren Versicherten die Behandlungen anbieten können.\n\n### 3. Hausarztverträge\n\nIn **Hausarztverträgen** werden die Hausärztinnen und -ärzte zu **Lotsen ihrer Patientinnen und Patienten** – sie **steuern die gesamte Versorgung**. Die **freie Arztwahl**, eigentlich Grundlage des deutschen Systems, ist hier zwar **aufgehoben**; dafür wird die gesamte Behandlung von einer **Person des Vertrauens koordiniert**. Die Krankenkassen schließen solche Hausarztverträge für ihre Versicherten ab. Ziel: **verbesserte Koordinierung** von Fachärztinnen und Fachärzten, Krankenhäusern und anderen. **Über 6 Millionen Versicherte** nehmen zurzeit an solchen Programmen teil.\n\n### 4. Ambulante Spezialfachärztliche Versorgung (ASV)\n\nDie **ASV** ist ein Behandlungsangebot für Patientinnen und Patienten mit **seltenen oder schweren Erkrankungen mit besonderem Krankheitsverlauf** – etwa **Tuberkulose, Mukoviszidose oder Morbus Wilson**. Die Behandlung erfolgt durch **interdisziplinäre Ärzteteams** aus der **ambulanten fachärztlichen und der stationären Versorgung**.\n\n## Innovationsfonds beim G-BA\n\nEin wichtiges Instrument zur **Förderung und Erprobung von Innovationen** im deutschen Gesundheitssystem ist der **2015 eingerichtete Innovationsfonds beim G-BA**. Der Fonds – gespeist aus **Mitteln der Krankenkassen und des Gesundheitsfonds** – finanziert:\n- **patientennahe Versorgungsforschungsprojekte** (einschließlich Entwicklung oder Weiterentwicklung medizinischer Leitlinien)\n- **neue, insbesondere sektorenübergreifende ambulant-stationäre Versorgungsformen**",
+      "figures": [],
+      "eingrenzung_hits": [4, 12],
+      "key_facts": [
+        "DMP (Disease-Management-Programme): strukturierte Behandlungsprogramme für chronische Krankheiten (Diabetes mellitus Typ 1/2, Brustkrebs, KHK, Asthma bronchiale, COPD); freiwillige Teilnahme; Therapie aus einer Hand koordiniert.",
+        "Integrierte Versorgung: gemeinsame Versorgungskonzepte von Ärzten und Krankenhäusern über die Grenzen von ambulant und stationär hinaus, vertraglich mit den Kassen geregelt.",
+        "Hausarztverträge: Hausarzt als \"Lotse\" steuert die gesamte Versorgung; freie Arztwahl aufgehoben; über 6 Mio. teilnehmende Versicherte.",
+        "ASV (Ambulante Spezialfachärztliche Versorgung): für seltene/schwere Erkrankungen mit besonderem Verlauf (Tuberkulose, Mukoviszidose, Morbus Wilson); interdisziplinäre Ärzteteams aus ambulanter fachärztlicher und stationärer Versorgung.",
+        "Innovationsfonds beim G-BA seit 2015: finanziert aus Mitteln der Krankenkassen und des Gesundheitsfonds Versorgungsforschung und neue sektorenübergreifende Versorgungsformen."
+      ]
+    }
+  ]
+}
