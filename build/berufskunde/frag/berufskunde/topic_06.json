@@ -1,0 +1,93 @@
+{
+  "id": "berufskunde-t6",
+  "title": "Pflichtangaben im Arbeitsverhältnis (Nachweisgesetz)",
+  "eingrenzung": "Pflichtangaben über den Nachweis eines Arbeitsverhältnisses und den wesentlichen Bedingungen (Nachweisgesetz?)",
+  "prio": "high",
+  "body": "## Pflichtangaben nach dem Nachweisgesetz (§ 2 NachwG)\n\nDie grundlegenden Inhalte eines Arbeitsvertrages sind im **§ 2 des Nachweisgesetzes (NachwG)** festgehalten. Es handelt sich dabei um **Mindestanforderungen**:\n\n1. **Name und Anschrift** von Arbeitnehmer:in und Arbeitgeber:in\n2. **Beginn und Dauer** des Arbeitsverhältnisses\n3. **Arbeitsort**\n4. **Art der Tätigkeit** (kurze Charakterisierung)\n5. **Arbeitsentgelt:** Höhe, Zusammensetzung (u. a. Zuschläge, Zulagen, Prämien, Sonderzahlungen) und Fälligkeit\n6. Vereinbarungen zur **Arbeitszeit**\n7. **Dauer des Erholungsurlaubs** pro Jahr (gesetzlich: 20 Tage bei 5-Tage-Woche, 24 Tage bei 6-Tage-Woche)\n8. **Kündigungsfristen**\n9. Mögliche Hinweise auf **kollektivrechtliche Regelungen** (Tarifverträge, Dienst- oder Betriebsvereinbarungen)\n\n### Kündigungsfristen im Überblick\n\n- **Arbeitnehmer:innen (Regelfall):** vier Wochen zum Fünfzehnten oder zum Monatsende\n- **Arbeitgeber:innen:** Die Frist richtet sich nach der **Beschäftigungsdauer** — sie steigt z. B. nach fünf Jahren Beschäftigung auf **zwei Monate zum Ende eines Kalendermonats** und nach acht Jahren auf **drei Monate** usw.\n- **Probezeit:** Soll das Arbeitsverhältnis in der Probezeit beendet werden, beträgt die Kündigungsfrist für **beide Seiten zwei Wochen**.\n\n## Mögliche weitere Inhalte des Arbeitsvertrags\n\nEin Arbeitsvertrag sollte bestenfalls alle wichtigen Punkte enthalten, die einen **funktionierenden Arbeitsalltag** ermöglichen, sowie **Regelungen, die im Streitfall** zur Geltung kommen. Zusätzlich können unter anderem enthalten sein:\n\n- Formulierungen zum **unbefristeten Arbeitsverhältnis** und/oder zur **Probezeit**\n- Regelungen zu den **Überstunden**\n- **Einkommensfortzahlung im Krankheitsfall**\n- Fristen bezüglich der **Arbeitsunfähigkeitsbescheinigung**\n- **Geheimhaltungsverpflichtungen**\n- Anzeige von **Nebentätigkeiten**\n- **Vertragsstrafen**\n- **Zusatzvereinbarungen** und Hinweise auf **Änderungen des Arbeitsvertrages**\n- **Widerrufsvorbehalt** für Zusatzzahlungen",
+  "facts": [
+    "Grundlegende Arbeitsvertragsinhalte: § 2 Nachweisgesetz (NachwG) als Mindestanforderungen",
+    "NachwG-Pflichtangaben: Name/Anschrift der Parteien, Beginn und Dauer, Arbeitsort, Art der Tätigkeit, Arbeitsentgelt (Höhe, Zusammensetzung, Fälligkeit), Arbeitszeit, Erholungsurlaub, Kündigungsfristen, Hinweise auf kollektivrechtliche Regelungen",
+    "Gesetzlicher Erholungsurlaub: 20 Tage bei 5-Tage-Woche, 24 Tage bei 6-Tage-Woche",
+    "Kündigungsfrist Arbeitnehmer: vier Wochen zum 15. oder zum Monatsende",
+    "Kündigungsfrist Arbeitgeber richtet sich nach Beschäftigungsdauer: nach 5 Jahren zwei Monate zum Kalendermonatsende, nach 8 Jahren drei Monate",
+    "Kündigungsfrist in der Probezeit: zwei Wochen für beide Seiten",
+    "Mögliche Zusatzinhalte: Probezeit/Befristung, Überstunden, Lohnfortzahlung im Krankheitsfall, AU-Bescheinigung, Geheimhaltung, Nebentätigkeiten, Vertragsstrafen, Widerrufsvorbehalt"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "In welcher Vorschrift sind die grundlegenden Inhalte eines Arbeitsvertrags geregelt?",
+      "a": "In § 2 des Nachweisgesetzes (NachwG) — als Mindestanforderungen."
+    },
+    {
+      "q": "Nenne mindestens fünf Pflichtangaben nach § 2 NachwG.",
+      "a": "Name und Anschrift der Vertragsparteien; Beginn und Dauer des Arbeitsverhältnisses; Arbeitsort; Art der Tätigkeit; Arbeitsentgelt (Höhe, Zusammensetzung, Fälligkeit); Arbeitszeit; Erholungsurlaub; Kündigungsfristen; Hinweise auf kollektivrechtliche Regelungen."
+    },
+    {
+      "q": "Wie viele Tage gesetzlicher Erholungsurlaub stehen Arbeitnehmer:innen bei einer 5-Tage-Woche bzw. 6-Tage-Woche zu?",
+      "a": "20 Tage bei einer 5-Tage-Woche, 24 Tage bei einer 6-Tage-Woche."
+    },
+    {
+      "q": "Welche Kündigungsfrist gilt im Regelfall für Arbeitnehmer:innen?",
+      "a": "Vier Wochen zum Fünfzehnten oder zum Monatsende."
+    },
+    {
+      "q": "Wie richtet sich die Kündigungsfrist für Arbeitgeber:innen?",
+      "a": "Nach der Beschäftigungsdauer: z. B. zwei Monate zum Kalendermonatsende nach fünf Jahren, drei Monate nach acht Jahren."
+    },
+    {
+      "q": "Welche Kündigungsfrist gilt in der Probezeit — und für wen?",
+      "a": "Zwei Wochen, und zwar gleichermaßen für Arbeitgeber:innen und Arbeitnehmer:innen."
+    },
+    {
+      "q": "Nenne mögliche zusätzliche Inhalte eines Arbeitsvertrags (mindestens vier).",
+      "a": "Z. B. Probezeit/unbefristetes Arbeitsverhältnis, Überstundenregelungen, Einkommensfortzahlung im Krankheitsfall, Fristen zur Arbeitsunfähigkeitsbescheinigung, Geheimhaltungsverpflichtungen, Anzeige von Nebentätigkeiten, Vertragsstrafen, Zusatzvereinbarungen/Änderungen, Widerrufsvorbehalt für Zusatzzahlungen."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Wo sind die Mindestanforderungen an den Inhalt eines Arbeitsvertrags festgehalten?",
+      "choices": [
+        "§ 2 Bürgerliches Gesetzbuch (BGB)",
+        "§ 2 Nachweisgesetz (NachwG)",
+        "§ 2 Bundesurlaubsgesetz (BUrlG)",
+        "§ 2 Kündigungsschutzgesetz (KSchG)"
+      ],
+      "answer": 1,
+      "expl": "Die grundlegenden Inhalte eines Arbeitsvertrages sind in § 2 des Nachweisgesetzes (NachwG) als Mindestanforderungen festgehalten."
+    },
+    {
+      "q": "Wie hoch ist der gesetzliche Erholungsurlaub bei einer 5-Tage-Woche?",
+      "choices": [
+        "15 Tage",
+        "24 Tage",
+        "20 Tage",
+        "30 Tage"
+      ],
+      "answer": 2,
+      "expl": "Gesetzlich sind 20 Urlaubstage bei einer 5-Tage-Woche vorgesehen (24 Tage bei einer 6-Tage-Woche)."
+    },
+    {
+      "q": "Welche Kündigungsfrist gilt für Arbeitnehmer:innen im Regelfall?",
+      "choices": [
+        "Vier Wochen zum Fünfzehnten oder zum Monatsende",
+        "Zwei Wochen zu jedem beliebigen Termin",
+        "Sechs Wochen zum Quartalsende",
+        "Zwei Monate zum Kalendermonatsende"
+      ],
+      "answer": 0,
+      "expl": "Für Arbeitnehmer:innen sieht der Gesetzgeber im Regelfall eine Frist von vier Wochen zum Fünfzehnten oder zum Monatsende vor."
+    },
+    {
+      "q": "Welche Kündigungsfrist gilt in der Probezeit?",
+      "choices": [
+        "Vier Wochen zum Monatsende",
+        "Eine Woche nur für Arbeitgeber:innen",
+        "Sechs Wochen zum Quartalsende",
+        "Zwei Wochen für beide Seiten"
+      ],
+      "answer": 3,
+      "expl": "In der Probezeit beträgt die Kündigungsfrist zwei Wochen — sowohl für Arbeitgeber:innen als auch für Arbeitnehmer:innen."
+    }
+  ]
+}

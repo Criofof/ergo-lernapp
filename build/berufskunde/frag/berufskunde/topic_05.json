@@ -1,0 +1,101 @@
+{
+  "id": "berufskunde-t5",
+  "title": "Angaben auf der ergotherapeutischen Verordnung (Muster 13)",
+  "eingrenzung": "Angaben auf ergotherapeutischer Verordnung",
+  "prio": "high",
+  "body": "## Heilmittelverordnung – Muster 13 (Stand 10.2020)\n\nErgotherapie wird ärztlich auf dem amtlichen Vordruck **„Heilmittelverordnung 13“ (Muster 13, Stand 10.2020)** verordnet. Der Vordruck enthält nummerierte Erläuterungsfelder (1–12). Unter https://www.kbv.de/media/sp/Muster_13_Vordruckerlaeuterungen.pdf kann nachgeschlagen werden, wofür welche Zahl steht.\n\n### Kopfbereich (ohne Nummer)\n\n- Ankreuzfelder: **Zuzahlungsfrei / Zuzahlungspflicht / Unfallfolgen / BVG**\n- **Krankenkasse bzw. Kostenträger**\n- **Name, Vorname des Versicherten**, **geb. am** (Geburtsdatum)\n- **Kostenträgerkennung**, **Versicherten-Nr.**, **Status**\n- **Betriebsstätten-Nr.**, **Arzt-Nr.**, **Datum**\n\n### Nummerierte Felder\n\n1. **Heilmittelbereich** (Ankreuzfeld): Physiotherapie / Podologische Therapie / Stimm-, Sprech-, Sprach- und Schlucktherapie / **Ergotherapie** / Ernährungstherapie\n2. **Behandlungsrelevante Diagnose(n)** mit **ICD-10-Code**\n3. **Diagnosegruppe**\n4. **Leitsymptomatik gemäß Heilmittelkatalog** – Felder **a, b, c** sowie **patientenindividuelle Leitsymptomatik** (als Freitext angeben)\n5. **Heilmittel nach Maßgabe des Kataloges** (mehrere Zeilen) + **Ergänzendes Heilmittel**\n6. **Behandlungseinheiten** (Spalte neben dem Heilmittel)\n7. **Therapiefrequenz**\n8. **Therapiebericht** (Ankreuzfeld)\n9. **Hausbesuch: ja / nein** (Ankreuzfelder)\n10. **Dringlicher Behandlungsbedarf – innerhalb von 14 Tagen**\n11. **ggf. Therapieziele / weitere med. Befunde und Hinweise** (Freitextfeld)\n12. **IK des Leistungserbringers** (Institutionskennzeichen)\n\nRechts unten stehen **Vertragsarztstempel und Unterschrift des Arztes** (erforderlich). Fußzeile: „Muster 13 (10.2020)“.\n\n### Prüfungsrelevante Angaben auf der ergotherapeutischen Verordnung\n\nVersichertendaten, Kostenträger, ICD-10-Diagnose, Diagnosegruppe, Leitsymptomatik (a–c/patientenindividuell), Heilmittel nach Katalog inkl. ergänzendem Heilmittel, Behandlungseinheiten, Therapiefrequenz, Therapiebericht, Hausbesuch, dringlicher Behandlungsbedarf (14 Tage), Therapieziele/Befunde, IK des Leistungserbringers sowie Arztstempel und Unterschrift.",
+  "facts": [
+    "Muster 13 ist der Vordruck der Heilmittelverordnung (Stand 10.2020)",
+    "Kopfbereich: Krankenkasse/Kostenträger, Name/Vorname, Geburtsdatum, Kostenträgerkennung, Versicherten-Nr., Status, Betriebsstätten-Nr., Arzt-Nr., Datum",
+    "Ankreuzfelder: Zuzahlungsfrei/Zuzahlungspflicht, Unfallfolgen, BVG",
+    "Feld 1: Heilmittelbereich ankreuzen (u. a. Ergotherapie, Physiotherapie, Ernährungstherapie)",
+    "Feld 2: Behandlungsrelevante Diagnose(n) mit ICD-10-Code; Feld 3: Diagnosegruppe",
+    "Feld 4: Leitsymptomatik gemäß Heilmittelkatalog (a, b, c) plus patientenindividuelle Leitsymptomatik als Freitext",
+    "Feld 5: Heilmittel nach Maßgabe des Kataloges + ergänzendes Heilmittel; Feld 6: Behandlungseinheiten; Feld 7: Therapiefrequenz",
+    "Feld 8: Therapiebericht; Feld 9: Hausbesuch ja/nein; Feld 10: dringlicher Behandlungsbedarf innerhalb von 14 Tagen",
+    "Feld 11: ggf. Therapieziele/weitere Befunde; Feld 12: IK des Leistungserbringers",
+    "Vertragsarztstempel und Unterschrift des Arztes sind erforderlich"
+  ],
+  "figures": [
+    {
+      "src": "assets/berufskunde/g252.png",
+      "caption": "Muster 13 – Heilmittelverordnung (amtlicher Vordruck mit den nummerierten Feldern 1–12, Stand 10.2020)"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Auf welchem Vordruck wird Ergotherapie ärztlich verordnet?",
+      "a": "Auf der Heilmittelverordnung 13 (Muster 13, Stand 10.2020)."
+    },
+    {
+      "q": "Welche Angaben zum Versicherten stehen im Kopfbereich von Muster 13?",
+      "a": "Krankenkasse bzw. Kostenträger, Name und Vorname des Versicherten, Geburtsdatum, Kostenträgerkennung, Versicherten-Nr., Status, Betriebsstätten-Nr., Arzt-Nr. und Datum."
+    },
+    {
+      "q": "Welche Ankreuzfelder zur Zuzahlung/Abrechnung enthält der Kopfbereich?",
+      "a": "Zuzahlungsfrei / Zuzahlungspflicht / Unfallfolgen / BVG."
+    },
+    {
+      "q": "Was wird in Feld 2 und Feld 3 der Heilmittelverordnung eingetragen?",
+      "a": "Feld 2: behandlungsrelevante Diagnose(n) mit ICD-10-Code; Feld 3: Diagnosegruppe."
+    },
+    {
+      "q": "Wie wird die Leitsymptomatik in Feld 4 angegeben?",
+      "a": "Als Leitsymptomatik gemäß Heilmittelkatalog (Felder a, b, c) sowie zusätzlich als patientenindividuelle Leitsymptomatik im Freitext."
+    },
+    {
+      "q": "Was gehört zu den Feldern 5–7 auf Muster 13?",
+      "a": "Feld 5: Heilmittel nach Maßgabe des Kataloges inkl. ergänzendem Heilmittel; Feld 6: Behandlungseinheiten; Feld 7: Therapiefrequenz."
+    },
+    {
+      "q": "Welche Felder betreffen Hausbesuch und Dringlichkeit – und welcher Abschluss ist Pflicht?",
+      "a": "Feld 9: Hausbesuch ja/nein; Feld 10: dringlicher Behandlungsbedarf innerhalb von 14 Tagen; Pflicht: Vertragsarztstempel und Unterschrift des Arztes."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Was kennzeichnet Feld 4 der Heilmittelverordnung (Muster 13)?",
+      "choices": [
+        "Eintragung des IK des Leistungserbringers",
+        "Leitsymptomatik gemäß Heilmittelkatalog (a, b, c) plus patientenindividuelle Leitsymptomatik als Freitext",
+        "Anzahl der Behandlungseinheiten",
+        "Ankreuzfeld für den Therapiebericht"
+      ],
+      "answer": 1,
+      "expl": "Feld 4 erfasst die Leitsymptomatik gemäß Heilmittelkatalog (a–c) sowie die patientenindividuelle Leitsymptomatik, die als Freitext anzugeben ist."
+    },
+    {
+      "q": "Innerhalb welcher Frist muss bei dringlichem Behandlungsbedarf (Feld 10) mit der Behandlung begonnen werden?",
+      "choices": [
+        "Innerhalb von 7 Tagen",
+        "Innerhalb von 21 Tagen",
+        "Innerhalb von 14 Tagen",
+        "Innerhalb von 28 Tagen"
+      ],
+      "answer": 2,
+      "expl": "Feld 10: „Dringlicher Behandlungsbedarf – innerhalb von 14 Tagen“."
+    },
+    {
+      "q": "Welche Angaben gehören NICHT in den Kopfbereich von Muster 13?",
+      "choices": [
+        "Betriebsstätten-Nr. und Arzt-Nr.",
+        "Versicherten-Nr. und Status",
+        "Kostenträgerkennung",
+        "IK des Leistungserbringers"
+      ],
+      "answer": 3,
+      "expl": "Das IK des Leistungserbringers ist Feld 12, keine Kopfbereichsangabe. Der Kopfbereich enthält u. a. Kostenträger, Versichertendaten, Versicherten-Nr., Status, Betriebsstätten-Nr. und Arzt-Nr."
+    },
+    {
+      "q": "Was muss die Heilmittelverordnung rechts unten zwingend enthalten?",
+      "choices": [
+        "Vertragsarztstempel und Unterschrift des Arztes",
+        "Unterschrift des Patienten",
+        "Stempel der Krankenkasse",
+        "Unterschrift des Therapeuten"
+      ],
+      "answer": 0,
+      "expl": "Rechts unten stehen Vertragsarztstempel und Unterschrift des Arztes – beide sind erforderlich."
+    }
+  ]
+}
