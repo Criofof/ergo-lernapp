@@ -1,0 +1,192 @@
+{
+  "batch": "55",
+  "pages": [
+    {
+      "gidx": 649,
+      "source": "paed-psych p.649",
+      "slide_title": "1. und 2. Epoche der Psychologie",
+      "type": "titel",
+      "notes_md": "# 1. und 2. Epoche der Psychologie\n\nvon Luis, Tobi, Leon, Chanesta und Jule",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": ["Titel der Präsentation: 1. und 2. Epoche der Psychologie"]
+    },
+    {
+      "gidx": 650,
+      "source": "paed-psych p.650",
+      "slide_title": "Inhaltsverzeichnis",
+      "type": "gliederung",
+      "notes_md": "# Inhaltsverzeichnis\n\n- 1. und 2. Epoche der Psychologie\n- Vertreter der 1. und 2. Epoche\n  - -> Hippokrates\n  - -> Platon\n  - -> Aristoteles",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": ["Gliederung: Epochen, danach Vertreter Hippokrates, Platon, Aristoteles"]
+    },
+    {
+      "gidx": 651,
+      "source": "paed-psych p.651",
+      "slide_title": "1. Epoche 2000 - 500 v. Christus",
+      "type": "inhalt",
+      "notes_md": "# 1. Epoche\n## 2000 - 500 v. Christus\n\n- 2000 - 500 v. Christus\n- keine Vorstellungen von der Psychologie als Wissenschaft\n- Erleben und Verhalten der Menschen werden durch Religion und Mythologie begründet\n- Konzept der Seele / andere psychologische Aspekte wurden durch Fabeln und Erzählungen über alte Götter erklärt",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "1. Epoche: 2000 - 500 v. Christus",
+        "Keine Psychologie als Wissenschaft",
+        "Erleben und Verhalten durch Religion und Mythologie begründet",
+        "Seelenkonzept durch Fabeln und Erzählungen über alte Götter erklärt"
+      ]
+    },
+    {
+      "gidx": 652,
+      "source": "paed-psych p.652",
+      "slide_title": "2. Epoche 500 - 200 v. Christus",
+      "type": "inhalt",
+      "notes_md": "# 2. Epoche\n## 500 - 200 v. Christus\n\n- wissenschaftliche Betrachtung der Psychologie gewann an Bedeutung\n- Überlegungen zur menschlichen Psyche wurden schriftlich festgehalten -> Gedankengänge sind ausführlich\n- Psychologie wurde in den Grundformen Philosophie und Medizin in Akademien unterrichtet",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "2. Epoche: 500 - 200 v. Christus",
+        "Wissenschaftliche Betrachtung der Psychologie gewinnt an Bedeutung",
+        "Überlegungen zur menschlichen Psyche schriftlich festgehalten",
+        "Psychologie in den Grundformen Philosophie und Medizin in Akademien unterrichtet"
+      ]
+    },
+    {
+      "gidx": 653,
+      "source": "paed-psych p.653",
+      "slide_title": "Vertreter der 1. und 2. Epoche",
+      "type": "gliederung",
+      "notes_md": "# Vertreter der 1. und 2. Epoche\n\n- Hippokrates\n- Platon\n- Aristoteles",
+      "figures": [
+        {
+          "caption": "Klassisches Gemälde mit tanzenden Frauenfiguren (Antike/Mythologie)",
+          "shows": "Antikes Gemälde tanzender Figuren als Stimmungsbild zur Epoche",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": ["Vertreter: Hippokrates, Platon, Aristoteles"]
+    },
+    {
+      "gidx": 654,
+      "source": "paed-psych p.654",
+      "slide_title": "Hippokrates",
+      "type": "inhalt",
+      "notes_md": "# Hippokrates\n\n- „Vater der Medizin“\n- versuchte Krankheiten zu systematisieren\n- suchte Erklärungen für Krankheitsphänomene\n- therapeutische Richtlinien zur Behandlung von Krankheiten",
+      "figures": [
+        {
+          "caption": "Büste des Hippokrates",
+          "shows": "Antike Marmorbüste des Hippokrates",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Hippokrates = „Vater der Medizin“",
+        "Systematisierung von Krankheiten",
+        "Erklärungen für Krankheitsphänomene",
+        "Therapeutische Richtlinien zur Behandlung von Krankheiten"
+      ]
+    },
+    {
+      "gidx": 655,
+      "source": "paed-psych p.655",
+      "slide_title": "Die Viersäftelehre - Substanzen",
+      "type": "inhalt",
+      "notes_md": "# Die Viersäftelehre - Substanzen\n\n- besagt, der menschliche Körper besteht aus vier Substanzen\n- -> Schwarze Galle (kalte und trockene Eigenschaften)\n- -> Gelbe Galle (Zusammenhang mit Feuer - trockene Eigenschaften)\n- -> Blut (ähnlich der Luft - feucht und warm)\n- -> Schleim (bezogen auf Wasser - feucht und kalt)",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Viersäftelehre: Körper besteht aus vier Substanzen",
+        "Schwarze Galle: kalt und trocken",
+        "Gelbe Galle: mit Feuer verbunden, trocken",
+        "Blut: ähnlich der Luft, feucht und warm",
+        "Schleim: auf Wasser bezogen, feucht und kalt"
+      ]
+    },
+    {
+      "gidx": 656,
+      "source": "paed-psych p.656",
+      "slide_title": "Die Viersäftelehre - Aussage",
+      "type": "inhalt",
+      "notes_md": "# Die Viersäftelehre - Aussage\n\n- besteht ein Ausgleich der Säfte ist der Mensch gesund\n- besteht kein Gleichgewicht wird der Mensch krank\n- Schlussfolgerung:\n- -> Krankheit kann durch Wiederherstellung des verlorenen Gleichgewichts behandelt werden",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Ausgleich der Säfte = Gesundheit",
+        "Kein Gleichgewicht = Krankheit",
+        "Krankheit behandelbar durch Wiederherstellung des verlorenen Gleichgewichts"
+      ]
+    },
+    {
+      "gidx": 657,
+      "source": "paed-psych p.657",
+      "slide_title": "Platon",
+      "type": "inhalt",
+      "notes_md": "# Platon\n\n- geboren: um 428 v. Christus\n- gestorben um 347 v. Christus\n- griechischer Philosoph\n- bekannt für „Ideenlehre“",
+      "figures": [
+        {
+          "caption": "Büste des Platon",
+          "shows": "Antike Büste des Philosophen Platon",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Platon: geboren um 428 v. Chr., gestorben um 347 v. Chr.",
+        "Griechischer Philosoph",
+        "Bekannt für die „Ideenlehre“"
+      ]
+    },
+    {
+      "gidx": 658,
+      "source": "paed-psych p.658",
+      "slide_title": "Zwei-Welten-Theorie",
+      "type": "inhalt",
+      "notes_md": "# Zwei-Welten-Theorie\n\n- zwei Teile:\n- „Sinnenwelt“: man erfährt etwas über die 5 menschlichen Sinne\n- „Ideenwelt“: mit den Sinnen nicht zu verkennen, dafür gibt es unabänderliche Formen\n- ist perfekt, unveränderlich & nur mit dem menschlichen Auge sichtbar\n- ist jeder menschlichen Manipulation entzogen\n- Objektive metaphysische Realität",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Zwei-Welten-Theorie: Sinnenwelt und Ideenwelt",
+        "Sinnenwelt: Erfahrung über die 5 menschlichen Sinne",
+        "Ideenwelt: unabänderliche Formen, perfekt, unveränderlich",
+        "Ideenwelt ist jeder menschlichen Manipulation entzogen",
+        "Objektive metaphysische Realität"
+      ]
+    },
+    {
+      "gidx": 659,
+      "source": "paed-psych p.659",
+      "slide_title": "Platon: Erziehung der Kinder",
+      "type": "inhalt",
+      "notes_md": "# Platon: Erziehung der Kinder\n\n- Erziehung der Kinder ist wichtig\n- Platon forderte öffentliche Kindergärten & Ganztagsschulen\n- Frauen und Mädchen sollten Bildung erhalten",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Platon: Erziehung der Kinder ist wichtig",
+        "Forderung nach öffentlichen Kindergärten & Ganztagsschulen",
+        "Frauen und Mädchen sollten Bildung erhalten"
+      ]
+    },
+    {
+      "gidx": 660,
+      "source": "paed-psych p.660",
+      "slide_title": "Aristoteles",
+      "type": "inhalt",
+      "notes_md": "# Aristoteles\n\n(Abschnittseinstieg ohne weitere Textinhalte auf der Folie)",
+      "figures": [
+        {
+          "caption": "Büste des Aristoteles",
+          "shows": "Antike Marmorbüste des Philosophen Aristoteles",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": ["Aristoteles als Vertreter der 1. und 2. Epoche"]
+    }
+  ]
+}
