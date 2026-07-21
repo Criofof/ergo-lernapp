@@ -1,0 +1,164 @@
+{
+  "batch": "20",
+  "pages": [
+    {
+      "gidx": 229,
+      "source": "Kursfolien Berufskunde – Sozialversicherung/Rentenversicherung",
+      "slide_title": "Private Rentenversicherung",
+      "type": "inhalt",
+      "notes_md": "## Private Rentenversicherung\n\n- **Faustregel Altersvorsorge:** Mindestens **10–20 % des monatlichen Nettoeinkommens** sollten für die Altersvorsorge investiert werden.\n- **Arten privater Altersvorsorge:**\n  - **Riester-Rente**\n  - **Fondsgebundene Rente**\n  - **Flexible Rente**\n- Hinweis: Es gibt aber auch noch weitere Angebote.\n\nPrüfungsrelevant: Die private Rentenversicherung gehört zur 3. Säule der Altersvorsorge (neben gesetzlicher Rente und betrieblicher Altersvorsorge).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "10–20 % des monatlichen Nettoeinkommens sollten für die Altersvorsorge investiert werden",
+        "Arten privater Altersvorsorge: Riester-Rente, fondsgebundene Rente, flexible Rente"
+      ]
+    },
+    {
+      "gidx": 230,
+      "source": "Kursfolien Berufskunde – Sozialversicherung/Rentenversicherung",
+      "slide_title": "Aktuelle Probleme & Zukunft",
+      "type": "inhalt",
+      "notes_md": "## Aktuelle Probleme & Zukunft (der gesetzlichen Rentenversicherung)\n\n- **Demografische Entwicklung:** weniger Kinder, mehr ältere Menschen, steigende Lebenserwartung → immer weniger Beitragszahler finanzieren immer mehr Rentner (Problem des Umlageverfahrens).\n- **Wachsender Niedriglohnsektor** → geringere Beitragseinnahmen.\n- **Bestehende Ausnahmeregelungen** (z. B. Selbstständige, Besserverdienende sind teils nicht in der gesetzlichen Rentenversicherung pflichtversichert).\n- **Lösung laut Folie: höhere Beiträge.**",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Probleme der GRV: demografische Entwicklung (weniger Kinder, mehr ältere Menschen, steigende Lebenserwartung), wachsender Niedriglohnsektor, Ausnahmeregelungen für Selbstständige/Besserverdienende",
+        "Lösungsansatz laut Folie: höhere Beiträge"
+      ]
+    },
+    {
+      "gidx": 231,
+      "source": "Kursfolien Berufskunde – Sozialversicherung/Rentenversicherung",
+      "slide_title": "Das Wichtigste in Kürze:",
+      "type": "inhalt",
+      "notes_md": "## Das Wichtigste in Kürze (Rentenversicherung)\n\n- **Rentenhöhe:** Die Höhe der späteren Rente ist abhängig von der Höhe des **Bruttolohns** und der **Anzahl der Jahre**, in denen eingezahlt wurde.\n- **Einzahlungen:** In bestimmten Grenzen sind auch **freiwillige Einzahlungen** in die Rentenversicherung möglich (steigern die spätere Rente).\n- **Frührente:** Nicht jeder muss bis zu seinem regulären Rentenalter arbeiten → mit genug Beitragsjahren können viele schon **mit 63** in Frührente gehen.",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Rentenhöhe hängt von Bruttolohnhöhe und Anzahl der Beitragsjahre ab",
+        "Freiwillige Einzahlungen in die Rentenversicherung sind in bestimmten Grenzen möglich und steigern die Rente",
+        "Frührente: mit genügend Beitragsjahren ist Renteneintritt schon mit 63 möglich"
+      ]
+    },
+    {
+      "gidx": 232,
+      "source": "Kursfolien Berufskunde – Sozialversicherung/Rentenversicherung",
+      "slide_title": "Wichtige Fakten:",
+      "type": "inhalt",
+      "notes_md": "## Wichtige Fakten (gesetzliche Rentenversicherung)\n\n**Steigerung der Rente im Juli 2023:**\n- **5,86 % (2,08 Euro)** in den neuen Bundesländern (Osten)\n- **4,39 % (1,58 Euro)** in den alten Bundesländern (Westen)\n\n**Weitere Fakten:**\n- Gesetzliche Rente ist **Pflicht** (Pflichtversicherung).\n- Der **Beitragssatz liegt bei 18,6 % des Bruttolohns**.\n  - Arbeitnehmer tragen davon **9,3 %** selbst & Arbeitgeber **ebenfalls 9,3 %** (paritätische Finanzierung).\n- **Rechenbeispiel:** Ein Arbeitnehmer, der 4000 Euro brutto im Monat verdient, muss davon **372 Euro** an die Rentenkasse abführen (= 9,3 % von 4000 €).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Rentenerhöhung Juli 2023: 5,86 % (Ost) bzw. 4,39 % (West)",
+        "Gesetzliche Rentenversicherung ist Pflichtversicherung",
+        "Beitragssatz GRV: 18,6 % des Bruttolohns, je 9,3 % Arbeitnehmer und Arbeitgeber",
+        "Beispiel: 4000 € brutto → 372 € Arbeitnehmeranteil an die Rentenkasse"
+      ]
+    },
+    {
+      "gidx": 233,
+      "source": "Kursfolien Berufskunde – Sozialversicherung/Rentenversicherung",
+      "slide_title": "Beitragsbemessungsgrenze:",
+      "type": "inhalt",
+      "notes_md": "## Beitragsbemessungsgrenze\n\n- **Definition:** Rechengröße im deutschen Sozialversicherungsrecht (bis zu dieser Einkommensgrenze werden Beiträge erhoben; Einkommen darüber bleibt beitragsfrei).\n- **Beitragsbemessungsgrenze 2023:** monatlich **7300 Euro in Westdeutschland** und **7100 Euro in Ostdeutschland**.\n- **Selbstständige = pflichtversichert** im gesetzlichen Rentensystem (laut Folie).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Beitragsbemessungsgrenze = Rechengröße im deutschen Sozialversicherungsrecht",
+        "Beitragsbemessungsgrenze 2023: 7300 €/Monat West, 7100 €/Monat Ost",
+        "Selbstständige sind (laut Folie) pflichtversichert im gesetzlichen Rentensystem"
+      ]
+    },
+    {
+      "gidx": 234,
+      "source": "Kursfolien Berufskunde – Sozialversicherung/Rentenversicherung",
+      "slide_title": "Nachteil gegenüber Arbeitnehmern:",
+      "type": "inhalt",
+      "notes_md": "## Selbstständige – Nachteil gegenüber Arbeitnehmern\n\n- **Selbstständige müssen ihren Rentenbeitrag alleine zahlen** (kein Arbeitgeberanteil).\n  - **Beitragssatz beträgt 18,6 % ihres Einkommens** (voller Satz, bei Arbeitnehmern geteilt).\n- Sie können auch einen **monatlichen Pauschalbeitrag** zahlen.\n- **Existenzgründer** können sich in den **ersten 3 Jahren** für einen **reduzierten Rentenbeitrag** entscheiden.\n- **Freiwillig versicherte Selbstständige** können ihre Beitragshöhe relativ frei wählen.\n- Alle **nicht pflichtversicherten Selbstständigen und Freiberufler** können **freiwillige Beiträge** in die gesetzliche Rentenversicherung einzahlen.",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Selbstständige zahlen den Rentenbeitrag (18,6 % des Einkommens) allein",
+        "Alternativ monatlicher Pauschalbeitrag möglich",
+        "Existenzgründer: in den ersten 3 Jahren reduzierter Rentenbeitrag wählbar",
+        "Freiwillig versicherte Selbstständige können Beitragshöhe relativ frei wählen",
+        "Nicht pflichtversicherte Selbstständige/Freiberufler können freiwillig in die GRV einzahlen"
+      ]
+    },
+    {
+      "gidx": 235,
+      "source": "Kursfolien Berufskunde – Sozialversicherung/Rentenversicherung",
+      "slide_title": "Beitragsbemessungsgrenze – Zahlen",
+      "type": "inhalt",
+      "notes_md": "## Beitragsbemessungsgrenze – Zahlen (Rentenstatistik)\n\n- Ca. **21 Millionen Renten-Beziehende** in Deutschland.\n- **0,6 %** bekommen eine Rente über 2400 Euro (laut Folie: 50 Menschen).\n- **Allein Erziehende: mind. 502 Euro**\n- **Paare pro Person: mind. 451 Euro**\n\n(Hinweis: Die Folienangaben wirken teils inkonsistent – wörtlich transkribiert.)",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Ca. 21 Millionen Rentenbeziehende in Deutschland",
+        "Nur 0,6 % erhalten eine Rente über 2400 Euro",
+        "Mindestrente laut Folie: Allein Erziehende mind. 502 €, Paare pro Person mind. 451 €"
+      ]
+    },
+    {
+      "gidx": 236,
+      "source": "Kursfolien Berufskunde – Sozialversicherung/Rentenversicherung",
+      "slide_title": "Arten Rentenversicherung",
+      "type": "inhalt",
+      "notes_md": "## Arten der Rentenversicherung (Leistungsarten der gesetzlichen Rentenversicherung)\n\n1. **Altersrente**\n2. **Erwerbsfähigkeitsrente** (gemeint: Erwerbsminderungsrente – bei voller/teilweiser Erwerbsminderung)\n3. **Hinterbliebenenrente** (Witwen-/Witwer-/Waisenrente)\n4. **Grundrente** (Grundrentenzuschlag bei langjähriger Versicherung mit niedrigem Einkommen)\n5. **Mütterrente** (Anerkennung von Kindererziehungszeiten)\n6. **Leistungen zur Teilhabe** (Rehabilitationsleistungen: medizinische Reha, berufliche Reha – z. B. Umschulung; hier relevant für Ergotherapie: Die DRV ist häufig Reha-Träger!)\n\nPrüfungsbezug: Die Deutsche Rentenversicherung ist Träger der gesetzlichen Rentenversicherung und zentraler Rehabilitationsträger (Leistungen zur Teilhabe).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Leistungsarten der GRV: Altersrente, Erwerbsminderungsrente, Hinterbliebenenrente, Grundrente, Mütterrente, Leistungen zur Teilhabe",
+        "Leistungen zur Teilhabe = Rehabilitationsleistungen der Rentenversicherung"
+      ]
+    },
+    {
+      "gidx": 237,
+      "source": "Kursfolien Berufskunde – Sozialversicherung/Rentenversicherung",
+      "slide_title": "Quellenangaben",
+      "type": "quelle",
+      "notes_md": "## Quellenangaben (Abschnitt Rentenversicherung)\n\n- https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Moeglichkeiten-der-Altersvorsorge/Drei-Saeulen-der-AV/DS-Die-drei-Saeulen-der-Altersvorsorge.html\n- www.deutsche-Rentenversicherung.de\n- www.Bundesregierung.de\n\nKein fachlicher Prüfungsinhalt – reine Quellenfolie.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 238,
+      "source": "Kursfolien Berufskunde – Gesetzliche Unfallversicherung",
+      "slide_title": "GESETZLICHE UNFALLVERSICHERUNG",
+      "type": "titel",
+      "notes_md": "## Titelfolie: GESETZLICHE UNFALLVERSICHERUNG\n\n- Untertitel: „Presentation von (Milena), Bianca, Tobi, (Melike) & Lex“\n- Beginn eines neuen Abschnitts zur **gesetzlichen Unfallversicherung (GUV)** – einem der Träger der Sozialversicherung (Eingrenzung Punkt 10).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": []
+    },
+    {
+      "gidx": 239,
+      "source": "Kursfolien Berufskunde – Gesetzliche Unfallversicherung",
+      "slide_title": "Inhalt",
+      "type": "gliederung",
+      "notes_md": "## Inhalt (Gliederung des Abschnitts Gesetzliche Unfallversicherung)\n\n1. **FAKTEN UND RECHTLICHE GRUNDLAGEN**\n2. **AUFGABEN**\n3. **VERSICHERTE PERSONEN**\n4. **VERSICHERUNGSFÄLLE**\n5. **LEISTUNGEN**\n6. **TRÄGER**\n7. **FINANZIERUNG**",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Gliederung GUV: Fakten/rechtliche Grundlagen, Aufgaben, versicherte Personen, Versicherungsfälle, Leistungen, Träger, Finanzierung"
+      ]
+    },
+    {
+      "gidx": 240,
+      "source": "Kursfolien Berufskunde – Gesetzliche Unfallversicherung",
+      "slide_title": "FAKTEN & RECHTLICHE GRUNDLAGE",
+      "type": "inhalt",
+      "notes_md": "## Fakten & rechtliche Grundlage (Gesetzliche Unfallversicherung)\n\n- **Eigenständiger Sozialversicherungszweig** (Unfallversicherungsgesetz 1884), trat am **01.07.1885** in Kraft.\n- **Pflichtversicherung**, die Gesundheitsschäden ausgleicht, die in Folge einer **versicherungspflichtigen Tätigung** (sic, Folientext: „Tätigung“; gemeint: Tätigkeit) auftreten.\n- **Grundlage ist das Siebte Buch Sozialgesetzbuch (SGB VII).**\n\nPrüfungsmerksatz: Gesetzliche Unfallversicherung = SGB VII; historisch ältester Zweig der Sozialversicherung (Bismarck'sche Sozialgesetzgebung, Unfallversicherungsgesetz 1884, in Kraft 1885).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Gesetzliche Unfallversicherung ist ein eigenständiger Sozialversicherungszweig",
+        "Unfallversicherungsgesetz 1884, in Kraft getreten am 01.07.1885",
+        "GUV ist Pflichtversicherung für Gesundheitsschäden infolge versicherungspflichtiger Tätigkeit",
+        "Rechtsgrundlage der GUV: SGB VII (Siebtes Buch Sozialgesetzbuch)"
+      ]
+    }
+  ]
+}
