@@ -1,0 +1,227 @@
+{
+  "batch": "33",
+  "pages": [
+    {
+      "gidx": 385,
+      "source": "paed-psych p.385",
+      "slide_title": "Gedächtnisbereiche",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n**Langzeitgedächtnisse** (Übersichtsdiagramm):\n\n- **Explizit (eher bewusst)**\n  - episodisch (Tagebuch)\n  - semantisch (Wissen)\n- **implizit (eher unbewusst)**\n  - prozedural (Bewegungsabläufe)\n  - Priming (Bahnung)\n  - perzeptuell (Kategorien)\n\n### Perzeptuelles Gedächtnis (Kategorien)\n\n- Erkennen von Gegenständen oder Teilen der Umwelt durch Ähnlichkeitsabgleich\n- Übergangsbereich vom Unbewussten zum Bewussten\n\n(Hippocampus als Pfeil zu den Langzeitgedächtnissen dargestellt.)",
+      "figures": [
+        {
+          "caption": "Diagramm der Langzeitgedächtnisse: explizit (episodisch, semantisch) und implizit (prozedural, Priming, perzeptuell), mit Hippocampus-Pfeil",
+          "shows": "Systematik der Gedächtnisbereiche des Langzeitgedächtnisses und deren Zuordnung zu explizit/implizit",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Langzeitgedächtnis gliedert sich in explizite (eher bewusste) und implizite (eher unbewusste) Bereiche.",
+        "Explizit: episodisch (Tagebuch) und semantisch (Wissen); implizit: prozedural, Priming, perzeptuell.",
+        "Perzeptuelles Gedächtnis: Erkennen von Gegenständen oder Umweltteilen durch Ähnlichkeitsabgleich; Übergangsbereich vom Unbewussten zum Bewussten."
+      ]
+    },
+    {
+      "gidx": 386,
+      "source": "paed-psych p.386",
+      "slide_title": "Gedächtnisbereiche",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n**Langzeitgedächtnisse** (Übersichtsdiagramm):\n\n- **Explizit (eher bewusst)**\n  - episodisch (Tagebuch)\n  - semantisch (Wissen)\n- **implizit (eher unbewusst)**\n  - prozedural (Bewegungsabläufe)\n  - Priming (Bahnung)\n  - perzeptuell (Kategorien)\n\n### Prozedurales Gedächtnis (Bewegungsabläufe)\n\n- Gelernte Bewegungs- und Handlungsabläufe\n\n(Hippocampus als Pfeil zu den Langzeitgedächtnissen dargestellt.)",
+      "figures": [
+        {
+          "caption": "Diagramm der Langzeitgedächtnisse mit hervorgehobenem prozeduralem Gedächtnis (Bewegungsabläufe)",
+          "shows": "Einordnung des prozeduralen Gedächtnisses in das implizite Langzeitgedächtnis",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Prozedurales Gedächtnis gehört zum impliziten (eher unbewussten) Langzeitgedächtnis.",
+        "Inhalt des prozeduralen Gedächtnisses: gelernte Bewegungs- und Handlungsabläufe."
+      ]
+    },
+    {
+      "gidx": 387,
+      "source": "paed-psych p.387",
+      "slide_title": "Gedächtnisbereiche",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n**Langzeitgedächtnisse** (Übersichtsdiagramm):\n\n- **Explizit (eher bewusst)**\n  - episodisch (Tagebuch)\n  - semantisch (Wissen)\n- **implizit (eher unbewusst)**\n  - prozedural (Bewegungsabläufe)\n  - Priming (Bahnung)\n  - perzeptuell (Kategorien)\n\n### Priming (Bahnung)\n\n- Lässt Bekanntes schneller erkennen, ohne dass Bezug zu einer bewussten Erinnerung geschaffen wird\n\n(Hippocampus als Pfeil zu den Langzeitgedächtnissen dargestellt.)",
+      "figures": [
+        {
+          "caption": "Diagramm der Langzeitgedächtnisse mit hervorgehobenem Priming (Bahnung)",
+          "shows": "Einordnung des Priming in das implizite Langzeitgedächtnis",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Priming (Bahnung) gehört zum impliziten (eher unbewussten) Langzeitgedächtnis.",
+        "Priming lässt Bekanntes schneller erkennen, ohne dass Bezug zu einer bewussten Erinnerung geschaffen wird."
+      ]
+    },
+    {
+      "gidx": 388,
+      "source": "paed-psych p.388",
+      "slide_title": "Gedächtnisbereiche",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n**Beispiel für Priming:**\nAn welches Tier denken Sie?\n\n(Drei Fotos als Priming-Reize: Berg-/Almlandschaft mit Hütte, Milchkannen am Wegesrand, älterer Mann mit Strohhut in ländlicher Umgebung.)",
+      "figures": [
+        {
+          "caption": "Priming-Beispiel: Fotos von Almlandschaft, Milchkannen und einem älteren Bauern mit Strohhut",
+          "shows": "Ländliche Reizbilder, die als Bahnung auf ein bestimmtes Tier (Kuh) vorbereiten",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Priming-Beispiel: Ländliche Bilder (Alm, Milchkannen, Bauer) bahnen die Assoziation an ein bestimmtes Tier.",
+        "Frage an die Studierenden: An welches Tier denken Sie?"
+      ]
+    },
+    {
+      "gidx": 389,
+      "source": "paed-psych p.389",
+      "slide_title": "Gedächtnisbereiche",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n**Beispiel für Priming:**\nAn welches Tier denken Sie?\n\n(Auflösung: Foto einer schwarz-weißen Kuh auf der Weide — die durch die vorherigen Bilder gebahnte Assoziation.)",
+      "figures": [
+        {
+          "caption": "Auflösung des Priming-Beispiels: Foto einer Kuh",
+          "shows": "Die durch die ländlichen Reizbilder gebahnte Assoziation (Kuh)",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Auflösung des Priming-Beispiels: Die gebahnte Assoziation ist die Kuh."
+      ]
+    },
+    {
+      "gidx": 390,
+      "source": "paed-psych p.390",
+      "slide_title": "Gedächtnisbereiche",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n**Langzeitgedächtnisse** (Übersichtsdiagramm):\n\n- **Explizit (eher bewusst)**\n  - episodisch (Tagebuch)\n  - semantisch (Wissen)\n- **implizit (eher unbewusst)**\n  - prozedural (Bewegungsabläufe)\n  - Priming (Bahnung)\n  - perzeptuell (Kategorien)\n\n### Hippocampus\n\n- Das Portal zu unserem LZG\n- Alle neuen Inhalte müssen erst einmal durch den Hippocampus",
+      "figures": [
+        {
+          "caption": "Diagramm der Langzeitgedächtnisse mit großem Hippocampus-Pfeil zum Langzeitgedächtnis",
+          "shows": "Der Hippocampus als Portal zum Langzeitgedächtnis (LZG)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Der Hippocampus ist das Portal zum Langzeitgedächtnis (LZG).",
+        "Alle neuen Inhalte müssen erst einmal durch den Hippocampus."
+      ]
+    },
+    {
+      "gidx": 391,
+      "source": "paed-psych p.391",
+      "slide_title": "Gedächtnisbereiche",
+      "type": "quelle",
+      "notes_md": "## Gedächtnisbereiche\n\n**Beispiel bei Verlust von Hippocampusleistung:**\n\nYoutube:\nhttps://www.youtube.com/watch?v=KkaXNvzE4pk\n\n(Screenshot des Videos „The Hippocampus & Memory“ mit Darstellung eines Gehirns im Sagittalschnitt.)",
+      "figures": [
+        {
+          "caption": "Video-Screenshot „The Hippocampus & Memory“ mit Gehirnzeichnung",
+          "shows": "Externes YouTube-Video als Beispiel bei Verlust von Hippocampusleistung",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Verweis auf YouTube-Video als Beispiel für den Verlust von Hippocampusleistung: https://www.youtube.com/watch?v=KkaXNvzE4pk"
+      ]
+    },
+    {
+      "gidx": 392,
+      "source": "paed-psych p.392",
+      "slide_title": "Gedächtnisbereiche",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n### Langzeitgedächtnis\n\n| | Gedächtnissystem | Funktion | Beispiel |\n|---|---|---|---|\n| **explizit** | **Episodisch:** autobiografisch | - Eigene Biografie, mit räumlich-zeitlichem Bezug, mit emotionalen Bewertungen\n- Ermöglicht ‚mentale Zeitreise‘ | Erinnerungen an die Schulzeit, vergangene Urlaube, traumatische Ereignisse, etc. |\n| **explizit** | **Semantisch:** Faktenwissen | Fakten über die Welt | Vokabeln, Formeln, Regeln, Begriffe, menschliche Verhaltenskodexe, Weltwissen, etc. |\n| **implizit** | **Perzeptuell:** Erkennen | Einstufung bekannt/unbekannt, beurteilen, einordnen, auch wenn nur Teile gesehen werden oder sich die Darstellung verändert | Nebel – Erkennen eines bekannten Gebäudes; Jahreszeit – Erkennen bekannter Landschaften |\n| **implizit** | **Priming:** Bahnung | Schnelles/genaues Erkennen, wenn Reize bereits unbewusst dargeboten wurden | Erkennen eines Produktes im Laden, welches bereits in einer Werbung unbewusst dargeboten wurde |\n| **implizit** | **Prozedural:** Fertigkeiten | Automatisierte, routinierte Bewegungs-/Handlungsabläufe: sensomotorisch, kognitiv | Schleife binden, Flechten, Treppensteigen |",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Explizites LZG: episodisch (autobiografisch, ermöglicht ‚mentale Zeitreise‘) und semantisch (Faktenwissen über die Welt).",
+        "Implizites LZG: perzeptuell (Erkennen), Priming (Bahnung), prozedural (Fertigkeiten).",
+        "Prozedurales Gedächtnis: automatisierte, routinierte Bewegungs-/Handlungsabläufe (sensomotorisch, kognitiv), z. B. Schleife binden, Flechten, Treppensteigen.",
+        "Priming: schnelles/genaues Erkennen, wenn Reize bereits unbewusst dargeboten wurden (z. B. Produkt aus der Werbung im Laden wiedererkennen)."
+      ]
+    },
+    {
+      "gidx": 393,
+      "source": "paed-psych p.393",
+      "slide_title": "Gedächtnisbereiche",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n**Hirnregionen und zugeordnete Gedächtnissysteme** (Gehirngrafik):\n\n- Cerebraler Cortex – Prozedurales Gedächtnis\n- Cerebraler Cortex – Priming\n- Scheitellappen – Semantisches Gedächtnis\n- Stirn- und Scheitellappen – KZG\n- Basalganglien – Prozedurales Gedächtnis\n- Hippocampus – Langzeitspeicherung\n- Amygdala – Emotionale Bewertung\n- Stirnlappen – Vorrangig episodisches Gedächtnis\n- Schläfenlappen rechts – Episodisches Gedächtnis\n- Schläfenlappen links – Semantisches Gedächtnis\n- Kleinhirn – Prozedurales Gedächtnis",
+      "figures": [
+        {
+          "caption": "Gehirngrafik mit Zuordnung der Gedächtnissysteme zu Hirnregionen",
+          "shows": "Lokalisation von Gedächtnisbereichen: Cortex (prozedural, Priming), Scheitellappen (semantisch), Stirnlappen (episodisch), Schläfenlappen rechts/links (episodisch/semantisch), Basalganglien und Kleinhirn (prozedural), Hippocampus (Langzeitspeicherung), Amygdala (emotionale Bewertung)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Hippocampus: Langzeitspeicherung; Amygdala: emotionale Bewertung.",
+        "Prozedurales Gedächtnis: cerebraler Cortex, Basalganglien und Kleinhirn.",
+        "Stirnlappen: vorrangig episodisches Gedächtnis; Schläfenlappen rechts episodisch, links semantisch; Scheitellappen semantisch.",
+        "Kurzzeitgedächtnis (KZG): Stirn- und Scheitellappen."
+      ]
+    },
+    {
+      "gidx": 394,
+      "source": "paed-psych p.394",
+      "slide_title": "Eidetisches Gedächtnis",
+      "type": "inhalt",
+      "notes_md": "## Eidetisches Gedächtnis\n\nDer echte Sheldon Cooper – Eidetisches Gedächtnis\n\n**Aufgabe:** Wie funktioniert das Gedächtnis von Herrn Schmidt?\n\n(Screenshot eines Galileo-Videobeitrags: Hand mit Zeichenstift, Galileo-Logo.)",
+      "figures": [
+        {
+          "caption": "Screenshot des Galileo-Beitrags zum eidetischen Gedächtnis (Herr Schmidt)",
+          "shows": "Videobeitrag über einen Menschen mit eidetischem Gedächtnis",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Thema: Eidetisches Gedächtnis („Der echte Sheldon Cooper“).",
+        "Aufgabe: Wie funktioniert das Gedächtnis von Herrn Schmidt?"
+      ]
+    },
+    {
+      "gidx": 395,
+      "source": "paed-psych p.395",
+      "slide_title": "Vergessen – Verlernen",
+      "type": "inhalt",
+      "notes_md": "## Vergessen – Verlernen\n\n### Ursachen\n\n1. **Nicht einprägen**\n2. **Zerfall**\n3. **Ersetzen und Entfallen**\n4. **Nicht zugänglich**\n   - Interferenz\n   - Nichtauffindbarkeit\n   - Emotionale Faktoren\n   - Motivationales Vergessen",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Vier Ursachen des Vergessens/Verlernens: Nicht einprägen, Zerfall, Ersetzen und Entfallen, Nicht zugänglich.",
+        "Formen der Nicht-Zugänglichkeit: Interferenz, Nichtauffindbarkeit, emotionale Faktoren, motivationales Vergessen."
+      ]
+    },
+    {
+      "gidx": 396,
+      "source": "paed-psych p.396",
+      "slide_title": "Vergessen – Verlernen",
+      "type": "inhalt",
+      "notes_md": "## Vergessen – Verlernen\n\n### Nicht Einprägen\n\nDer gesuchte Gedächtnisinhalt wurde gar nicht erst gespeichert beziehungsweise nicht genügend eingeprägt und kann daher auch nicht abgerufen werden.\n\n- bezieht sich auf die Tatsache, dass wir infolge unserer begrenzten Aufmerksamkeitskapazität nicht alle im sensorischen Speicher bereitgestellten Informationen ins Kurzzeitgedächtnis aufnehmen und uns einprägen können",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Nicht-Einprägen: Der Gedächtnisinhalt wurde gar nicht erst gespeichert bzw. nicht genügend eingeprägt und kann daher nicht abgerufen werden.",
+        "Grund: begrenzte Aufmerksamkeitskapazität — nicht alle Informationen aus dem sensorischen Speicher werden ins Kurzzeitgedächtnis aufgenommen und eingeprägt."
+      ]
+    }
+  ]
+}

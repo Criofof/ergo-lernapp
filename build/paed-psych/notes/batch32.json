@@ -1,0 +1,239 @@
+{
+  "batch": "32",
+  "pages": [
+    {
+      "gidx": 373,
+      "source": "paed-psych p.373",
+      "slide_title": "Gedächtnisbereiche — Merkübung (Nummer merken)",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\nInteraktive Merkaufgabe (Einblendung über dem KZG-Diagramm):\n\n**Merken Sie sich folgende Nummer:**\n\n**0221/ 48530013**\n\nHintergrund (teilweise verdeckt): Diagramm zum Kurzzeitgedächtnis (KZG) mit den Anteilen \"Dynamisch / fluid\" und \"Mechanisch / kristallin\", Aufmerksamkeit als Zufluss; Hinweis \"Informationen gelangen ins Bewusstsein!\"",
+      "figures": [],
+      "eingrenzung_hits": [11, 12],
+      "key_facts": [
+        "Übungsfolie: Nummer 0221/48530013 merken (Einstieg in Kurzzeitgedächtnis/Gedächtnisspanne)"
+      ]
+    },
+    {
+      "gidx": 374,
+      "source": "paed-psych p.374",
+      "slide_title": "Gedächtnisbereiche — Tricks des Gehirns / Kodierung",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n**Wie haben Sie versucht sich die Information zu merken?**\n\nTricks, die das Gehirn anwendet:\n\n- **Memorien** (Wiederholen)\n- **Verringerung der Informationsmenge** z.B. durch Gliederung der Zahlen 0221/ 48 300 13\n- **Merkverse**\n- **Eselsbrücken**\n- **Bildhafte Verknüpfungen**\n\nDatenverringerung nennt sich **reduktive Verarbeitung** (Kodierung).\n\nMerksatz führt z.B. zu Datenmengenerhöhung. Man spricht von „weiterer Verarbeitung von Informationen\" = **elaborative Kodierung**.\n\nJe mehr Infos man mit neuer Information assoziieren kann (**multiple Kodierung**), desto besser kann diese ins LZG transferieren!\n\nLinks: Diagramm — Aufmerksamkeit (Pfeil) → Kurzzeitgedächtnis, aufgeteilt in \"Dynamisch / fluid\" und \"Mechanisch / kristallin\".",
+      "figures": [
+        {
+          "caption": "Kurzzeitgedächtnis: Aufmerksamkeit als Zufluss, Aufteilung in dynamisch/fluid und mechanisch/kristallin",
+          "shows": "Schematisches Diagramm des KZG mit den zwei Prozessarten",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11, 12],
+      "key_facts": [
+        "Reduktive Verarbeitung = Datenverringerung (Kodierung), z.B. Gliederung von Zahlen",
+        "Elaborative Kodierung = weitere Verarbeitung von Informationen, z.B. Merksätze",
+        "Multiple Kodierung: Je mehr Assoziationen mit neuer Information, desto besser der Transfer ins Langzeitgedächtnis",
+        "Merkstrategien: Memorien (Wiederholen), Gliederung, Merkverse, Eselsbrücken, bildhafte Verknüpfungen"
+      ]
+    },
+    {
+      "gidx": 375,
+      "source": "paed-psych p.375",
+      "slide_title": "Gedächtnisbereiche — Mechanische und dynamische Prozesse",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n### Mechanische Prozesse\n*Z.B. Nummer merken oder Auswendiglernen*\n\n- Nur vom Umfang der Gedächtnisspanne abhängig\n- Keine besonderen Denkleistungen nötig\n- Stark genetisch abhängig → physiologischen Altersabbau unterworfen\n- Abnahme der Gedächtnisleistung bis zum 75. Lebensjahr zwischen 25 – 50 %\n\n### Dynamische Prozesse\n\n- Aktives Arbeiten\n- Unter Zuhilfe von Informationen aus dem LZG\n- Leistung nimmt im zunehmenden Alter stark ab → da Aufnahmekapazität des KZGs abnimmt als auch die Verarbeitung von Informationen geringer wird\n\nLinks: Diagramm — Aufmerksamkeit → Kurzzeitgedächtnis: \"Dynamisch / fluid\" und \"Mechanisch / kristallin\".",
+      "figures": [
+        {
+          "caption": "Kurzzeitgedächtnis: dynamisch/fluid vs. mechanisch/kristallin",
+          "shows": "Schematisches Diagramm des KZG mit Aufmerksamkeitspfeil",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11, 23],
+      "key_facts": [
+        "Mechanische Prozesse: nur von Gedächtnisspanne abhängig, keine Denkleistungen nötig, stark genetisch bedingt",
+        "Abnahme der Gedächtnisleistung bis zum 75. Lebensjahr um 25–50 %",
+        "Dynamische Prozesse: aktives Arbeiten unter Zuhilfe von LZG-Informationen",
+        "Dynamische Prozesse nehmen im Alter stark ab (geringere KZG-Aufnahmekapazität und Informationsverarbeitung)",
+        "Zuordnung: mechanisch = kristallin, dynamisch = fluid"
+      ]
+    },
+    {
+      "gidx": 376,
+      "source": "paed-psych p.376",
+      "slide_title": "Gedächtnisbereiche — Übung (Rechenaufgabe)",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\nInteraktive Übungsaufgabe (Einblendung über der Folie zu mechanischen Prozessen):\n\n**Lösen Sie folgende Rechenaufgabe:**\n\n**3 + 2 x 10**\n\nLösung: **23** — Regel: *Punkt vor Strich*\n\nHintergrund (teilweise verdeckt): Folie \"Mechanische Prozesse\" und Hinweis auf abnehmende Aufnahmekapazität des KZGs / geringere Verarbeitung von Informationen.",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Übungsfolie: 3 + 2 x 10 = 23 (Punkt vor Strich) als Beispiel für aktive Verarbeitung im KZG/Arbeitsgedächtnis"
+      ]
+    },
+    {
+      "gidx": 377,
+      "source": "paed-psych p.377",
+      "slide_title": "Gedächtnisbereiche — Arbeitsgedächtnis nach Baddeley (1986)",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\nDas Modell des KZG wird durch **Baddeley (1986)** erweitert durch das **Arbeitsgedächtnis**:\n\n- Bestehend aus mehreren weitgehend unabhängigen Subsystemen:\n  - **Phonologische Schleife** (auch artikulatorische Schleife)\n    - Speicher für sprachliches Material\n  - **Räumlich-visueller Notizblock**\n    - System für räumliche Positionen\n  - **Zentrale Exekutive**\n    - „Leitzentrale\" welches die Untersysteme koordiniert\n  - **Episodischer Puffer**\n    - Kurzfristiger Zwischenspeicher ALLER Sinne",
+      "figures": [
+        {
+          "caption": "Gehirn-Illustration (Draufsicht)",
+          "shows": "Dekorative Gehirngrafik neben der Aufzählung der Subsysteme",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Baddeley (1986): Erweiterung des KZG zum Arbeitsgedächtnis",
+        "4 Subsysteme: phonologische Schleife, räumlich-visueller Notizblock, zentrale Exekutive, episodischer Puffer",
+        "Zentrale Exekutive = Leitzentrale, koordiniert die Untersysteme",
+        "Episodischer Puffer = kurzfristiger Zwischenspeicher aller Sinne"
+      ]
+    },
+    {
+      "gidx": 378,
+      "source": "paed-psych p.378",
+      "slide_title": "Gedächtnisbereiche — Erweitertes Arbeitsspeichermodell (Baddeley, 2008)",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\nErweitertes Arbeitsspeichermodell (mod. nach Baddeley, 2008) — eigene Darstellung:\n\n- Legende: **Kristalline Funktionen** (dunkelblau) / **Fluide Funktionen** (hellblau)\n- **Reiz** (Pfeil von außen) gelangt in das System\n- Fluide Komponenten:\n  - **Visuell-räumlicher Notizblock**\n  - **Episodischer Puffer**\n  - **Phonologische Schleife**\n  - **Zentrale Exekutive** (Zentrum, mit allen verbunden)\n- **Abgleich mit LZG**: Zentrale Exekutive verbunden mit dem Langzeitgedächtnis\n- Kristalline Funktionen (LZG-Leiste): **Visuelle Bedeutung ↔ episodisches LZG ↔ Sprache**",
+      "figures": [
+        {
+          "caption": "Eigene Darstellung: Erweitertes Arbeitsspeichermodell (mod. nach Baddeley, 2008)",
+          "shows": "Modell mit Reiz, visuell-räumlichem Notizblock, episodischem Puffer, phonologischer Schleife, zentraler Exekutive und Abgleich mit dem LZG (visuelle Bedeutung, episodisches LZG, Sprache); Unterscheidung kristalline/fluide Funktionen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11, 23],
+      "key_facts": [
+        "Arbeitsspeichermodell: Reiz → Subsysteme (Notizblock, episodischer Puffer, phonologische Schleife) → zentrale Exekutive",
+        "Zentrale Exekutive gleicht Informationen mit dem Langzeitgedächtnis ab",
+        "Kristalline Funktionen: visuelle Bedeutung, episodisches LZG, Sprache; fluide Funktionen: die AG-Subsysteme"
+      ]
+    },
+    {
+      "gidx": 379,
+      "source": "paed-psych p.379",
+      "slide_title": "Gedächtnisbereiche — Funktionen der Subsysteme des Arbeitsspeichers",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\nFunktionen der Subsysteme im erweiterten Arbeitsspeichermodell (mod. nach Baddeley, 2008):\n\n### Visuell-räumlicher Notizblock\n- Hält Informationen ca. 2 Sekunden aufrecht\n- Durch Wiederholung vor dem „Inneren Auge\" aufrecht erhalten\n\n### Episodischer Puffer\n- Ist in der Lage „Episoden\" kurzfristig aufrecht zu erhalten\n- Z.B. zusammenhängende Sätze, Videofrequenzen\n\n### Phonologische Schleife\n- Hält Information ca. 2 Sekunden aufrecht\n- Durch innere Wiederholung (Artikulation des Gehörten) aufgefrischt\n\nDarunter: Abgleich mit LZG — Visuelle Bedeutung ↔ episodisches LZG ↔ Sprache (kristalline Funktionen).",
+      "figures": [
+        {
+          "caption": "Eigene Darstellung: Erweitertes Arbeitsspeichermodell (mod. nach Baddeley, 2008) mit Funktionsbeschreibungen",
+          "shows": "Arbeitsspeichermodell mit eingeblendeten Funktionstexten zu Notizblock, episodischem Puffer und phonologischer Schleife",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Visuell-räumlicher Notizblock: hält Infos ca. 2 Sekunden; Erhalt durch Wiederholung vor dem inneren Auge",
+        "Phonologische Schleife: hält Infos ca. 2 Sekunden; Auffrischung durch innere Wiederholung (Artikulation)",
+        "Episodischer Puffer: hält Episoden kurzfristig aufrecht (z.B. zusammenhängende Sätze)"
+      ]
+    },
+    {
+      "gidx": 380,
+      "source": "paed-psych p.380",
+      "slide_title": "Gedächtnisbereiche — Zentrale Exekutive (Funktionen)",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\nFunktionen der **Zentralen Exekutive** im erweiterten Arbeitsspeichermodell (mod. nach Baddeley, 2008):\n\n- Löst Probleme, die die vorgestellten Speicher nicht lösen können\n- Bei Abweichung von Bekannten und damit kreative Aufgaben\n- Delegiert die Aufgaben zu den anderen Subsystemen\n\nDarunter (LZG-Leiste): Visuelle Bedeutung ↔ episodisches LZG ↔ Sprache.",
+      "figures": [
+        {
+          "caption": "Eigene Darstellung: Erweitertes Arbeitsspeichermodell (mod. nach Baddeley, 2008) mit Funktionen der zentralen Exekutive",
+          "shows": "Arbeitsspeichermodell mit eingeblendeten Funktionstexten zur zentralen Exekutive",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Zentrale Exekutive löst Probleme, die die Untersysteme nicht lösen können (kreative Aufgaben bei Abweichung vom Bekannten)",
+        "Zentrale Exekutive delegiert Aufgaben an die anderen Subsysteme"
+      ]
+    },
+    {
+      "gidx": 381,
+      "source": "paed-psych p.381",
+      "slide_title": "Gedächtnisbereiche — Zentrale Exekutive: Selbststeuerung",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\nUm sich selbst erfolgreich steuern zu können, muss man:\n\n- automatisch ablaufende Reaktionen hemmen (**Inhibition**),\n- wesentliche Informationen schnell im **Arbeitsgedächtnis** bearbeiten und\n- flexibel auf die Umwelt (**kognitive Flexibilität**) reagieren.\n\nDiagramm: **Zentrale Exekutive** steuert drei Bereiche (Pfeile):\n\n- **Arbeitsgedächtnis**\n- **Kognitive Flexibilität**\n- **Inhibition**\n\nEigene Darstellung: Erweitertes Arbeitsspeichermodell (mod. nach Baddeley, 2008).",
+      "figures": [
+        {
+          "caption": "Eigene Darstellung: Zentrale Exekutive steuert Arbeitsgedächtnis, kognitive Flexibilität und Inhibition (mod. nach Baddeley, 2008)",
+          "shows": "Flussdiagramm: Zentrale Exekutive mit drei Pfeilen zu Arbeitsgedächtnis, kognitiver Flexibilität und Inhibition",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Selbststeuerung erfordert Inhibition, schnelle Bearbeitung im Arbeitsgedächtnis und kognitive Flexibilität",
+        "Zentrale Exekutive steuert: Arbeitsgedächtnis, kognitive Flexibilität, Inhibition"
+      ]
+    },
+    {
+      "gidx": 382,
+      "source": "paed-psych p.382",
+      "slide_title": "Gedächtnisbereiche — Langzeitgedächtnisse (explizit/implizit)",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n### Langzeitgedächtnisse\n\n**Explizit (eher bewusst):**\n\n- **episodisch** (Tagebuch)\n- **semantisch** (Wissen)\n\n**implizit (eher unbewusst):**\n\n- **prozedural** (Bewegungsabläufe)\n- **perzeptuell** (Kategorien)\n- **Priming** (Bahnung)\n\nPfeil zum **Hippocampus** (zugeordnet insbesondere beim prozeduralen Gedächtnis dargestellt).",
+      "figures": [
+        {
+          "caption": "Übersicht der Langzeitgedächtnisse: explizit (episodisch, semantisch) und implizit (prozedural, perzeptuell, Priming) mit Hippocampus-Pfeil",
+          "shows": "Kreisdiagramm der Langzeitgedächtnisformen mit Zuordnung explizit/implizit",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Explizites LZG (eher bewusst): episodisch (Tagebuch) und semantisch (Wissen)",
+        "Implizites LZG (eher unbewusst): prozedural (Bewegungsabläufe), perzeptuell (Kategorien), Priming (Bahnung)",
+        "Hippocampus als beteiligte Struktur dargestellt"
+      ]
+    },
+    {
+      "gidx": 383,
+      "source": "paed-psych p.383",
+      "slide_title": "Gedächtnisbereiche — Episodisches Langzeitgedächtnis",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n### Episodisches Gedächtnis (explizit, eher bewusst)\n\n- Ereignisse, Erfahrungen, Erlebnisse und Gegebenheiten der individuellen Lebensgeschichte\n- Ort unserer „Identität\"\n- Vorlieben, Abneigungen, unser Charakter\n\nRechts: Langzeitgedächtnis-Diagramm (episodisch hervorgehoben), daneben semantisch (Wissen), prozedural (Bewegungsabläufe), perzeptuell (Kategorien), Priming (Bahnung); Hippocampus-Pfeil.",
+      "figures": [
+        {
+          "caption": "Langzeitgedächtnis-Diagramm mit Hervorhebung des episodischen Gedächtnisses",
+          "shows": "Kreisdiagramm der Langzeitgedächtnisformen, episodischer Bereich vergrößert",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Episodisches Gedächtnis: Ereignisse, Erfahrungen, Erlebnisse der individuellen Lebensgeschichte",
+        "Episodisches Gedächtnis = Ort der Identität; umfasst Vorlieben, Abneigungen, Charakter"
+      ]
+    },
+    {
+      "gidx": 384,
+      "source": "paed-psych p.384",
+      "slide_title": "Gedächtnisbereiche — Semantisches Langzeitgedächtnis",
+      "type": "inhalt",
+      "notes_md": "## Gedächtnisbereiche\n\n### Semantisches Gedächtnis (Wissen) — explizit (eher bewusst)\n\n- Weltwissen\n- Fakten\n- Daten\n- Kulturwissen\n- Wortschatz\n\nLinks: Langzeitgedächtnis-Diagramm (semantischer Bereich hervorgehoben), daneben episodisch (Tagebuch), prozedural (Bewegungsabläufe), perzeptuell (Kategorien), Priming (Bahnung); Hippocampus-Pfeil.",
+      "figures": [
+        {
+          "caption": "Langzeitgedächtnis-Diagramm mit Hervorhebung des semantischen Gedächtnisses",
+          "shows": "Kreisdiagramm der Langzeitgedächtnisformen, semantischer Bereich vergrößert",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Semantisches Gedächtnis = Wissen: Weltwissen, Fakten, Daten, Kulturwissen, Wortschatz",
+        "Semantisches Gedächtnis gehört zum expliziten (eher bewussten) Langzeitgedächtnis"
+      ]
+    }
+  ]
+}

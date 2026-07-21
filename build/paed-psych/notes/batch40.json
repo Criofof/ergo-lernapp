@@ -1,0 +1,180 @@
+{
+  "batch": "40",
+  "pages": [
+    {
+      "gidx": 469,
+      "source": "paed-psych p.469",
+      "slide_title": "Dialogzentrum Demenz — Transfer Wissenschaft–Praxis (Abschluss-/Quellseite)",
+      "type": "quelle",
+      "notes_md": "# DIALOGZENTRUM DEMENZ • TRANSFER – WISSENSCHAFT – PRAXIS\n\n(Seite 64 des Skripts — Abschluss-/Impressumsseite)\n\n**Quellenangabe:**\nPrivate Universität Witten/Herdecke gGmbH, Institut f. Pflegewissenschaft, Dialogzentrum Demenz\nStockumer Str. 10 • 58453 Witten\nTelefon +49 (2303) 926306 • Fax +49 (2302) 926310",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Quelle des vorangegangenen Skriptteils: Dialogzentrum Demenz, Private Universität Witten/Herdecke gGmbH, Institut für Pflegewissenschaft",
+        "Leitmotiv: Transfer – Wissenschaft – Praxis"
+      ]
+    },
+    {
+      "gidx": 470,
+      "source": "paed-psych p.470",
+      "slide_title": "Mini-Mental-Status-Test (MMST) — Teil 1",
+      "type": "inhalt",
+      "notes_md": "# Mini-Mental-Status-Test (MMST)\n(modifiziert nach Folstein, Folstein & McHugh)\n\n## Zeitliche Orientierung\n(Frage: „Welchen Tag haben wir heute?“)\n- Tag\n- Monat\n- Jahr\n- Wochentag\n- Jahreszeit\n\n## Örtliche Orientierung\n(Frage: „Wo sind wir jetzt?“)\n- Stadt\n- Stadtteil\n- Bundesland\n- Klinik/Pflegeheim/Praxis\n- Station/Stockwerk\n\n## Merkfähigkeit\n(Folgende 3 Gegenstände nennen, dann zur Wiederholung auffordern)\n- Apfel\n- Schlüssel\n- Ball\n\n## Aufmerksamkeit und Rechnen\n(Jeweils 7 von 100 abziehen oder „STUHL“ rückwärts buchstabieren)\n- 93 oder „L“\n- 86 oder „H“\n- 79 oder „U“\n- 72 oder „T“\n- 65 oder „S“\n\n## Erinnern\n(Frage: „Was waren die Dinge, die Sie sich vorhin gemerkt haben?“)\n- Apfel\n- Schlüssel\n- Ball\n\n## Benennen\n(Die Testperson soll die folgenden zwei Gegenstände benennen)\n- Armbanduhr\n- Bleistift/Kugelschreiber\n\n## Wiederholen\n(Die Testperson soll den folgenden Satz nachsprechen; nur ein Versuch ist erlaubt; die Redewendung „Kein wenn und aber“ ist nicht erlaubt.)\n- „Kein wenn und oder aber“\n\n## Dreiteiliger Befehl\n(„Nehmen Sie das Blatt Papier, falten es in der Mitte und lassen es auf den Boden fallen“)\n- „Nehmen Sie das Blatt Papier,“\n- „falten es in der Mitte“\n- „und lassen es auf den Boden fallen“\n\n## Reagieren\n(Die Testperson soll den Satz: „Schließen Sie die Augen“ lesen und befolgen)\n- Testperson schließt die Augen\n\nFußzeile: Mini-Mental-Status-Test (Teil 1) — © F. Treusch (2009), www.arztpraxistreusch.de",
+      "figures": [],
+      "eingrenzung_hits": [29],
+      "key_facts": [
+        "MMST: Screening-Test zur Erfassung kognitiver Beeinträchtigungen (Demenz), modifiziert nach Folstein, Folstein & McHugh",
+        "Teil 1 prüft: zeitliche + örtliche Orientierung, Merkfähigkeit (Apfel, Schlüssel, Ball), Aufmerksamkeit/Rechnen (7er-Serie oder STUHL rückwärts), Erinnern, Benennen, Wiederholen, dreiteiliger Befehl, Reagieren"
+      ]
+    },
+    {
+      "gidx": 471,
+      "source": "paed-psych p.471",
+      "slide_title": "Mini-Mental-Status-Test (MMST) — Teil 2 mit Interpretation",
+      "type": "inhalt",
+      "notes_md": "# Mini-Mental-Status-Test (Teil 2)\n\n## Schreiben\n(Die Testperson soll einen beliebigen vollständigen Satz aufzuschreiben)\n- Sinnhafter Satz mit Subjekt und Verb\n\n## Abzeichnen\n(Testperson soll die folgende Zeichnung abzeichnen)\n- Zwei sich an einer Ecke überschneidende 5-Ecke\n\n**Gesamtpunktzahl: ____ (max. 30)**\n\n## Interpretation des Testergebnisses\n| Punkte | Beurteilung |\n|---|---|\n| 30–27 | Keine Demenz |\n| 26–20 | Leichte Demenz |\n| 19–10 | Mittelschwere Demenz |\n| ≤9 | Schwere Demenz |\n\nFußzeile: Mini-Mental-Status-Test (Teil 2) — © F. Treusch (2009), www.arztpraxistreusch.de",
+      "figures": [
+        {
+          "caption": "Abzeichnen-Aufgabe des MMST",
+          "shows": "Zwei sich an einer Ecke überschneidende 5-Ecke (Pentagone) als Vorlagezeichnung",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [29],
+      "key_facts": [
+        "MMST Gesamtpunktzahl: maximal 30 Punkte",
+        "Interpretation: 30–27 = keine Demenz, 26–20 = leichte Demenz, 19–10 = mittelschwere Demenz, ≤9 = schwere Demenz",
+        "Teil 2 prüft: Schreiben (sinnhafter Satz mit Subjekt und Verb) und Abzeichnen (zwei überschneidende 5-Ecke)"
+      ]
+    },
+    {
+      "gidx": 472,
+      "source": "paed-psych p.472",
+      "slide_title": "Montreal Cognitive Assessment (MoCA)",
+      "type": "inhalt",
+      "notes_md": "# MONTREAL COGNITIVE ASSESSMENT (MOCA)\n\nKopffelder: NAME, Ausbildung, Geburtsdatum, Geschlecht, DATUM; rechts Spalte PUNKTE.\n\n## VISUOSPATIAL / EXEKUTIV\n- Verbindungsaufgabe (Trail-Making): Beginn 1 → A → 2 → B → … bis Ende (E) — abwechselnd Zahlen und Buchstaben verbinden\n- Würfel nachzeichnen\n- Eine Uhr zeichnen (Zehn nach elf) (3 Punkte): Kontur / Zahlen / Zeiger\n- Punkte: __ /5\n\n## BENENNEN\n- Drei Tierbilder benennen: Löwe, Nashorn, Kamel\n- Punkte: __ /3\n\n## GEDÄCHTNIS\n- Wortliste vorlesen, wiederholen lassen. 2 Durchgänge. Nach 5 Minuten überprüfen (s.u.)\n- Wörter: GESICHT – SAMT – KIRCHE – TULPE – ROT (1. Versuch / 2. Versuch)\n- Keine Punkte\n\n## AUFMERKSAMKEIT\n- Zahlenliste vorlesen (1 Zahl/Sek.): In der vorgegebenen Reihenfolge wiederholen: 2 1 8 5 4; Rückwärts wiederholen: 7 4 2 — __ /2\n- Buchstabenliste vorlesen (1 Buchst./Sek.), Patient soll bei jedem Buchstaben „A“ mit der Hand klopfen. Keine Punkte bei 2 oder mehr Fehlern: F B A C M N A A J K L B A F A K D E A A A J A M O F A A B — __ /1\n- Fortlaufendes Abziehen von 7, mit 100 anfangen: 93, 86, 79, 72, 65 — 4 oder 5 korrekte Ergebnisse: 3 P., 2 oder 3 korrekt: 2 P., 1 korrekt: 1 P., 0 korrekt: 0 P. — __ /3\n\n## SPRACHE\n- Wiederholen: „Ich weiß lediglich, dass Hans heute an der Reihe ist zu helfen.“ / „Die Katze versteckte sich immer unter der Couch, wenn die Hunde im Zimmer waren.“ — __ /2\n- Möglichst viele Wörter in einer Minute benennen, die mit dem Buchstaben F beginnen (N ≥ 11 Wörter) — __ /1\n\n## ABSTRAKTION\n- Gemeinsamkeit von z. B. Banane und Apfelsine = Frucht; Eisenbahn – Fahrrad; Uhr – Lineal — __ /2\n\n## ERINNERUNG\n- Worte erinnern OHNE HINWEIS: GESICHT / SAMT / KIRCHE / TULPE / ROT — Punkte nur bei richtigem Nennen OHNE Hinweis — __ /5\n- Optional: Hinweis zu Kategorie, Mehrfachauswahl\n\n## ORIENTIERUNG\n- Datum / Monat / Jahr / Wochentag / Ort / Stadt — __ /6\n\n**TOTAL: __ /30** — Normal ≥ 26 / 30\n+ 1 Punkt wenn ≤ 12 Jahre Ausbildung\n\nFußzeile: © Z Nasreddine MD, Version 7. Nov. 2004; deutsche Übersetzung: SM Bartusch, SG Zipper; www.mocatest.org; Untersucher: ____",
+      "figures": [
+        {
+          "caption": "MoCA-Testbogen: visuospatiale Aufgaben und Benennen",
+          "shows": "Trail-Making-Aufgabe (Zahlen/Buchstaben verbinden), Würfel zum Nachzeichnen, Tierzeichnungen (Löwe, Nashorn, Kamel) zum Benennen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [29],
+      "key_facts": [
+        "MoCA: Screening-Verfahren für kognitive Beeinträchtigungen (Demenz), maximal 30 Punkte, Normalwert ≥ 26/30",
+        "Zusatzpunkt (+1) bei ≤ 12 Jahren Ausbildung",
+        "Bereiche: Visuospatial/Exekutiv (inkl. Uhr zeichnen „Zehn nach elf“), Benennen, Gedächtnis (GESICHT, SAMT, KIRCHE, TULPE, ROT), Aufmerksamkeit, Sprache, Abstraktion, Erinnerung, Orientierung",
+        "Urheber: © Z. Nasreddine MD (2004); deutsche Übersetzung: Bartusch/Zipper; www.mocatest.org"
+      ]
+    },
+    {
+      "gidx": 473,
+      "source": "paed-psych p.473",
+      "slide_title": "Uhren-Test — Testblatt",
+      "type": "inhalt",
+      "notes_md": "# Uhren-Test (medX) — Testblatt\n\n**Personalien:** Name, Vorname, Geburtsdatum — **Datum:** ____ — **Untersucher:** ____\n\n## Aufgabe\n**Bitte zeichnen Sie eine Uhr!**\n(großer vorgegebener Kreis als Zeichenfläche)\n\nBezeichnen Sie die Zeit auf Ihrer Uhr so, wie Sie z. B. auf einem Fahrplan stünde. (Eintragungsfeld rechts daneben)\n\nFußzeile: Seite 1",
+      "figures": [
+        {
+          "caption": "Uhren-Test: Testblatt",
+          "shows": "Großer leerer vorgegebener Kreis, in den die Testperson eine Uhr mit Zahlen und Zeigern zeichnen soll",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [29],
+      "key_facts": [
+        "Uhren-Test (Uhrenzeichen-Test): kurzes Screening zu kognitiven Aspekten der Demenz",
+        "Aufgabe: Uhr in vorgegebenen Kreis zeichnen und die Uhrzeit im „Fahrplanformat“ eintragen"
+      ]
+    },
+    {
+      "gidx": 474,
+      "source": "paed-psych p.474",
+      "slide_title": "Uhren-Test — Manual zur Durchführung und Auswertung",
+      "type": "inhalt",
+      "notes_md": "# Uhren-Test — Manual zur Durchführung und Auswertung (medX)\n\nDer Uhrentest wird in der Neurologie und Neuropsychologie seit vielen Jahren verwendet. Er erlaubt es, in sehr kurzer Zeit wichtige kognitive Aspekte der Demenz zu untersuchen (Gedächtnis, konstruktive Praxis, exekutive Funktionen, Sprache, Erkennen).\n\n## Instruktion Uhr zeichnen\n- Bitte stellen Sie sicher, dass Sie ungestört sind. Sagen Sie zum Patienten etwa folgendes:\n  - „Ich möchte nun einen kurzen Test mit Ihnen durchführen. Einige der Aufgaben werden einfacher, andere schwieriger sein. Versuchen Sie bitte, sich so gut wie möglich zu konzentrieren. Wenn Sie eine Antwort nicht wissen, dürfen Sie ruhig raten. Sind Sie bereit? Gut, dann lassen Sie uns beginnen.“\n- Legen Sie das Blatt mit der Aufschrift „Bitte zeichnen Sie eine Uhr“ und dem vorgegebenen Kreis dem Patienten hin.\n  - „Bitte zeichnen Sie eine Uhr mit allen Zahlen und Zeigern, die nötig sind und sagen Sie mir, wenn Sie fertig sind.“\n- Bei Fragen wiederholen Sie nur die Testinstruktion unter Verwendung von Synonymen, wie z. B. „Zifferblatt“ statt „Uhr“ oder „Ziffern“ statt „Zahlen“, etc. Sollte der Patient z. B. fragen, ob er statt der Zahlen nur Striche zeichnen darf, sagen Sie ihm, dass er beides machen soll.\n\n## Instruktion Uhrzeit eintragen\n- „Bitte schreiben Sie nun die Uhrzeit in Ihrer gezeichneten Uhr in den unteren Kasten – so wie es z. B. im Fernsehheft oder im Zugfahrplan stehen würde.“\n\n## Auswertung\n| Uhrentest | Ja | Nein | Punkte |\n|---|---|---|---|\n| Sind 12 Zahlen vorhanden? | 1 | 0 | |\n| Ist die Zahl „12“ oben? | 2 | 0 | |\n| Sind unterscheidbare Zeiger vorhanden? (z. B. Dicke und Länge) | 2 | 0 | |\n| Stimmt die gezeichnete Zahl mit der Zeit im „Fahrplanformat“ überein? | 2 | 0 | |\n| **Total** | | | |\n\n**< 7 Punkte: Abklärung**\n\nFußzeile: Seite 2",
+      "figures": [],
+      "eingrenzung_hits": [29],
+      "key_facts": [
+        "Uhrentest untersucht in kurzer Zeit: Gedächtnis, konstruktive Praxis, exekutive Funktionen, Sprache, Erkennen",
+        "Auswertung: 12 Zahlen vorhanden (1 P.), Zahl „12“ oben (2 P.), unterscheidbare Zeiger (2 P.), gezeichnete Zahl stimmt mit Zeit im Fahrplanformat überein (2 P.) — maximal 7 Punkte",
+        "Cut-off: < 7 Punkte → Abklärung erforderlich"
+      ]
+    },
+    {
+      "gidx": 475,
+      "source": "paed-psych p.475",
+      "slide_title": "Zukunftswerkstatt Demenz — Titelseite",
+      "type": "titel",
+      "notes_md": "# Zukunftswerkstatt Demenz\n\nTitelseite der Broschüre.\n\n- Herausgeber: Bundesministerium für Gesundheit\n- Logo: GUTE PFLEGE — Darauf kommt es an\n- Foto: bunt gemusterter Trolley-Koffer, abgestellt an einer Backsteinwand neben einer Haustür",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Broschüre „Zukunftswerkstatt Demenz“ des Bundesministeriums für Gesundheit"
+      ]
+    },
+    {
+      "gidx": 476,
+      "source": "paed-psych p.476",
+      "slide_title": "Zukunftswerkstatt Demenz — Innentitel",
+      "type": "titel",
+      "notes_md": "# Zukunftswerkstatt Demenz\n\nInnentitel der Broschüre (sonst keine Inhalte auf der Seite).",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 477,
+      "source": "paed-psych p.477",
+      "slide_title": "Leerseite",
+      "type": "deko",
+      "notes_md": "(Leere Seite — kein Inhalt.)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 478,
+      "source": "paed-psych p.478",
+      "slide_title": "Grußwort von Bundesminister Hermann Gröhe",
+      "type": "inhalt",
+      "notes_md": "# Grußwort von Bundesminister Hermann Gröhe\n(Kopfzeile: Zukunftswerkstatt Demenz — Seite 3; Foto: Porträt Hermann Gröhe)\n\nSehr geehrte Damen und Herren,\n\ndas Thema Demenz geht uns alle an. Viele von uns werden bereits davon berührt, sei es als Familienangehöriger eines an Demenz erkrankten lieben Menschen, sei es in der Nachbarschaft oder möglicherweise im beruflichen Umfeld.\n\nDiese Erkrankung ist bis heute leider nicht heilbar – umso mehr müssen wir stetig daran arbeiten, dass den betroffenen Menschen die bestmögliche Behandlung und Pflege zukommt, damit sie in ihrer oft jahrelangen Krankheitszeit so gut wie möglich begleitet und unterstützt werden. Gleichzeitig dürfen wir auch nicht den Blick auf die vielen pflegenden Angehörigen verlieren, die sich in der tagtäglichen Betreuung und Hilfeleistung für den demenziell erkrankten Menschen engagieren.\n\nMit dem Förderprogramm „Zukunftswerkstatt Demenz“ wurden in den Jahren 2012 bis 2015 wichtige Projekte in den Bereichen „Unterstützung der pflegenden Angehörigen von Menschen mit Demenz“ und „Regionale Demenznetzwerke“ vom Bundesministerium für Gesundheit gefördert.\n\nAm 21. September 2015, dem alljährlichen Welt-Alzheimertag, wurden im Rahmen einer Abschlussveranstaltung die Ergebnisse dieser Projekte vorgestellt.\n\nDiese Broschüre gibt einen Überblick über diese Veranstaltung und soll Ihnen gleichzeitig die vielen Beispiele guter Praxis, Erfahrungen und Hilfen vorstellen. Sie sind ausdrücklich zur Nachahmung empfohlen. Der große Erfolg des Förderprogramms spiegelt sich auch darin wider, dass der Gesetzgeber mit dem Zweiten Pflegestärkungsgesetz die Möglichkeit für die Pflegekassen geschaffen hat, entsprechende regionale Netzwerke zu fördern, die sich die Verbesserung der Angebote für pflegebedürftige Menschen und ihre Angehörigen zum Ziel gesetzt haben.\n\nDas Bundesministerium für Gesundheit wird sich im Rahmen seiner Ressortforschung auch weiterhin für die Verbesserung der Situation von an Demenz erkrankten Menschen und ihrer Angehörigen einsetzen. Es ist meinem Ministerium und auch mir persönlich ein Anliegen, dass neue Ideen entwickelt, gute und praxisgerechte Lösungen erprobt und auf ihre Wirksamkeit hin wissenschaftlich untersucht werden.\n\nIch wünsche Ihnen eine anregende und interessante Lektüre.\n\nHerzlichst Ihr\n(Unterschrift)\nHermann Gröhe\nBundesminister für Gesundheit",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Förderprogramm „Zukunftswerkstatt Demenz“ (2012–2015): Bereiche „Unterstützung der pflegenden Angehörigen“ und „Regionale Demenznetzwerke“",
+        "Demenz ist bis heute nicht heilbar; Ziel: bestmögliche Behandlung, Pflege und Unterstützung der Angehörigen",
+        "Zweites Pflegestärkungsgesetz: Pflegekassen können regionale Demenz-Netzwerke fördern",
+        "Ergebnisvorstellung am 21. September 2015 (Welt-Alzheimertag)"
+      ]
+    },
+    {
+      "gidx": 479,
+      "source": "paed-psych p.479",
+      "slide_title": "Leerseite",
+      "type": "deko",
+      "notes_md": "(Leere Seite — kein Inhalt.)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 480,
+      "source": "paed-psych p.480",
+      "slide_title": "Grußwort der Deutschen Alzheimer Gesellschaft e.V. Selbsthilfe Demenz",
+      "type": "inhalt",
+      "notes_md": "# Grußwort der Deutschen Alzheimer Gesellschaft e.V. Selbsthilfe Demenz\n(Kopfzeile: Zukunftswerkstatt Demenz — Seite 5; Foto: Porträt Sabine Jansen; Unterschrift: Sabine Jansen)\n\nIn der „Zukunftswerkstatt Demenz“ hat das Bundesgesundheitsministerium Projekte aus zwei Schwerpunkten gefördert, die im Themenbereich Demenz eine besondere Relevanz haben. Diese Schwerpunkte wurden in einem Workshop mit Experten unterschiedlicher Professionen unter Einbezug der Selbsthilfe erarbeitet.\n\nDie Unterstützung von Angehörigen ist deshalb so wichtig, weil diese einen Großteil der Begleitung und Pflege von Menschen mit Demenz leisten. Oft über Jahre sind sie für ihre demenzkranken Angehörigen da, stellen eigene Bedürfnisse zurück und engagieren sich mit großer Hingabe. Dabei stoßen sie nicht selten an eigene Grenzen. Besonders der Umgang mit herausfordernden Verhaltensweisen ist sehr belastend – wie die Anrufe am Alzheimer-Telefon der Deutschen Alzheimer Gesellschaft zeigen. Angehörige sind durch die Belastung in großer Gefahr, selbst krank zu werden, wie Studien zeigen. So war es nahe liegend die Unterstützung von Angehörigen in den Fokus zu nehmen. Dabei sollten nicht neue Interventionen „erfunden“ werden, sondern bestehende Projekte für die Versorgung evaluiert werden. Dies ist auch gelungen. Einige der untersuchten Interventionen konnten entlastende Effekte für die Angehörigen wissenschaftlich nachweisen.\n\nBei der Versorgung von Menschen mit Demenz wirken viele Akteure mit. Dazu gehören Beratungsstellen, Ärzte und Ärztinnen, Krankenhäuser, ambulante und stationäre Einrichtungen, informelle Hilfestrukturen, die Selbsthilfe und weitere Akteure. Vielfach wissen die vor Ort Tätigen nicht voneinander. Sie behandeln, versorgen, beraten und begleiten Menschen mit Demenz und ihre Familien, ohne mit den anderen Akteuren in Kontakt zu treten. An manchen Orten haben sich aber schon vor vielen Jahren Demenz-Netzwerke gebildet, um Aktivitäten zu bündeln, Überleitungen zu verbessern und Synergien zu nutzen. Diese Netzwerke arbeiten höchst unterschiedlich: Es gibt Netzwerke, die durch professionelle Akteure geprägt sind, aber auch solche, die durch ehrenamtliches Engagement entstanden sind und andere Schwerpunkte setzen.\n\nIm zweiten Förderschwerpunkt wurden diese Strukturen untersucht: Wie funktionieren Netzwerke? Welche Akteure arbeiten mit? Wie kann man sie nachhaltig erhalten? Wie finanzieren sie sich? Dies waren nur einige der Fragen, die sich die Wissenschaftler und Wissenschaftlerinnen gestellt haben. Die Ergebnisse des Forschungsprojektes inklusive Praxishilfen wurden auf einer Internetseite veröffentlicht und damit auch Nachahmern zur Verfügung gestellt. Dies ist sehr zu begrüßen, denn Forschung sollte für die Praxis tätig werden. Positiv ist auch zu vermerken, dass es gelungen ist die Finanzierung der Netzwerke mit einem Betrag von 20.000 € im Zweiten Pflegestärkungsgesetz für die Zukunft zu verankern.\n\nWenn es jetzt noch gelingen würde, die effektiven Unterstützungsangebote für die Angehörigen regelhaft nutzbar zu machen, ist die Zukunftswerkstatt Demenz ein positives Beispiel dafür, dass die Ergebnisse von Forschungsvorhaben nicht in der Schublade verschwinden, sondern diese ganz konkrete Verbesserungen für Menschen mit Demenz und ihre Angehörigen bringen können.\n\n(Unterschrift) Sabine Jansen\n\nVIDEO-INTERVIEW MIT SABINE JANSEN: http://bit.ly/bmg-zukunftswerkstatt-demenz-jansen (mit QR-Code)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Zwei Förderschwerpunkte der „Zukunftswerkstatt Demenz“: Unterstützung pflegender Angehöriger und Demenz-Netzwerke",
+        "Angehörige leisten den Großteil der Begleitung und Pflege und sind durch die Belastung in Gefahr, selbst krank zu werden",
+        "Evaluierte Interventionen konnten entlastende Effekte für Angehörige wissenschaftlich nachweisen",
+        "Finanzierung der Netzwerke mit 20.000 € im Zweiten Pflegestärkungsgesetz verankert"
+      ]
+    }
+  ]
+}
