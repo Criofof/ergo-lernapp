@@ -1,0 +1,213 @@
+{
+  "batch": "59",
+  "pages": [
+    {
+      "gidx": 697,
+      "source": "paed-psych p.697",
+      "slide_title": "KURT LEWIN 1890-1947",
+      "type": "titel",
+      "notes_md": "# Kurt Lewin\n\n**1890\u20131947**\n\n(Titel-/Trennfolie, schwarzer Hintergrund mit geometrischer Liniengrafik, kein weiterer Inhalt)",
+      "figures": [],
+      "eingrenzung_hits": [47],
+      "key_facts": [
+        "Kurt Lewin (1890\u20131947)",
+        "Titel des Abschnitts zu Kurt Lewin"
+      ]
+    },
+    {
+      "gidx": 698,
+      "source": "paed-psych p.698",
+      "slide_title": "Kurt Lewin",
+      "type": "inhalt",
+      "notes_md": "# Kurt Lewin\n\n> **Sozialpsychologie** = Theoretische Vorstellung dar\u00fcber, wie Menschen in ihrer sozialen Welt agieren & reagieren\n\n- Deutscher Pionier der experimentellen Sozialpsychologie & Gestaltpsychologie, studierter Mediziner, Philosoph & Psychologe\n- Wichtiger Wegbereiter der kognitiven Psychologie & Begr\u00fcnder der Gruppendynamik, Mitgr\u00fcnder der Erziehungsstilforschung\n\n1. **Erziehungsstile** (Unterschied: autorit\u00e4rer, demokratischer, laissez-fairer Erziehungsstil)\n2. **Feldtheorie**\n3. **3-Phasen-Modell**\n\n*(Fu\u00dfzeile: Epoche 6)*",
+      "figures": [
+        {
+          "caption": "Portr\u00e4t Kurt Lewin",
+          "shows": "Schwarz-Wei\u00df-Fotografie von Kurt Lewin",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [47],
+      "key_facts": [
+        "Sozialpsychologie = theoretische Vorstellung dar\u00fcber, wie Menschen in ihrer sozialen Welt agieren und reagieren",
+        "Lewin: deutscher Pionier der experimentellen Sozialpsychologie und Gestaltpsychologie; studierter Mediziner, Philosoph und Psychologe",
+        "Wegbereiter der kognitiven Psychologie, Begr\u00fcnder der Gruppendynamik, Mitgr\u00fcnder der Erziehungsstilforschung",
+        "Erziehungsstile nach Lewin: autorit\u00e4rer, demokratischer, laissez-fairer Erziehungsstil",
+        "Weitere Konzepte: Feldtheorie und 3-Phasen-Modell"
+      ]
+    },
+    {
+      "gidx": 699,
+      "source": "paed-psych p.699",
+      "slide_title": "3-Phasen-Modell: Auftauen \u2013 \u00c4ndern \u2013 Wiedereinfrieren",
+      "type": "inhalt",
+      "notes_md": "# 3-Phasen-Modell (Diagramm)\n\nDiagramm: **Betriebsleistung (in %)** \u00fcber der **Zeit**\n\n- Die Leistungskurve (**Leistung**) startet bei ca. 100 %, sinkt w\u00e4hrend der \u00c4nderungsphase auf ca. 80 % und stabilisiert sich danach auf einem h\u00f6heren Niveau (ca. 115 %)\n- **Widerstrebende Kr\u00e4fte (restraining forces)** \u2013 orange Pfeile, dr\u00fccken die Leistung nach unten\n- **Antreibende Kr\u00e4fte (driving forces)** \u2013 blaue Pfeile, dr\u00fccken die Leistung nach oben\n\n**3 Phasen (Zeitachse):**\n\n1. **Auftauen**\n2. **\u00c4ndern**\n3. **Wiedereinfrieren**",
+      "figures": [
+        {
+          "caption": "3-Phasen-Modell der Ver\u00e4nderung nach Lewin",
+          "shows": "Kurvendiagramm der Betriebsleistung (in %) \u00fcber der Zeit: widerstrebende Kr\u00e4fte (restraining forces) und antreibende Kr\u00e4fte (driving forces) wirken auf die Leistungskurve; die Leistung sinkt in der Phase \u00c4ndern und stabilisiert sich beim Wiedereinfrieren auf h\u00f6herem Niveau; Phasen: Auftauen, \u00c4ndern, Wiedereinfrieren",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "3 Phasen der Ver\u00e4nderung nach Lewin: Auftauen, \u00c4ndern, Wiedereinfrieren",
+        "Widerstrebende Kr\u00e4fte = restraining forces; antreibende Kr\u00e4fte = driving forces",
+        "Betriebsleistung f\u00e4llt w\u00e4hrend der Ver\u00e4nderung kurzfristig ab (ca. 80 %) und erreicht danach ein h\u00f6heres Niveau (ca. 115 %)"
+      ]
+    },
+    {
+      "gidx": 700,
+      "source": "paed-psych p.700",
+      "slide_title": "Zusammenfassung",
+      "type": "inhalt",
+      "notes_md": "# Zusammenfassung\n\n**Iwan P. Pawlow**\n- Verhaltensforschung\n- Klassische Konditionierung\n- \u27a2 Behaviorismus\n\n**William Stern**\n- Differentielle Psychologie\n- Entwickler des 1. Intelligenzquotienten\n\n**Kurt Lewin**\n- Experimentelle Sozial- & Gestaltpsychologie\n- Erziehungsstile\n- 3-Phasen-Modell\n- Feldtheorie\n\n*(Fu\u00dfzeile: Epoche 6)*",
+      "figures": [],
+      "eingrenzung_hits": [40, 47, 53],
+      "key_facts": [
+        "Iwan P. Pawlow: Verhaltensforschung, klassische Konditionierung \u2192 Behaviorismus",
+        "William Stern: Differentielle Psychologie, Entwickler des 1. Intelligenzquotienten",
+        "Kurt Lewin: experimentelle Sozial- & Gestaltpsychologie, Erziehungsstile, 3-Phasen-Modell, Feldtheorie"
+      ]
+    },
+    {
+      "gidx": 701,
+      "source": "paed-psych p.701",
+      "slide_title": "Quellen",
+      "type": "quelle",
+      "notes_md": "# Quellen\n\n- www.aertzteblatt.de\n- www.Psychologie-Uni-Heidelberg.de\n- www.Spektrum.de\n- www.Kurt-Lewin.de\n- www.Uni-Hamburg.de\n- www.Fernuni-Hagen.de\n- www.StudySmarter.de",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Quellenverzeichnis (u. a. aertzteblatt.de, Psychologie-Uni-Heidelberg.de, Spektrum.de, Kurt-Lewin.de, Uni-Hamburg.de, Fernuni-Hagen.de, StudySmarter.de)"
+      ]
+    },
+    {
+      "gidx": 702,
+      "source": "paed-psych p.702",
+      "slide_title": "7. Epoche \u2013 Ab 1960 bis heute",
+      "type": "titel",
+      "notes_md": "# 7. Epoche\n\n**Ab 1960 bis heute**\n\n*(Datum auf der Folie: 23.10.2023; Hintergrund: k\u00fcnstlerische Darstellung ineinander verschachtelter Kopfprofile)*",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "7. Epoche der Psychologiegeschichte: ab 1960 bis heute"
+      ]
+    },
+    {
+      "gidx": 703,
+      "source": "paed-psych p.703",
+      "slide_title": "Hauptmerkmale der 7. Epoche",
+      "type": "inhalt",
+      "notes_md": "# Hauptmerkmale der 7. Epoche\n\n- Beginn der \u201amodernen\u2018 Psychologie\n- Aufl\u00f6sung des Schuldenkens\n- Informationsverarbeitungsansatz statt Behaviorismus\n- Wandel der Psychologie: von rein spekulativen/rationalen Wissenschaft zur empirischen Naturwissenschaft",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Beginn der \u201amodernen\u2018 Psychologie",
+        "Aufl\u00f6sung des Schuldenkens",
+        "Informationsverarbeitungsansatz statt Behaviorismus",
+        "Wandel der Psychologie: von rein spekulativer/rationaler Wissenschaft zur empirischen Naturwissenschaft"
+      ]
+    },
+    {
+      "gidx": 704,
+      "source": "paed-psych p.704",
+      "slide_title": "Burghausen Frederic Skinner",
+      "type": "inhalt",
+      "notes_md": "# Burghausen Frederic Skinner\n\n**1904\u20131990, US-amerikanischer Psychologe**\n\n- Gilt als Hauptvertreter des Behaviorismus (Begr\u00fcnder des Radikalen Behaviorismus und der Verhaltensanalyse)\n- Stark beeinflusst von Pawlow\n- Konzentriert sich vor allem auf die Operanten\n- **Operant:** \u201edie Umwelt beeinflussend\u201c, \u201ein ihr wirksam werden\u201c",
+      "figures": [
+        {
+          "caption": "Portr\u00e4t B. F. Skinner",
+          "shows": "Schwarz-Wei\u00df-Fotografie von Burrhus Frederic Skinner",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [53],
+      "key_facts": [
+        "B. F. Skinner (1904\u20131990), US-amerikanischer Psychologe (Folientitel schreibt \u201aBurghausen\u2018, korrekt: Burrhus Frederic Skinner)",
+        "Hauptvertreter des Behaviorismus; Begr\u00fcnder des Radikalen Behaviorismus und der Verhaltensanalyse",
+        "Stark beeinflusst von Pawlow",
+        "Operant = \u201edie Umwelt beeinflussend\u201c, \u201ein ihr wirksam werden\u201c"
+      ]
+    },
+    {
+      "gidx": 705,
+      "source": "paed-psych p.705",
+      "slide_title": "Spinner Box (Eponym)",
+      "type": "inhalt",
+      "notes_md": "# Spinner Box (Eponym)\n\n**Operante Konditionierungskammer**\n\n- Bahnbrechende Arbeit in der Psychologie\n- **Ratte 1** bekam Futter, wenn sie den Hebel bet\u00e4tigte.\n- **Ratte 2** konnte durch das Bet\u00e4tigen des Hebels Strom abschalten, der durch das Bodengitter floss.\n- **Ratte 3** erhielt einen Stromschlag, wenn sie den Hebel bet\u00e4tigte.\n\n*Beschriftung der Apparatur im Bild: Lautsprecher, Lichter, Reaktionshebel, Futterspender, elektrisch geladenes Gitter*",
+      "figures": [
+        {
+          "caption": "Skinner-Box (operante Konditionierungskammer)",
+          "shows": "Schemazeichnung der Konditionierungskammer mit Ratte: Lautsprecher, Lichter, Reaktionshebel, Futterspender und elektrisch geladenes Bodengitter",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [40, 53],
+      "key_facts": [
+        "Skinner-Box = operante Konditionierungskammer (auf der Folie \u201aSpinner Box\u2018 geschrieben)",
+        "Ratte 1 bekam Futter, wenn sie den Hebel bet\u00e4tigte",
+        "Ratte 2 konnte durch Hebelbet\u00e4tigung den Strom am Bodengitter abschalten",
+        "Ratte 3 erhielt einen Stromschlag, wenn sie den Hebel bet\u00e4tigte"
+      ]
+    },
+    {
+      "gidx": 706,
+      "source": "paed-psych p.706",
+      "slide_title": "Ergebnis",
+      "type": "inhalt",
+      "notes_md": "# Ergebnis\n\n**Nach mehreren Versuchen bet\u00e4tigen Ratte 1 und 2 immer wieder den Hebel, w\u00e4hrend Ratte 3 den Hebel nichtmetrischen bet\u00e4tigt.** *(Wortlaut der Folie; gemeint: Ratte 3 bet\u00e4tigt den Hebel nicht mehr)*\n\n- Die Ratten hatten gelernt, Verhalten mit positiven Konsequenzen (Futter bekommen, Strom abschalten) zu wiederholen und negative Konsequenzen (Stromschlag) zu vermeiden. \u2014\u2014> Skinner nannte diesen Lerneffekt: **\u201eLernen durch Verst\u00e4rkung\u201c** oder auch **\u201cLernen am Erfolg\u201c**.\n- Die Versuchstiere haben gelernt, durch das eigene Verhalten positive bzw. angenehme Konsequenzen (\u201esatisfier\u201c) herbeizuf\u00fchren und unangenehme Konsequenzen (\u201eannoyer\u201c) zu vermeiden bzw. zu verringern.",
+      "figures": [],
+      "eingrenzung_hits": [40, 53],
+      "key_facts": [
+        "Ratte 1 und 2 bet\u00e4tigen den Hebel immer wieder; Ratte 3 bet\u00e4tigt den Hebel nicht mehr",
+        "Skinner nannte den Lerneffekt \u201eLernen durch Verst\u00e4rkung\u201c oder \u201eLernen am Erfolg\u201c",
+        "Angenehme Konsequenzen = \u201esatisfier\u201c (herbeif\u00fchren); unangenehme Konsequenzen = \u201eannoyer\u201c (vermeiden bzw. verringern)"
+      ]
+    },
+    {
+      "gidx": 707,
+      "source": "paed-psych p.707",
+      "slide_title": "Albert Bandura",
+      "type": "inhalt",
+      "notes_md": "# Albert Bandura\n\n- 04.12.1925 \u2013 26.07.2021\n- Psychologe\n- Entwickelt die **sozial kognitive Lerntheorie**\n- Prozess des Erlernens von Verhaltensweisen und Einstellungen durch das Beobachten der Handlungen anderer Personen (**Modell** \u2026) *(Aufz\u00e4hlungspunkt auf der Folie abgeschnitten: \u201e(Modell\u201c)*",
+      "figures": [
+        {
+          "caption": "Portr\u00e4t Albert Bandura",
+          "shows": "Farbfotografie von Albert Bandura",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [40],
+      "key_facts": [
+        "Albert Bandura (04.12.1925\u201326.07.2021), Psychologe",
+        "Entwickler der sozial-kognitiven Lerntheorie",
+        "Erlernen von Verhaltensweisen und Einstellungen durch Beobachten der Handlungen anderer Personen (Modell)"
+      ]
+    },
+    {
+      "gidx": 708,
+      "source": "paed-psych p.708",
+      "slide_title": "Beispiel: Erlernen von Tischmanieren bei Kindern",
+      "type": "inhalt",
+      "notes_md": "# Beispiel: Erlernen von Tischmanieren bei Kindern\n\n- Sie beobachten, wie ihre Eltern & Geschwister bestimmte Verhaltensweisen bei Tisch zeigen, und eignen sich diese Verhaltensmuster anhand der Beobachtungen an",
+      "figures": [
+        {
+          "caption": "Familie am Esstisch",
+          "shows": "Illustration: Familie mit Kindern beim gemeinsamen Essen am Tisch \u2013 Beispiel f\u00fcr Lernen am Modell (Beobachtungslernen)",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [40],
+      "key_facts": [
+        "Beispiel f\u00fcr Lernen durch Beobachtung: Kinder eignen sich Tischmanieren an, indem sie Eltern und Geschwister bei Tisch beobachten"
+      ]
+    }
+  ]
+}

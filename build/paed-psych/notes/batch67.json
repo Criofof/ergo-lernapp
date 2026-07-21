@@ -1,0 +1,205 @@
+{
+  "batch": "67",
+  "pages": [
+    {
+      "gidx": 793,
+      "source": "paed-psych p.793",
+      "slide_title": "Fünf Axiome nach Watzlawick",
+      "type": "inhalt",
+      "notes_md": "# Fünf Axiome nach Watzlawick\n\n1. „Man kann nicht nicht kommunizieren.“\n\n2. „Jede Kommunikation enthält eine Inhalts- und eine Beziehungsebene.“\n\n3. „Im Verlauf einer Kommunikation ist das Verhalten des einen Kommunikationspartners sowohl Reaktion auf Verhalten des anderen, als auch Auslöser und Verstärkung für das Verhalten des anderen.“\n\n4. „Kommunikation kann digital oder analog sein.“\n   - digital: sprachlich verbal\n   - analog: symbolisch nonverbal (z.B. lächeln)\n\n5. „Kommunikationsabläufe sind entweder symmetrisch oder komplementär.“\n   - symmetrisch: auf Gleichheit beruhende / sich Gleichheit strebende Beziehung\n   - komplementär: auf Unterschiedlichkeit beruhend / sich gegenseitig ergänzende Beziehung",
+      "figures": [
+        {
+          "caption": "Porträtfoto Paul Watzlawick mit Sprechblasen der fünf Axiome",
+          "shows": "Schwarz-Weiß-Porträt von Paul Watzlawick, umgeben von roten Sprechblasen mit den fünf Kommunikationsaxiomen",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [16],
+      "key_facts": [
+        "Axiom 1: Man kann nicht nicht kommunizieren.",
+        "Axiom 2: Jede Kommunikation enthält eine Inhalts- und eine Beziehungsebene.",
+        "Axiom 3: Kommunikation ist zirkulär – Verhalten ist Reaktion, Auslöser und Verstärkung zugleich.",
+        "Axiom 4: Kommunikation kann digital (sprachlich verbal) oder analog (symbolisch nonverbal) sein.",
+        "Axiom 5: Kommunikationsabläufe sind symmetrisch (Gleichheit) oder komplementär (Unterschiedlichkeit/Ergänzung)."
+      ]
+    },
+    {
+      "gidx": 794,
+      "source": "paed-psych p.794",
+      "slide_title": "Fünf Axiome nach Watzlawick",
+      "type": "deko",
+      "notes_md": "# Fünf Axiome nach Watzlawick\n\nNoch einmal zusammen gefasst!\n\n(Hinweis auf ein Video: „5 Kommunikations-Axiome nach Watzlawick“)",
+      "figures": [
+        {
+          "caption": "Video-Screenshot „5 Kommunikations-Axiome nach Watzlawick“",
+          "shows": "Standbild aus einem Erklärvideo zu den fünf Kommunikationsaxiomen nach Watzlawick neben Porträt Watzlawicks",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [16],
+      "key_facts": [
+        "Zusammenfassungsfolie zu den fünf Axiomen nach Watzlawick mit Verweis auf ein Erklärvideo."
+      ]
+    },
+    {
+      "gidx": 795,
+      "source": "paed-psych p.795",
+      "slide_title": "Kommunikationsmodell nach Schulz von Thun",
+      "type": "inhalt",
+      "notes_md": "# Kommunikationsmodell nach Schulz von Thun\n\nAbbildung: Modell der Kommunikation nach Schulz von Thun\n\nDer Sender schickt eine Nachricht an den Empfänger. Die Nachricht enthält vier Seiten:\n\n- **Sachinhalt** (worüber ich informiere)\n- **Selbstoffenbarung** (was ich von mir selbst zeige)\n- **Beziehung** (in welchem Verhältnis wir zueinander stehen)\n- **Appell** (was du tun sollst)",
+      "figures": [
+        {
+          "caption": "Abb. Modell der Kommunikation nach Schulz von Thun",
+          "shows": "Kreisdiagramm: Sender sendet Nachricht an Empfänger; die Nachricht umfasst die vier Seiten Sachinhalt, Selbstoffenbarung, Beziehung und Appell",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [15],
+      "key_facts": [
+        "Jede Nachricht hat vier Seiten: Sachinhalt, Selbstoffenbarung, Beziehung, Appell.",
+        "Sachinhalt = worüber ich informiere; Selbstoffenbarung = was ich von mir selbst zeige.",
+        "Beziehung = in welchem Verhältnis wir zueinander stehen; Appell = was du tun sollst."
+      ]
+    },
+    {
+      "gidx": 796,
+      "source": "paed-psych p.796",
+      "slide_title": "Kommunikationsmodell nach Schulz von Thun",
+      "type": "inhalt",
+      "notes_md": "# Kommunikationsmodell nach Schulz von Thun\n\nWenn ich als Mensch etwas von mir gebe, bin ich auf vierfache Weise wirksam. Jede meiner Äußerungen enthält, ob ich will oder nicht, vier Botschaften gleichzeitig:\n\n- eine **Sachinformation** (worüber ich informiere) – **blau**\n- eine **Selbstkundgabe** (was ich von mir zu erkennen gebe) – **grün**\n- einen **Beziehungshinweis** (was ich von dir halte und wie ich zu dir stehe) – **gelb**\n- einen **Appell** (was ich bei dir erreichen möchte) – **rot**\n\nAbbildung: Sender mit vier Schnäbeln – Äußerung (vierfarbiges Quadrat: Sachinhalt, Selbstkundgabe, Beziehungshinweis, Appell) – Empfänger mit vier Ohren.",
+      "figures": [
+        {
+          "caption": "Sender mit vier Schnäbeln und Empfänger mit vier Ohren",
+          "shows": "Vier-Ohren-Modell: Der Sender spricht mit vier Schnäbeln (Sachinhalt, Selbstkundgabe, Beziehungshinweis, Appell), der Empfänger hört mit vier Ohren; die Äußerung als vierfarbiges Quadrat",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [15],
+      "key_facts": [
+        "Jede Äußerung enthält vier Botschaften gleichzeitig: Sachinformation, Selbstkundgabe, Beziehungshinweis, Appell.",
+        "Farbcodierung: Sachinformation = blau, Selbstkundgabe = grün, Beziehungshinweis = gelb, Appell = rot.",
+        "Sender sendet mit „vier Schnäbeln“, Empfänger empfängt mit „vier Ohren“."
+      ]
+    },
+    {
+      "gidx": 797,
+      "source": "paed-psych p.797",
+      "slide_title": "Kommunikationsmodell nach Schulz von Thun – Sachinhalt",
+      "type": "inhalt",
+      "notes_md": "# Kommunikationsmodell nach Schulz von Thun\n\n## Sachinhalt\n\nAuf der **Sachebene** des Gesprächs steht die Sachinformation im Vordergrund, hier geht es um Daten, Fakten und Sachverhalte. Dabei gelten drei Kriterien:\n\n- **wahr oder unwahr** (zutreffend/nicht zutreffend)\n- **relevant oder irrelevant** (sind die aufgeführten Sachverhalte für das anstehende Thema von Belang/nicht von Belang?)\n- **hinlänglich oder unzureichend** (sind die angeführten Sachhinweise für das Thema ausreichend, oder muss vieles andere zusätzlich bedacht werden?)\n\nDie Herausforderung für den Sender besteht auf der Sachebene darin, die Sachverhalte klar und verständlich auszudrücken. Der Empfänger kann auf dem Sachohr entsprechend der drei Kriterien reagieren.\n\n*Problem: mangelnde Sachlichkeit, mangelnde Verständlichkeit, „Flucht ins Sachliche“ → mangelnde Beziehungsebene*",
+      "figures": [],
+      "eingrenzung_hits": [15, 16],
+      "key_facts": [
+        "Sachebene: Daten, Fakten und Sachverhalte stehen im Vordergrund.",
+        "Drei Kriterien der Sachebene: wahr/unwahr, relevant/irrelevant, hinlänglich/unzureichend.",
+        "Herausforderung für den Sender: Sachverhalte klar und verständlich ausdrücken.",
+        "Probleme: mangelnde Sachlichkeit, mangelnde Verständlichkeit, „Flucht ins Sachliche“."
+      ]
+    },
+    {
+      "gidx": 798,
+      "source": "paed-psych p.798",
+      "slide_title": "Kommunikationsmodell nach Schulz von Thun – Selbstkundgabe",
+      "type": "inhalt",
+      "notes_md": "# Kommunikationsmodell nach Schulz von Thun\n\n## Selbstkundgabe\n\nFür die **Selbstkundgabe** gilt:\n\nWenn jemand etwas von sich gibt, gibt er auch etwas von sich. Jede Äußerung enthält gewollt oder unfreiwillig eine Kostprobe der Persönlichkeit – der Gefühle, Werte, Eigenarten und Bedürfnisse. Dies kann explizit („Ich-Botschaft“) oder implizit geschehen.\n\nWährend der Sender mit dem Selbstkundgabe-Schnabel implizit oder explizit, bewusst oder unbewusst, Informationen über sich preis gibt, nimmt der Empfänger diese mit dem Selbstkundgabe-Ohr auf: Was ist das für einer? Wie ist er gestimmt? Was ist mit ihm? usw.\n\n*Problem: Fassade, Maske, Unechtheit*",
+      "figures": [],
+      "eingrenzung_hits": [15],
+      "key_facts": [
+        "Selbstkundgabe: Jede Äußerung enthält gewollt oder unfreiwillig eine Kostprobe der Persönlichkeit (Gefühle, Werte, Eigenarten, Bedürfnisse).",
+        "Selbstkundgabe kann explizit („Ich-Botschaft“) oder implizit geschehen.",
+        "Empfänger hört mit dem Selbstkundgabe-Ohr: Was ist das für einer? Wie ist er gestimmt? Was ist mit ihm?",
+        "Probleme: Fassade, Maske, Unechtheit."
+      ]
+    },
+    {
+      "gidx": 799,
+      "source": "paed-psych p.799",
+      "slide_title": "Kommunikationsmodell nach Schulz von Thun – Beziehungsseite",
+      "type": "inhalt",
+      "notes_md": "# Kommunikationsmodell nach Schulz von Thun\n\n## Beziehungsseite\n\nAuf der **Beziehungsseite** gebe ich zu erkennen, wie ich zum Anderen stehe und was ich von ihm halte. Diese Beziehungshinweise werden durch Formulierung, Tonfall, Mimik und Gestik vermittelt.\n\nDer Sender transportiert diese Hinweise implizit oder explizit. Der Empfänger fühlt sich durch die auf dem Beziehungsohr eingehenden Informationen wertgeschätzt oder abgelehnt, missachtet oder geachtet, respektiert oder gedemütigt.\n\n*Problem: Mitgeteilte Beziehungsdefinition kann von Empfänger angenommen oder abgelehnt werden, ständige Interpretation auf Beziehungsebene (alles persönlich nehmen)*",
+      "figures": [],
+      "eingrenzung_hits": [15],
+      "key_facts": [
+        "Beziehungsseite: Ich gebe zu erkennen, wie ich zum Anderen stehe und was ich von ihm halte.",
+        "Beziehungshinweise werden durch Formulierung, Tonfall, Mimik und Gestik vermittelt.",
+        "Empfänger fühlt sich über das Beziehungsohr wertgeschätzt oder abgelehnt, missachtet oder geachtet, respektiert oder gedemütigt.",
+        "Probleme: Beziehungsdefinition kann angenommen oder abgelehnt werden; ständige Interpretation auf Beziehungsebene (alles persönlich nehmen)."
+      ]
+    },
+    {
+      "gidx": 800,
+      "source": "paed-psych p.800",
+      "slide_title": "Kommunikationsmodell nach Schulz von Thun – Appell",
+      "type": "inhalt",
+      "notes_md": "# Kommunikationsmodell nach Schulz von Thun\n\n## Appell\n\nDie Einflussnahme auf den Empfänger geschieht auf der **Appellseite**. Wenn jemand das Wort ergreift, möchte er in aller Regel etwas erreichen. Er äußert Wünsche, Appelle, Ratschläge oder Handlungsanweisungen.\n\nDie Appelle werden offen oder verdeckt gesandt. Mit dem Appell-Ohr fragt sich der Empfänger: Was soll ich jetzt (nicht) machen, denken oder fühlen?\n\n*Problem: verdeckte Appelle, Manipulation*",
+      "figures": [],
+      "eingrenzung_hits": [15],
+      "key_facts": [
+        "Appellseite: Einflussnahme auf den Empfänger – der Sender möchte etwas erreichen.",
+        "Geäußert werden Wünsche, Appelle, Ratschläge oder Handlungsanweisungen.",
+        "Appelle werden offen oder verdeckt gesandt; Empfänger fragt mit dem Appell-Ohr: Was soll ich jetzt (nicht) machen, denken oder fühlen?",
+        "Probleme: verdeckte Appelle, Manipulation."
+      ]
+    },
+    {
+      "gidx": 801,
+      "source": "paed-psych p.801",
+      "slide_title": "Kommunikationsmodell nach Schulz von Thun",
+      "type": "inhalt",
+      "notes_md": "# Kommunikationsmodell nach Schulz von Thun\n\n- Mitteilungen haben **mehrere mögliche Botschaften** → Empfänger muss sortieren\n- Sachebene meist deutlichste Ebene\n- Empfänger neigen dazu, unklar kommunizierte Seiten der Botschaft zu interpretieren (Hintergrund: Erfahrungen, Erwartungen, Phantasien)",
+      "figures": [],
+      "eingrenzung_hits": [15, 16],
+      "key_facts": [
+        "Mitteilungen haben mehrere mögliche Botschaften – der Empfänger muss sortieren.",
+        "Die Sachebene ist meist die deutlichste Ebene.",
+        "Empfänger interpretieren unklar kommunizierte Seiten vor dem Hintergrund von Erfahrungen, Erwartungen und Phantasien."
+      ]
+    },
+    {
+      "gidx": 802,
+      "source": "paed-psych p.802",
+      "slide_title": "Kommunikationsmodell nach Schulz von Thun – Übung",
+      "type": "inhalt",
+      "notes_md": "# Kommunikationsmodell nach Schulz von Thun\n\n## Übung\n\nWenden Sie das Modell von Schulz von Thun auf die folgenden Beispiele an.\n→ Interpretieren Sie auf allen vier Ebenen!\n(Klient kommuniziert mit Ihnen als Therapeut:innen, die genauen Umstände können Sie sich selbst überlegen)\n\n1. „Auf einen Termin bei Ihnen wartet man ganz schön lange“\n2. „Sie sind der/die dritte Therapeut:in, den/die ich deswegen aufsuche“\n\n**Bei nonverbaler Kommunikation entfällt die Sachebene!**\n\n1. Schweigen\n2. Stirn runzeln (in vertikale Falten legen)",
+      "figures": [],
+      "eingrenzung_hits": [15, 16],
+      "key_facts": [
+        "Übungsaufgabe: Beispieläußerungen von Klienten auf allen vier Ebenen des Schulz-von-Thun-Modells interpretieren.",
+        "Bei nonverbaler Kommunikation entfällt die Sachebene.",
+        "Nonverbale Beispiele: Schweigen, Stirn runzeln."
+      ]
+    },
+    {
+      "gidx": 803,
+      "source": "paed-psych p.803",
+      "slide_title": "Poesie (Gordon, 2013) – Zuhören",
+      "type": "inhalt",
+      "notes_md": "# Poesie (Gordon, 2013)\n\n## Zuhören\n\nWenn ich dich bitte,\nMir zuzuhören,\nUnd du fängst an, mir Ratschläge zu geben,\nDann tust du nicht, worum ich dich bitte.\n\nWenn ich dich bitte,\nMir zuzuhören,\nUnd du fängst an, mir zu erzählen,\nWarum ich so und nicht anders fühlen muss,\nTrampelst du auf meinen Gefühlen herum.\n\nWenn ich dich bitte,\nMir zuzuhören,\nUnd du denkst, du musst etwas tun,\nUm meine Probleme zu lösen,\nHast du nicht nicht verstanden,\nSo merkwürdig das klingen mag.\n\nHör zu!\nAlles worum ich dich gebeten habe,\nWar zuzuhören,\nNicht zu sprechen oder etwas zu tun…\nNur, mir zuzuhören.\nIch kann selbst für mich sorgen.\nIch bin nicht hilflos.\nVielleicht mutlos und unsicher,\nAber nicht hilflos.\n\nWenn du etwas für mich tust,\nWas ich selbst für mich tun kann,\nVerschlimmerst du meine Angst\nUnd mein Gefühl der Unzulänglichkeit.\nDoch wenn du als simple Tatsache akzeptierst,\nDass ich fühle, wie unvernünftig es auch sein mag,\nbrauche ich nicht mehr zu versuchen,\nDich zu überzeugen,\nUnd kann mich endlich wieder\nDer Frage zuwenden,\nWas sich hinter diesem irrationalen Gefühl verbirgt.\nWenn das klar ist,\nLiegen die Antworten auf der Hand,\nUnd ich brauche keinen Rat.\n\nIrrationale Gefühle offenbaren ihren Sinn, wenn wir verstehen, was sich hinter ihnen verbirgt.\n\nVielleicht ist das der Grund,\nWarum Gebete wirken – manchmal für manche Menschen…\nWeil Gott stumm ist,\nUnd keine Ratschläge erteilt oder versucht,\nDie Dinge in Ordnung zu bringen.\nEr (oder Sie) hört einfach zu\nUnd lässt uns selber machen.\nAlso hör mir zu,\nHör mich einfach an,\nUnd wenn du sprechen möchtest,\nWarte eine Minute,\nBis du dran bist…\nDann höre ich dir zu.",
+      "figures": [],
+      "eingrenzung_hits": [16],
+      "key_facts": [
+        "Gedicht „Zuhören“ (Gordon, 2013): Bitte um aktives Zuhören statt Ratschläge, Belehrungen oder Problemlösungen.",
+        "Kernaussage: Gefühle zu akzeptieren ermöglicht Selbstklärung – irrationale Gefühle offenbaren ihren Sinn, wenn man versteht, was sich hinter ihnen verbirgt.",
+        "Zuhören statt sofort zu handeln: Zuviel Hilfe verstärkt Angst und das Gefühl der Unzulänglichkeit."
+      ]
+    },
+    {
+      "gidx": 804,
+      "source": "paed-psych p.804",
+      "slide_title": "Konstruktives Konfliktlösen nach Gordon",
+      "type": "inhalt",
+      "notes_md": "# Konstruktives Konfliktlösen nach Gordon\n\n**Bausteine des Modells nach Gordon:**\n\n- *Wertschätzung*\n- *Empathie - Perspektivübernahme*\n- *Echtheit - Selbstreflexion*\n\nTrainingsprogramm zur Konfliktlösung und zur Streitschlichtung für unterschiedliche Lebensbereiche.\n\nEs gibt keine „Niederlagen“ und somit keine „Verlierer“ in der Kommunikation.",
+      "figures": [],
+      "eingrenzung_hits": [16],
+      "key_facts": [
+        "Bausteine des Modells nach Gordon: Wertschätzung, Empathie (Perspektivübernahme), Echtheit (Selbstreflexion).",
+        "Gordon: Trainingsprogramm zur Konfliktlösung und Streitschlichtung für unterschiedliche Lebensbereiche.",
+        "Prinzip: keine „Niederlagen“ und keine „Verlierer“ in der Kommunikation (Gewinnen-Gewinnen-Ansatz)."
+      ]
+    }
+  ]
+}

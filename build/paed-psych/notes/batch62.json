@@ -1,0 +1,207 @@
+{
+  "batch": "62",
+  "pages": [
+    {
+      "gidx": 733,
+      "source": "paed-psych p.733",
+      "slide_title": "Ansätze der Psychologie",
+      "type": "inhalt",
+      "notes_md": "## Ansätze der Psychologie\n\n| Sichtweise | Zentrale Fragestellung | Typische Fragen | Arbeitsfelder, die mit dieser Sichtweise arbeiten |\n|---|---|---|---|\n| **Neurowissenschaftlicher Ansatz** | Auf welche Weise werden durch den Körper und das Gehirn Emotionen, Erinnerungen und sensorische Erfahrungen überhaupt erst möglich? | Wie werden Schmerzinformationen von unserer Hand in unser Gehirn weitergeleitet? Welche Verbindung gibt es zwischen der chemischen Zusammensetzung des Bluts und Stimmung bzw. Antrieb? | Biologische, kognitive und klinische Psychologie |\n| **Evolutionstheoretischer Ansatz** | Wie fördert die natürliche Selektion von Merkmalen die Weitergabe der eigenen Gene? | Auf welche Weise beeinflusst die Evolution bestimmte Verhaltenstendenzen? | Biologische, Entwicklungs- und Sozialpsychologie |\n| **Verhaltensgenetischer Ansatz** | Innieweit sind unsere Gene und unsere Umwelt für unsere individuellen Unterschiede verantwortlich? | Wie stark sind psychologische Merkmale wie Intelligenz, Persönlichkeit, sexuelle Orientierung oder Depressionsanfälligkeit genetisch bestimmt? Wie stark werden sie durch die Umwelt geprägt? | Persönlichkeits- und Entwicklungspsychologie |\n| **Psychodynamischer Ansatz** | Wie entwickelt sich Verhalten aus unbewussten Trieben und Konflikten? | Wie können wir die Persönlichkeitsmerkmale eines Menschen oder eine psychische Störung durch unerfüllte Wünsche und Kindheitstraumata erklären? | Persönlichkeits- und klinische Psychologie sowie psychologische Beratung |\n| **Verhaltenstheoretischer Ansatz** | Wie erlernen wir beobachtbare Reaktionen? | Wie lernen wir, vor bestimmten Objekten oder Situationen Angst zu haben? Welche wirksamen Methoden gibt es, unser Verhalten zu ändern, etwa abzunehmen oder nicht mehr zu rauchen? | Klinische Psychologie, psychologische Beratung und Arbeits- und Organisationspsychologie |\n| **Kognitiver Ansatz** | Wie kodieren, verarbeiten und speichern wir Informationen, und wie rufen wir sie wieder ab? | Wie benutzen wir Informationen, wenn wir uns erinnern, argumentieren oder ein Problem lösen? | Kognitive und klinische Psychologie, psychologische Beratung sowie Arbeits- und Organisationspsychologie |\n| **Soziokultureller Ansatz** | Wie variiert Verhalten und Denken je nach Kultur und Situation? | Worin gleichen wir uns als Mitglieder der einen menschlichen Familie? Worin unterscheiden wir uns voneinander als Angehörige verschiedener Umwelten? | Entwicklungs-, Sozial- und klinische Psychologie sowie psychologische Beratung |",
+      "figures": [
+        {
+          "caption": "Tabelle: Ansätze der Psychologie",
+          "shows": "Übersichtstabelle mit 7 psychologischen Sichtweisen (neurowissenschaftlich, evolutionstheoretisch, verhaltensgenetisch, psychodynamisch, verhaltenstheoretisch, kognitiv, soziokulturell) mit zentraler Fragestellung, typischen Fragen und Arbeitsfeldern",
+          "importance": "high",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [1, 2],
+      "key_facts": [
+        "7 Ansätze der Psychologie: neurowissenschaftlich, evolutionstheoretisch, verhaltensgenetisch, psychodynamisch, verhaltenstheoretisch, kognitiv, soziokulturell",
+        "Neurowissenschaftlicher Ansatz: Wie machen Körper und Gehirn Emotionen, Erinnerungen und sensorische Erfahrungen möglich?",
+        "Psychodynamischer Ansatz: Verhalten entwickelt sich aus unbewussten Trieben und Konflikten",
+        "Verhaltenstheoretischer Ansatz: Wie erlernen wir beobachtbare Reaktionen?",
+        "Kognitiver Ansatz: Wie kodieren, verarbeiten und speichern wir Informationen und rufen sie wieder ab?"
+      ]
+    },
+    {
+      "gidx": 734,
+      "source": "paed-psych p.734",
+      "slide_title": "Psychologische Erkenntnisse",
+      "type": "inhalt",
+      "notes_md": "## Psychologische Erkenntnisse\n\nZeichnen Sie eine Person unter Verwendung von genau 10 Formen.\n\nDabei können Sie sich an Dreiecken, Kreisen und Vierecken bedienen und die Formen auch mischen.\n\n(Darstellung der drei Formen: Kreis, Dreieck, Viereck/Quadrat)",
+      "figures": [
+        {
+          "caption": "Drei Grundformen",
+          "shows": "Ein roter Kreis, ein rotes Dreieck und ein rotes Viereck als Vorlage für die Zeichenübung",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Übung: Eine Person aus genau 10 Formen zeichnen (Dreiecke, Kreise, Vierecke, auch gemischt)"
+      ]
+    },
+    {
+      "gidx": 735,
+      "source": "paed-psych p.735",
+      "slide_title": "Die wissenschaftliche Erkenntnisse",
+      "type": "inhalt",
+      "notes_md": "## Die wissenschaftliche Erkenntnisse\n\nZählen Sie nun die Anzahl der je verwendeten Formen.\n\nDabei steht jede Form für eine andere Eigenschaft:\n\n- **Kreis = Sex**\n- **Dreieck = Herz**\n- **Viereck = Verstand**\n\nSeid ihr ein Verstand- oder Herzmensch?\nOder bestimmen eher Triebe euer Verhalten?\n\n→ Natürlich **NICHT** wissenschaftlich! Typischer „Zeitschriften-Test“!",
+      "figures": [
+        {
+          "caption": "Formen mit Bedeutung",
+          "shows": "Kreis beschriftet mit „Sex“, Dreieck beschriftet mit „Herz“, Viereck beschriftet mit „Verstand“",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Scheinbarer Persönlichkeitstest: Kreis = Sex, Dreieck = Herz, Viereck = Verstand",
+        "Auflösung: Solche Tests sind NICHT wissenschaftlich – typischer „Zeitschriften-Test“"
+      ]
+    },
+    {
+      "gidx": 736,
+      "source": "paed-psych p.736",
+      "slide_title": "Der wissenschaftliche Weg zur Erkenntnis",
+      "type": "inhalt",
+      "notes_md": "## Der wissenschaftliche Weg zur Erkenntnis\n\n**Ziele von Forschung:**\n\nMenschliches Erleben, Verhalten und Handeln soll...\n\n- **Beschrieben,**\n- **erklärt,**\n- **vorhergesagt,**\n- **verändert**\n\n...werden können.",
+      "figures": [],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Ziele von Forschung: menschliches Erleben, Verhalten und Handeln beschreiben, erklären, vorhersagen, verändern"
+      ]
+    },
+    {
+      "gidx": 737,
+      "source": "paed-psych p.737",
+      "slide_title": "Der wissenschaftliche Weg zur Erkenntnis",
+      "type": "inhalt",
+      "notes_md": "## Der wissenschaftliche Weg zur Erkenntnis\n\nAblaufschema des Forschungsprozesses (Flussdiagramm):\n\n1. **Ausgangspunkt: Praxis- oder Theorieproblem**\n2. **Forschungsfrage**\n3. **Forschungsstand und theoretischer Hintergrund**\n4. **Hypothesenformulierung**\n5. **Empirische Untersuchung**\n6. **Datenerhebung und -auswertung**\n7. **Stimmen Ergebnisse und Vorhersage überein?** → **Hypothese ist bestätigt**\n8. **Methodische Probleme?**\n   - **Hypothese lässt sich nicht bestätigen**\n   - **Methode verbessern und neue Untersuchung**",
+      "figures": [
+        {
+          "caption": "Flussdiagramm des Forschungsprozesses",
+          "shows": "Schrittweiser Ablauf vom Ausgangsproblem über Forschungsfrage, Hypothesenformulierung, empirische Untersuchung und Datenerhebung bis zur Prüfung, ob Ergebnisse und Vorhersage übereinstimmen (Hypothese bestätigt / nicht bestätigt / Methode verbessern)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Forschungsprozess: Ausgangspunkt ist ein Praxis- oder Theorieproblem",
+        "Schritte: Forschungsfrage → Forschungsstand/theoretischer Hintergrund → Hypothesenformulierung → empirische Untersuchung → Datenerhebung und -auswertung",
+        "Übereinstimmung von Ergebnissen und Vorhersage = Hypothese bestätigt",
+        "Bei methodischen Problemen: Hypothese lässt sich nicht bestätigen oder Methode verbessern und neue Untersuchung durchführen"
+      ]
+    },
+    {
+      "gidx": 738,
+      "source": "paed-psych p.738",
+      "slide_title": "Der wissenschaftliche Weg zur Erkenntnis – Datengewinnung",
+      "type": "inhalt",
+      "notes_md": "## Der wissenschaftliche Weg zur Erkenntnis\n### Datengewinnung\n\n**Allgemeines zur Datengewinnung:**\n\n- Die Datengewinnung erfolgt mittels **Datenerhebungsverfahren**.\n  - Das sind in der Regel wissenschaftlich bewährte Verfahren zur Gewinnung von Daten im Rahmen empirischer Forschung. Daten können z.B. mittels **Befragungen**, **Beobachtungen** und **psychophysiologische Messungen** erhoben werden.",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Datengewinnung erfolgt mittels Datenerhebungsverfahren",
+        "Datenerhebungsverfahren: wissenschaftlich bewährte Verfahren zur Gewinnung von Daten im Rahmen empirischer Forschung",
+        "Beispiele: Befragungen, Beobachtungen, psychophysiologische Messungen"
+      ]
+    },
+    {
+      "gidx": 739,
+      "source": "paed-psych p.739",
+      "slide_title": "Der wissenschaftliche Weg zur Erkenntnis – Datengewinnung: Herausforderungen",
+      "type": "inhalt",
+      "notes_md": "## Der wissenschaftliche Weg zur Erkenntnis\n### Datengewinnung - Herausforderungen\n\n**Reaktivität**\n- Wenn Menschen wissen, dass Sie beobachtet werden, verändert sich ihr Verhalten.\n\n**Soziale Erwünschtheit**\n- Eine Verzerrung im Antwortverhalten aufgrund einer Annahme der Befragten über die Erwünschtheit der Antwort.\n\n**Schweigeverzerrung**\n- Antwortende können ein anderes Antwortverhalten haben als es Nichtantwortende hätten, wenn sie an der Erhebung teilgenommen hätten. Die ausbleibenden Antworten verfälschen somit das Gesamtbild.\n\n**Selektive Aufmerksamkeit**\n- Die menschliche Wahrnehmung ist ein selektiver Prozess und Aufnahme als auch Wahrnehmung sind hinsichtlich der zu verarbeitenden Informationsmenge begrenzt. Zusätzlich sucht das menschliche Gehirn kontinuierlich nach vertrauten Mustern und Strukturen.",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Reaktivität: Beobachtete verändern ihr Verhalten, wenn sie wissen, dass sie beobachtet werden",
+        "Soziale Erwünschtheit: Verzerrung im Antwortverhalten durch Annahme über die Erwünschtheit der Antwort",
+        "Schweigeverzerrung: ausbleibende Antworten von Nichtantwortenden verfälschen das Gesamtbild",
+        "Selektive Aufmerksamkeit: Wahrnehmung ist ein selektiver, in der Informationsmenge begrenzter Prozess; das Gehirn sucht nach vertrauten Mustern und Strukturen"
+      ]
+    },
+    {
+      "gidx": 740,
+      "source": "paed-psych p.740",
+      "slide_title": "Der wissenschaftliche Weg zur Erkenntnis – Datengewinnung: Herausforderungen",
+      "type": "inhalt",
+      "notes_md": "## Der wissenschaftliche Weg zur Erkenntnis\n### Datengewinnung - Herausforderungen\n\n**Tendenz zur Mitte**\n- Die Tendenz zur Mitte ist die Tendenz von Befragten, bei mehrstufigen Antwortvorgaben eher die mittleren Antworten auszuwählen.\n\n**Tendenz zur Milde / Härte**\n- Die Tendenz zur Milde oder Härte ist die Tendenz von Befragten, bei mehrstufigen Antwortmöglichkeiten zu Extremen zu neigen.\n\n**Retrospektionseffekt**\n- Erlebnisse und Ereignisse können im Rückblick, am nächsten Tag oder nach einigen Wochen positiver oder negativer bewertet werden als in den aktuell erhobenen Einschätzungen.\n\n**Rückschaufehler**\n- Der Rückschaufehler bezieht sich auf unzutreffende Erinnerungen, wenn Menschen, nachdem sie den tatsächlichen Ausgang eines Ereignisses erfahren haben, sich systematisch falsch an ihre früheren eigenen Vorhersagen erinnern.",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Tendenz zur Mitte: Befragte wählen bei mehrstufigen Antwortvorgaben eher die mittleren Antworten",
+        "Tendenz zur Milde/Härte: Befragte neigen bei mehrstufigen Antwortmöglichkeiten zu Extremen",
+        "Retrospektionseffekt: Ereignisse werden im Rückblick positiver oder negativer bewertet als aktuell erhoben",
+        "Rückschaufehler: nach Bekanntwerden des tatsächlichen Ausgangs erinnern sich Menschen systematisch falsch an ihre früheren Vorhersagen"
+      ]
+    },
+    {
+      "gidx": 741,
+      "source": "paed-psych p.741",
+      "slide_title": "Der wissenschaftliche Weg zur Erkenntnis – Befragung zur Datengewinnung",
+      "type": "inhalt",
+      "notes_md": "## Der wissenschaftliche Weg zur Erkenntnis\n### Befragung zur Datengewinnung\n\nSystematik der Befragung (Diagramm):\n\n- **Befragung**\n  - **schriftlich (Fragebogen)**\n    - **Paper-Pencil**\n      - Einzeln\n      - Classroom\n    - **Online**\n  - **mündliche (Interview)**\n    - **persönlich (Vis-à-vis)**\n      - Einzeln\n      - in der Gruppe\n    - **telefonisch oder via Skype**",
+      "figures": [
+        {
+          "caption": "Systematik der Befragungsformen",
+          "shows": "Baumdiagramm: Befragung unterteilt in schriftlich (Fragebogen: Paper-Pencil – einzeln/Classroom – und Online) und mündlich (Interview: persönlich Vis-à-vis – einzeln/in der Gruppe – oder telefonisch/via Skype)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Befragung gliedert sich in schriftlich (Fragebogen) und mündlich (Interview)",
+        "Schriftlich: Paper-Pencil (einzeln oder Classroom) und Online",
+        "Mündlich: persönlich (Vis-à-vis, einzeln oder in der Gruppe) oder telefonisch bzw. via Skype"
+      ]
+    },
+    {
+      "gidx": 742,
+      "source": "paed-psych p.742",
+      "slide_title": "Der wissenschaftliche Weg zur Erkenntnis – Befragung zur Datengewinnung",
+      "type": "inhalt",
+      "notes_md": "## Der wissenschaftliche Weg zur Erkenntnis\n### Befragung zur Datengewinnung\n\n**Regeln zur Fragestellung**\n\n- Sprache so einfach wie möglich und der Zielgruppe angemessen\n- Fragen / Aussagen kurz und eingängig formulieren\n- Nicht mehrere Themen innerhalb einer Frage abfragen\n- Inhaltshomogene Fragen stellen\n- Eindeutigkeit der verwendeten Begrifflichkeiten\n- Keine doppelten Verneinungen\n- Keine extreme Formulierungen\n- Keine Suggestivfragen",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Regeln zur Fragestellung: einfache, zielgruppenangemessene Sprache; kurze und eingängige Fragen",
+        "Nur ein Thema pro Frage; inhaltshomogene Fragen; eindeutige Begrifflichkeiten",
+        "Vermeiden: doppelte Verneinungen, extreme Formulierungen, Suggestivfragen"
+      ]
+    },
+    {
+      "gidx": 743,
+      "source": "paed-psych p.743",
+      "slide_title": "Der wissenschaftliche Weg zur Erkenntnis – Befragung zur Datengewinnung",
+      "type": "inhalt",
+      "notes_md": "## Der wissenschaftliche Weg zur Erkenntnis\n### Befragung zur Datengewinnung\n\n**Vorgaben bei der Fragestellung…**\n\n- **Offenes Antwortformat (qualitativ):**\n  Die Versuchsperson hat die Möglichkeit, auf eine Frage frei (bspw. ausformulierter Text) zu Antworten.\n\n- **Geschlossenes Antwortformat (quantitativ):**\n  Die Versuchsperson bekommt ein fixes Antwortformat vorgegeben (bspw. Multiple Choice).",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Offenes Antwortformat (qualitativ): freie Antwort, z.B. ausformulierter Text",
+        "Geschlossenes Antwortformat (quantitativ): fixes Antwortformat vorgegeben, z.B. Multiple Choice"
+      ]
+    },
+    {
+      "gidx": 744,
+      "source": "paed-psych p.744",
+      "slide_title": "Der wissenschaftliche Weg zur Erkenntnis – Interview zur Datengewinnung",
+      "type": "inhalt",
+      "notes_md": "## Der wissenschaftliche Weg zur Erkenntnis\n### Interview zur Datengewinnung\n\n**Interviewformen:**\n\n- **Standardisiertes Interview**\n  → Fragenformulierung und Reihenfolge sind vorgegeben.\n\n- **Teilstandardisiertes Interview**\n  → Fragenformulierung ist festgelegt, die Reihenfolge ist variierbar.\n\n- **Nicht-standardisiertes Interview**\n  → Fragenformulierung und Reihenfolge sind nicht vorgegeben.",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Standardisiertes Interview: Fragenformulierung und Reihenfolge sind vorgegeben",
+        "Teilstandardisiertes Interview: Fragenformulierung festgelegt, Reihenfolge variierbar",
+        "Nicht-standardisiertes Interview: Fragenformulierung und Reihenfolge nicht vorgegeben"
+      ]
+    }
+  ]
+}
