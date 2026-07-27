@@ -1,0 +1,187 @@
+{
+  "batch": "95",
+  "pages": [
+    {
+      "gidx": 1129,
+      "source": "paed-psych p.1129",
+      "slide_title": "5. Selbsttest und Tipps zur Burnout-Prävention",
+      "type": "inhalt",
+      "notes_md": "## 5. Selbsttest und Tipps zur Burnout-Prävention\n\nWer versteht, wie Burnout entsteht, erkennt auch, an welchen Stellen sich dieser Prozess unterbrechen und dem Burnout vorbeugen lässt (in der Abbildung durch ein Symbol markiert). **Persönliche Faktoren** sowie **Erholung und Regeneration** können beeinflusst werden. Natürlich auch die **Arbeitsplatzfaktoren** – sei es durch verbessertes Pausenmanagement oder durch Mitarbeitergespräche. Dabei besprechen Arbeitgeber und Arbeitnehmer gemeinsam belastende Situationen und Möglichkeiten zur Durchführung von Präventionsmaßnahmen.\n\nPrävention und frühzeitiges Handeln stellen die besten Methoden dar, um Burnout vorzubeugen bzw. mit Burnout umzugehen. Sinkt die Arbeitsleistung bereits deutlich oder liegt eine stressbedingte Arbeitsunfähigkeit vor, ist eine gründliche ärztliche Untersuchung notwendig. Ein Gesundheitscheck klärt, ob sich eventuell bereits bestimmte Erkrankungen entwickelt haben. Notwendige medikamentöse, psychotherapeutische oder andere Maßnahmen werden dann in der Regel sofort vom Arzt eingeleitet. Grundsätzlich gilt: **je früher man handelt, desto besser**.\n\nZitat (Marianne T. aus E.): „Vor einigen Wochen habe ich einen Bekannten getroffen, der selbständig ist und 20 Mitarbeiter hat. Wir haben uns allgemein unterhalten, sind dann aber auch auf mein Burnout zu sprechen gekommen. Er hat gefragt, was er tun und wie er es frühzeitig erkennen kann. Ich habe geantwortet: Die Arbeit darf nicht zum Mittelpunkt des Lebens werden. Menschen brauchen Auszeiten. Sie müssen mit dem Gefühl nach Hause gehen, dass sie ihre Arbeit für heute geschafft haben.“",
+      "figures": [
+        {
+          "caption": "Entstehung und Unterbrechung des Burnout-Prozesses",
+          "shows": "Flussdiagramm: Persönliche Faktoren und Arbeitsplatzfaktoren führen zu Stress und Überforderung; richtiger Umgang führt zu Erholung und Regeneration, falscher Umgang zu Burnout. Beeinflussbare Stellen sind markiert.",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [17, 18, 21],
+      "key_facts": [
+        "Burnout-Prozess lässt sich an mehreren Stellen unterbrechen: persönliche Faktoren, Erholung/Regeneration und Arbeitsplatzfaktoren sind beeinflussbar.",
+        "Prävention und frühzeitiges Handeln sind die besten Methoden gegen Burnout.",
+        "Bei sinkender Arbeitsleistung oder stressbedingter Arbeitsunfähigkeit ist ein ärztlicher Gesundheitscheck erforderlich."
+      ]
+    },
+    {
+      "gidx": 1130,
+      "source": "paed-psych p.1130",
+      "slide_title": "5.1. Stress erkennen und Ausgleich schaffen",
+      "type": "inhalt",
+      "notes_md": "## 5.1. Stress erkennen und Ausgleich schaffen\n\nUm möglichst frühzeitig richtig auf Stress zu reagieren, muss man zunächst die **persönlichen Symptome** kennen und wissen, wann Stress überhaupt auftritt. Viele erkennen zwar ihre Stresssituation, können sie aber trotzdem nicht reduzieren. Deshalb sollte man nach den **individuellen Stressursachen** suchen. Diese unterscheiden sich stark von Mensch zu Mensch, bilden aber die Grundlage für eine effektive Behandlung. Prüfen: Was verursacht genau Stress? Anschließend fragen, was man ändern kann und wie ein nützlicher Ausgleich aussieht – oft reichen einfache und aktive Handlungen aus.\n\nBesonders Aktivitäten, die zu den Tätigkeiten am Arbeitsplatz einen **Gegenpart** darstellen, helfen, die Auswirkungen von Stress auszugleichen:\n- Bei überwiegend sitzenden Bürotätigkeiten: körperliche Bewegung wie Sport oder Spazierengehen.\n- Entspannungsübungen unterstützen bei geistig anstrengenden Arbeiten.\n- Wegen der höchst individuellen Anforderungen und Stressbelastungen sollte die persönliche Strategie Schritt für Schritt entwickelt werden.\n\n### Testen Sie selbst\n**Vorbereitung:** Ruhigen Moment wählen; Stift und Papier zurechtlegen, um Antworten zu notieren.\n- Frage 1: Wie gestresst sind Sie?\n- Frage 2: Haben Sie genügend Zeit und Raum zur Erholung?\n- Frage 3: Was stresste Sie zuletzt am meisten?\n- Frage 4: Welche Bedingungen können Sie verändern, damit Sie sich wohl fühlen?\n\n**Nachbereitung:** Beantwortung der Fragen regelmäßig wiederholen und Notizen vergleichen (Was hat sich verändert? Was tut Ihnen gut?). Erkenntnisse in die Tat umsetzen.",
+      "figures": [],
+      "eingrenzung_hits": [17, 18],
+      "key_facts": [
+        "Individuelle Stressursachen unterscheiden sich stark von Mensch zu Mensch und sind Grundlage effektiver Behandlung.",
+        "Ausgleich schaffen Aktivitäten, die einen Gegenpart zur Arbeitstätigkeit bilden (z. B. Bewegung bei sitzender Bürotätigkeit, Entspannungsübungen bei geistiger Arbeit).",
+        "Selbsttest mit 4 Fragen zu Stress, Erholung, Stressquellen und veränderbaren Bedingungen."
+      ]
+    },
+    {
+      "gidx": 1131,
+      "source": "paed-psych p.1131",
+      "slide_title": "5.2. Die Rolle von Entspannung",
+      "type": "inhalt",
+      "notes_md": "## 5.2. Die Rolle von Entspannung\n\nEntspannung sollte im Alltag eine wichtige Rolle einnehmen. Sie steigert das **Wohlbefinden** und die **Lebensqualität** und dient zur Erholung nach einem stressigen Arbeitstag. Jeder Mensch hat individuelle Vorlieben, sich zu entspannen; dazu gehören zum Beispiel Lesen, in der Sonne liegen, Musik hören, ein Instrument spielen oder Sport.\n\nIm Bereich der **Gesundheitsförderung und Prävention** gehören **autogenes Training** und **progressive Muskelentspannung** zu den bekanntesten und wirksamsten Entspannungsverfahren. Beide Verfahren werden erfolgreich z. B. bei Stress, Schlafstörungen, Bluthochdruck und Spannungskopfschmerzen eingesetzt.\n\nDas Anwenden von Entspannungstechniken führt zu **körperlichem und gedanklichem Spannungsabbau**. Bei regelmäßigem Üben erreicht man Entspannung nach stressigen Ereignissen auch kurzfristig und in nahezu allen Situationen. Außerdem führt das regelmäßige Durchführen dieser Verfahren zu einer allgemein höheren geistigen und körperlichen Frische.\n\n### Testen Sie selbst\nEntspannung ist von zentraler Bedeutung, damit sich der Körper erholen kann. Folgende Schritte dienen als Hilfestellung:\n- **Schritt 1:** Frage stellen: „Was benötigen Sie, um sich gut zu entspannen?“ Antworten schriftlich festhalten und Inhalte täglich in den Alltag integrieren.\n- **Schritt 2:** Regelmäßige Erholungsphasen einplanen – am besten mehrmals täglich kurze Einheiten.\n- **Schritt 3:** Ein systematisches Entspannungsverfahren unter qualifizierter Anleitung erlernen (z. B. autogenes Training) – vielleicht sogar gemeinsam mit Familie oder Freunden.",
+      "figures": [],
+      "eingrenzung_hits": [18, 21],
+      "key_facts": [
+        "Autogenes Training und progressive Muskelentspannung sind die bekanntesten und wirksamsten Entspannungsverfahren.",
+        "Einsatzgebiete: Stress, Schlafstörungen, Bluthochdruck, Spannungskopfschmerzen.",
+        "Entspannungstechniken bewirken körperlichen und gedanklichen Spannungsabbau und höhere geistige/körperliche Frische."
+      ]
+    },
+    {
+      "gidx": 1132,
+      "source": "paed-psych p.1132",
+      "slide_title": "5.3. Wie viele „Jobs“ haben Sie eigentlich?",
+      "type": "inhalt",
+      "notes_md": "## 5.3. Wie viele „Jobs“ haben Sie eigentlich?\n\nJeder Mensch übernimmt in seinem Alltag verschiedene **Rollen**. Etlichen offensichtlichen ist man sich bewusst, andere werden einem erst beim Nachdenken klar. Zu den verschiedenen Rollen zählen beispielsweise die Mutter- oder Vaterrolle, die als Partner(in) oder die als Arbeitnehmer. **Unbewusste Rollen** übernehmen wir u. a. zu Hause als zuständiger Koch, als Vermittler zwischen Konfliktparteien, als ehrenamtlicher Helfer, als Lehrer (Einarbeitung eines neuen Angestellten) oder als Lehrling (bei Antritt einer neuen Stelle). Diese Liste unterscheidet sich von Person zu Person. Man sollte die einzelnen „Jobs“ kennen, weil jeweils viele verschiedene Aufgaben und Pflichten damit zusammenhängen. Deren Erledigung benötigt immer **Zeit und Energie**.\n\n**Zwischen fünf bis maximal neun Rollen** können im Alltag allgemein gut gemeistert werden. Die Zahl variiert je nach Person und deren differenzierter Unterteilung. Wichtig:\n- Denjenigen Rollen, die persönlich wichtig sind, genügend Raum geben.\n- Rollen, die nicht unbedingt notwendig und persönlich eher weniger wichtig sind, dürfen vernachlässigt werden.\n- Insbesondere auf die Rolle **„ich selbst“** achten: Viele stressgeplagte Personen vernachlässigen diese – dabei ist sie häufig eine der wenigen Rollen, die nicht nur Energie rauben, sondern bei der **Regeneration** helfen.\n\n### Testen Sie selbst\n**Vorbereitung:** Ruhigen Moment wählen, Stift und Papier zurechtlegen.\n- Frage 1: Welche Rollen haben Sie?\n- Frage 2: Welche sind die wichtigsten Rollen?\n- Frage 3: Wieviel Prozent Ihrer Zeit sollte die jeweilige Rolle etwa einnehmen?\n- Frage 4: Wieviel Zeit benötigen die jeweiligen Rollen tatsächlich? (Am besten über ein bis zwei Wochen beobachten.)\n- Frage 5: Stimmt Ihre geplante und tatsächliche Rollenverteilung überein? – Falls ja: Herzlichen Glückwunsch, das gelingt nur Wenigen! – Falls nein: Überlegen, wie man den persönlich wichtigen Rollen Stück für Stück mehr Raum geben kann.\n\n**Nachbereitung:** Beantwortung regelmäßig wiederholen und Notizen vergleichen (Was hat sich verändert? Was tut Ihnen gut?). Erkenntnisse in die Tat umsetzen.",
+      "figures": [],
+      "eingrenzung_hits": [17, 18],
+      "key_facts": [
+        "Menschen übernehmen im Alltag bewusste und unbewusste Rollen, die Zeit und Energie kosten.",
+        "Fünf bis maximal neun Rollen können im Alltag gut gemeistert werden.",
+        "Die Rolle „ich selbst“ wird oft vernachlässigt, ist aber wichtig für die Regeneration."
+      ]
+    },
+    {
+      "gidx": 1133,
+      "source": "paed-psych p.1133",
+      "slide_title": "5.4. Alles Einstellungssache?",
+      "type": "inhalt",
+      "notes_md": "## 5.4. Alles Einstellungssache?\n\nSchon im 19. Jahrhundert wurden Menschen wegen ihrer hektischen und übermäßig von Technologie bestimmten Lebensweise krank. Man braucht also heute auch nicht anzunehmen, dass sich die äußeren Bedingungen bald ändern oder der Stress verschwindet. Der **Stressreport des Bundesarbeitsministeriums** bestätigt: **Multitasking, Termin- und Leistungsdruck** haben in den letzten Jahren zugenommen.\n\nStress selbst ist **keine Einstellungssache**. Er wird jedoch durch die Art und Weise unserer **Wahrnehmung** und unseres **Umgangs mit Belastungen** zu einer solchen. Insbesondere spielen einerseits **erlernte** und andererseits täglich durch andere **geprägte Einstellungen und Ansprüche** eine Rolle. Hierdurch entstehen häufig **unbewusste Erwartungen als Stressverstärker**. Typisch sind z. B.:\n- nicht „nein“ sagen können,\n- Erwartungen, es allen recht zu machen,\n- alles perfekt oder besonders schnell erledigen zu wollen.\n\nZitat (Evelin J. aus L.): „Ich bin einfach nur noch unzufrieden und früher haben mir die Überstunden nie so viel ausgemacht. Aber da gab es auch noch ruhige Phasen, wo man die mal wieder etwas abbauen konnte und öfter frei hatte. Inzwischen bekomme ich öfter welche ausgezahlt, aber ich brauche auch mal wieder Zeit für mein Privatleben... denn ich arbeite eigentlich, um zu leben und nicht umgekehrt.“",
+      "figures": [],
+      "eingrenzung_hits": [17, 18],
+      "key_facts": [
+        "Stressreport des Bundesarbeitsministeriums: Multitasking, Termin- und Leistungsdruck haben zugenommen.",
+        "Stress ist keine Einstellungssache, wird aber durch Wahrnehmung und Umgang mit Belastungen dazu.",
+        "Unbewusste Erwartungen (nicht nein sagen können, Perfektionismus, es allen recht machen) wirken als Stressverstärker."
+      ]
+    },
+    {
+      "gidx": 1134,
+      "source": "paed-psych p.1134",
+      "slide_title": "5.4. Alles Einstellungssache? (Fortsetzung) – Selbsttest Stressverarbeitung",
+      "type": "inhalt",
+      "notes_md": "Falls man sich in einer dieser Darstellungen wiederfindet, bedeutet dies nicht, dass die Einstellungen „falsch“ wären. Man muss sich nur darüber im Klaren sein, dass die Vorstellungen nicht immer erfüllbar sind und zur **Überschreitung der persönlichen Leistungsgrenze** führen können. Häufig gibt es mehrere Möglichkeiten, eine Situation zu bewältigen. Ziel: Verhaltensweisen und Einstellungen finden, die zu einem **gesunden Maß an Stress** führen.\n\n### Testen Sie selbst\nRuhigen Moment wählen. Reflektieren kann bei der Stressverarbeitung helfen; die folgende Vorgehensweise soll Denkanstöße geben:\n- **Schritt 1:** An typische Stresssituationen denken. Am besten über eine Woche alle Stresssituationen aufschreiben, in die man geraten ist.\n- **Schritt 2:** Reaktionen auf diese Situationen notieren: Wie verhielt man sich? Welches Gefühl hatte man dabei? Was war der Auslöser? Bewegten einen bestimmte Gedanken?\n- **Schritt 3:** Sobald man etwas Abstand zur Situation hat, überlegen, welche Reaktionen unangenehm oder verbesserungswürdig waren.\n- **Schritt 4:** Überlegen, welche anderen Gedanken oder Verhaltensweisen realisierbar wären. Wie ginge es einem langfristig besser in solchen Situationen? Tipp: Da das auf Anhieb häufig etwas schwierig ist, sollte man darüber nachdenken, wie sich ein guter Freund oder auch ein Vorbild in selbiger Situation verhalten hätte.",
+      "figures": [],
+      "eingrenzung_hits": [18],
+      "key_facts": [
+        "Unerfüllbare Vorstellungen können zur Überschreitung der persönlichen Leistungsgrenze führen.",
+        "4-Schritte-Reflexion: Stresssituationen aufschreiben, Reaktionen notieren, unangenehme Reaktionen identifizieren, alternative Verhaltensweisen überlegen.",
+        "Ziel ist ein gesundes Maß an Stress, nicht die „richtige“ Einstellung."
+      ]
+    },
+    {
+      "gidx": 1135,
+      "source": "paed-psych p.1135",
+      "slide_title": "5.5. Welche Hilfen stehen zur Verfügung?",
+      "type": "inhalt",
+      "notes_md": "## 5.5. Welche Hilfen stehen zur Verfügung?\n\nDer freie Markt bietet je nach persönlichem Bedarf die unterschiedlichsten Angebote zur Stressbewältigung und/oder einer gesunden Lebensweise an. Das sind u. a.:\n- Bewegungs- und Sportangebote,\n- Fortbildungen zu Kommunikation und Konflikten,\n- Hilfen bei der Bewältigung von Sorgen oder Schlafproblemen,\n- spezielle achtsamkeitsbasierte Coachings,\n- **Biofeedback**,\n- Genusstrainings zur Stressreduktion.\n\nSelbst Krankenkassen gewähren Zuschüsse für einige Präventionskurse, wie z. B. Stressmanagement- und systematische Entspannungs-Trainings.\n\n### Definition: Biofeedback\nUnter **Biofeedback** (altgriech. „bios“ bezieht sich auf „Leben“, engl. „Feedback“ bedeutet Rückmeldung) versteht man die **Rückkopplung innerhalb eines Regelkreises biologischer Systeme**.\n\nFolglich stellt die Biofeedback-Therapie eine Methode dar, **unbewusste Körperfunktionen sicht- oder hörbar zu machen**. Ziel dieses Verfahrens ist die wachsende **Kontrolle über die Körperfunktionen**, wie z. B. Herzschlag, Blutdruck oder Verdauung, um somit das körperliche und seelische Wohlbefinden bei Erkrankungen zu fördern.\n\nAußerdem werben viele Dienstleister mit entsprechenden Angeboten. Vorher über deren ausreichende **Qualifikation oder Ausbildung** informieren. Informationen dazu finden sich bei den meisten Krankenkassen.\n\nFühlt man sich aufgrund der Symptome bereits nicht mehr arbeitsfähig oder krank und ist der Meinung, Präventionsmaßnahmen helfen nicht mehr, sollte man unverzüglich den Arzt des Vertrauens aufsuchen. Die Merkmale von Burnout und psychischen Erkrankungen sind in jedem Fall ernst zu nehmen. Mit dem Arzt über Anzeichen und Veränderungen sprechen und alles aufzählen, was mit Burnout oder Stress in Zusammenhang steht, wie beispielsweise:\n- Schlafstörungen,\n- Niedergeschlagenheit,\n- Verdauungsbeschwerden,\n- zunehmende Kopfschmerzen,\n- sozialer Rückzug,\n- Reizbarkeit.\n\nDer Arzt informiert über weitergehende Behandlungen, z. B. bei psychologischen oder ärztlichen Psychotherapeuten oder auch in psychosomatischen, psychiatrischen oder rehabilitativen Kliniken.",
+      "figures": [],
+      "eingrenzung_hits": [18, 21],
+      "key_facts": [
+        "Biofeedback = Rückkopplung innerhalb eines Regelkreises biologischer Systeme; macht unbewusste Körperfunktionen (Herzschlag, Blutdruck, Verdauung) sicht-/hörbar.",
+        "Krankenkassen bezuschussen Präventionskurse wie Stressmanagement und Entspannungs-Trainings.",
+        "Warnzeichen, mit denen man zum Arzt sollte: Schlafstörungen, Niedergeschlagenheit, Verdauungsbeschwerden, Kopfschmerzen, sozialer Rückzug, Reizbarkeit."
+      ]
+    },
+    {
+      "gidx": 1136,
+      "source": "paed-psych p.1136",
+      "slide_title": "5.6. Was sagt der Gesetzgeber?",
+      "type": "inhalt",
+      "notes_md": "## 5.6. Was sagt der Gesetzgeber?\n\n### Prävention\n- Der Arbeitgeber ist gesetzlich verpflichtet, frühzeitig Maßnahmen zu ergreifen, um chronischen Erkrankungen vorzubeugen (**§ 84 SGB IX**).\n- Bei der Beurteilung möglicher Gefährdungen sind explizit auch **psychische Belastungen** einbezogen (**§ 5 ArbSchG**).\n- Arbeitnehmer dürfen Arbeitgebern eigene Vorschläge zum Gesundheitsschutz machen (**§ 17 ArbSchG**).\n- Zur Prävention stehen dem Arbeitgeber auch **steuerlich finanzierte Maßnahmen der betrieblichen Gesundheitsförderung** zur Verfügung (**§ 3 EStG**). Hierzu gehören beispielsweise Angebote für Bewegung, Ernährung, Suchtprävention und Stressbewältigung.\n- Unterstützung erhalten die Betriebe auch von den Krankenkassen. Diese helfen bei der Risikobeurteilung und bei Veränderungen.\n- Zusätzlich fördern die Krankenkassen weitere Präventions- und Selbsthilfeangebote (**§ 20 SGB V**). Als Arbeitnehmer sollte man den Arbeitgeber nach Angeboten der betrieblichen Gesundheitsförderung fragen und ihn frühzeitig informieren, wenn der Arbeitsplatz gesundheitliche Beeinträchtigungen hervorruft. **Prävention lohnt sich für Arbeitgeber und Arbeitnehmer gleichermaßen!**\n\n### Arbeitsunfähigkeit\n- Kann der Arbeitnehmer aus gesundheitlichen Gründen seine Arbeit nicht ausüben, liegt eine **Arbeitsunfähigkeit** vor. Dabei spielt es keine Rolle, ob die Arbeitsunfähigkeit wegen körperlicher oder psychischer Erkrankungen eintrat.\n- Liegt eine Erkrankung vor, zahlt zunächst der Arbeitgeber **sechs Wochen** lang das Arbeitsentgelt (**§ 3 EntgFG**). Anschließend übernehmen die gesetzlichen Krankenversicherungen das **Krankengeld** (**§§ 44ff. SGB VI**).\n- Dauert die Arbeitsunfähigkeit länger als sechs Wochen an, muss der Arbeitgeber eine **betriebliche Eingliederungshilfe** leisten (**§ 84 SGB IX**).\n- In der Zeit der beruflichen Rehabilitation nach einer Erkrankung kommt die gesetzliche Rentenversicherung für ein **Übergangsgeld** sowie weitere Leistungen auf, die den Wiedereinstieg ins Erwerbsleben fördern (**§§ 20f. SGB VI und 44ff. SGB IX**).\n- Das Kranken- und Übergangsgeld umfasst etwa **70 Prozent des Brutto-Arbeitslohns**. Privat Versicherte sollten sich über Krankenzusatzversicherungen und Krankentagegelder informieren, um finanzielle Einbußen während Krankheitsphasen auszugleichen.",
+      "figures": [],
+      "eingrenzung_hits": [28],
+      "key_facts": [
+        "§ 84 SGB IX: Arbeitgeber muss chronischen Erkrankungen vorbeugen; § 5 ArbSchG bezieht psychische Belastungen explizit ein.",
+        "Bei Arbeitsunfähigkeit: 6 Wochen Lohnfortzahlung durch Arbeitgeber (§ 3 EntgFG), danach Krankengeld der Krankenversicherung.",
+        "Kranken- und Übergangsgeld betragen etwa 70 Prozent des Brutto-Arbeitslohns."
+      ]
+    },
+    {
+      "gidx": 1137,
+      "source": "paed-psych p.1137",
+      "slide_title": "Berufsunfähigkeit",
+      "type": "inhalt",
+      "notes_md": "## Berufsunfähigkeit\n\nLiegt **Berufsunfähigkeit** z. B. aufgrund einer Erkrankung dauerhaft vor, erhalten Betroffene eine **Berufsunfähigkeits- bzw. Erwerbsminderungsrente** von der gesetzlichen Rentenversicherung (**§ 43f SGB VI**). Allerdings stellt die Leistung nur eine grundlegende Unterstützung dar und umfasst bei vollständiger Erwerbsminderung etwa **30 Prozent des Brutto-Arbeitsentgelts**. Daher sollten sowohl Prävention als auch die finanzielle Vorsorge einen großen Stellenwert einnehmen. Informationen über entsprechende Berufsunfähigkeitsversicherungen einholen, um sich ausreichend abzusichern.\n\nBeim Abschluss einer Berufsunfähigkeitsversicherung unbedingt darauf achten, dass der Leistungsanspruch auch im Falle einer **psychischen Erkrankung** gewährt wird. Vorsorge ist besonders wichtig für Personen, die Burnout-gefährdet sind. Denn ca. **40 Prozent der Frühberentungen** haben psychische Ursachen, wobei das Durchschnittsalter **49 Jahre** beträgt. Besonders gefährdete Berufsgruppen finden sich in sozialen oder gesundheitlichen Arbeitsbereichen, wie z. B. **Ärzte und Krankenschwestern**, aber auch **Lehrerberufe** sowie **Führungskräfte**, wie z. B. Manager, sind verstärkt betroffen.",
+      "figures": [],
+      "eingrenzung_hits": [28],
+      "key_facts": [
+        "Erwerbsminderungsrente (§ 43f SGB VI) umfasst bei vollständiger Erwerbsminderung nur ca. 30 % des Brutto-Arbeitsentgelts.",
+        "Ca. 40 % der Frühberentungen haben psychische Ursachen; Durchschnittsalter 49 Jahre.",
+        "Besonders gefährdete Berufsgruppen: Ärzte, Krankenschwestern, Lehrer, Führungskräfte/Manager."
+      ]
+    },
+    {
+      "gidx": 1138,
+      "source": "paed-psych p.1138",
+      "slide_title": "6. Burnout: Wie kann das Umfeld helfen? – 6.1. Wie können Arbeitgeber helfen?",
+      "type": "inhalt",
+      "notes_md": "# 6. Burnout: Wie kann das Umfeld helfen?\n\n## 6.1. Wie können Arbeitgeber helfen?\n\nAls Arbeitgeber steht eine ganze Reihe an Mitteln zur Verfügung, um **gesunde Arbeitsbedingungen** zu schaffen. Beginnend mit **moderaten Arbeitsanforderungen**, über genügend **Gestaltungsfreiraum** für die Mitarbeiter sowie **Unterstützung und Anerkennung** gibt es viele weitere Möglichkeiten zur Hilfe. Natürlich sollen nicht viel Lohn und Lob bei gleichsam geringen Anforderungen und Leistungen der Mitarbeiter eingefordert werden. Vielmehr geht es darum, ein **gesundes Gleichgewicht zwischen beiden Seiten** zu finden. Dazu ist eine **Unternehmenskultur** wichtig, die Wert auf gesunde Arbeitsbedingungen legt und im Austausch mit den Mitarbeitern steht.\n\nZitat (Markus P. aus B.): „Aber mein Mitarbeiter ist nicht nur aufgrund des Jobs krank, sondern wahrscheinlich durch das Zusammentreffen einer Vielzahl von Aspekten und Lebensumständen.“\n\nInteressant hierbei: **Motivations- und gesundheitsfördernde Bedingungen sind nahezu identisch.** Die meisten Arbeitnehmer möchten gute Arbeit leisten, da dies Anerkennung und Zufriedenheit bringt. Nachfragen, was dafür vonnöten ist, welche Hindernisse existieren und wo Nachholbedarf besteht. Bei einigen fehlt eine Hilfe für einen **ergonomischen Arbeitsplatz**, andere brauchen mehr oder klarere Informationen oder **flexiblere Arbeitszeiten**, um sich voll und ganz auf die Arbeit konzentrieren zu können. Um wirklich herauszufinden, was fehlt, hilft manchmal eine **anonyme Mitarbeiterbefragung** oder externe Unterstützung.",
+      "figures": [
+        {
+          "caption": "Wenn am Arbeitsplatz das Verhältnis von Anerkennung und Unterstützung gegenüber Aufwand und Geleistetem um ein Vielfaches kleiner ist, kippt das Gleichgewicht zum Negativen. Motivation geht verloren, Mitarbeiter wirken erschöpft oder nehmen gesundheitlichen Schaden. Empfehlenswert ist eine 3:1-Aufteilung, hier mithilfe einer Figur verdeutlicht.",
+          "shows": "Waage: Auf der einen Seite „Anerkennung, Freiraum, Unterstützung“ (mehrere Figuren), auf der anderen Seite „Aufwand, Geleistetes“ (eine Figur) mit Pfeil nach unten „Stressige Arbeit“ – das Ungleichgewicht kippt zugunsten der Belastung.",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [28],
+      "key_facts": [
+        "Arbeitgeber können Burnout durch moderate Anforderungen, Gestaltungsfreiraum, Unterstützung und Anerkennung vorbeugen.",
+        "Motivations- und gesundheitsfördernde Arbeitsbedingungen sind nahezu identisch.",
+        "Empfohlenes Verhältnis von Anerkennung/Unterstützung zu Aufwand/Geleistetem: 3:1; sonst kippt das Gleichgewicht (Gratifikationskrise)."
+      ]
+    },
+    {
+      "gidx": 1139,
+      "source": "paed-psych p.1139",
+      "slide_title": "6. Burnout: Wie kann das Umfeld helfen? – Orientierungsmöglichkeiten für Arbeitgeber",
+      "type": "inhalt",
+      "notes_md": "Wissenschaftliche Untersuchungen zeigen wertvolle **Orientierungsmöglichkeiten für Arbeitgeber** auf, die zu einer gesunden und motivationsfördernden Arbeit führen und helfen, Burnout zu vermeiden:\n\n### Flexible Arbeitszeiten\nSie stellen sicher, dass berufliche mit privaten Bedürfnissen vereinbar sind. Die Arbeitszeit stellt eine wichtige Voraussetzung für gute Arbeit dar. Je nach Persönlichkeit der Arbeitnehmer und Bedürfnissen des Arbeitgebers sollte eine **Kernarbeitszeit** gewählt werden.\n\n### Gestaltungsfreiraum\n**Autonomie und Kontrolle über Arbeitsbedingungen** für Mitarbeiter stellen eine einfache, aber oft übersehene Möglichkeit dar, Stress erfolgreich zu mildern. Gestaltungsfreiraum kann flexible Arbeitszeiten beinhalten, ebenso die Wahl, wie und wann die Beschäftigten Aufgaben erledigen, oder die Schaffung eines ausreichenden Spielraums für verschiedene Tätigkeiten.\n\n### Moderate Arbeitsdauer\nForschungen belegen, dass **regelmäßige Überstunden zu Erkrankungen führen**. Also auf moderate Arbeitszeiten achten. Wenn es nicht anders geht, den Mitarbeitern einen relativ großen Gestaltungsfreiraum als Puffer gewähren. Derzeit sollen in Schweden Modellversuche herausfinden, ob eine deutlich verkürzte Arbeitszeit mit einer **35-Stunden-Woche** die Produktivität steigert.\n\n### Regelmäßige Pausen\nNeben den gesetzlich vorgeschriebenen Arbeitspausen haben zusätzliche, kurze Ruhezeiten einen positiven Einfluss auf die Gesundheit. Mitarbeiter darin fördern, regelmäßig kurze, aktive Unterbrechungen einzulegen, damit die **Konzentrationsleistung** aufrechterhalten wird. Kurze Bewegungs-, Geh-, Entspannungs- oder „Apfelpausen“ anbieten.\n\n### Anerkennung und Be-/Entlohnung\nUntersuchungen stellten fest, dass **mangelnde Anerkennung** geleisteter Arbeit zu Stress führt. Daher nicht nur eine angemessene Entlohnung anbieten, sondern Leistungen auch im persönlichen Kontakt anerkennen. **Angemessenes Lob** sollte zur Unternehmenskultur gehören.\n\n### Sinnvolle Tätigkeiten\nIrrelevant erlebte Arbeit wirkt **demotivierend** und kann auf Dauer zu Stress führen. Daher Mitarbeiter mit einer Reihe von Tätigkeiten betrauen, die wichtig für das Unternehmen sind und für die auch entsprechend Anerkennung ausgesprochen wird.",
+      "figures": [],
+      "eingrenzung_hits": [28],
+      "key_facts": [
+        "Sechs arbeitsplatzgestalterische Maßnahmen: flexible Arbeitszeiten, Gestaltungsfreiraum, moderate Arbeitsdauer, regelmäßige Pausen, Anerkennung/Entlohnung, sinnvolle Tätigkeiten.",
+        "Regelmäßige Überstunden führen nachweislich zu Erkrankungen.",
+        "Mangelnde Anerkennung und irrelevant erlebte Arbeit führen zu Stress und Demotivation."
+      ]
+    },
+    {
+      "gidx": 1140,
+      "source": "paed-psych p.1140",
+      "slide_title": "6. Burnout: Wie kann das Umfeld helfen? – Unterstützung, Fortbildungen, Anlaufstellen",
+      "type": "inhalt",
+      "notes_md": "### Unterstützung\nSchwierige oder stressige Situationen gehören zum Arbeitsalltag dazu. Um nicht unnötig Stress aufkommen zu lassen, sollten Arbeitgeber ihren Mitarbeitern bei Bedarf einfach und selbstverständlich **inhaltliche, technische oder manchmal auch emotionale Unterstützung** geben.\n\n### Gesundheitsrelevante Fortbildungen\nMitarbeitern die Möglichkeit der Fortbildung zu Themen wie **Stress, Entspannung, Ernährung, Bewegung, Kommunikation, Konflikten oder Zeitgestaltung** anbieten. Wissen ist der erste Schritt, Verhalten und Gewohnheiten überhaupt ändern zu können.\n\n### Tätigkeitsrelevante Fortbildungen\nStress kann entstehen, wenn die **persönlichen Fähigkeiten nicht zu den gestellten Anforderungen** passen. Hier sind entsprechende Fortbildungen oder auch ein **Arbeitsplatztausch** hilfreich und ein Zeichen von Unterstützung.\n\n### Anlaufstellen\nInterne oder externe **Anlaufstellen** für Fragen zu psychischen Belastungen, gesunder Arbeit oder Konflikten ausweisen. Darüber können Mitarbeiter sich dann ggf. informieren, einen Gesundheitscheck durchführen, Feedback einholen oder sogar **Supervision** in Anspruch nehmen. Die Angestellten sollten wissen, wer für sie im Falle von Überlastung zuständig ist.",
+      "figures": [],
+      "eingrenzung_hits": [28],
+      "key_facts": [
+        "Unterstützung durch Arbeitgeber kann inhaltlich, technisch oder emotional sein.",
+        "Gesundheitsrelevante Fortbildungen: Stress, Entspannung, Ernährung, Bewegung, Kommunikation, Konflikte, Zeitgestaltung.",
+        "Passungsproblem zwischen Fähigkeiten und Anforderungen erzeugt Stress – Fortbildungen oder Arbeitsplatztausch helfen; Anlaufstellen und Supervision anbieten."
+      ]
+    }
+  ]
+}
