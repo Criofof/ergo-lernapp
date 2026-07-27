@@ -1,0 +1,196 @@
+{
+  "batch": "78",
+  "pages": [
+    {
+      "gidx": 925,
+      "source": "paed-psych p.925",
+      "slide_title": "Intelligenzentwicklung — Theorie der kognitiven Entwicklung nach Jean Piaget (1896–1980)",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\n**Theorie der kog. Entwicklung nach Jean Piaget (1896 – 1980)**\n\n*Piaget als Vertreter des Konstruktivismus:*\n\n- Kinder nehmen nicht nur passiv ihre Umwelt wahr, sondern **konstruieren** sich teilweise ihre Weltsicht auf der Basis bereits erworbener Denkstrukturen in einem aktiven Prozess der Auseinandersetzung mit der Umwelt.",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Jean Piaget (1896–1980): Theorie der kognitiven Entwicklung",
+        "Piaget ist Vertreter des Konstruktivismus",
+        "Kinder konstruieren ihre Weltsicht aktiv auf Basis bereits erworbener Denkstrukturen"
+      ]
+    },
+    {
+      "gidx": 926,
+      "source": "paed-psych p.926",
+      "slide_title": "Intelligenzentwicklung — Stadienmodell der geistigen Entwicklung nach Piaget",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\n**Stadienmodell der geistigen Entwicklung nach Piaget:**\n\n- Versuch: typischen Denkfehlern bei Kindern → kognitive Entwicklung nicht nur **quantitative**, sondern auch **qualitative Veränderung** des kindlichen Lernens\n- Entwicklung komplexerer Organisationen aus weniger komplexen Strukturen.\n- Annahme: **Entwicklung in Stufen**\n  - wobei ein Stadium auf das andere aufbaut\n  - Erst wenn ein Stadium beendet ist, hat das Kind die nötigen Voraussetzungen erworben, um das nächste Stadium zu durchlaufen\n  - Zeichnen sich durch spezifische Strukturen des Denkens aus\n\n*Die Altersangaben zum jeweiligen Stadium sind zwar Durchschnittswerte und können variieren, die Stadien aber folgen in jedem Fall in einer bestimmten Reihenfolge aufeinander, es kann also kein Stadium übersprungen werden.*",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Kognitive Entwicklung ist nicht nur quantitative, sondern auch qualitative Veränderung des kindlichen Lernens",
+        "Entwicklung verläuft in Stufen; ein Stadium baut auf das andere auf",
+        "Stadien folgen in fester Reihenfolge aufeinander — kein Stadium kann übersprungen werden",
+        "Altersangaben sind Durchschnittswerte und können variieren"
+      ]
+    },
+    {
+      "gidx": 927,
+      "source": "paed-psych p.927",
+      "slide_title": "Intelligenzentwicklung — Adaption, kognitive Schemata, Assimilation und Akkomodation",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\nWährend des Entwicklungsverlaufs erfolgt eine **Adaption** (Anpassung) des Individuums an seine Umwelt.\n\nKognitive Strukturen sind Voraussetzung und Ergebnis dieser Anpassung.\n\nEine spezifische, verinnerlichte Struktur nennt man **kognitives Schemata**.\n\nSie vollzieht sich in zwei Prozessen:\n\n- **Assimilation** – die neue Information wird erfolgreich in vorhandene Schemata eingefügt.\n- **Akkomodation** – die neue Information passt nicht zu bereits vorhandenen Schemata.",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Adaption = Anpassung des Individuums an seine Umwelt während der Entwicklung",
+        "Kognitive Schemata: spezifische, verinnerlichte Strukturen",
+        "Assimilation: neue Information wird in vorhandene Schemata eingefügt",
+        "Akkomodation: neue Information passt nicht zu bereits vorhandenen Schemata"
+      ]
+    },
+    {
+      "gidx": 928,
+      "source": "paed-psych p.928",
+      "slide_title": "Intelligenzentwicklung — 2 grundlegende Tendenzen (Adaption und Organisation)",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\nStrukturdiagramm **„2 grundlegende Tendenzen“**:\n\n- **Adaption**\n  - Assimilation (Angleichung)\n  - Akkommodation (Anpassung)\n  - **Äquilibration (Gleichgewicht)**\n- **Organisation**",
+      "figures": [
+        {
+          "caption": "Diagramm „2 grundlegende Tendenzen“",
+          "shows": "Hierarchisches Kastendiagramm: 2 grundlegende Tendenzen verzweigen sich in Adaption und Organisation; Adaption verzweigt sich weiter in Assimilation (Angleichung) und Akkommodation (Anpassung), darunter hervorgehoben Äquilibration (Gleichgewicht).",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "2 grundlegende Tendenzen nach Piaget: Adaption und Organisation",
+        "Adaption besteht aus Assimilation (Angleichung) und Akkommodation (Anpassung)",
+        "Äquilibration = Gleichgewicht zwischen Assimilation und Akkommodation"
+      ]
+    },
+    {
+      "gidx": 929,
+      "source": "paed-psych p.929",
+      "slide_title": "Intelligenzentwicklung — Versuchssituation (Foto)",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\nFolie ohne Textinhalt (nur Foto): Eine erwachsene Person und ein Kind sitzen sich an einem runden Tisch gegenüber; auf dem Tisch steht ein dreidimensionales Landschaftsmodell mit Berg — Versuchsanordnung aus der Entwicklungsforschung nach Piaget (Perspektivenübernahme / Egozentrismus, vgl. Drei-Berge-Aufgabe).",
+      "figures": [
+        {
+          "caption": "Versuchssituation mit Kind und Bergmodell",
+          "shows": "Erwachsene und Kind sitzen einander an einem runden Tisch gegenüber, auf dem ein dreidimensionales Modell mit Berg und Landschaft steht (Piaget-Versuch zur Perspektivenübernahme, sog. Drei-Berge-Aufgabe zum Egozentrismus im präoperatorischen Stadium).",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Bildliche Darstellung einer Piaget-Versuchsanordnung: Kind und Versuchsleiterin betrachten ein Landschaftsmodell mit Berg von unterschiedlichen Positionen"
+      ]
+    },
+    {
+      "gidx": 930,
+      "source": "paed-psych p.930",
+      "slide_title": "Intelligenzentwicklung — Sensomotorisches Stadium (0–2 Jahre): Stufen 1–3",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\n**Sensomotorisches Stadium (0–2 Jahre):**\n\n**1. Stufe: Reflexmodifikation**\n\n- angeborene **Reflexe** (z.B. Saugen, Greifen, Schlucken) werden geübt\n- Festigung der gegebenen Schemata und Anpassung an die Umwelt\n\n**2. Stufe: primäre Kreisreaktion**\n\n- Handlungen, die zu angenehmen Ergebnis führen, werden wiederholt\n- erste Gewohnheiten und generalisierende Assimilation (Handlungsschemata werden auf immer mehr Gegenstände und Umweltbereiche angewandt)\n\n**3. Stufe: sekundäre Kreisreaktion**\n\n- Differenzierung von Mittel und Zweck\n- → Erkenntnis: bestimmte Handlung führt immer zu gleichem Ergebnis; Einsetzung der Handlung als Mittel zu einem bestimmten Zweck (z.B. Rassel schütteln, um Geräusch zu erzeugen)",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Sensomotorisches Stadium: 0–2 Jahre",
+        "1. Stufe Reflexmodifikation: angeborene Reflexe (Saugen, Greifen, Schlucken) werden geübt und gefestigt",
+        "2. Stufe primäre Kreisreaktion: Wiederholung angenehmer Handlungen, erste Gewohnheiten, generalisierende Assimilation",
+        "3. Stufe sekundäre Kreisreaktion: Differenzierung von Mittel und Zweck (z.B. Rassel schütteln, um Geräusch zu erzeugen)"
+      ]
+    },
+    {
+      "gidx": 931,
+      "source": "paed-psych p.931",
+      "slide_title": "Intelligenzentwicklung — Sensumotorisches Stadium (0–2 Jahre): Stufen 4–6",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\n**Sensumotorisches Stadium (0–2 Jahre):**\n\n**4. Stufe: Koordinationen der sekundären Verhaltensschemata**\n\n- Koordination von neuen Handlungsschemata und Anwendung auf neue Situationen\n  - → Anwendung mehrerer Handlungsschemata auf den gleichen Gegenstand (aktives Experimentieren)\n  - → Anpassung der Handlung auf den Gegenstand (zum Beispiel Wasser schöpfen, nicht greifen)\n  - → Koordination von zwei oder mehr Handlungsschemata, um Ziel zu erreichen (zum Beispiel zum Mund führen und schlucken)\n\n**5. Stufe: Tertiäre Kreisreaktion**\n\n- Entdeckung weiterer Handlungsschemata durch aktives Experimentieren (z.B. an Tischdecke ziehen, um an Gegenstand zu kommen)\n\n**6. Stufe: Übergang des sensumotorischen Intelligenzakts zur Vorstellung**\n\n- Handlungen können innerlich vollzogen werden und müssen nicht mehr ausprobiert werden, da das Ergebnis vorstellbar ist — Übergang zum Denken\n\nDie sensumotorische Entwicklung geht auch nach dem 2. Lebensjahr noch weiter (zum Beispiel tanzen, Fahrrad fahren), ist dann aber für geistige Entwicklung nicht mehr so grundlegend.",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "4. Stufe: Koordination der sekundären Verhaltensschemata — mehrere Schemata werden kombiniert, um ein Ziel zu erreichen",
+        "5. Stufe tertiäre Kreisreaktion: Entdeckung neuer Handlungsschemata durch aktives Experimentieren (z.B. an Tischdecke ziehen)",
+        "6. Stufe: Übergang zur Vorstellung — Handlungen werden innerlich vollzogen, Übergang zum Denken",
+        "Sensumotorische Entwicklung geht nach dem 2. Lebensjahr weiter, ist dann für die geistige Entwicklung nicht mehr so grundlegend"
+      ]
+    },
+    {
+      "gidx": 932,
+      "source": "paed-psych p.932",
+      "slide_title": "Intelligenzentwicklung — Wichtige Errungenschaften am Ende des sensumotorischen Stadiums",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\n**Wichtige Errungenschaften am Ende dieses Stadiums:**\n\n- Erschließen von zeitlichen Abläufen, Raumvorstellung und Ursache-Wirkung-Zusammenhängen\n- Entwicklung der Darstellungs- und Symbolfunktionen\n- **Objektpermanenz:** Aktives Suchen nach einem versteckten Gegenstand. Begreifen, dass ein Objekt auch dann noch weiter existiert, wenn er nicht mehr zu sehen ist (Voraussetzung: innerliche Präsentation des Gegenstands)\n- **Personenpermanenz:** Aktives Suchen nach vertrauten Personen, die nicht zu sehen sind\n- **Nachahmungsverhalten:** Voraussetzung ist die Verinnerlichung von Handlungen.\n- **Symbolhandlungen:** Aktivitäten, die symbolhafte Darstellungen für Handlungen enthalten (z.B. entsprechende Handbewegung für „Essen“)",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Errungenschaften: zeitliche Abläufe, Raumvorstellung, Ursache-Wirkung-Zusammenhänge, Darstellungs- und Symbolfunktionen",
+        "Objektpermanenz: Objekt existiert weiter, auch wenn es nicht sichtbar ist (aktives Suchen nach verstecktem Gegenstand)",
+        "Personenpermanenz: aktives Suchen nach vertrauten, nicht sichtbaren Personen",
+        "Nachahmungsverhalten setzt Verinnerlichung von Handlungen voraus",
+        "Symbolhandlungen: symbolhafte Darstellungen für Handlungen (z.B. Handbewegung für „Essen“)"
+      ]
+    },
+    {
+      "gidx": 933,
+      "source": "paed-psych p.933",
+      "slide_title": "Intelligenzentwicklung — Das präoperatorische Stadium (ca. 2–7 Jahre)",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\n**Das präoperatorische Stadium (ca. 2–7 Jahre)**\n\n- Umgang mit mentalen Repräsentationen (Worten, Gesten, Vorstellungsbildern),\n- anschauliches Denken in Symbolen und Zeichen.\n- **Egozentrismus:** Unfähigkeit, sich in andere Perspektiven hineinzuversetzen oder die eigene Sichtweise als eine von vielen zu begreifen.\n- **Rigidität des Denkens:** fehlende Beweglichkeit des Denkens, Zentrierung auf einen Aspekt.\n- **prälogisches Schlussfolgern (präkausales Denken):**\n  - mangelndes Ursache-Wirkungs-Verständnis,\n  - Beachtung von Zuständen und nicht von Transformationen,\n- **voreiliges, ungeschicktes Generalisieren:**\n  - **Animismus:** Gegenstände und leblose Körper werden durch Kinder mit dem Leben und Bewusstsein ausgestattet, z.B.: „Er ist böse der Wind, er macht uns Angst“.\n  - **Artifizialismus:** die kindlichen Erklärungsmodelle zum Ursprung der Gestirne, des Himmels etc. „Der Wind bewegt sich, weil die Wolken sich bewegen“.\n  - **Finalismus:** Kinder erklären sich oft Naturgegebenheiten aus dem Zweck, den sie erfüllen, z.B.: „Die Sonne scheint, damit sie uns wärmt“.",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Präoperatorisches Stadium: ca. 2–7 Jahre; Denken in Symbolen und Zeichen, mentale Repräsentationen",
+        "Egozentrismus: Unfähigkeit, andere Perspektiven einzunehmen",
+        "Rigidität des Denkens: Zentrierung auf einen Aspekt",
+        "Prälogisches Schlussfolgern (präkausales Denken): mangelndes Ursache-Wirkungs-Verständnis, Beachtung von Zuständen statt Transformationen",
+        "Animismus: leblose Dinge werden beseelt; Artifizialismus: Naturphänomene als gemacht erklärt; Finalismus: Natur aus Zweck erklärt"
+      ]
+    },
+    {
+      "gidx": 934,
+      "source": "paed-psych p.934",
+      "slide_title": "Intelligenzentwicklung — Beispiel: Umschüttversuch",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\n**Beispiel – Umschüttversuch:**\n\nIn 2 identischen Gefäßen A und B befindet sich die gleiche Menge an Flüssigkeit, was Kinder im präoperatorischen Alter schon bestätigen können. Der Inhalt von Gefäß A wird daraufhin in ein schmaleres, höheres Gefäß C umgegossen.\n\nDie Kinder werden nun aussagen, dass in Gefäß C mehr Flüssigkeit sei, da sie ihre Aufmerksamkeit nur auf die Höhe des Wasserstandes zentrieren und die unterschiedlichen Gefäßdurchmesser ignorieren.\n\nSie sind nicht imstande, in unterschiedlichen Dimensionen zu denken und beachten lediglich die Zustände, nicht die Transformationsvorgänge.",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Umschüttversuch: gleiche Flüssigkeitsmenge in identischen Gefäßen A und B wird von Kindern bestätigt",
+        "Nach Umgießen in schmaleres, höheres Gefäß C behaupten Kinder, C enthalte mehr Flüssigkeit",
+        "Ursache: Zentrierung auf die Höhe des Wasserstandes, Gefäßdurchmesser wird ignoriert",
+        "Kinder im präoperatorischen Alter beachten Zustände, nicht Transformationsvorgänge (fehlende Invarianz/Konservation)"
+      ]
+    },
+    {
+      "gidx": 935,
+      "source": "paed-psych p.935",
+      "slide_title": "Intelligenzentwicklung — Das konkret-operatorische Stadium (ab dem 7. Lebensjahr)",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\n**Das konkret-operatorische Stadium (ab dem 7. Lebensjahr)**\n\nDie mentalen Operationen werden als „konkret“ bezeichnet, weil sie sich auf greifbare Gegenstände und Gedanken über Gegenstände beziehen und nicht auf abstrakte Aussagen oder mögliche zukünftige Zustände oder Ereignisse.\n\n- **Wichtige Errungenschaften am Ende dieses Stadiums:**\n  - die Kinder erreichen **Serriation**, d.h. sie können Elemente bezüglich einer Dimension, z.B. Größe, Form, sortieren.\n  - Es gelingt den Kindern immer besser, die Klassenverschachtelung und Klassenhierarchie zu verstehen und anzuwenden – **Klasseninklusion**.\n  - Die Kinder gewinnen Einsicht in die **Invarianz**. Sie verstehen, dass sich die Objekte in ihrer Anzahl, Länge, Größe und Volumen durch Änderung der äußeren Anordnung nicht verändern.\n- **Weitere Fähigkeiten:**\n  - Das Kind kann jetzt über Dinge reden, die der andere Zuhörer nicht sieht.\n  - Das Kind kann die Perspektive von anderen übernehmen.\n  - Das Kind begreift, dass Menschen anders handeln können, als sie fühlen.\n  - Es entwickelt sich moralisches Denken.",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Konkret-operatorisches Stadium: ab dem 7. Lebensjahr; Operationen beziehen sich auf greifbare Gegenstände, nicht auf Abstraktes",
+        "Serriation: Elemente nach einer Dimension (Größe, Form) sortieren",
+        "Klasseninklusion: Klassenverschachtelung und Klassenhierarchie verstehen und anwenden",
+        "Invarianz: Anzahl, Länge, Größe und Volumen ändern sich nicht durch äußere Umordnung",
+        "Weitere Fähigkeiten: Perspektivenübernahme, über Unsichtbares sprechen, Handeln vs. Fühlen unterscheiden, moralisches Denken"
+      ]
+    },
+    {
+      "gidx": 936,
+      "source": "paed-psych p.936",
+      "slide_title": "Intelligenzentwicklung — Beispiel: Klassenkonklusion",
+      "type": "inhalt",
+      "notes_md": "# Intelligenzentwicklung\n\n**Beispiel – Klassenkonklusion:**\n\nWenn man ein Kind fragt, ob es mehr Mädchen oder Kinder auf der Welt gibt, kann es lange keine richtige Antwort finden, dann mag es schließlich sagen: „vielleicht mehr Mädchen“.\n\nDiese Antwort hängt damit zusammen, dass das Kind die Unterklasse „Mädchen“ gebildet hat, diese aber nicht zur Oberklasse „Kinder“ hinzufügen kann.",
+      "figures": [],
+      "eingrenzung_hits": [24],
+      "key_facts": [
+        "Beispiel Klasseninklusion: Frage, ob es mehr Mädchen oder mehr Kinder auf der Welt gibt",
+        "Kinder antworten oft „vielleicht mehr Mädchen“",
+        "Grund: Die Unterklasse „Mädchen“ kann nicht zur Oberklasse „Kinder“ hinzugefügt werden (fehlende Klasseninklusion)"
+      ]
+    }
+  ]
+}

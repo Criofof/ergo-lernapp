@@ -1,0 +1,1346 @@
+[
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "14",
+  "out": "build/paed-psych/notes/batch14.json",
+  "pngs": [
+   "build/paed-psych/pages/p0157.png",
+   "build/paed-psych/pages/p0158.png",
+   "build/paed-psych/pages/p0159.png",
+   "build/paed-psych/pages/p0160.png",
+   "build/paed-psych/pages/p0161.png",
+   "build/paed-psych/pages/p0162.png",
+   "build/paed-psych/pages/p0163.png",
+   "build/paed-psych/pages/p0164.png",
+   "build/paed-psych/pages/p0165.png",
+   "build/paed-psych/pages/p0166.png",
+   "build/paed-psych/pages/p0167.png",
+   "build/paed-psych/pages/p0168.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "15",
+  "out": "build/paed-psych/notes/batch15.json",
+  "pngs": [
+   "build/paed-psych/pages/p0169.png",
+   "build/paed-psych/pages/p0170.png",
+   "build/paed-psych/pages/p0171.png",
+   "build/paed-psych/pages/p0172.png",
+   "build/paed-psych/pages/p0173.png",
+   "build/paed-psych/pages/p0174.png",
+   "build/paed-psych/pages/p0175.png",
+   "build/paed-psych/pages/p0176.png",
+   "build/paed-psych/pages/p0177.png",
+   "build/paed-psych/pages/p0178.png",
+   "build/paed-psych/pages/p0179.png",
+   "build/paed-psych/pages/p0180.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "16",
+  "out": "build/paed-psych/notes/batch16.json",
+  "pngs": [
+   "build/paed-psych/pages/p0181.png",
+   "build/paed-psych/pages/p0182.png",
+   "build/paed-psych/pages/p0183.png",
+   "build/paed-psych/pages/p0184.png",
+   "build/paed-psych/pages/p0185.png",
+   "build/paed-psych/pages/p0186.png",
+   "build/paed-psych/pages/p0187.png",
+   "build/paed-psych/pages/p0188.png",
+   "build/paed-psych/pages/p0189.png",
+   "build/paed-psych/pages/p0190.png",
+   "build/paed-psych/pages/p0191.png",
+   "build/paed-psych/pages/p0192.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "17",
+  "out": "build/paed-psych/notes/batch17.json",
+  "pngs": [
+   "build/paed-psych/pages/p0193.png",
+   "build/paed-psych/pages/p0194.png",
+   "build/paed-psych/pages/p0195.png",
+   "build/paed-psych/pages/p0196.png",
+   "build/paed-psych/pages/p0197.png",
+   "build/paed-psych/pages/p0198.png",
+   "build/paed-psych/pages/p0199.png",
+   "build/paed-psych/pages/p0200.png",
+   "build/paed-psych/pages/p0201.png",
+   "build/paed-psych/pages/p0202.png",
+   "build/paed-psych/pages/p0203.png",
+   "build/paed-psych/pages/p0204.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "18",
+  "out": "build/paed-psych/notes/batch18.json",
+  "pngs": [
+   "build/paed-psych/pages/p0205.png",
+   "build/paed-psych/pages/p0206.png",
+   "build/paed-psych/pages/p0207.png",
+   "build/paed-psych/pages/p0208.png",
+   "build/paed-psych/pages/p0209.png",
+   "build/paed-psych/pages/p0210.png",
+   "build/paed-psych/pages/p0211.png",
+   "build/paed-psych/pages/p0212.png",
+   "build/paed-psych/pages/p0213.png",
+   "build/paed-psych/pages/p0214.png",
+   "build/paed-psych/pages/p0215.png",
+   "build/paed-psych/pages/p0216.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "19",
+  "out": "build/paed-psych/notes/batch19.json",
+  "pngs": [
+   "build/paed-psych/pages/p0217.png",
+   "build/paed-psych/pages/p0218.png",
+   "build/paed-psych/pages/p0219.png",
+   "build/paed-psych/pages/p0220.png",
+   "build/paed-psych/pages/p0221.png",
+   "build/paed-psych/pages/p0222.png",
+   "build/paed-psych/pages/p0223.png",
+   "build/paed-psych/pages/p0224.png",
+   "build/paed-psych/pages/p0225.png",
+   "build/paed-psych/pages/p0226.png",
+   "build/paed-psych/pages/p0227.png",
+   "build/paed-psych/pages/p0228.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "20",
+  "out": "build/paed-psych/notes/batch20.json",
+  "pngs": [
+   "build/paed-psych/pages/p0229.png",
+   "build/paed-psych/pages/p0230.png",
+   "build/paed-psych/pages/p0231.png",
+   "build/paed-psych/pages/p0232.png",
+   "build/paed-psych/pages/p0233.png",
+   "build/paed-psych/pages/p0234.png",
+   "build/paed-psych/pages/p0235.png",
+   "build/paed-psych/pages/p0236.png",
+   "build/paed-psych/pages/p0237.png",
+   "build/paed-psych/pages/p0238.png",
+   "build/paed-psych/pages/p0239.png",
+   "build/paed-psych/pages/p0240.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "21",
+  "out": "build/paed-psych/notes/batch21.json",
+  "pngs": [
+   "build/paed-psych/pages/p0241.png",
+   "build/paed-psych/pages/p0242.png",
+   "build/paed-psych/pages/p0243.png",
+   "build/paed-psych/pages/p0244.png",
+   "build/paed-psych/pages/p0245.png",
+   "build/paed-psych/pages/p0246.png",
+   "build/paed-psych/pages/p0247.png",
+   "build/paed-psych/pages/p0248.png",
+   "build/paed-psych/pages/p0249.png",
+   "build/paed-psych/pages/p0250.png",
+   "build/paed-psych/pages/p0251.png",
+   "build/paed-psych/pages/p0252.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "22",
+  "out": "build/paed-psych/notes/batch22.json",
+  "pngs": [
+   "build/paed-psych/pages/p0253.png",
+   "build/paed-psych/pages/p0254.png",
+   "build/paed-psych/pages/p0255.png",
+   "build/paed-psych/pages/p0256.png",
+   "build/paed-psych/pages/p0257.png",
+   "build/paed-psych/pages/p0258.png",
+   "build/paed-psych/pages/p0259.png",
+   "build/paed-psych/pages/p0260.png",
+   "build/paed-psych/pages/p0261.png",
+   "build/paed-psych/pages/p0262.png",
+   "build/paed-psych/pages/p0263.png",
+   "build/paed-psych/pages/p0264.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "23",
+  "out": "build/paed-psych/notes/batch23.json",
+  "pngs": [
+   "build/paed-psych/pages/p0265.png",
+   "build/paed-psych/pages/p0266.png",
+   "build/paed-psych/pages/p0267.png",
+   "build/paed-psych/pages/p0268.png",
+   "build/paed-psych/pages/p0269.png",
+   "build/paed-psych/pages/p0270.png",
+   "build/paed-psych/pages/p0271.png",
+   "build/paed-psych/pages/p0272.png",
+   "build/paed-psych/pages/p0273.png",
+   "build/paed-psych/pages/p0274.png",
+   "build/paed-psych/pages/p0275.png",
+   "build/paed-psych/pages/p0276.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "24",
+  "out": "build/paed-psych/notes/batch24.json",
+  "pngs": [
+   "build/paed-psych/pages/p0277.png",
+   "build/paed-psych/pages/p0278.png",
+   "build/paed-psych/pages/p0279.png",
+   "build/paed-psych/pages/p0280.png",
+   "build/paed-psych/pages/p0281.png",
+   "build/paed-psych/pages/p0282.png",
+   "build/paed-psych/pages/p0283.png",
+   "build/paed-psych/pages/p0284.png",
+   "build/paed-psych/pages/p0285.png",
+   "build/paed-psych/pages/p0286.png",
+   "build/paed-psych/pages/p0287.png",
+   "build/paed-psych/pages/p0288.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "25",
+  "out": "build/paed-psych/notes/batch25.json",
+  "pngs": [
+   "build/paed-psych/pages/p0289.png",
+   "build/paed-psych/pages/p0290.png",
+   "build/paed-psych/pages/p0291.png",
+   "build/paed-psych/pages/p0292.png",
+   "build/paed-psych/pages/p0293.png",
+   "build/paed-psych/pages/p0294.png",
+   "build/paed-psych/pages/p0295.png",
+   "build/paed-psych/pages/p0296.png",
+   "build/paed-psych/pages/p0297.png",
+   "build/paed-psych/pages/p0298.png",
+   "build/paed-psych/pages/p0299.png",
+   "build/paed-psych/pages/p0300.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "71",
+  "out": "build/paed-psych/notes/batch71.json",
+  "pngs": [
+   "build/paed-psych/pages/p0841.png",
+   "build/paed-psych/pages/p0842.png",
+   "build/paed-psych/pages/p0843.png",
+   "build/paed-psych/pages/p0844.png",
+   "build/paed-psych/pages/p0845.png",
+   "build/paed-psych/pages/p0846.png",
+   "build/paed-psych/pages/p0847.png",
+   "build/paed-psych/pages/p0848.png",
+   "build/paed-psych/pages/p0849.png",
+   "build/paed-psych/pages/p0850.png",
+   "build/paed-psych/pages/p0851.png",
+   "build/paed-psych/pages/p0852.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "72",
+  "out": "build/paed-psych/notes/batch72.json",
+  "pngs": [
+   "build/paed-psych/pages/p0853.png",
+   "build/paed-psych/pages/p0854.png",
+   "build/paed-psych/pages/p0855.png",
+   "build/paed-psych/pages/p0856.png",
+   "build/paed-psych/pages/p0857.png",
+   "build/paed-psych/pages/p0858.png",
+   "build/paed-psych/pages/p0859.png",
+   "build/paed-psych/pages/p0860.png",
+   "build/paed-psych/pages/p0861.png",
+   "build/paed-psych/pages/p0862.png",
+   "build/paed-psych/pages/p0863.png",
+   "build/paed-psych/pages/p0864.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "73",
+  "out": "build/paed-psych/notes/batch73.json",
+  "pngs": [
+   "build/paed-psych/pages/p0865.png",
+   "build/paed-psych/pages/p0866.png",
+   "build/paed-psych/pages/p0867.png",
+   "build/paed-psych/pages/p0868.png",
+   "build/paed-psych/pages/p0869.png",
+   "build/paed-psych/pages/p0870.png",
+   "build/paed-psych/pages/p0871.png",
+   "build/paed-psych/pages/p0872.png",
+   "build/paed-psych/pages/p0873.png",
+   "build/paed-psych/pages/p0874.png",
+   "build/paed-psych/pages/p0875.png",
+   "build/paed-psych/pages/p0876.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "74",
+  "out": "build/paed-psych/notes/batch74.json",
+  "pngs": [
+   "build/paed-psych/pages/p0877.png",
+   "build/paed-psych/pages/p0878.png",
+   "build/paed-psych/pages/p0879.png",
+   "build/paed-psych/pages/p0880.png",
+   "build/paed-psych/pages/p0881.png",
+   "build/paed-psych/pages/p0882.png",
+   "build/paed-psych/pages/p0883.png",
+   "build/paed-psych/pages/p0884.png",
+   "build/paed-psych/pages/p0885.png",
+   "build/paed-psych/pages/p0886.png",
+   "build/paed-psych/pages/p0887.png",
+   "build/paed-psych/pages/p0888.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "75",
+  "out": "build/paed-psych/notes/batch75.json",
+  "pngs": [
+   "build/paed-psych/pages/p0889.png",
+   "build/paed-psych/pages/p0890.png",
+   "build/paed-psych/pages/p0891.png",
+   "build/paed-psych/pages/p0892.png",
+   "build/paed-psych/pages/p0893.png",
+   "build/paed-psych/pages/p0894.png",
+   "build/paed-psych/pages/p0895.png",
+   "build/paed-psych/pages/p0896.png",
+   "build/paed-psych/pages/p0897.png",
+   "build/paed-psych/pages/p0898.png",
+   "build/paed-psych/pages/p0899.png",
+   "build/paed-psych/pages/p0900.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "76",
+  "out": "build/paed-psych/notes/batch76.json",
+  "pngs": [
+   "build/paed-psych/pages/p0901.png",
+   "build/paed-psych/pages/p0902.png",
+   "build/paed-psych/pages/p0903.png",
+   "build/paed-psych/pages/p0904.png",
+   "build/paed-psych/pages/p0905.png",
+   "build/paed-psych/pages/p0906.png",
+   "build/paed-psych/pages/p0907.png",
+   "build/paed-psych/pages/p0908.png",
+   "build/paed-psych/pages/p0909.png",
+   "build/paed-psych/pages/p0910.png",
+   "build/paed-psych/pages/p0911.png",
+   "build/paed-psych/pages/p0912.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "77",
+  "out": "build/paed-psych/notes/batch77.json",
+  "pngs": [
+   "build/paed-psych/pages/p0913.png",
+   "build/paed-psych/pages/p0914.png",
+   "build/paed-psych/pages/p0915.png",
+   "build/paed-psych/pages/p0916.png",
+   "build/paed-psych/pages/p0917.png",
+   "build/paed-psych/pages/p0918.png",
+   "build/paed-psych/pages/p0919.png",
+   "build/paed-psych/pages/p0920.png",
+   "build/paed-psych/pages/p0921.png",
+   "build/paed-psych/pages/p0922.png",
+   "build/paed-psych/pages/p0923.png",
+   "build/paed-psych/pages/p0924.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "78",
+  "out": "build/paed-psych/notes/batch78.json",
+  "pngs": [
+   "build/paed-psych/pages/p0925.png",
+   "build/paed-psych/pages/p0926.png",
+   "build/paed-psych/pages/p0927.png",
+   "build/paed-psych/pages/p0928.png",
+   "build/paed-psych/pages/p0929.png",
+   "build/paed-psych/pages/p0930.png",
+   "build/paed-psych/pages/p0931.png",
+   "build/paed-psych/pages/p0932.png",
+   "build/paed-psych/pages/p0933.png",
+   "build/paed-psych/pages/p0934.png",
+   "build/paed-psych/pages/p0935.png",
+   "build/paed-psych/pages/p0936.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "79",
+  "out": "build/paed-psych/notes/batch79.json",
+  "pngs": [
+   "build/paed-psych/pages/p0937.png",
+   "build/paed-psych/pages/p0938.png",
+   "build/paed-psych/pages/p0939.png",
+   "build/paed-psych/pages/p0940.png",
+   "build/paed-psych/pages/p0941.png",
+   "build/paed-psych/pages/p0942.png",
+   "build/paed-psych/pages/p0943.png",
+   "build/paed-psych/pages/p0944.png",
+   "build/paed-psych/pages/p0945.png",
+   "build/paed-psych/pages/p0946.png",
+   "build/paed-psych/pages/p0947.png",
+   "build/paed-psych/pages/p0948.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "80",
+  "out": "build/paed-psych/notes/batch80.json",
+  "pngs": [
+   "build/paed-psych/pages/p0949.png",
+   "build/paed-psych/pages/p0950.png",
+   "build/paed-psych/pages/p0951.png",
+   "build/paed-psych/pages/p0952.png",
+   "build/paed-psych/pages/p0953.png",
+   "build/paed-psych/pages/p0954.png",
+   "build/paed-psych/pages/p0955.png",
+   "build/paed-psych/pages/p0956.png",
+   "build/paed-psych/pages/p0957.png",
+   "build/paed-psych/pages/p0958.png",
+   "build/paed-psych/pages/p0959.png",
+   "build/paed-psych/pages/p0960.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "81",
+  "out": "build/paed-psych/notes/batch81.json",
+  "pngs": [
+   "build/paed-psych/pages/p0961.png",
+   "build/paed-psych/pages/p0962.png",
+   "build/paed-psych/pages/p0963.png",
+   "build/paed-psych/pages/p0964.png",
+   "build/paed-psych/pages/p0965.png",
+   "build/paed-psych/pages/p0966.png",
+   "build/paed-psych/pages/p0967.png",
+   "build/paed-psych/pages/p0968.png",
+   "build/paed-psych/pages/p0969.png",
+   "build/paed-psych/pages/p0970.png",
+   "build/paed-psych/pages/p0971.png",
+   "build/paed-psych/pages/p0972.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "82",
+  "out": "build/paed-psych/notes/batch82.json",
+  "pngs": [
+   "build/paed-psych/pages/p0973.png",
+   "build/paed-psych/pages/p0974.png",
+   "build/paed-psych/pages/p0975.png",
+   "build/paed-psych/pages/p0976.png",
+   "build/paed-psych/pages/p0977.png",
+   "build/paed-psych/pages/p0978.png",
+   "build/paed-psych/pages/p0979.png",
+   "build/paed-psych/pages/p0980.png",
+   "build/paed-psych/pages/p0981.png",
+   "build/paed-psych/pages/p0982.png",
+   "build/paed-psych/pages/p0983.png",
+   "build/paed-psych/pages/p0984.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "83",
+  "out": "build/paed-psych/notes/batch83.json",
+  "pngs": [
+   "build/paed-psych/pages/p0985.png",
+   "build/paed-psych/pages/p0986.png",
+   "build/paed-psych/pages/p0987.png",
+   "build/paed-psych/pages/p0988.png",
+   "build/paed-psych/pages/p0989.png",
+   "build/paed-psych/pages/p0990.png",
+   "build/paed-psych/pages/p0991.png",
+   "build/paed-psych/pages/p0992.png",
+   "build/paed-psych/pages/p0993.png",
+   "build/paed-psych/pages/p0994.png",
+   "build/paed-psych/pages/p0995.png",
+   "build/paed-psych/pages/p0996.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "84",
+  "out": "build/paed-psych/notes/batch84.json",
+  "pngs": [
+   "build/paed-psych/pages/p0997.png",
+   "build/paed-psych/pages/p0998.png",
+   "build/paed-psych/pages/p0999.png",
+   "build/paed-psych/pages/p1000.png",
+   "build/paed-psych/pages/p1001.png",
+   "build/paed-psych/pages/p1002.png",
+   "build/paed-psych/pages/p1003.png",
+   "build/paed-psych/pages/p1004.png",
+   "build/paed-psych/pages/p1005.png",
+   "build/paed-psych/pages/p1006.png",
+   "build/paed-psych/pages/p1007.png",
+   "build/paed-psych/pages/p1008.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "85",
+  "out": "build/paed-psych/notes/batch85.json",
+  "pngs": [
+   "build/paed-psych/pages/p1009.png",
+   "build/paed-psych/pages/p1010.png",
+   "build/paed-psych/pages/p1011.png",
+   "build/paed-psych/pages/p1012.png",
+   "build/paed-psych/pages/p1013.png",
+   "build/paed-psych/pages/p1014.png",
+   "build/paed-psych/pages/p1015.png",
+   "build/paed-psych/pages/p1016.png",
+   "build/paed-psych/pages/p1017.png",
+   "build/paed-psych/pages/p1018.png",
+   "build/paed-psych/pages/p1019.png",
+   "build/paed-psych/pages/p1020.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "86",
+  "out": "build/paed-psych/notes/batch86.json",
+  "pngs": [
+   "build/paed-psych/pages/p1021.png",
+   "build/paed-psych/pages/p1022.png",
+   "build/paed-psych/pages/p1023.png",
+   "build/paed-psych/pages/p1024.png",
+   "build/paed-psych/pages/p1025.png",
+   "build/paed-psych/pages/p1026.png",
+   "build/paed-psych/pages/p1027.png",
+   "build/paed-psych/pages/p1028.png",
+   "build/paed-psych/pages/p1029.png",
+   "build/paed-psych/pages/p1030.png",
+   "build/paed-psych/pages/p1031.png",
+   "build/paed-psych/pages/p1032.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "87",
+  "out": "build/paed-psych/notes/batch87.json",
+  "pngs": [
+   "build/paed-psych/pages/p1033.png",
+   "build/paed-psych/pages/p1034.png",
+   "build/paed-psych/pages/p1035.png",
+   "build/paed-psych/pages/p1036.png",
+   "build/paed-psych/pages/p1037.png",
+   "build/paed-psych/pages/p1038.png",
+   "build/paed-psych/pages/p1039.png",
+   "build/paed-psych/pages/p1040.png",
+   "build/paed-psych/pages/p1041.png",
+   "build/paed-psych/pages/p1042.png",
+   "build/paed-psych/pages/p1043.png",
+   "build/paed-psych/pages/p1044.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "88",
+  "out": "build/paed-psych/notes/batch88.json",
+  "pngs": [
+   "build/paed-psych/pages/p1045.png",
+   "build/paed-psych/pages/p1046.png",
+   "build/paed-psych/pages/p1047.png",
+   "build/paed-psych/pages/p1048.png",
+   "build/paed-psych/pages/p1049.png",
+   "build/paed-psych/pages/p1050.png",
+   "build/paed-psych/pages/p1051.png",
+   "build/paed-psych/pages/p1052.png",
+   "build/paed-psych/pages/p1053.png",
+   "build/paed-psych/pages/p1054.png",
+   "build/paed-psych/pages/p1055.png",
+   "build/paed-psych/pages/p1056.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "89",
+  "out": "build/paed-psych/notes/batch89.json",
+  "pngs": [
+   "build/paed-psych/pages/p1057.png",
+   "build/paed-psych/pages/p1058.png",
+   "build/paed-psych/pages/p1059.png",
+   "build/paed-psych/pages/p1060.png",
+   "build/paed-psych/pages/p1061.png",
+   "build/paed-psych/pages/p1062.png",
+   "build/paed-psych/pages/p1063.png",
+   "build/paed-psych/pages/p1064.png",
+   "build/paed-psych/pages/p1065.png",
+   "build/paed-psych/pages/p1066.png",
+   "build/paed-psych/pages/p1067.png",
+   "build/paed-psych/pages/p1068.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "90",
+  "out": "build/paed-psych/notes/batch90.json",
+  "pngs": [
+   "build/paed-psych/pages/p1069.png",
+   "build/paed-psych/pages/p1070.png",
+   "build/paed-psych/pages/p1071.png",
+   "build/paed-psych/pages/p1072.png",
+   "build/paed-psych/pages/p1073.png",
+   "build/paed-psych/pages/p1074.png",
+   "build/paed-psych/pages/p1075.png",
+   "build/paed-psych/pages/p1076.png",
+   "build/paed-psych/pages/p1077.png",
+   "build/paed-psych/pages/p1078.png",
+   "build/paed-psych/pages/p1079.png",
+   "build/paed-psych/pages/p1080.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "91",
+  "out": "build/paed-psych/notes/batch91.json",
+  "pngs": [
+   "build/paed-psych/pages/p1081.png",
+   "build/paed-psych/pages/p1082.png",
+   "build/paed-psych/pages/p1083.png",
+   "build/paed-psych/pages/p1084.png",
+   "build/paed-psych/pages/p1085.png",
+   "build/paed-psych/pages/p1086.png",
+   "build/paed-psych/pages/p1087.png",
+   "build/paed-psych/pages/p1088.png",
+   "build/paed-psych/pages/p1089.png",
+   "build/paed-psych/pages/p1090.png",
+   "build/paed-psych/pages/p1091.png",
+   "build/paed-psych/pages/p1092.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "92",
+  "out": "build/paed-psych/notes/batch92.json",
+  "pngs": [
+   "build/paed-psych/pages/p1093.png",
+   "build/paed-psych/pages/p1094.png",
+   "build/paed-psych/pages/p1095.png",
+   "build/paed-psych/pages/p1096.png",
+   "build/paed-psych/pages/p1097.png",
+   "build/paed-psych/pages/p1098.png",
+   "build/paed-psych/pages/p1099.png",
+   "build/paed-psych/pages/p1100.png",
+   "build/paed-psych/pages/p1101.png",
+   "build/paed-psych/pages/p1102.png",
+   "build/paed-psych/pages/p1103.png",
+   "build/paed-psych/pages/p1104.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "93",
+  "out": "build/paed-psych/notes/batch93.json",
+  "pngs": [
+   "build/paed-psych/pages/p1105.png",
+   "build/paed-psych/pages/p1106.png",
+   "build/paed-psych/pages/p1107.png",
+   "build/paed-psych/pages/p1108.png",
+   "build/paed-psych/pages/p1109.png",
+   "build/paed-psych/pages/p1110.png",
+   "build/paed-psych/pages/p1111.png",
+   "build/paed-psych/pages/p1112.png",
+   "build/paed-psych/pages/p1113.png",
+   "build/paed-psych/pages/p1114.png",
+   "build/paed-psych/pages/p1115.png",
+   "build/paed-psych/pages/p1116.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "94",
+  "out": "build/paed-psych/notes/batch94.json",
+  "pngs": [
+   "build/paed-psych/pages/p1117.png",
+   "build/paed-psych/pages/p1118.png",
+   "build/paed-psych/pages/p1119.png",
+   "build/paed-psych/pages/p1120.png",
+   "build/paed-psych/pages/p1121.png",
+   "build/paed-psych/pages/p1122.png",
+   "build/paed-psych/pages/p1123.png",
+   "build/paed-psych/pages/p1124.png",
+   "build/paed-psych/pages/p1125.png",
+   "build/paed-psych/pages/p1126.png",
+   "build/paed-psych/pages/p1127.png",
+   "build/paed-psych/pages/p1128.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "95",
+  "out": "build/paed-psych/notes/batch95.json",
+  "pngs": [
+   "build/paed-psych/pages/p1129.png",
+   "build/paed-psych/pages/p1130.png",
+   "build/paed-psych/pages/p1131.png",
+   "build/paed-psych/pages/p1132.png",
+   "build/paed-psych/pages/p1133.png",
+   "build/paed-psych/pages/p1134.png",
+   "build/paed-psych/pages/p1135.png",
+   "build/paed-psych/pages/p1136.png",
+   "build/paed-psych/pages/p1137.png",
+   "build/paed-psych/pages/p1138.png",
+   "build/paed-psych/pages/p1139.png",
+   "build/paed-psych/pages/p1140.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "96",
+  "out": "build/paed-psych/notes/batch96.json",
+  "pngs": [
+   "build/paed-psych/pages/p1141.png",
+   "build/paed-psych/pages/p1142.png",
+   "build/paed-psych/pages/p1143.png",
+   "build/paed-psych/pages/p1144.png",
+   "build/paed-psych/pages/p1145.png",
+   "build/paed-psych/pages/p1146.png",
+   "build/paed-psych/pages/p1147.png",
+   "build/paed-psych/pages/p1148.png",
+   "build/paed-psych/pages/p1149.png",
+   "build/paed-psych/pages/p1150.png",
+   "build/paed-psych/pages/p1151.png",
+   "build/paed-psych/pages/p1152.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "97",
+  "out": "build/paed-psych/notes/batch97.json",
+  "pngs": [
+   "build/paed-psych/pages/p1153.png",
+   "build/paed-psych/pages/p1154.png",
+   "build/paed-psych/pages/p1155.png",
+   "build/paed-psych/pages/p1156.png",
+   "build/paed-psych/pages/p1157.png",
+   "build/paed-psych/pages/p1158.png",
+   "build/paed-psych/pages/p1159.png",
+   "build/paed-psych/pages/p1160.png",
+   "build/paed-psych/pages/p1161.png",
+   "build/paed-psych/pages/p1162.png",
+   "build/paed-psych/pages/p1163.png",
+   "build/paed-psych/pages/p1164.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "98",
+  "out": "build/paed-psych/notes/batch98.json",
+  "pngs": [
+   "build/paed-psych/pages/p1165.png",
+   "build/paed-psych/pages/p1166.png",
+   "build/paed-psych/pages/p1167.png",
+   "build/paed-psych/pages/p1168.png",
+   "build/paed-psych/pages/p1169.png",
+   "build/paed-psych/pages/p1170.png",
+   "build/paed-psych/pages/p1171.png",
+   "build/paed-psych/pages/p1172.png",
+   "build/paed-psych/pages/p1173.png",
+   "build/paed-psych/pages/p1174.png",
+   "build/paed-psych/pages/p1175.png",
+   "build/paed-psych/pages/p1176.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "99",
+  "out": "build/paed-psych/notes/batch99.json",
+  "pngs": [
+   "build/paed-psych/pages/p1177.png",
+   "build/paed-psych/pages/p1178.png",
+   "build/paed-psych/pages/p1179.png",
+   "build/paed-psych/pages/p1180.png",
+   "build/paed-psych/pages/p1181.png",
+   "build/paed-psych/pages/p1182.png",
+   "build/paed-psych/pages/p1183.png",
+   "build/paed-psych/pages/p1184.png",
+   "build/paed-psych/pages/p1185.png",
+   "build/paed-psych/pages/p1186.png",
+   "build/paed-psych/pages/p1187.png",
+   "build/paed-psych/pages/p1188.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "100",
+  "out": "build/paed-psych/notes/batch100.json",
+  "pngs": [
+   "build/paed-psych/pages/p1189.png",
+   "build/paed-psych/pages/p1190.png",
+   "build/paed-psych/pages/p1191.png",
+   "build/paed-psych/pages/p1192.png",
+   "build/paed-psych/pages/p1193.png",
+   "build/paed-psych/pages/p1194.png",
+   "build/paed-psych/pages/p1195.png",
+   "build/paed-psych/pages/p1196.png",
+   "build/paed-psych/pages/p1197.png",
+   "build/paed-psych/pages/p1198.png",
+   "build/paed-psych/pages/p1199.png",
+   "build/paed-psych/pages/p1200.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "101",
+  "out": "build/paed-psych/notes/batch101.json",
+  "pngs": [
+   "build/paed-psych/pages/p1201.png",
+   "build/paed-psych/pages/p1202.png",
+   "build/paed-psych/pages/p1203.png",
+   "build/paed-psych/pages/p1204.png",
+   "build/paed-psych/pages/p1205.png",
+   "build/paed-psych/pages/p1206.png",
+   "build/paed-psych/pages/p1207.png",
+   "build/paed-psych/pages/p1208.png",
+   "build/paed-psych/pages/p1209.png",
+   "build/paed-psych/pages/p1210.png",
+   "build/paed-psych/pages/p1211.png",
+   "build/paed-psych/pages/p1212.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "102",
+  "out": "build/paed-psych/notes/batch102.json",
+  "pngs": [
+   "build/paed-psych/pages/p1213.png",
+   "build/paed-psych/pages/p1214.png",
+   "build/paed-psych/pages/p1215.png",
+   "build/paed-psych/pages/p1216.png",
+   "build/paed-psych/pages/p1217.png",
+   "build/paed-psych/pages/p1218.png",
+   "build/paed-psych/pages/p1219.png",
+   "build/paed-psych/pages/p1220.png",
+   "build/paed-psych/pages/p1221.png",
+   "build/paed-psych/pages/p1222.png",
+   "build/paed-psych/pages/p1223.png",
+   "build/paed-psych/pages/p1224.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "103",
+  "out": "build/paed-psych/notes/batch103.json",
+  "pngs": [
+   "build/paed-psych/pages/p1225.png",
+   "build/paed-psych/pages/p1226.png",
+   "build/paed-psych/pages/p1227.png",
+   "build/paed-psych/pages/p1228.png",
+   "build/paed-psych/pages/p1229.png",
+   "build/paed-psych/pages/p1230.png",
+   "build/paed-psych/pages/p1231.png",
+   "build/paed-psych/pages/p1232.png",
+   "build/paed-psych/pages/p1233.png",
+   "build/paed-psych/pages/p1234.png",
+   "build/paed-psych/pages/p1235.png",
+   "build/paed-psych/pages/p1236.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "104",
+  "out": "build/paed-psych/notes/batch104.json",
+  "pngs": [
+   "build/paed-psych/pages/p1237.png",
+   "build/paed-psych/pages/p1238.png",
+   "build/paed-psych/pages/p1239.png",
+   "build/paed-psych/pages/p1240.png",
+   "build/paed-psych/pages/p1241.png",
+   "build/paed-psych/pages/p1242.png",
+   "build/paed-psych/pages/p1243.png",
+   "build/paed-psych/pages/p1244.png",
+   "build/paed-psych/pages/p1245.png",
+   "build/paed-psych/pages/p1246.png",
+   "build/paed-psych/pages/p1247.png",
+   "build/paed-psych/pages/p1248.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "105",
+  "out": "build/paed-psych/notes/batch105.json",
+  "pngs": [
+   "build/paed-psych/pages/p1249.png",
+   "build/paed-psych/pages/p1250.png",
+   "build/paed-psych/pages/p1251.png",
+   "build/paed-psych/pages/p1252.png",
+   "build/paed-psych/pages/p1253.png",
+   "build/paed-psych/pages/p1254.png",
+   "build/paed-psych/pages/p1255.png",
+   "build/paed-psych/pages/p1256.png",
+   "build/paed-psych/pages/p1257.png",
+   "build/paed-psych/pages/p1258.png",
+   "build/paed-psych/pages/p1259.png",
+   "build/paed-psych/pages/p1260.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "106",
+  "out": "build/paed-psych/notes/batch106.json",
+  "pngs": [
+   "build/paed-psych/pages/p1261.png",
+   "build/paed-psych/pages/p1262.png",
+   "build/paed-psych/pages/p1263.png",
+   "build/paed-psych/pages/p1264.png",
+   "build/paed-psych/pages/p1265.png",
+   "build/paed-psych/pages/p1266.png",
+   "build/paed-psych/pages/p1267.png",
+   "build/paed-psych/pages/p1268.png",
+   "build/paed-psych/pages/p1269.png",
+   "build/paed-psych/pages/p1270.png",
+   "build/paed-psych/pages/p1271.png",
+   "build/paed-psych/pages/p1272.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "107",
+  "out": "build/paed-psych/notes/batch107.json",
+  "pngs": [
+   "build/paed-psych/pages/p1273.png",
+   "build/paed-psych/pages/p1274.png",
+   "build/paed-psych/pages/p1275.png",
+   "build/paed-psych/pages/p1276.png",
+   "build/paed-psych/pages/p1277.png",
+   "build/paed-psych/pages/p1278.png",
+   "build/paed-psych/pages/p1279.png",
+   "build/paed-psych/pages/p1280.png",
+   "build/paed-psych/pages/p1281.png",
+   "build/paed-psych/pages/p1282.png",
+   "build/paed-psych/pages/p1283.png",
+   "build/paed-psych/pages/p1284.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "108",
+  "out": "build/paed-psych/notes/batch108.json",
+  "pngs": [
+   "build/paed-psych/pages/p1285.png",
+   "build/paed-psych/pages/p1286.png",
+   "build/paed-psych/pages/p1287.png",
+   "build/paed-psych/pages/p1288.png",
+   "build/paed-psych/pages/p1289.png",
+   "build/paed-psych/pages/p1290.png",
+   "build/paed-psych/pages/p1291.png",
+   "build/paed-psych/pages/p1292.png",
+   "build/paed-psych/pages/p1293.png",
+   "build/paed-psych/pages/p1294.png",
+   "build/paed-psych/pages/p1295.png",
+   "build/paed-psych/pages/p1296.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "109",
+  "out": "build/paed-psych/notes/batch109.json",
+  "pngs": [
+   "build/paed-psych/pages/p1297.png",
+   "build/paed-psych/pages/p1298.png",
+   "build/paed-psych/pages/p1299.png",
+   "build/paed-psych/pages/p1300.png",
+   "build/paed-psych/pages/p1301.png",
+   "build/paed-psych/pages/p1302.png",
+   "build/paed-psych/pages/p1303.png",
+   "build/paed-psych/pages/p1304.png",
+   "build/paed-psych/pages/p1305.png",
+   "build/paed-psych/pages/p1306.png",
+   "build/paed-psych/pages/p1307.png",
+   "build/paed-psych/pages/p1308.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ },
+ {
+  "type": "notes",
+  "group": "fg2",
+  "unit": "paed-psych",
+  "batch": "110",
+  "out": "build/paed-psych/notes/batch110.json",
+  "pngs": [
+   "build/paed-psych/pages/p1309.png",
+   "build/paed-psych/pages/p1310.png",
+   "build/paed-psych/pages/p1311.png",
+   "build/paed-psych/pages/p1312.png"
+  ],
+  "eingrenzung": [
+   "build/paed-psych/eingrenzung_paed-psych.md",
+   "build/paed-psych/eingrenzung_paedagogik.md",
+   "build/paed-psych/eingrenzung_psychologie.md"
+  ]
+ }
+]
