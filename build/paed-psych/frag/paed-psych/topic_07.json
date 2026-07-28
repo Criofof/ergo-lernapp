@@ -1,0 +1,93 @@
+{
+  "id": "paed-psych-t7",
+  "title": "Bottom-Up- und Top-Down-Verarbeitung der Wahrnehmung",
+  "eingrenzung": "Definition Bottom-Up und Top-Down (verstehen und zuordnen; Art der Verarbeitung)",
+  "prio": "high",
+  "body": "## Definitionen\n\n### Bottom-Up-Verarbeitung\n- **Aufsteigende, datengesteuerte** Informationsverarbeitung.\n- Die Analyse beginnt an den **Sinnesrezeptoren** und erfolgt aufsteigend bis zur **Integration der sensorischen Informationen durch das Gehirn**.\n- Ablauf am Beispiel Lagerfeuer:\n  1. **Detektion** über Rezeptorzellen (Flackern, Knistern, rauchiger Geruch)\n  2. **Transduktion**: Enkodierung körperlicher Energie als neuronale Signale\n  3. **Übertragung** ans Gehirn\n  4. **Organisation und Interpretation**\n\n### Top-Down-Verarbeitung\n- **Absteigende, konzeptgesteuerte** Informationsverarbeitung.\n- Gesteuert durch **höhere mentale Prozesse**: Durch **Erfahrung, Motivation und Erwartungen** wird Information interpretiert.\n- Beispiel Lagerfeuer: Erinnerungen an ein schönes Lagerfeuer und Erwartungen, die von Wärme und Kameradschaft geprägt sind, wirken auf die Organisation und Interpretation der Wahrnehmung.\n\n## Flussdiagramm der Wahrnehmungsverarbeitung (Beispiel Lagerfeuer)\n\n**Input (Empfindung) → Verarbeitung (Wahrnehmung) → Output**\n\n- Input: Sinneseindrücke wie Flackern, Knistern, rauchiger Geruch.\n- Verarbeitung: Zusammenspiel von Bottom-up- und Top-down-Prozessen.\n- **Output / Ergebnis: Verhalten, Gedanken und Emotionen** – z. B. näher zusammenrücken, warme Hände, schönes Gefühl.\n\n## Einordnung im Kurs\n- Thema gehört zum Block **Wahrnehmung und Kognition** (30 Std.) im konsolidierten Lehrplan für Psychologie und Pädagogik (230 Stunden); Lernziele nach Bloom: Wahrnehmungsprozesse beschreiben (Wissen), Wahrnehmungsfehler in therapeutischen Kontexten bewerten (Analysieren).\n- Weitere Themen des Wahrnehmungs-Blocks: Wahrnehmungskonstanzen und Fehler, optische Täuschungen, Zusammenhang von Wahrnehmung und Kognition, Bedeutung für therapeutisches Handeln sowie Experimente zu taktiler, auditiver und visueller Wahrnehmung.\n- Erarbeitung im Unterricht als Arbeitsauftrag (Partnerarbeit) mit mindestens zwei Beispielen je Verarbeitungsperspektive; Quellen: PDF „Wahrnehmung – Top Down, Bottom Up“, Skript GL S. 27–29.",
+  "facts": [
+    "Bottom-Up = aufsteigende, datengesteuerte Verarbeitung, beginnt an den Sinnesrezeptoren bis zur Integration im Gehirn",
+    "Top-Down = absteigende, konzeptgesteuerte Verarbeitung, gesteuert durch höhere mentale Prozesse (Erfahrung, Erwartungen)",
+    "Bottom-up-Ablauf: Detektion über Rezeptorzellen → Transduktion (Enkodierung körperlicher Energie als neuronale Signale) → Übertragung ans Gehirn → Organisation und Interpretation",
+    "Flussdiagramm: Input (Empfindung) → Verarbeitung (Wahrnehmung) → Output (Verhalten, Gedanken, Emotionen)",
+    "Beispiel Lagerfeuer: Flackern, Knistern, rauchiger Geruch (Bottom-up) und Erinnerungen/Erwartungen an Wärme und Kameradschaft (Top-down) → warme Hände, schönes Gefühl",
+    "Thema ist Teil des Blocks Wahrnehmung und Kognition (30 Std.) im Lehrplan Psychologie/Pädagogik (230 Std.), Lernziele nach Bloom"
+  ],
+  "figures": [
+    {
+      "src": "assets/paed-psych/g1245.png",
+      "caption": "Flussdiagramm der Top-down- und Bottom-up-Verarbeitung am Beispiel Lagerfeuer"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Was ist Bottom-Up-Verarbeitung?",
+      "a": "Aufsteigende, datengesteuerte Informationsverarbeitung: Die Analyse beginnt an den Sinnesrezeptoren und erfolgt aufsteigend bis zur Integration der sensorischen Informationen durch das Gehirn."
+    },
+    {
+      "q": "Was ist Top-Down-Verarbeitung?",
+      "a": "Absteigende, konzeptgesteuerte Informationsverarbeitung, gesteuert durch höhere mentale Prozesse – Erfahrung und Erwartungen bestimmen, wie Information interpretiert wird."
+    },
+    {
+      "q": "Nenne die Schritte der Bottom-up-Verarbeitung am Beispiel Lagerfeuer.",
+      "a": "1. Detektion über Rezeptorzellen (Flackern, Knistern, rauchiger Geruch), 2. Transduktion (Enkodierung körperlicher Energie als neuronale Signale), 3. Übertragung ans Gehirn, 4. Organisation und Interpretation."
+    },
+    {
+      "q": "Was versteht man unter Transduktion?",
+      "a": "Die Enkodierung körperlicher Energie als neuronale Signale – ein Schritt der Bottom-up-Verarbeitung nach der Detektion über Rezeptorzellen."
+    },
+    {
+      "q": "Welche Faktoren wirken bei der Top-Down-Verarbeitung auf die Interpretation?",
+      "a": "Erfahrung, Motivation und Erwartungen (z. B. Erinnerungen an ein schönes Lagerfeuer, Erwartungen von Wärme und Kameradschaft)."
+    },
+    {
+      "q": "Wie lautet das Grundschema der Wahrnehmungsverarbeitung und was ist der Output?",
+      "a": "Input (Empfindung) → Verarbeitung (Wahrnehmung) → Output. Der Output besteht aus Verhalten, Gedanken und Emotionen (z. B. näher zusammenrücken, warme Hände, schönes Gefühl)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Beschreibung trifft auf die Bottom-Up-Verarbeitung zu?",
+      "choices": [
+        "Absteigende, konzeptgesteuerte Verarbeitung durch höhere mentale Prozesse",
+        "Aufsteigende, datengesteuerte Verarbeitung, beginnend an den Sinnesrezeptoren",
+        "Interpretation von Information allein durch Erfahrung und Erwartungen",
+        "Reine Ausgabe von Verhalten, Gedanken und Emotionen"
+      ],
+      "answer": 1,
+      "expl": "Bottom-up ist aufsteigend und datengesteuert: Sie beginnt an den Sinnesrezeptoren und reicht bis zur Integration der sensorischen Informationen im Gehirn."
+    },
+    {
+      "q": "Erinnerungen an ein schönes Lagerfeuer prägen, wie jemand das Knistern und den Rauchgeruch interpretiert. Um welche Verarbeitung handelt es sich?",
+      "choices": [
+        "Bottom-Up-Verarbeitung",
+        "Transduktion",
+        "Top-Down-Verarbeitung",
+        "Detektion über Rezeptorzellen"
+      ],
+      "answer": 2,
+      "expl": "Erfahrungen und Erwartungen steuern die Interpretation von oben nach unten – das ist konzeptgesteuerte Top-Down-Verarbeitung."
+    },
+    {
+      "q": "Was bedeutet Transduktion im Ablauf der Bottom-up-Verarbeitung?",
+      "choices": [
+        "Die Übertragung fertiger Interpretationen ans Gehirn",
+        "Das Zusammenrücken der Personen am Lagerfeuer",
+        "Die Steuerung der Wahrnehmung durch Motivation",
+        "Die Enkodierung körperlicher Energie als neuronale Signale"
+      ],
+      "answer": 3,
+      "expl": "Bei der Transduktion wird körperliche Energie (z. B. Licht, Schall) in neuronale Signale enkodiert – nach der Detektion über Rezeptorzellen."
+    },
+    {
+      "q": "Was ist der Output der Wahrnehmungsverarbeitung im Flussdiagramm (Beispiel Lagerfeuer)?",
+      "choices": [
+        "Verhalten, Gedanken und Emotionen (z. B. warme Hände, schönes Gefühl)",
+        "Ausschließlich die Detektion von Reizen",
+        "Nur die Übertragung neuronaler Signale",
+        "Die Erwartungen an Wärme und Kameradschaft"
+      ],
+      "answer": 0,
+      "expl": "Das Schema lautet Input (Empfindung) → Verarbeitung (Wahrnehmung) → Output, wobei der Output aus Verhalten, Gedanken und Emotionen besteht."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "paed-psych-t20",
+  "title": "Anforderungs-Kontroll-Modell und Vulnerabilitäts-Stress-Modell",
+  "eingrenzung": "Anforderungen Kontrollmodell vom Stressmodell und Vulnerabilitäts-Stress-Modell (mit eigenen Worten beschreiben)",
+  "prio": "high",
+  "body": "## Anforderungs-Kontroll-Modell (Karasek, 1979)\n\nDas Anforderungs-Kontroll-Modell von **Karasek (1979)** ist ein soziologisches Stressmodell: Es beschreibt das Stressrisiko am Arbeitsplatz durch das Verhältnis von **Arbeitsanforderungen** und der **Kontrolle**, die Mitarbeitende über ihre Arbeit haben. Fokus liegt auf der Stressentstehung im sozialen Kontext (z.B. Stressoren in der Arbeitswelt, Ressourcen in sozialer Unterstützung) — eine Disbalance zwischen Person und Umwelt erzeugt Stress.\n\n- **Arbeitsanforderungen:** Arbeitsmenge und intellektuelle Anforderungen der Tätigkeit. Hohe Anforderungen sind besonders stressend, wenn gleichzeitig die Kontrolle gering ist.\n- **Kontrolle (Entscheidungsspielraum):** Ausmaß, in dem ein Arbeitnehmer Entscheidungsfreiheit und Möglichkeiten zur Nutzung seiner Fähigkeiten hat. Hohe Kontrolle kann die negativen Effekte hoher Anforderungen mildern.\n- **Kernregel:** Je höher die Anforderung und je geringer die Kontrollmöglichkeiten, desto größer der Stress. Mangelnder sozialer Rückhalt verstärkt den Stress.\n- **Soziale Unterstützung (Modellerweiterung):** wirkt als **Puffer** gegen den durch hohe Anforderungen und niedrige Kontrolle verursachten Stress.\n- **Gesundheitsfolgen:** Langfristige Exposition gegenüber hoher Anforderung und niedriger Kontrolle kann u.a. zu Herz-Kreislauf-Erkrankungen und psychischen Störungen führen.\n\n### Die Modell-Matrix\n\n- **Achse x:** Quantitative Anforderungen (gering / hoch)\n- **Achse y:** Entscheidungsspielraum (hoch / gering)\n- **Quadranten:**\n  - *Niedriger Stress* — geringe Anforderungen, hoher Entscheidungsspielraum\n  - *Aktiv* — hohe Anforderungen, hoher Entscheidungsspielraum\n  - *Passiv* — geringe Anforderungen, geringer Entscheidungsspielraum\n  - *Hoher Stress* — hohe Anforderungen, geringer Entscheidungsspielraum\n- Zusatzdimension **soziale Unterstützung** (hoch / niedrig) verschiebt zwischen niedrigem und hohem Stress.\n\n### Klientenbeispiel (Ergotherapie)\n\nFrau Schmidt, Büroangestellte, klagt über zunehmenden Stress und körperliche Beschwerden durch ihre sitzende Tätigkeit. Hohe Arbeitsanforderungen treffen auf mangelnde körperliche Bewegung. In der Therapie gewinnt sie mehr Kontrolle über ihre Arbeitsbedingungen: ergonomische Anpassungen am Arbeitsplatz, regelmäßige Pausen zur Aktivitätsförderung, Suche nach Unterstützung durch Kollegen und Vorgesetzte. Ergebnis: deutliche Verringerung der Symptome und höhere Arbeitszufriedenheit.\n\n## Vulnerabilitäts-Stress-Modell (Diathese-Stress-Modell)\n\nDas Vulnerabilitäts-Stress-Modell (auch **Diathese-Stress-Modell**) ist ein biopsychosoziales Modell: Es erklärt, wie psychische Störungen aus der **Interaktion von Umweltstressoren und individueller Vulnerabilität** entstehen.\n\n- **Vulnerabilität:** kann biologische (z.B. genetische Prädisposition), psychologische (z.B. Persönlichkeitsmerkmale) oder soziale Faktoren (z.B. familiäre Verhältnisse) umfassen.\n- **Stress:** Stressfaktoren können alltägliche Herausforderungen oder einschneidende Lebensereignisse sein; die Reaktion hängt stark von der Vulnerabilität ab.\n- **Interaktion:** Psychische Störungen entstehen oft dann, wenn eine vulnerable Person auf kritische Stressfaktoren trifft.\n- **Prävention und Intervention:** Maßnahmen zielen auf die Reduktion von Stressfaktoren und die Stärkung der individuellen Widerstandsfähigkeit.\n\n### Struktur des biopsychosozialen Modells\n\nVier Spalten: **Vulnerabilitäten | Exposition | modifizierende Variablen | Konsequenzen**\n\n- **Vulnerabilitäten:**\n  - *Intraindividuell:* Alter, Geschlecht, Persönlichkeit, Temperament, genetische und neurobiologische Faktoren, Verlust und Trauma\n  - *Soziale Umwelt:* soziale Schicht, Bildung, Familie und soziales Netzwerk, berufliche Sozialisation, Normen\n- **Exposition (Stressereignisse):** kritische Lebensereignisse, Veränderungen, Bedingungen — beschrieben nach Frequenz, Art, Dauer, Schwere\n- **Modifizierende Variablen:**\n  - *Psychologische Faktoren:* Resilienz, Coping, soziale Unterstützung, vorangehende Störungen, dysfunktionale Kognitionen und Schemata\n  - *Entwicklungsbezogene Faktoren:* Bindung, Impulskontrolle, körperliche und soziale Faktoren, Leistungskompetenz\n- **Konsequenzen:**\n  - *Akute Folgen:* berufliche und Interaktionsprobleme, soziale Einschränkungen, Hilflosigkeit\n  - *Langzeitfolgen:* Arbeitslosigkeit, soziale Isolation, Hoffnungslosigkeit\n- **Zentrum:** die psychische Störung; **Zeitverlauf:** Initiierung (Prodromalphase) → Störungsbeginn → Störungsverlauf\n\n### Zentrale Hypothese\n\nBereits lange vor Ausbruch der Krankheit kommt es durch genetische und/oder entwicklungsbiologische Faktoren zu Veränderungen im Gehirn (biochemisch/neuropathologisch). Dadurch entsteht eine grundlegende Verletzbarkeit (Vulnerabilität), die eine spezifische Erlebnisverarbeitung bewirkt. Vulnerabilität allein ist für den Ausbruch der Krankheit **nicht ausreichend** — es braucht zusätzlich hohe Belastungen der Umwelt. Interne und externe **protektive Faktoren** sind zu berücksichtigen.\n\n### Klientenbeispiel (Ergotherapie)\n\nLaura, Studentin, leidet unter Prüfungsangst; ihre Mutter hatte ähnliche Probleme (mögliche genetische Prädisposition / familiäre Vorbelastung = erhöhte Vulnerabilität). Die bevorstehenden Prüfungen sind der signifikante Stressor. Der Ergotherapeut entwickelt mit Laura Coping-Strategien: **Zeitmanagement, Entspannungstechniken, kognitive Umstrukturierung** der Gedanken. Durch regelmäßige Anwendung und Aufbau von Selbstvertrauen kann sie die Prüfungsangst kontrollieren.\n\n## Copingstrategien und Stresskompetenzen (nach Kaluza 2018)\n\nHauptwege des individuellen Stressmanagements:\n\n- **Stressoren** → Anforderungen aktiv begegnen = **instrumentelle Stresskompetenz**\n- **Persönliche Stressverstärker** → förderliche Gedanken und Einstellungen entwickeln = **mentale Stresskompetenz**\n- **Stressreaktion** → entspannen, erholen, Ausgleich schaffen = **regenerative Stresskompetenz**\n\nIn der Ergotherapie werden dementsprechend **instrumentelle, emotionsorientierte und regenerative Copingstrategien** als Interventionsvorschläge für die Stressbewältigung erarbeitet.",
+  "facts": [
+    "Anforderungs-Kontroll-Modell (Karasek, 1979): Stressrisiko = Verhältnis von Arbeitsanforderungen und Kontrolle über die eigene Arbeit",
+    "Je höher die Anforderung und je geringer die Kontrollmöglichkeiten, desto größer der Stress; mangelnder sozialer Rückhalt verstärkt ihn",
+    "Hohe Kontrolle (Entscheidungsspielraum) mildert die negativen Effekte hoher Anforderungen",
+    "Matrix-Quadranten: niedriger Stress, aktiv, passiv, hoher Stress (aus Anforderungen × Entscheidungsspielraum)",
+    "Erweiterung des Modells: soziale Unterstützung am Arbeitsplatz wirkt als Puffer",
+    "Langfristige Folgen hoher Anforderung + niedriger Kontrolle: Herz-Kreislauf-Erkrankungen, psychische Störungen",
+    "Vulnerabilitäts-Stress-Modell (= Diathese-Stress-Modell): Störungen entstehen aus Interaktion von Umweltstressoren und individueller Vulnerabilität",
+    "Vulnerabilität: biologisch (genetische Prädisposition), psychologisch (Persönlichkeitsmerkmale) oder sozial (familiäre Verhältnisse)",
+    "Vulnerabilität allein reicht nicht für den Ausbruch — zusätzlich hohe Umweltbelastungen nötig; protektive Faktoren berücksichtigen",
+    "Modellstruktur: Vulnerabilitäten | Exposition | modifizierende Variablen | Konsequenzen; Zentrum: psychische Störung",
+    "Zeitverlauf: Initiierung (Prodromalphase) → Störungsbeginn → Störungsverlauf",
+    "Stressmanagement nach Kaluza (2018): instrumentelle, mentale und regenerative Stresskompetenz"
+  ],
+  "figures": [
+    {
+      "src": "assets/paed-psych/g1108.png",
+      "caption": "Hauptwege des individuellen Stressmanagements (angelehnt an Kaluza 2018)"
+    },
+    {
+      "src": "assets/paed-psych/g1182.png",
+      "caption": "Anforderungs-Kontroll-Modell (Karasek): Matrix aus quantitativen Anforderungen und Entscheidungsspielraum"
+    },
+    {
+      "src": "assets/paed-psych/g1183.png",
+      "caption": "Vulnerabilitäts-Stress-Modell psychischer Störungen: Vulnerabilitäten, Exposition, modifizierende Variablen, Konsequenzen"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Was beschreibt das Anforderungs-Kontroll-Modell von Karasek (1979)?",
+      "a": "Das Stressrisiko am Arbeitsplatz durch das Verhältnis von Arbeitsanforderungen (Arbeitsmenge, intellektuelle Anforderungen) und der Kontrolle (Entscheidungsfreiheit, Nutzung der Fähigkeiten), die Mitarbeitende über ihre Arbeit haben."
+    },
+    {
+      "q": "Welche Kombination erzeugt im Anforderungs-Kontroll-Modell den höchsten Stress — und was mildert ihn?",
+      "a": "Hohe Anforderungen bei geringer Kontrolle (Quadrant 'hoher Stress'). Gemildert wird der Stress durch hohe Kontrolle/Entscheidungsspielraum und durch soziale Unterstützung als Puffer."
+    },
+    {
+      "q": "Nenne die vier Quadranten der Karasek-Matrix.",
+      "a": "Niedriger Stress (geringe Anforderungen, hoher Entscheidungsspielraum), aktiv (hohe Anforderungen, hoher Entscheidungsspielraum), passiv (geringe Anforderungen, geringer Entscheidungsspielraum), hoher Stress (hohe Anforderungen, geringer Entscheidungsspielraum)."
+    },
+    {
+      "q": "Was besagt das Vulnerabilitäts-Stress-Modell (Diathese-Stress-Modell)?",
+      "a": "Psychische Störungen entstehen aus der Interaktion von Umweltstressoren und individueller Vulnerabilität — oft dann, wenn eine vulnerable Person auf kritische Stressfaktoren trifft."
+    },
+    {
+      "q": "Welche Faktoren können Vulnerabilität ausmachen?",
+      "a": "Biologische Faktoren (z.B. genetische Prädisposition), psychologische Faktoren (z.B. Persönlichkeitsmerkmale) und soziale Faktoren (z.B. familiäre Verhältnisse)."
+    },
+    {
+      "q": "Reicht Vulnerabilität allein für den Ausbruch einer psychischen Störung aus?",
+      "a": "Nein. Vulnerabilität bewirkt eine spezifische Erlebnisverarbeitung, aber für den Ausbruch sind zusätzlich hohe Umweltbelastungen nötig; interne und externe protektive Faktoren sind zu berücksichtigen."
+    },
+    {
+      "q": "Welche drei Stresskompetenzen unterscheidet das Stressmanagement nach Kaluza (2018)?",
+      "a": "Instrumentelle Stresskompetenz (Stressoren aktiv begegnen), mentale Stresskompetenz (förderliche Gedanken und Einstellungen entwickeln), regenerative Stresskompetenz (entspannen, erholen, Ausgleich schaffen)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Nach dem Anforderungs-Kontroll-Modell ist Stress am Arbeitsplatz besonders groß, wenn …",
+      "choices": [
+        "die Anforderungen gering und der Entscheidungsspielraum hoch sind",
+        "die Anforderungen hoch und die Kontrollmöglichkeiten gering sind",
+        "die Anforderungen hoch und der Entscheidungsspielraum hoch sind",
+        "die soziale Unterstützung hoch und die Anforderungen gering sind"
+      ],
+      "answer": 1,
+      "expl": "Je höher die Anforderung und je geringer die Kontrollmöglichkeiten, desto größer der Stress (Quadrant 'hoher Stress'). Mangelnder sozialer Rückhalt verstärkt dies zusätzlich."
+    },
+    {
+      "q": "Welche Modellerweiterung wirkt im Anforderungs-Kontroll-Modell als Puffer gegen Stress?",
+      "choices": [
+        "Höhere quantitative Anforderungen",
+        "Genetische Prädisposition",
+        "Soziale Unterstützung am Arbeitsplatz",
+        "Kritische Lebensereignisse"
+      ],
+      "answer": 2,
+      "expl": "Die Erweiterung des Modells umfasst die soziale Unterstützung am Arbeitsplatz, die als Puffer gegen den durch hohe Anforderungen und niedrige Kontrolle verursachten Stress wirkt."
+    },
+    {
+      "q": "Im Vulnerabilitäts-Stress-Modell gehören zu den intraindividuellen Vulnerabilitäten u.a. …",
+      "choices": [
+        "soziale Schicht, Bildung und berufliche Sozialisation",
+        "Alter, Geschlecht, Temperament und genetische Faktoren",
+        "Frequenz, Art, Dauer und Schwere von Stressereignissen",
+        "Resilienz, Coping und soziale Unterstützung"
+      ],
+      "answer": 1,
+      "expl": "Intraindividuelle Vulnerabilitäten: Alter, Geschlecht, Persönlichkeit, Temperament, genetische/neurobiologische Faktoren, Verlust und Trauma. Soziale Schicht/Bildung gehören zur sozialen Umwelt; Resilienz und Coping sind modifizierende Variablen."
+    },
+    {
+      "q": "Eine Studentin mit familiärer Vorbelastung für Angststörungen entwickelt vor Prüfungen starke Prüfungsangst. Welche Coping-Strategien werden im ergotherapeutischen Beispiel erarbeitet?",
+      "choices": [
+        "Ergonomische Anpassungen am Arbeitsplatz und regelmäßige Pausen",
+        "Zeitmanagement, Entspannungstechniken und kognitive Umstrukturierung",
+        "Reduktion der Arbeitsmenge und mehr Entscheidungsfreiheit",
+        "Ausschließlich medikamentöse Behandlung und Vermeidung der Prüfung"
+      ],
+      "answer": 1,
+      "expl": "Im Klientenbeispiel Laura arbeitet der Ergotherapeut an Zeitmanagement, Entspannungstechniken und kognitiver Umstrukturierung der Gedanken; regelmäßige Anwendung und Selbstvertrauen verbessern die Kontrolle der Prüfungsangst."
+    }
+  ]
+}
