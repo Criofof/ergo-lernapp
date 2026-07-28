@@ -1,0 +1,89 @@
+{
+  "id": "paed-psych-t50",
+  "title": "Kompetenzbereiche pädagogischen Handelns",
+  "eingrenzung": "Kompetenzbereiche der pädagogischen Müdigkeit (in eigenen Worten erklären) (dazugehörige Fähigkeiten)",
+  "prio": "high",
+  "body": "Hinweis: Zu diesem Eingrenzungspunkt liegen keine markierten Kursnotizen vor; der Inhalt wurde daher fachlich korrekt auf Kursniveau ergänzt (allgemeines Fachwissen, vgl. Vier-Kompetenz-Modell).\n\n## Kompetenzbereiche pädagogischen Handelns\n\nWer pädagogisch tätig ist (z. B. in Schule, Ergotherapie oder therapeutischer Anleitung), braucht mehr als reines Fachwissen. Üblicherweise werden vier zentrale **Kompetenzbereiche** unterschieden, die in eigenen Worten erklärt werden können sollten:\n\n### 1. Fachkompetenz (Sachkompetenz)\nFähigkeit, fachliches Wissen und fachspezifische Fertigkeiten sicher anzuwenden.\n- dazugehörige Fähigkeiten: fundiertes Fachwissen, Diagnostik und Beurteilung, fachgerechte Methodenanwendung, Aktualisierung des Wissens\n\n### 2. Methodenkompetenz\nFähigkeit, geeignete Methoden und Medien situationsgerecht auszuwählen und einzusetzen, um Lernprozesse anzuleiten.\n- dazugehörige Fähigkeiten: Methodenauswahl und -variation, Anleitungs- und Fragetechniken, Nutzung von Medien und Hilfsmitteln, Planung und Durchführung von Übungseinheiten\n\n### 3. Sozialkompetenz\nFähigkeit, mit anderen Menschen angemessen umzugehen, zusammenzuarbeiten und Konflikte konstruktiv zu lösen.\n- dazugehörige Fähigkeiten: Kommunikationsfähigkeit, Empathie, Teamfähigkeit, Konfliktfähigkeit, Umgang mit heterogenen Gruppen\n\n### 4. Selbstkompetenz (Personal- bzw. Ich-Kompetenz)\nFähigkeit, das eigene Handeln zu reflektieren und die eigene Person, Motive und Grenzen zu kennen und zu entwickeln.\n- dazugehörige Fähigkeiten: Selbstreflexion, Selbstmotivation, Belastbarkeit, Rollenklarheit, Bereitschaft zur Weiterentwicklung\n\n## Zusammenhang\nAlle vier Bereiche wirken zusammen: Gutes pädagogisches Handeln gelingt nur, wenn Fachwissen (Fachkompetenz) methodisch vermittelt (Methodenkompetenz), im sozialen Miteinander verankert (Sozialkompetenz) und durch reflektiertes eigenes Verhalten getragen wird (Selbstkompetenz).",
+  "facts": [
+    "Vier Kompetenzbereiche pädagogischen Handelns: Fach-, Methoden-, Sozial- und Selbstkompetenz",
+    "Fachkompetenz = fachliches Wissen und fachspezifische Fertigkeiten sicher anwenden",
+    "Methodenkompetenz = geeignete Methoden und Medien situationsgerecht auswählen und einsetzen",
+    "Sozialkompetenz = Kommunikation, Empathie, Team- und Konfliktfähigkeit im Umgang mit anderen",
+    "Selbstkompetenz = eigenes Handeln reflektieren, eigene Person, Motive und Grenzen kennen",
+    "Alle vier Bereiche wirken zusammen und ermöglichen gutes pädagogisches Handeln",
+    "Selbstkompetenz wird auch Personal- oder Ich-Kompetenz genannt"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Nenne die vier Kompetenzbereiche pädagogischen Handelns.",
+      "a": "Fachkompetenz, Methodenkompetenz, Sozialkompetenz und Selbstkompetenz (Personal-/Ich-Kompetenz)."
+    },
+    {
+      "q": "Was versteht man unter Fachkompetenz?",
+      "a": "Die Fähigkeit, fachliches Wissen und fachspezifische Fertigkeiten sicher anzuwenden (z. B. Diagnostik, fachgerechte Methodenanwendung)."
+    },
+    {
+      "q": "Erkläre Methodenkompetenz in eigenen Worten.",
+      "a": "Die Fähigkeit, geeignete Methoden und Medien situationsgerecht auszuwählen und einzusetzen, um Lern- und Übungsprozesse anzuleiten."
+    },
+    {
+      "q": "Welche Fähigkeiten gehören zur Sozialkompetenz?",
+      "a": "Kommunikationsfähigkeit, Empathie, Teamfähigkeit, Konfliktfähigkeit und Umgang mit heterogenen Gruppen."
+    },
+    {
+      "q": "Was bedeutet Selbstkompetenz und wie wird sie noch genannt?",
+      "a": "Die Fähigkeit, das eigene Handeln zu reflektieren und die eigene Person, Motive und Grenzen zu kennen und zu entwickeln; auch Personal- oder Ich-Kompetenz genannt."
+    },
+    {
+      "q": "Warum reicht reines Fachwissen für pädagogisches Handeln nicht aus?",
+      "a": "Gutes pädagogisches Handeln gelingt nur im Zusammenwirken aller vier Kompetenzbereiche: Fachwissen muss methodisch vermittelt, sozial verankert und durch reflektiertes eigenes Verhalten getragen werden."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welcher Bereich gehört NICHT zu den vier Kompetenzbereichen pädagogischen Handelns?",
+      "choices": [
+        "Fachkompetenz",
+        "Finanzkompetenz",
+        "Sozialkompetenz",
+        "Methodenkompetenz"
+      ],
+      "answer": 1,
+      "expl": "Die vier Bereiche sind Fach-, Methoden-, Sozial- und Selbstkompetenz. Finanzkompetenz gehört nicht dazu."
+    },
+    {
+      "q": "Ein Therapeut wählt für eine Übungseinheit situationsgerecht Methoden und Medien aus. Welcher Kompetenzbereich ist gefragt?",
+      "choices": [
+        "Selbstkompetenz",
+        "Fachkompetenz",
+        "Methodenkompetenz",
+        "Sozialkompetenz"
+      ],
+      "answer": 2,
+      "expl": "Die situationsgerechte Auswahl und der Einsatz von Methoden und Medien zur Anleitung von Lernprozessen ist Kern der Methodenkompetenz."
+    },
+    {
+      "q": "Empathie, Teamfähigkeit und Konfliktfähigkeit gehören zur …",
+      "choices": [
+        "Sozialkompetenz",
+        "Methodenkompetenz",
+        "Fachkompetenz",
+        "Selbstkompetenz"
+      ],
+      "answer": 0,
+      "expl": "Sozialkompetenz umfasst den angemessenen Umgang mit anderen: Kommunikation, Empathie, Team- und Konfliktfähigkeit."
+    },
+    {
+      "q": "Selbstreflexion, Belastbarkeit und Rollenklarheit sind Fähigkeiten der …",
+      "choices": [
+        "Fachkompetenz",
+        "Sozialkompetenz",
+        "Methodenkompetenz",
+        "Selbstkompetenz"
+      ],
+      "answer": 3,
+      "expl": "Selbstkompetenz (Personal-/Ich-Kompetenz) meint das Reflektieren des eigenen Handelns sowie das Kennen der eigenen Person, Motive und Grenzen."
+    }
+  ]
+}

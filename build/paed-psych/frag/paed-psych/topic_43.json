@@ -1,0 +1,71 @@
+{
+  "id": "paed-psych-t43",
+  "title": "Intentionales vs. funktionales Lernen",
+  "eingrenzung": "Unterschied intentionales und funktionales Lernen",
+  "prio": "high",
+  "body": "## Lernen — zwei Grundformen\n\nIn den Grundbegriffen der Pädagogik werden Lernprozesse danach unterschieden, ob sie **bewusst** angestoßen werden oder **unbeabsichtigt** ablaufen.\n\n### Intentionales Lernen\n\n**Intentionales Lernen** umfasst alle Lernprozesse, die **bewusst ausgelöst werden**.\n\nTypische Merkmale:\n\n- Es liegt eine **Absicht (Intention)** zu lernen vor.\n- Der Lernende setzt sich gezielt mit dem Lernstoff auseinander (z. B. Lernen für eine Prüfung, Üben einer Aktivität in der Ergotherapie).\n- Das Ergebnis entspricht (weitgehend) dem beabsichtigten Lernziel.\n\n### Funktionales Lernen\n\n**Funktionales Lernen** bezeichnet **unbeabsichtigte, nicht bewusst wirksam werdende Lernvorgänge**.\n\nTypische Merkmale:\n\n- Es erfolgt **ohne bewusste Lernabsicht** — das Lernen ist ein Nebenprodukt anderer Tätigkeiten oder Erfahrungen.\n- Der Lernende ist sich des Lernvorgangs selbst oft nicht bewusst (z. B. Übernahme von Haltungen, Sprachgebrauch oder Verhaltensweisen aus dem sozialen Umfeld).\n\n### Gegenüberstellung\n\n| Merkmal | Intentionales Lernen | Funktionales Lernen |\n|---|---|---|\n| Lernabsicht | vorhanden, bewusst | nicht vorhanden, unbeabsichtigt |\n| Auslösung | gezielt, aktiv | nebenbei, wirksam werdend |\n| Bewusstsein | bewusst | nicht bewusst |\n\n*Hinweis: Die Quellnotizen sind sehr knapp; die Merkmalsbeschreibungen und Beispiele wurden fachlich auf Kursniveau ergänzt. Die Kern-Definitionen stammen direkt aus den Notizen.*",
+  "facts": [
+    "Intentionales Lernen = alle Lernprozesse, die bewusst ausgelöst werden",
+    "Funktionales Lernen = unbeabsichtigte, nicht bewusst wirksam werdende Lernvorgänge",
+    "Beim intentionalen Lernen liegt eine bewusste Lernabsicht (Intention) vor",
+    "Funktionales Lernen erfolgt als Nebenprodukt anderer Tätigkeiten, ohne bewusste Lernabsicht",
+    "Der zentrale Unterschied liegt im Vorhandensein bzw. Fehlen einer bewussten Lernabsicht"
+  ],
+  "flashcards": [
+    {
+      "q": "Was ist intentionales Lernen?",
+      "a": "Alle Lernprozesse, die bewusst ausgelöst werden (mit bewusster Lernabsicht)."
+    },
+    {
+      "q": "Was ist funktionales Lernen?",
+      "a": "Unbeabsichtigte, nicht bewusst wirksam werdende Lernvorgänge."
+    },
+    {
+      "q": "Worin liegt der zentrale Unterschied zwischen intentionalem und funktionalem Lernen?",
+      "a": "Im Vorhandensein einer bewussten Lernabsicht: intentional = bewusst ausgelöst, funktional = unbeabsichtigt und nicht bewusst."
+    },
+    {
+      "q": "Ist dem Lernenden beim funktionalen Lernen der Lernvorgang bewusst?",
+      "a": "Nein — funktionales Lernen wird nicht bewusst wirksam; es ist oft ein Nebenprodukt anderer Erfahrungen."
+    },
+    {
+      "q": "Nenne ein Beispiel für intentionales Lernen.",
+      "a": "Gezieltes Lernen für eine Prüfung oder bewusstes Üben einer Tätigkeit in der Ergotherapie."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage beschreibt intentionales Lernen korrekt?",
+      "choices": [
+        "Unbeabsichtigte Lernvorgänge ohne Bewusstsein",
+        "Bewusst ausgelöste Lernprozesse mit Lernabsicht",
+        "Lernen ausschließlich durch Nachahmung",
+        "Lernvorgänge, die nur in der Kindheit stattfinden"
+      ],
+      "answer": 1,
+      "expl": "Intentionales Lernen umfasst alle Lernprozesse, die bewusst ausgelöst werden — es liegt also eine bewusste Lernabsicht vor."
+    },
+    {
+      "q": "Funktionales Lernen ist gekennzeichnet durch …",
+      "choices": [
+        "ein klar formuliertes Lernziel",
+        "gezieltes Üben mit Rückmeldung",
+        "unbeabsichtigte, nicht bewusst wirksam werdende Lernvorgänge",
+        "bewusste Auseinandersetzung mit dem Lernstoff"
+      ],
+      "answer": 2,
+      "expl": "Funktionales Lernen erfolgt unbeabsichtigt und nicht bewusst — z. B. als Nebenprodukt anderer Tätigkeiten oder Erfahrungen."
+    },
+    {
+      "q": "Ein Klient übernimmt unbemerkt den Sprachgebrauch seiner Bezugsgruppe. Um welche Lernform handelt es sich?",
+      "choices": [
+        "Funktionales Lernen",
+        "Intentionales Lernen",
+        "Operantes Lernen",
+        "Klassische Konditionierung"
+      ],
+      "answer": 0,
+      "expl": "Das Lernen geschieht unbeabsichtigt und ohne bewusste Lernabsicht — das ist die Definition von funktionalem Lernen."
+    }
+  ]
+}

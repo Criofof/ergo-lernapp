@@ -1,0 +1,72 @@
+{
+  "id": "paed-psych-t56",
+  "title": "Grenzen der therapeutischen Anleitung und des bevormundenden Erziehungsstils",
+  "eingrenzung": "Grenzen bei therapeutischer Anleitung und einem bevormundenden Erziehungsstil",
+  "prio": "high",
+  "body": "## Ausgangspunkt: „Ergotherapie ist immer auch Pädagogik“\n\nDiese Aussage dient als Diskussionsimpuls zur kritischen Abgrenzung der beiden Disziplinen. Ergotherapie und Pädagogik überschneiden sich in der Praxis deutlich, bleiben aber eigenständige Professionen mit unterschiedlichen Zielen und Legitimationen.\n\n### Überschneidungen\n\n- **Anleitung und Lernen:** Therapeutische Anleitung (z. B. Training von Aktivitäten des täglichen Lebens, Erlernen von Kompensationsstrategien, Hilfsmittelgebrauch) enthält immer pädagogische Elemente – der Klient soll etwas (wieder) lernen.\n- **Beziehungsgestaltung:** Wie in der Pädagogik ist die therapeutische Beziehung tragende Grundlage des Gelingens.\n- **Handlungsorientierung:** Beide Disziplinen arbeiten mit methodisch gestalteten Lern- und Übungsarrangements.\n\n### Grenzen\n\n- **Auftrag:** Die Ergotherapie hat einen therapeutischen, gesundheitsbezogenen Auftrag (Betätigungs- und Teilhabeorientierung); die Pädagogik hat einen Bildungs- und Erziehungsauftrag. Ergotherapeutinnen erziehen nicht – sie therapieren.\n- **Freiwilligkeit und Selbstbestimmung:** Pädagogische Interventionen zielen häufig auf Normen und Sozialisation; ergotherapeutische Interventionen zielen auf die vom Klienten mitbestimmte Teilhabe. Wo der Therapeut beginnt, Ziele *für* statt *mit* dem Klienten zu setzen, wird die Haltung erzieherisch-bevormundend.\n- **Klientenzentrierung:** Ein bevormundender (paternalistischer) Erziehungsstil widerspricht dem Leitprinzip der Klientenzentrierung und untergräbt Autonomie, Motivation und Selbstwirksamkeit des Klienten.\n\n## Rolle der Autorität des Therapeuten\n\n- Der Therapeut verfügt über **Fachautorität** (Wissen, Methodenkompetenz) – diese ist legitim und notwendig, um sichere und wirksame Interventionen anzubieten.\n- Problematisch wird Autorität, wenn sie in eine **„zu erzieherische“ Haltung** kippt: Anweisungen ohne Begründung, Bewertung des Klienten, Bevormundung bei Entscheidungen, Belohnungs-/Bestrafungslogik.\n- Eine solche Haltung ist **kontraproduktiv**, weil sie die Eigenverantwortung und intrinsische Motivation des Klienten schwächt, Abhängigkeit erzeugt und die therapeutische Allianz auf Ungleichheit statt auf Partnerschaftlichkeit gründet.\n- Angemessen ist eine **partnerschaftliche, ressourcenorientierte Haltung**: Fachwissen wird als Angebot eingebracht, Entscheidungen werden gemeinsam getroffen (Shared Decision Making), der Klient bleibt Experte seiner eigenen Lebenswelt.\n\n*Hinweis: Die Kursnotizen zu diesem Eingrenzungspunkt bestehen aus zwei Diskussionsimpulsen (Grenzen/Überschneidungen von Ergotherapie und Pädagogik; Rolle der therapeutischen Autorität). Die obigen Ausführungen führen diese Impulse auf Kursniveau fachlich aus.*",
+  "facts": [
+    "Ergotherapie und Pädagogik überschneiden sich u. a. in Anleitung, Beziehungsgestaltung und Handlungsorientierung.",
+    "Die Ergotherapie hat einen therapeutischen, betätigungs- und teilhabeorientierten Auftrag; die Pädagogik einen Bildungs- und Erziehungsauftrag.",
+    "Ein bevormundender Erziehungsstil widerspricht der Klientenzentrierung und untergräbt Autonomie und Selbstwirksamkeit des Klienten.",
+    "Fachautorität des Therapeuten ist legitim; problematisch wird eine zu erzieherische, paternalistische Haltung.",
+    "Angemessen ist eine partnerschaftliche, ressourcenorientierte Haltung mit gemeinsamer Entscheidungsfindung (Shared Decision Making)."
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Worin überschneiden sich Ergotherapie und Pädagogik?",
+      "a": "In der Anleitung von Lernprozessen (z. B. ADL-Training, Kompensationsstrategien), in der Beziehungsgestaltung und in der Handlungsorientierung – therapeutische Anleitung enthält immer pädagogische Elemente."
+    },
+    {
+      "q": "Wo liegt die zentrale Grenze zwischen ergotherapeutischem und pädagogischem Auftrag?",
+      "a": "Die Ergotherapie verfolgt einen therapeutischen, gesundheitsbezogenen Auftrag (Betätigung und Teilhabe), die Pädagogik einen Bildungs- und Erziehungsauftrag. Ergotherapeuten therapieren, sie erziehen nicht."
+    },
+    {
+      "q": "Warum ist ein bevormundender Erziehungsstil in der Ergotherapie kontraproduktiv?",
+      "a": "Er widerspricht der Klientenzentrierung, schwächt Eigenverantwortung und intrinsische Motivation, erzeugt Abhängigkeit und untergräbt Autonomie und Selbstwirksamkeit des Klienten."
+    },
+    {
+      "q": "Welche Form der Autorität des Therapeuten ist legitim, welche problematisch?",
+      "a": "Legitim ist die Fachautorität (Wissen, Methodenkompetenz). Problematisch wird Autorität, wenn sie in eine erzieherische Haltung kippt: Anweisungen ohne Begründung, Bewertung, Bevormundung, Belohnungs-/Bestrafungslogik."
+    },
+    {
+      "q": "Welche Haltung gilt in der ergotherapeutischen Anleitung als angemessen?",
+      "a": "Eine partnerschaftliche, ressourcenorientierte Haltung: Fachwissen als Angebot, gemeinsame Entscheidungsfindung (Shared Decision Making), der Klient bleibt Experte seiner Lebenswelt."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Die Aussage „Ergotherapie ist immer auch Pädagogik“ bezieht sich vor allem darauf, dass …",
+      "choices": [
+        "Ergotherapeuten denselben Erziehungsauftrag haben wie Pädagogen",
+        "therapeutische Anleitung stets pädagogische Elemente wie Anleitung und Lernen enthält",
+        "Ergotherapie ein Teilgebiet der Pädagogik ist",
+        "Klienten in der Ergotherapie erzogen werden müssen"
+      ],
+      "answer": 1,
+      "expl": "Therapeutische Anleitung (z. B. ADL-Training, Erlernen von Strategien) enthält pädagogische Elemente – der Auftrag bleibt aber ein therapeutischer, nicht ein erzieherischer."
+    },
+    {
+      "q": "Ein bevormundender Erziehungsstil in der Ergotherapie ist problematisch, weil er …",
+      "choices": [
+        "die Behandlungszeit verlängert",
+        "gegen Hygienevorgaben verstößt",
+        "Autonomie, Motivation und Selbstwirksamkeit des Klienten untergräbt",
+        "nur bei Kindern funktioniert"
+      ],
+      "answer": 2,
+      "expl": "Bevormundung widerspricht der Klientenzentrierung: Sie schwächt Eigenverantwortung und intrinsische Motivation und erzeugt Abhängigkeit statt Teilhabe."
+    },
+    {
+      "q": "Welche Haltung des Therapeuten gilt im Kontext pädagogischer Interventionen als angemessen?",
+      "choices": [
+        "Paternalistische Fürsorge mit Entscheidungen für den Klienten",
+        "Strenge erzieherische Autorität mit Belohnung und Bestrafung",
+        "Vollständiger Verzicht auf jegliches Fachwissen",
+        "Partnerschaftliche, ressourcenorientierte Haltung mit gemeinsamer Entscheidungsfindung"
+      ],
+      "answer": 3,
+      "expl": "Angemessen ist eine partnerschaftliche Haltung: Fachautorität wird als Angebot eingebracht, Entscheidungen werden gemeinsam getroffen (Shared Decision Making)."
+    }
+  ]
+}
