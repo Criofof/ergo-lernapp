@@ -1,0 +1,92 @@
+{
+  "id": "arbeitsmedizin-t9",
+  "title": "Arbeitsschutzgesetze: ArbZG, GefStoffV, BildscharbV, MuSchG",
+  "eingrenzung": "Arbeitsschutzgesetze/-verordnung (MuschGe)",
+  "prio": "high",
+  "body": "## Arbeitsschutzgesetze und Verordnungen (Fortsetzung)\n\n### Arbeitszeitgesetz (ArbZG)\nDas Arbeitszeitgesetz regelt die zulässigen Arbeitszeiten für Arbeitnehmer:innen in Deutschland. Es enthält Bestimmungen über:\n- die **Höchstarbeitszeit**\n- **Pausen** und **Ruhezeiten**\n- den zugehörigen Arbeitsschutz mit entsprechenden **Gesundheitsuntersuchungen bei Nacht- und Schichtarbeit**\n\nBei Verstößen gegen das ArbZG können **Geldbußen** verhängt werden. Die genauen Bedingungen und Ausnahmen können je nach Branche und Tätigkeit variieren.\n\n### Gefahrstoffverordnung (GefStoffV)\nDie GefStoffV regelt den **Umgang mit Gefahrstoffen am Arbeitsplatz**. Sie legt Anforderungen fest an:\n- Einstufung\n- Kennzeichnung\n- Lagerung\n- Umgang mit und Schutz vor Gefahrstoffen\n\nZiel ist es, Beschäftigte vor gesundheitlichen Gefahren durch den Umgang mit Gefahrstoffen zu schützen. **Schwangere und Jugendliche** erfahren besonderen Schutz vor Gefahrstoffen.\n\n### Bildschirmarbeitsverordnung (BildscharbV)\nDie BildscharbV enthält Vorschriften zum Schutz von Beschäftigten an **Bildschirmarbeitsplätzen**. Sie legt fest:\n- Anforderungen an die **Gestaltung der Arbeitsplätze**\n- **Pausenregelungen**\n- **Seh- und Gesundheitsschutzmaßnahmen**\n\nZiel ist die Vermeidung arbeitsbedingter Belastungen wie **Augenbeschwerden, Rückenprobleme und psychische Belastungen**.\n\n### Mutterschutzgesetz (MuSchG)\nDas MuSchG schützt die Gesundheit von **Mutter und Kind** während der Schwangerschaft, nach der Geburt und in der Stillzeit im Kontext der Arbeitswelt.\n\n**Mutterschutzfristen / bezahlter Mutterschutzurlaub:**\n- normalerweise **6 Wochen vor** dem errechneten Geburtstermin bis **8 Wochen nach** der Geburt\n- bei **Früh- und Mehrlingsgeburten**: Schutzfrist nach der Geburt **12 Wochen**\n\n**Beschäftigungsverbote und Schutzpflichten des Arbeitgebers:**\n- Während Schwangerschaft und Stillzeit darf die Arbeitnehmerin keine Arbeiten ausführen, die sie oder ihr Kind **gefährden** könnten.\n- Der Arbeitgeber muss die Arbeitsbedingungen entsprechend **anpassen** oder die Arbeitnehmerin ggf. auf einen anderen Arbeitsplatz **versetzen**.\n- Kein Einsatz in der **Nacht**, an **Sonn- und Feiertagen** und nicht über eine bestimmte **tägliche Höchstarbeitszeit** hinaus.\n\n**Kündigungsschutz:** Es besteht ein besonderer Kündigungsschutz für schwangere Arbeitnehmerinnen und für einen bestimmten Zeitraum nach der Geburt.",
+  "facts": [
+    "ArbZG: regelt Höchstarbeitszeit, Pausen, Ruhezeiten und Gesundheitsuntersuchungen bei Nacht-/Schichtarbeit; Verstöße können mit Geldbußen geahndet werden",
+    "GefStoffV: regelt Einstufung, Kennzeichnung, Lagerung und Umgang mit Gefahrstoffen; besonderer Schutz für Schwangere und Jugendliche",
+    "BildscharbV: Schutz an Bildschirmarbeitsplätzen (Arbeitsplatzgestaltung, Pausen, Seh- und Gesundheitsschutz) gegen Augenbeschwerden, Rückenprobleme, psychische Belastungen",
+    "MuSchG: bezahlter Mutterschutz 6 Wochen vor bis 8 Wochen nach der Geburt, bei Früh-/Mehrlingsgeburten 12 Wochen nach der Geburt",
+    "MuSchG: Beschäftigungsverbote bei Gefährdung, Nacht-/Sonn-/Feiertagsarbeit und Überschreitung der Höchstarbeitszeit; Arbeitgeber muss Arbeitsbedingungen anpassen oder versetzen",
+    "MuSchG: besonderer Kündigungsschutz während der Schwangerschaft und für einen Zeitraum nach der Geburt"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Welche Inhalte regelt das Arbeitszeitgesetz (ArbZG)?",
+      "a": "Höchstarbeitszeit, Pausen, Ruhezeiten sowie Arbeitsschutz mit Gesundheitsuntersuchungen bei Nacht- und Schichtarbeit. Verstöße können mit Geldbußen geahndet werden."
+    },
+    {
+      "q": "Was regelt die Gefahrstoffverordnung (GefStoffV) und wer genießt besonderen Schutz?",
+      "a": "Sie regelt Einstufung, Kennzeichnung, Lagerung, Umgang und Schutz vor Gefahrstoffen am Arbeitsplatz. Besonderen Schutz erfahren Schwangere und Jugendliche."
+    },
+    {
+      "q": "Welche Belastungen soll die Bildschirmarbeitsverordnung (BildscharbV) vermeiden?",
+      "a": "Augenbeschwerden, Rückenprobleme und psychische Belastungen – durch Anforderungen an Arbeitsplatzgestaltung, Pausenregelungen sowie Seh- und Gesundheitsschutz."
+    },
+    {
+      "q": "Wie lange dauert die Mutterschutzfrist nach dem MuSchG normalerweise?",
+      "a": "Bezahlter Mutterschutzurlaub von 6 Wochen vor dem errechneten Geburtstermin bis 8 Wochen nach der Geburt."
+    },
+    {
+      "q": "Wie lange beträgt die Schutzfrist nach der Geburt bei Früh- und Mehrlingsgeburten?",
+      "a": "12 Wochen nach der Geburt (statt der üblichen 8 Wochen)."
+    },
+    {
+      "q": "Welche Beschäftigungsverbote gelten für Schwangere und Stillende nach dem MuSchG?",
+      "a": "Keine gefährdenden Arbeiten, keine Nachtarbeit, keine Arbeit an Sonn- und Feiertagen und keine Beschäftigung über die tägliche Höchstarbeitszeit hinaus."
+    },
+    {
+      "q": "Welche Pflichten hat der Arbeitgeber nach dem MuSchG bei gefährdenden Tätigkeiten?",
+      "a": "Er muss die Arbeitsbedingungen anpassen oder die Arbeitnehmerin, wenn nötig, auf einen anderen Arbeitsplatz versetzen. Zudem besteht besonderer Kündigungsschutz."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Wie lange dauert die reguläre Mutterschutzfrist nach dem MuSchG?",
+      "choices": [
+        "4 Wochen vor bis 6 Wochen nach der Geburt",
+        "6 Wochen vor bis 8 Wochen nach der Geburt",
+        "8 Wochen vor bis 8 Wochen nach der Geburt",
+        "6 Wochen vor bis 12 Wochen nach der Geburt"
+      ],
+      "answer": 1,
+      "expl": "Der bezahlte Mutterschutzurlaub beginnt normalerweise 6 Wochen vor dem errechneten Geburtstermin und endet 8 Wochen nach der Geburt. Bei Früh- und Mehrlingsgeburten verlängert sich die Frist nach der Geburt auf 12 Wochen."
+    },
+    {
+      "q": "Welche Verordnung enthält Vorschriften zum Schutz von Beschäftigten an Bildschirmarbeitsplätzen?",
+      "choices": [
+        "Gefahrstoffverordnung (GefStoffV)",
+        "Arbeitszeitgesetz (ArbZG)",
+        "Mutterschutzgesetz (MuSchG)",
+        "Bildschirmarbeitsverordnung (BildscharbV)"
+      ],
+      "answer": 3,
+      "expl": "Die BildscharbV legt Anforderungen an die Gestaltung von Bildschirmarbeitsplätzen, Pausenregelungen und Seh-/Gesundheitsschutzmaßnahmen fest, um Augenbeschwerden, Rückenprobleme und psychische Belastungen zu vermeiden."
+    },
+    {
+      "q": "Welche Personengruppen erfahren nach der GefStoffV besonderen Schutz vor Gefahrstoffen?",
+      "choices": [
+        "Schwangere und Jugendliche",
+        "Rentner und Teilzeitkräfte",
+        "Nur Nachtarbeiter",
+        "Leitende Angestellte"
+      ],
+      "answer": 0,
+      "expl": "Vor allem Schwangere und Jugendliche erfahren besonderen Schutz vor Gefahrstoffen."
+    },
+    {
+      "q": "Was sieht das ArbZG für Nacht- und Schichtarbeit ausdrücklich vor?",
+      "choices": [
+        "Ein Verbot jeglicher Nachtarbeit",
+        "Eine Verkürzung des bezahlten Urlaubs",
+        "Entsprechende Gesundheitsuntersuchungen",
+        "Die automatische Befreiung von der Höchstarbeitszeit"
+      ],
+      "answer": 2,
+      "expl": "Das ArbZG enthält Bestimmungen über Höchstarbeitszeit, Pausen und Ruhezeiten sowie den zugehörigen Arbeitsschutz mit entsprechenden Gesundheitsuntersuchungen bei Nacht- und Schichtarbeit."
+    }
+  ]
+}

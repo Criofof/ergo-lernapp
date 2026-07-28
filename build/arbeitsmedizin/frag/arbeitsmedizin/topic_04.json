@@ -1,0 +1,95 @@
+{
+  "id": "arbeitsmedizin-t4",
+  "title": "Klima, Akustik und arbeitsrechtliche Vorgaben am Arbeitsplatz",
+  "eingrenzung": "Klima und Arbeitsgesetze / Arbeitsplätze (Klimatische Vorgaben)",
+  "prio": "high",
+  "body": "## Ausstattungsmerkmale von Arbeitsplätzen\n\nAusstattungsmerkmale gewährleisten gesunde und sichere Arbeitsbedingungen, fördern das Wohlbefinden der Arbeitnehmer:innen und unterstützen ihre Leistungsfähigkeit. Sie tragen dazu bei, arbeitsbedingte Risiken zu minimieren und das Arbeitsumfeld angenehm und produktiv zu gestalten. Dabei sind stets die spezifischen Anforderungen verschiedener Branchen und Tätigkeiten zu berücksichtigen. **Gesetzliche Grundlage ist die Arbeitsstättenverordnung (ArbStättV).**\n\n### Räumliche Vorgaben\n- Ausreichend Platz für eine angemessene, den Tätigkeits- und Ergonomieanforderungen entsprechende Arbeitsplatzgestaltung\n- Geeignete Arbeitsflächen, die eine korrekte Körperhaltung und Bewegungsfreiheit ermöglichen\n- Schutzvorrichtungen, vor allem bei gefährlichen Maschinen oder Geräten\n- Ausreichende Lager- und Aufbewahrungsmöglichkeiten für Arbeitsmaterialien und persönliche Gegenstände\n- Vorhandensein von Sanitär-, Pausen- und Aufenthaltsräumen\n\n### Beleuchtungsvorgaben\n- **Mindestens 500 Lux** für Arbeitsplätze im Innenraum (gesetzliche Vorgabe); je nach Anforderung der Arbeit kann der Wert deutlich höher ausfallen, um gute Sichtbarkeit zu gewährleisten und Augenbelastung zu vermeiden\n- Beleuchtung muss **blendfrei** und **ausgewogen über den gesamten Arbeitsbereich verteilt** sein\n- Ggf. spezifische Beleuchtungsanforderungen für bestimmte Tätigkeiten, z. B. Zusatzbeleuchtung für feine, detailreiche Arbeiten (Feinmechanik, OP)\n- Fenster und Oberlichter sowie deren Gestaltung können ebenfalls gesetzlich geregelte Ausstattungsmerkmale sein\n\n## Klimatische Vorgaben\n\n- Angenehmes Raumklima mit geeigneter Temperatur und Luftfeuchtigkeit fördert Wohlbefinden und Leistungsfähigkeit\n- **Empfohlene Raumtemperatur am Arbeitsplatz: 20–26 °C** (bei sitzender Tätigkeit); bei überwiegend körperlicher Arbeit: **12–16 °C**\n- **Ab 30 °C** muss der/die Arbeitgeber:in geeignete Maßnahmen ergreifen, um Hitzeschäden vorzubeugen\n- **Ab mehr als 35 °C** darf der Raum ohne geeignete Maßnahmen nicht mehr als Arbeitsraum verwendet werden. Ausnahme: Arbeitsplätze mit per se extremen Temperaturen (z. B. Gießerei) – dort ist auf Schutzausrüstung und zusätzliche Pausen zu achten\n- **Relative Luftfeuchtigkeit ideal: 40–60 %**\n  - Zu niedrige Luftfeuchtigkeit: Schleimhäute der Atemwege und Haut trocknen aus, die Augen reagieren empfindlich auf trockene Luft\n  - Zu hohe Luftfeuchtigkeit: Gefahr von Hitzschlag oder Hitzeerschöpfung, da Schweiß nicht mehr ausreichend verdunsten kann und die natürliche Kühlung des Körpers versagt; Atmung fällt schwer (v. a. bei Asthma bronchiale oder COPD); zu Irritationen neigende Haut (z. B. atopisches Ekzem) kann mit Juckreiz und Ausschlägen reagieren\n\n## Akustische Vorgaben\n\n- Ab einem Schalldruckpegel von **ca. 85 Dezibel (dB)** greifen spezielle gesetzliche Vorgaben zur Minderung der Lärmbelastung am Arbeitsplatz\n- Maßnahmen zur Lärm- und Schallreduktion erleichtern Konzentration und Kommunikation und verhüten langfristige Schädigungen des Gehörs sowie psychische Erkrankungen\n- Grenzwerte nach den physikalischen Belastungsfaktoren: **Tages-Lärmexpositionspegel 85 dB(A)** und **Wochen-Lärmexpositionspegel 80 dB(A)** – bei Überschreitung sind Schutzmaßnahmen zu ergreifen\n\n## Pausen- und Arbeitszeitenregelungen\n\n- **Gesetzesgrundlage: Arbeitszeitverordnung (ArbZG)** – regelt Ruhezeiten, Arbeitszeitbegrenzungen und Erholungsurlaub sowie Strafmaßnahmen bei Nichtbeachtung\n- **Höchstarbeitszeit:** täglich maximal **8 Stunden**; Verlängerung auf bis zu **10 Stunden** möglich, wenn innerhalb von 6 Monaten im Durchschnitt 8 Stunden pro Werktag nicht überschritten werden\n- **Ruhepausen:** bei mehr als 6 bis zu 9 Stunden Arbeitszeit mindestens **30 Minuten**; bei mehr als 9 Stunden mindestens **45 Minuten**\n- **Ruhezeiten:** zwischen zwei Arbeitstagen mindestens **11 Stunden** ununterbrochen; in einigen Fällen auf **9 Stunden** verkürzbar\n\n## Physikalische Belastungsfaktoren (Überblick)\n\n- **Gewichtsbelastung:** Belastungsgrenze beim regelmäßigen Heben und Tragen typischerweise ca. **25 kg für Männer** und **15 kg für Frauen**; in der Praxis zeitweise höhere Gewichte üblich. Biologisches Alter und Gesundheitszustand bestimmen neben dem biologischen Geschlecht, ab wann eine Gewichtsbelastung als Beanspruchung sichtbar wird\n- **Körperhaltungen und Bewegungen:** monotone Bewegungsabläufe oder Zwangshaltungen, häufig gemessen in Wiederholungen pro Stunde oder Arbeitstag\n- **Vibrationen:** Beschleunigungswerte in m/s² für Ganzkörper- oder Hand-Arm-Vibrationen\n- **Schall, Temperaturen, Witterung/Klima:** siehe oben (85 dB(A) Tagesexposition, Temperatur- und Feuchtegrenzen)",
+  "facts": [
+    "Gesetzliche Grundlage der Ausstattungsmerkmale: Arbeitsstättenverordnung (ArbStättV)",
+    "Mindestens 500 Lux für Arbeitsplätze im Innenraum (gesetzliche Vorgabe); blendfrei und ausgewogen verteilt",
+    "Empfohlene Raumtemperatur: 20–26 °C (sitzend), 12–16 °C (überwiegend körperliche Arbeit)",
+    "Ab 30 °C Maßnahmenpflicht des Arbeitgebers; ab 35 °C Nutzung als Arbeitsraum ohne Maßnahmen verboten",
+    "Relative Luftfeuchtigkeit ideal: 40–60 %; zu niedrig trocknet Schleimhäute aus, zu hoch riskiert Hitzschlag/Hitzeerschöpfung",
+    "Ab ca. 85 dB greifen gesetzliche Lärmschutzvorgaben; Tages-Lärmexpositionspegel 85 dB(A), Wochen-Lärmexpositionspegel 80 dB(A)",
+    "Höchstarbeitszeit 8 h/Tag, verlängerbar auf 10 h bei Ausgleich innerhalb von 6 Monaten (ArbZG)",
+    "Ruhepause: ≥30 min bei >6 h Arbeitszeit, ≥45 min bei >9 h; Ruhezeit zwischen Arbeitstagen mindestens 11 h",
+    "Belastungsgrenze Heben/Tragen: ca. 25 kg Männer, 15 kg Frauen"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Welche gesetzliche Grundlage regelt die Ausstattungsmerkmale von Arbeitsplätzen?",
+      "a": "Die Arbeitsstättenverordnung (ArbStättV)."
+    },
+    {
+      "q": "Wie viel Lux sind für Arbeitsplätze im Innenraum gesetzlich mindestens vorgeschrieben und wie muss die Beleuchtung beschaffen sein?",
+      "a": "Mindestens 500 Lux; die Beleuchtung muss blendfrei und ausgewogen über den gesamten Arbeitsbereich verteilt sein."
+    },
+    {
+      "q": "Ab welchen Raumtemperaturen muss der Arbeitgeber handeln bzw. ist die Nutzung als Arbeitsraum verboten?",
+      "a": "Ab 30 °C muss der Arbeitgeber geeignete Maßnahmen gegen Hitzeschäden ergreifen; ab mehr als 35 °C darf der Raum ohne geeignete Maßnahmen nicht mehr als Arbeitsraum verwendet werden."
+    },
+    {
+      "q": "Welche relative Luftfeuchtigkeit wird in Innenräumen empfohlen und was passiert bei zu hoher Luftfeuchtigkeit?",
+      "a": "Ideal sind 40–60 %. Zu hohe Luftfeuchtigkeit kann zu Hitzschlag oder Hitzeerschöpfung führen, weil Schweiß nicht mehr ausreichend verdunstet und die Körperkühlung versagt; die Atmung fällt schwer (v. a. bei Asthma oder COPD)."
+    },
+    {
+      "q": "Ab welchem Schalldruckpegel greifen gesetzliche Lärmschutzvorgaben am Arbeitsplatz?",
+      "a": "Ab ca. 85 Dezibel (dB). Grenzwerte: Tages-Lärmexpositionspegel 85 dB(A), Wochen-Lärmexpositionspegel 80 dB(A) – bei Überschreitung sind Schutzmaßnahmen erforderlich."
+    },
+    {
+      "q": "Was regelt die Arbeitszeitverordnung (ArbZG) zur Höchstarbeitszeit?",
+      "a": "Die tägliche Arbeitszeit darf 8 Stunden nicht überschreiten; sie kann auf bis zu 10 Stunden verlängert werden, wenn innerhalb von 6 Monaten im Durchschnitt 8 Stunden pro Werktag nicht überschritten werden."
+    },
+    {
+      "q": "Welche Ruhepausen und Ruhezeiten sieht das ArbZG vor?",
+      "a": "Ruhepause: mindestens 30 min bei mehr als 6 bis zu 9 Stunden Arbeitszeit, mindestens 45 min bei mehr als 9 Stunden. Ruhezeit zwischen zwei Arbeitstagen: mindestens 11 Stunden (in einigen Fällen auf 9 Stunden verkürzbar)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Ein Arbeitsraum erreicht 36 °C. Was gilt ohne geeignete Maßnahmen?",
+      "choices": [
+        "Die Arbeit kann uneingeschränkt fortgesetzt werden.",
+        "Der Raum darf nicht mehr als Arbeitsraum verwendet werden.",
+        "Es genügt, die Pausen um 10 Minuten zu verlängern.",
+        "Nur Beschäftigte mit Vorerkrankungen müssen den Raum verlassen."
+      ],
+      "answer": 1,
+      "expl": "Ab mehr als 35 °C darf der Raum ohne geeignete Maßnahmen nicht mehr als Arbeitsraum verwendet werden. Bereits ab 30 °C muss der Arbeitgeber Maßnahmen ergreifen. Ausnahme: Arbeitsplätze mit per se extremen Temperaturen (z. B. Gießerei) mit Schutzausrüstung und Zusatzpausen."
+    },
+    {
+      "q": "Wie lange muss die ununterbrochene Ruhezeit zwischen zwei Arbeitstagen nach dem ArbZG mindestens betragen?",
+      "choices": [
+        "8 Stunden",
+        "9 Stunden",
+        "10 Stunden",
+        "11 Stunden"
+      ],
+      "answer": 3,
+      "expl": "Zwischen zwei Arbeitstagen muss eine ununterbrochene Ruhezeit von mindestens 11 Stunden liegen; in einigen Fällen kann sie auf 9 Stunden verkürzt werden."
+    },
+    {
+      "q": "Welche Aussage zur Beleuchtung von Innenraum-Arbeitsplätzen ist korrekt?",
+      "choices": [
+        "Mindestens 500 Lux, blendfrei und ausgewogen verteilt.",
+        "Mindestens 200 Lux, punktuelle Beleuchtung genügt.",
+        "Mindestens 1000 Lux sind immer Pflicht.",
+        "Es gibt keine gesetzlichen Beleuchtungsvorgaben."
+      ],
+      "answer": 0,
+      "expl": "Gesetzlich sind mindestens 500 Lux für Arbeitsplätze im Innenraum vorgeschrieben; je nach Tätigkeit kann der Wert deutlich höher liegen. Die Beleuchtung muss blendfrei und ausgewogen über den Arbeitsbereich verteilt sein."
+    },
+    {
+      "q": "Eine Mitarbeiterin arbeitet 10 Stunden an einem Tag. Welche Ruhepause steht ihr mindestens zu?",
+      "choices": [
+        "15 Minuten",
+        "45 Minuten",
+        "30 Minuten",
+        "60 Minuten"
+      ],
+      "answer": 1,
+      "expl": "Bei einer Arbeitszeit von mehr als 9 Stunden muss die Ruhepause mindestens 45 Minuten betragen (bei mehr als 6 bis zu 9 Stunden: mindestens 30 Minuten)."
+    }
+  ]
+}

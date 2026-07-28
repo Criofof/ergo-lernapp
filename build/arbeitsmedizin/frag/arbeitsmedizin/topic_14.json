@@ -1,0 +1,93 @@
+{
+  "id": "arbeitsmedizin-t14",
+  "title": "Long COVID als Berufskrankheit",
+  "eingrenzung": "Berufsgruppe, die Long Covid als Berufskrankheit anerkennen lassen kann",
+  "prio": "high",
+  "body": "## Häufige Berufserkrankungen (Überblick)\n\n- **Asbestose:** Lungenkrankheit durch Einatmen von Asbestfasern; häufig in der Bauindustrie und bei Asbestentfernung.\n- **Silikose:** Lungenkrankheit durch Einatmen von Quarzstaub (Steinbrüche, Bergbau, Bauindustrie).\n- **Berufliche Hautkrebserkrankungen:** Plattenepithelkarzinom oder Basalzellkarzinom durch langfristige Exposition gegenüber UV-Strahlung, chemischen Substanzen oder Karzinogenen am Arbeitsplatz.\n- **Karpaltunnelsyndrom:** Nervenkompression im Handgelenk bei repetitiven Handbewegungen (z. B. Büro- und Montagearbeit).\n- **Muskel-Skelett-Erkrankungen:** Rückenschmerzen und Überlastungssyndrome wie das Repetitive-Strain-Injury-Syndrom (RSI) durch wiederholte Bewegungen oder Heben schwerer Lasten; typisch bei Lagerarbeiter:innen, Krankenpfleger:innen, Bauarbeiter:innen.\n- **Berufsbedingte Atemwegserkrankungen:** berufsbedingtes Asthma, obstruktive Lungenerkrankungen, allergische Alveolitis durch Stäube, Chemikalien oder Dämpfe; häufig bei Schweißer:innen, Bäcker:innen, Landwirt:innen.\n- **Infektionserkrankungen:** vor allem im Gesundheitswesen – Ansteckungen mit Hepatitis A–C, Tuberkulose und seit 2020 auch COVID-19 gehören zu den häufigsten Berufskrankheiten.\n- **Psychische Erkrankungen:** Stress, Depressionen und Angstzustände durch übermäßigen Druck am Arbeitsplatz; besonders häufig bei Polizei, Feuerwehr und im Gesundheitswesen.\n\n## Krankheitssteckbrief: Long COVID\n\n**Definition:** Long COVID bezeichnet eine Reihe von Symptomen, die vier oder mehr Wochen nach der Erstinfektion mit COVID-19 (SARS-CoV-2) anhalten oder neu auftreten.\n\n**Ursachen:** Long COVID wird durch eine vorherige SARS-CoV-2-Infektion verursacht. Die genauen Mechanismen sind noch nicht vollständig verstanden, können aber eine anhaltende Virusaktivität, eine übermäßige Immunreaktion und/oder eine Organschädigung durch das Virus umfassen.\n\n**Symptome:**\n- Anhaltende Müdigkeit oder Erschöpfung (Chronic Fatigue Syndrome)\n- Atemnot\n- Brustschmerzen oder Engegefühl\n- Gelenk- oder Muskelschmerzen\n- Kopfschmerzen\n- Verlust des Geschmacks- oder Geruchssinns\n- Gedächtnis- und Konzentrationsprobleme („Gehirnnebel“)\n- Schlafstörungen\n- Herzrasen oder Palpitationen\n- Depression oder Angstzustände\n\n**Diagnose:** Kombination aus Anamnese (einschließlich vorheriger COVID-19-Infektion) und körperlicher Untersuchung; ggf. Tests zur Beurteilung von Herz, Lunge und anderen Organen. Bei neurologischen Manifestationen (Konzentrations-/Aufmerksamkeitsschwäche) können zusätzlich neurologische oder neuropsychologische Testungen indiziert sein.\n\n**Behandlung:** symptomatisch – Kombination aus körperlicher Therapie, Medikamenten zur Symptomlinderung, psychologischer Unterstützung und Selbstpflege.\n\n**Prävention:** gleiche Maßnahmen wie bei COVID-19 – Impfung, Maskentragen, soziale Distanzierung, Hygiene.\n\n## Rechtlicher Status in Deutschland\n\nLong COVID kann in Deutschland unter bestimmten Umständen als Berufskrankheit anerkannt werden. Insbesondere **Gesundheits- und Pflegepersonal**, das aufgrund seiner beruflichen Tätigkeit einem hohen Infektionsrisiko ausgesetzt ist, kann Anspruch auf Entschädigung und medizinische Versorgung durch die **gesetzliche Unfallversicherung** haben. Es ist empfohlen, professionelle rechtliche Beratung in Anspruch zu nehmen, um die spezifischen Kriterien und Verfahren zu verstehen.",
+  "facts": [
+    "Long COVID: Symptome, die ≥4 Wochen nach Erstinfektion mit SARS-CoV-2 anhalten oder neu auftreten",
+    "Long COVID kann in Deutschland unter bestimmten Umständen als Berufskrankheit anerkannt werden",
+    "Anspruch auf Entschädigung und medizinische Versorgung durch die gesetzliche Unfallversicherung besteht v. a. für Gesundheits- und Pflegepersonal mit hohem beruflichen Infektionsrisiko",
+    "Typische Long-COVID-Symptome: Chronic Fatigue, Atemnot, Gehirnnebel, Verlust von Geschmacks-/Geruchssinn",
+    "Diagnose: Anamnese + körperliche Untersuchung, ggf. neurologische/neuropsychologische Testungen",
+    "COVID-19 zählt seit 2020 v. a. im Gesundheitswesen zu den häufigsten Berufskrankheiten (neben Hepatitis A–C, Tuberkulose)",
+    "Behandlung von Long COVID ist symptomatisch; Prävention wie bei COVID-19 (Impfung, Maske, Distanz, Hygiene)"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Welche Berufsgruppe kann Long COVID in Deutschland am ehesten als Berufskrankheit anerkennen lassen?",
+      "a": "Gesundheits- und Pflegepersonal, das aufgrund seiner beruflichen Tätigkeit einem hohen Infektionsrisiko ausgesetzt ist."
+    },
+    {
+      "q": "Wie ist Long COVID definiert?",
+      "a": "Eine Reihe von Symptomen, die vier oder mehr Wochen nach der Erstinfektion mit COVID-19 (SARS-CoV-2) anhalten oder neu auftreten."
+    },
+    {
+      "q": "Welcher Träger gewährt bei Anerkennung von Long COVID als Berufskrankheit Entschädigung und medizinische Versorgung?",
+      "a": "Die gesetzliche Unfallversicherung."
+    },
+    {
+      "q": "Nenne typische Symptome von Long COVID (mindestens 4).",
+      "a": "Chronic Fatigue (anhaltende Müdigkeit), Atemnot, „Gehirnnebel“ (Gedächtnis-/Konzentrationsprobleme), Verlust des Geschmacks-/Geruchssinns, Brustschmerzen, Gelenk-/Muskelschmerzen, Schlafstörungen, Herzrasen, Depression oder Angstzustände."
+    },
+    {
+      "q": "Wie wird Long COVID diagnostiziert?",
+      "a": "Durch Anamnese (inkl. vorheriger COVID-19-Infektion) und körperliche Untersuchung, ggf. Tests von Herz, Lunge und anderen Organen; bei neurologischen Manifestationen zusätzlich neurologische/neuropsychologische Testungen."
+    },
+    {
+      "q": "Welche Behandlungsmöglichkeiten gibt es bei Long COVID?",
+      "a": "Die Behandlung ist symptomatisch: körperliche Therapie, Medikamente zur Symptomlinderung, psychologische Unterstützung und Selbstpflege."
+    },
+    {
+      "q": "Wie kann Long COVID vorgebeugt werden?",
+      "a": "Mit denselben Maßnahmen wie zur COVID-19-Prävention: Impfung, Maskentragen, soziale Distanzierung und Hygiene."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Berufsgruppe hat in Deutschland am ehesten Anspruch auf Anerkennung von Long COVID als Berufskrankheit?",
+      "choices": [
+        "Büroangestellte mit Homeoffice",
+        "Gesundheits- und Pflegepersonal mit hohem beruflichen Infektionsrisiko",
+        "Lagerarbeiter:innen",
+        "Bauarbeiter:innen"
+      ],
+      "answer": 1,
+      "expl": "Insbesondere Gesundheits- und Pflegepersonal, das beruflich einem hohen Infektionsrisiko ausgesetzt ist, kann Anspruch auf Entschädigung und medizinische Versorgung durch die gesetzliche Unfallversicherung haben."
+    },
+    {
+      "q": "Ab welchem Zeitraum nach der SARS-CoV-2-Erstinfektion spricht man von Long COVID?",
+      "choices": [
+        "Ab 4 oder mehr Wochen",
+        "Ab 3 Tagen",
+        "Ab 1 Jahr",
+        "Ab 6 Monaten"
+      ],
+      "answer": 0,
+      "expl": "Long COVID bezeichnet Symptome, die vier oder mehr Wochen nach der Erstinfektion mit COVID-19 anhalten oder neu auftreten."
+    },
+    {
+      "q": "Welches ist KEIN typisches Symptom von Long COVID?",
+      "choices": [
+        "Gehirnnebel (Konzentrationsprobleme)",
+        "Verlust des Geschmacks- oder Geruchssinns",
+        "Plötzliche Blutvergiftung (Sepsis)",
+        "Anhaltende Müdigkeit (Chronic Fatigue)"
+      ],
+      "answer": 2,
+      "expl": "Eine Sepsis gehört nicht zum Long-COVID-Symptombild. Typisch sind u. a. Chronic Fatigue, Gehirnnebel, Verlust von Geschmacks-/Geruchssinn, Atemnot und Herzrasen."
+    },
+    {
+      "q": "Wer leistet Entschädigung und medizinische Versorgung bei Anerkennung von Long COVID als Berufskrankheit?",
+      "choices": [
+        "Die private Krankenversicherung",
+        "Der Arbeitgeber direkt",
+        "Die Pflegeversicherung",
+        "Die gesetzliche Unfallversicherung"
+      ],
+      "answer": 3,
+      "expl": "Bei Anerkennung als Berufskrankheit besteht Anspruch auf Entschädigung und medizinische Versorgung durch die gesetzliche Unfallversicherung."
+    }
+  ]
+}

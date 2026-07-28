@@ -1,0 +1,86 @@
+{
+  "id": "arbeitsmedizin-t16",
+  "title": "BEM-Verfahren: Ablauf des betrieblichen Eingliederungsmanagements",
+  "eingrenzung": "BEM-Verfahren (Ablauf)",
+  "prio": "high",
+  "body": "## Das betriebliche Eingliederungsmanagement (BEM)\n\nDas **betriebliche Eingliederungsmanagement (BEM)** ist ein in Deutschland gesetzlich verankertes Instrument, das dazu dient, die Gesundheit und Arbeitsfähigkeit von Beschäftigten langfristig zu erhalten. Es ist im **Sozialgesetzbuch (SGB IX)** verankert und richtet sich an Arbeitgeber:innen und Arbeitnehmer:innen.\n\n**Ziel:** frühzeitig und präventiv auf gesundheitliche Probleme oder Einschränkungen von Beschäftigten am Arbeitsplatz zu reagieren und geeignete Maßnahmen zur Erhaltung oder Wiederherstellung der Arbeitsfähigkeit einzuleiten. Es soll Arbeitsunfähigkeit vermeiden, Fehlzeiten reduzieren und eine nachhaltige berufliche Integration unterstützen.\n\n## Ablauf des BEM\n\nDer Ablauf umfasst in der Regel folgende Schritte:\n\n1. **Feststellung des Handlungsbedarfs:** Wenn ein/eine Arbeitnehmer:in innerhalb eines Jahres **länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig** ist, besteht die Verpflichtung des/der Arbeitgeber:in, das BEM einzuleiten. Auch der/die Arbeitnehmer:in selbst oder andere Beschäftigte können den Bedarf melden.\n\n2. **Angebot und Durchführung des BEM-Gesprächs:** Der/die Arbeitgeber:in lädt den/die betroffene/n Arbeitnehmer:in zu einem BEM-Gespräch ein. Dabei wird über die gesundheitliche Situation, mögliche Ursachen für die Arbeitsunfähigkeit und die berufliche Situation gesprochen. Ziel ist es, gemeinsam Lösungen zu finden und geeignete Maßnahmen zur Wiederherstellung der Arbeitsfähigkeit zu erarbeiten.\n\n3. **Erarbeitung eines BEM-Plans:** Auf Basis des BEM-Gesprächs wird ein BEM-Plan mit den vereinbarten Maßnahmen zur Erhaltung oder Verbesserung der Arbeitsfähigkeit erstellt. Mögliche Maßnahmen: **Arbeitsplatzanpassungen, Weiterbildungen, Umsetzung in eine andere Tätigkeit oder begleitende Unterstützung**.\n\n4. **Umsetzung und Überprüfung des BEM-Plans:** Die vereinbarten Maßnahmen werden umgesetzt und regelmäßig überprüft. Bei Bedarf wird der BEM-Plan angepasst oder es werden weitere Maßnahmen ergriffen, um die Wiederherstellung der Arbeitsfähigkeit zu unterstützen.\n\n## Zusammenarbeit und Charakter\n\nDas BEM beruht auf einer **kooperativen Zusammenarbeit** zwischen Arbeitgeber:in, Arbeitnehmer:in, Betriebsarzt/-ärztin, Personalabteilung und gegebenenfalls weiteren beteiligten Fachkräften. Es hat einen **präventiven Charakter** und zielt darauf ab, die Beschäftigten möglichst langfristig im Arbeitsprozess zu halten und ihre individuellen gesundheitlichen Bedürfnisse zu berücksichtigen.\n\nDas BEM stellt in Deutschland eine **gesetzliche Verpflichtung für Arbeitgeber:innen** dar. Es dient dem Schutz und der Förderung der Gesundheit am Arbeitsplatz sowie der nachhaltigen Integration von Beschäftigten.",
+  "facts": [
+    "BEM ist gesetzlich im SGB IX verankert und eine Pflicht für Arbeitgeber:innen",
+    "Einleitungspflicht bei >6 Wochen ununterbrochener oder wiederholter Arbeitsunfähigkeit innerhalb eines Jahres",
+    "Ablauf: Feststellung des Handlungsbedarfs → BEM-Gespräch → BEM-Plan → Umsetzung und Überprüfung",
+    "Kooperative Zusammenarbeit von Arbeitgeber:in, Arbeitnehmer:in, Betriebsarzt/-ärztin und Personalabteilung; präventiver Charakter"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Wo ist das betriebliche Eingliederungsmanagement (BEM) gesetzlich verankert?",
+      "a": "Im Sozialgesetzbuch (SGB IX). Es ist eine gesetzliche Verpflichtung für Arbeitgeber:innen."
+    },
+    {
+      "q": "Wann besteht die Pflicht des/der Arbeitgeber:in, ein BEM einzuleiten?",
+      "a": "Wenn ein/eine Arbeitnehmer:in innerhalb eines Jahres länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig ist."
+    },
+    {
+      "q": "Nenne die vier Schritte des BEM-Ablaufs.",
+      "a": "1. Feststellung des Handlungsbedarfs, 2. Angebot und Durchführung des BEM-Gesprächs, 3. Erarbeitung eines BEM-Plans, 4. Umsetzung und Überprüfung des BEM-Plans."
+    },
+    {
+      "q": "Welche Maßnahmen können in einem BEM-Plan vereinbart werden?",
+      "a": "Arbeitsplatzanpassungen, Weiterbildungen, Umsetzung in eine andere Tätigkeit oder begleitende Unterstützung."
+    },
+    {
+      "q": "Wer wirkt beim BEM kooperativ zusammen?",
+      "a": "Arbeitgeber:in, Arbeitnehmer:in, Betriebsarzt/-ärztin, Personalabteilung und ggf. weitere beteiligte Fachkräfte."
+    },
+    {
+      "q": "Was ist das Ziel des BEM?",
+      "a": "Frühzeitig und präventiv auf gesundheitliche Probleme zu reagieren, Arbeitsunfähigkeit zu vermeiden, Fehlzeiten zu reduzieren und eine nachhaltige berufliche Integration zu unterstützen."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Ab welcher Dauer der Arbeitsunfähigkeit innerhalb eines Jahres ist der/die Arbeitgeber:in zur Einleitung eines BEM verpflichtet?",
+      "choices": [
+        "Länger als zwei Wochen",
+        "Länger als vier Wochen",
+        "Länger als sechs Wochen (ununterbrochen oder wiederholt)",
+        "Länger als drei Monate"
+      ],
+      "answer": 2,
+      "expl": "Bei mehr als sechs Wochen ununterbrochener oder wiederholter Arbeitsunfähigkeit innerhalb eines Jahres besteht die Einleitungspflicht für das BEM."
+    },
+    {
+      "q": "Welche Reihenfolge entspricht dem Ablauf des BEM?",
+      "choices": [
+        "BEM-Plan → BEM-Gespräch → Feststellung des Handlungsbedarfs → Umsetzung",
+        "Feststellung des Handlungsbedarfs → BEM-Gespräch → BEM-Plan → Umsetzung und Überprüfung",
+        "BEM-Gespräch → Feststellung des Handlungsbedarfs → Umsetzung → BEM-Plan",
+        "Umsetzung → BEM-Plan → BEM-Gespräch → Feststellung des Handlungsbedarfs"
+      ],
+      "answer": 1,
+      "expl": "Der Ablauf lautet: Feststellung des Handlungsbedarfs → BEM-Gespräch → Erarbeitung eines BEM-Plans → Umsetzung und Überprüfung."
+    },
+    {
+      "q": "In welchem Gesetz ist das BEM verankert?",
+      "choices": [
+        "SGB V",
+        "SGB VII",
+        "Arbeitsschutzgesetz (ArbSchG)",
+        "SGB IX"
+      ],
+      "answer": 3,
+      "expl": "Das BEM ist im Sozialgesetzbuch (SGB IX) verankert und eine gesetzliche Verpflichtung für Arbeitgeber:innen."
+    },
+    {
+      "q": "Welche Aussage zum BEM trifft zu?",
+      "choices": [
+        "Es hat einen präventiven Charakter und beruht auf kooperativer Zusammenarbeit",
+        "Es ist ausschließlich eine freiwillige Leistung des/der Arbeitgeber:in",
+        "Es wird nur nach einer Kündigung durchgeführt",
+        "Es wird allein vom Betriebsarzt/von der Betriebsärztin entschieden"
+      ],
+      "answer": 0,
+      "expl": "Das BEM ist gesetzlich verpflichtend, präventiv ausgerichtet und beruht auf kooperativer Zusammenarbeit mehrerer Beteiligter (Arbeitgeber:in, Arbeitnehmer:in, Betriebsarzt/-ärztin, Personalabteilung)."
+    }
+  ]
+}

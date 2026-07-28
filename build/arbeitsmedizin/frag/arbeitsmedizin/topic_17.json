@@ -1,0 +1,90 @@
+{
+  "id": "arbeitsmedizin-t17",
+  "title": "Arbeitsmedizinische Untersuchungsmethoden",
+  "eingrenzung": "Diagnostik von Betriebsärzten (Untersuchungsmethoden von Arbeitsmedizinern, wie führen sie diese durch?)",
+  "prio": "high",
+  "body": "## Arbeitsmedizinische Untersuchungsmethoden\n\nDie Arbeitsmedizin bedient sich einer Vielzahl von Untersuchungsmethoden, um die Gesundheit der Beschäftigten zu beurteilen, Risikofaktoren zu identifizieren und arbeitsbedingte Gesundheitsprobleme zu erkennen.\n\n### Die gängigen Methoden im Überblick\n\n- **Anamneseerhebung:** Gespräche mit Arbeitnehmer:innen, um Informationen über die medizinische Vorgeschichte, aktuelle Symptome, Expositionen am Arbeitsplatz und arbeitsbezogene Beschwerden zu sammeln.\n- **Klinische Untersuchung:** Allgemeine körperliche Untersuchung zur Beurteilung des Gesundheitszustands und zur Identifikation möglicher arbeitsbedingter Erkrankungen.\n- **Laboruntersuchungen:** Blut- und Urinuntersuchungen sowie andere labordiagnostische Verfahren, um biologische Expositionen, gesundheitliche Auswirkungen und arbeitsbezogene Krankheiten zu untersuchen.\n- **Arbeitsplatzbegehung:** Besichtigung der Arbeitsumgebung, um potenzielle Gefahrenquellen, ergonomische Probleme und andere arbeitsbedingte Risikofaktoren zu identifizieren.\n- **Messung physikalischer Faktoren:** Erfassung von Parametern wie Lärmpegel, Beleuchtungsstärke, Temperatur, Luftqualität und Vibrationen, um mögliche gesundheitliche Auswirkungen zu bewerten.\n- **Analyse von Arbeitsabläufen:** Bewertung der Arbeitsorganisation, Arbeitsbelastung, Arbeitszeitregelungen und möglicher psychosozialer Belastungsfaktoren, um Stressoren am Arbeitsplatz zu erkennen.\n- **Ergonomische Bewertung:** Analyse von Arbeitsplatzgestaltung, Ergonomie und Körperhaltungen, um Belastungen des Muskel-Skelett-Systems zu identifizieren und ergonomische Verbesserungen vorzuschlagen.\n- **Psychosoziale Bewertung:** Fragebögen, Interviews oder psychometrische Tests zur Bewertung psychosozialer Belastungsfaktoren wie Stress, Arbeitszufriedenheit und psychischer Gesundheit.\n\n### Ziel\n\nDie Methoden werden je nach den spezifischen Anforderungen und Zielen der Arbeitsmedizin eingesetzt, um ein umfassendes Verständnis der Arbeitsumgebung und ihrer Auswirkungen auf die Gesundheit der Beschäftigten zu erlangen.",
+  "facts": [
+    "Ziele der arbeitsmedizinischen Diagnostik: Gesundheit beurteilen, Risikofaktoren identifizieren, arbeitsbedingte Gesundheitsprobleme erkennen",
+    "Anamneseerhebung: Gespräch über Vorgeschichte, Symptome, Expositionen und arbeitsbezogene Beschwerden",
+    "Klinische Untersuchung: allgemeine körperliche Untersuchung zur Identifikation arbeitsbedingter Erkrankungen",
+    "Laboruntersuchungen: Blut- und Urindiagnostik zu biologischen Expositionen und arbeitsbezogenen Krankheiten",
+    "Arbeitsplatzbegehung deckt Gefahrenquellen und ergonomische Probleme vor Ort auf",
+    "Messung physikalischer Faktoren: Lärm, Beleuchtung, Temperatur, Luftqualität, Vibrationen",
+    "Ergonomische Bewertung: Arbeitsplatzgestaltung und Körperhaltung, Fokus Muskel-Skelett-System",
+    "Psychosoziale Bewertung: Fragebögen, Interviews oder psychometrische Tests zu Stress und Arbeitszufriedenheit"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Welche drei Ziele verfolgen arbeitsmedizinische Untersuchungsmethoden?",
+      "a": "Gesundheit der Beschäftigten beurteilen, Risikofaktoren identifizieren und arbeitsbedingte Gesundheitsprobleme erkennen."
+    },
+    {
+      "q": "Was erfasst die Anamneseerhebung in der Arbeitsmedizin?",
+      "a": "Medizinische Vorgeschichte, aktuelle Symptome, Expositionen am Arbeitsplatz und arbeitsbezogene Beschwerden."
+    },
+    {
+      "q": "Welche physikalischen Faktoren werden am Arbeitsplatz gemessen?",
+      "a": "Lärmpegel, Beleuchtungsstärke, Temperatur, Luftqualität und Vibrationen."
+    },
+    {
+      "q": "Wozu dient die Arbeitsplatzbegehung?",
+      "a": "Zur Identifikation potenzieller Gefahrenquellen, ergonomischer Probleme und anderer arbeitsbedingter Risikofaktoren in der Arbeitsumgebung."
+    },
+    {
+      "q": "Was untersucht die ergonomische Bewertung?",
+      "a": "Arbeitsplatzgestaltung, Ergonomie und Körperhaltungen, um Belastungen des Muskel-Skelett-Systems zu identifizieren und Verbesserungen vorzuschlagen."
+    },
+    {
+      "q": "Mit welchen Instrumenten erfolgt die psychosoziale Bewertung?",
+      "a": "Mit Fragebögen, Interviews oder psychometrischen Tests zu Stress, Arbeitszufriedenheit und psychischer Gesundheit."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Untersuchungsmethode dient der Erfassung von Lärmpegel, Temperatur und Vibrationen?",
+      "choices": [
+        "Anamneseerhebung",
+        "Analyse von Arbeitsabläufen",
+        "Messung physikalischer Faktoren",
+        "Psychosoziale Bewertung"
+      ],
+      "answer": 2,
+      "expl": "Physikalische Parameter wie Lärm, Beleuchtung, Temperatur, Luftqualität und Vibrationen werden messtechnisch erfasst, um gesundheitliche Auswirkungen zu bewerten."
+    },
+    {
+      "q": "Ein Betriebsarzt besichtigt die Arbeitsumgebung, um Gefahrenquellen und ergonomische Probleme vor Ort zu identifizieren. Wie heißt diese Methode?",
+      "choices": [
+        "Klinische Untersuchung",
+        "Arbeitsplatzbegehung",
+        "Laboruntersuchung",
+        "Ergonomische Bewertung"
+      ],
+      "answer": 1,
+      "expl": "Die Arbeitsplatzbegehung ist die Besichtigung der Arbeitsumgebung zur Identifikation von Gefahrenquellen und arbeitsbedingten Risikofaktoren."
+    },
+    {
+      "q": "Welche Methode bewertet Arbeitsorganisation, Arbeitszeitregelungen und psychosoziale Belastungsfaktoren, um Stressoren zu erkennen?",
+      "choices": [
+        "Analyse von Arbeitsabläufen",
+        "Laboruntersuchungen",
+        "Klinische Untersuchung",
+        "Anamneseerhebung"
+      ],
+      "answer": 0,
+      "expl": "Die Analyse von Arbeitsabläufen umfasst Arbeitsorganisation, Arbeitsbelastung, Arbeitszeitregelungen und psychosoziale Belastungsfaktoren."
+    },
+    {
+      "q": "Was ist KEIN erklärtes Ziel arbeitsmedizinischer Untersuchungsmethoden?",
+      "choices": [
+        "Risikofaktoren identifizieren",
+        "Arbeitsbedingte Gesundheitsprobleme erkennen",
+        "Gesundheit der Beschäftigten beurteilen",
+        "Leistungsbewertung zur Gehaltsanpassung"
+      ],
+      "answer": 3,
+      "expl": "Ziele sind Gesundheitsbeurteilung, Risikoidentifikation und Erkennung arbeitsbedingter Gesundheitsprobleme – keine Leistungs- oder Gehaltsbewertung."
+    }
+  ]
+}

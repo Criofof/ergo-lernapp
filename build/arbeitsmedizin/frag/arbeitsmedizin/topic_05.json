@@ -1,0 +1,94 @@
+{
+  "id": "arbeitsmedizin-t5",
+  "title": "Lärmschwerhörigkeit als Berufskrankheit (BK 2301)",
+  "eingrenzung": "Lärmschwerhörigkeit (Welche Befunde sind dafür anfällig?)",
+  "prio": "high",
+  "body": "## Berufskrankheiten – Definition\n\nEine **Berufskrankheit** ist eine Erkrankung, die direkt oder maßgeblich durch bestimmte berufliche Tätigkeiten oder den Kontakt mit bestimmten Arbeitsstoffen verursacht wird. Im Gegensatz zu einem **Arbeitsunfall** ist sie nicht auf einen konkreten Unfallzeitpunkt zurückzuführen, sondern entwickelt sich in der Regel über einen längeren Zeitraum durch wiederholte oder langfristige Exposition gegenüber schädlichen Arbeitsbedingungen.\n\n## Klassifikation nach der Berufskrankheiten-Verordnung (BKV)\n\nIm deutschen Rechtssystem werden Berufskrankheiten gemäß der **Berufskrankheiten-Verordnung (BKV)** klassifiziert. Die BKV enthält eine Liste mit konkreten Krankheitsbildern, die als Berufskrankheiten anerkannt werden können. In der aktuellen Fassung werden **6 Gruppen** unterschieden:\n\n1. Durch chemische Einwirkungen verursachte Krankheiten\n2. Durch physikalische Einwirkungen verursachte Krankheiten\n3. Durch Infektionserreger oder Parasiten verursachte Krankheiten sowie Tropenkrankheiten\n4. Erkrankungen der Atemwege und der Lungen, des Rippenfells und Bauchfells und der Eierstöcke\n5. Hautkrankheiten\n6. Krankheiten sonstiger Ursache\n\n## Krankheitssteckbrief: Lärmschwerhörigkeit\n\n**Definition:** Lärmschwerhörigkeit, auch als **Lärm-induzierte Gehörschädigung** bekannt, ist eine **fortschreitende, irreversible** Schädigung des Gehörs, die durch anhaltende Exposition gegenüber hohen Lärmpegeln verursacht wird. Sie ist eine der häufigsten Berufskrankheiten.\n\n**Ursachen:** Die Hauptursache ist die langfristige Exposition gegenüber Lärmpegeln von **85 Dezibel (dB) oder höher**. Berufe mit hohem Risiko sind unter anderem Bauberufe, Musiker:innen, Fabrikarbeiter:innen sowie Flug- und Militärpersonal.\n\n**Symptome** (entwickeln sich in der Regel allmählich):\n\n- Schwierigkeiten beim Verstehen von Gesprächen, insbesondere in lauten Umgebungen\n- Ständiges Summen oder Rauschen im Ohr (**Tinnitus**)\n- Hörminderung\n- Überempfindlichkeit gegenüber Geräuschen (**Hyperakusis**)\n\n**Diagnose:** Kombination aus **Anamnese** (einschließlich der früheren Lärmexposition) und einem Hörtest, dem **Audiogramm**.\n\n**Behandlung:** Eine Heilung gibt es derzeit nicht. Die Behandlung konzentriert sich auf die Verhinderung einer weiteren Schädigung und die Verbesserung der Lebensqualität:\n\n- Verwendung von **Hörgeräten**\n- Strategien zur **Lärmreduzierung am Arbeitsplatz**\n- Verwendung von **Gehörschutz**\n\n**Prävention:** Die Prävention ist der Schlüssel zur Vermeidung:\n\n- Gehörschutz in lauten Umgebungen\n- Regelmäßige Pausen von der Lärmexposition\n- Regelmäßige Hörtests\n\n**Rechtlicher Status in Deutschland:** Lärmschwerhörigkeit ist als Berufskrankheit anerkannt (**BK 2301**).\n\n## Weitere Beispiele häufiger Berufskrankheiten\n\n- **Lärmschwerhörigkeit:** tritt bei langfristiger Exposition gegenüber hohen Lärmpegeln auf, z. B. in der Bau- oder Musikindustrie.\n- **Berufsdermatosen:** verschiedene Formen von Dermatitis durch Kontakt mit schädlichen Substanzen (Chemikalien, Lösungsmittel, Reinigungsmittel, Pflanzen); besonders häufig bei Friseur:innen, Köchinnen/Köchen und Reinigungskräften.",
+  "facts": [
+    "Berufskrankheit: durch berufliche Tätigkeit/Arbeitsstoffe verursacht, kein konkreter Unfallzeitpunkt, Entwicklung über längeren Zeitraum",
+    "Klassifikation gemäß Berufskrankheiten-Verordnung (BKV) mit 6 Gruppen",
+    "Lärmschwerhörigkeit: fortschreitende, irreversible Gehörschädigung durch anhaltende Lärmexposition",
+    "Hauptrisiko: Lärmpegel ab 85 Dezibel (dB); Risikoberufe: Bau, Musik, Fabrik, Flug-/Militärpersonal",
+    "Symptome: Verständnisprobleme, Tinnitus, Hörminderung, Hyperakusis",
+    "Diagnose: Anamnese + Audiogramm; keine Heilung möglich",
+    "Prävention: Gehörschutz, Lärmpausen, regelmäßige Hörtests",
+    "Anerkannte Berufskrankheit: BK 2301"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Was unterscheidet eine Berufskrankheit von einem Arbeitsunfall?",
+      "a": "Eine Berufskrankheit ist nicht auf einen konkreten Unfallzeitpunkt zurückzuführen, sondern entwickelt sich über einen längeren Zeitraum durch wiederholte oder langfristige Exposition gegenüber schädlichen Arbeitsbedingungen."
+    },
+    {
+      "q": "Nach welcher Verordnung werden Berufskrankheiten in Deutschland klassifiziert, und wie viele Gruppen umfasst sie?",
+      "a": "Nach der Berufskrankheiten-Verordnung (BKV); sie umfasst 6 Gruppen (z. B. chemische Einwirkungen, physikalische Einwirkungen, Infektionserreger/Parasiten, Atemwegserkrankungen, Hautkrankheiten, sonstige Ursachen)."
+    },
+    {
+      "q": "Ab welchem Lärmpegel entsteht das Hauptrisiko für Lärmschwerhörigkeit, und welche Berufe sind besonders gefährdet?",
+      "a": "Ab 85 Dezibel (dB) oder höher bei langfristiger Exposition; besonders gefährdet sind Bauberufe, Musiker:innen, Fabrikarbeiter:innen sowie Flug- und Militärpersonal."
+    },
+    {
+      "q": "Nenne die typischen Symptome der Lärmschwerhörigkeit.",
+      "a": "Schwierigkeiten beim Verstehen von Gesprächen (besonders in lauten Umgebungen), Tinnitus (Summen/Rauschen im Ohr), Hörminderung und Hyperakusis (Überempfindlichkeit gegenüber Geräuschen)."
+    },
+    {
+      "q": "Wie wird Lärmschwerhörigkeit diagnostiziert?",
+      "a": "Durch eine Kombination aus Anamnese (einschließlich früherer Lärmexposition) und einem Hörtest (Audiogramm)."
+    },
+    {
+      "q": "Unter welcher Nummer ist Lärmschwerhörigkeit in Deutschland als Berufskrankheit anerkannt?",
+      "a": "BK 2301."
+    },
+    {
+      "q": "Welche Präventionsmaßnahmen verhindern Lärmschwerhörigkeit?",
+      "a": "Gehörschutz in lauten Umgebungen, regelmäßige Pausen von der Lärmexposition und regelmäßige Hörtests."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Ab welchem Lärmpegel gilt die langfristige Exposition als Hauptrisiko für Lärmschwerhörigkeit?",
+      "choices": [
+        "65 Dezibel",
+        "75 Dezibel",
+        "85 Dezibel",
+        "100 Dezibel"
+      ],
+      "answer": 2,
+      "expl": "Die Hauptursache für Lärmschwerhörigkeit ist die langfristige Exposition gegenüber Lärmpegeln von 85 Dezibel (dB) oder höher."
+    },
+    {
+      "q": "Unter welcher Nummer ist Lärmschwerhörigkeit in Deutschland als Berufskrankheit anerkannt?",
+      "choices": [
+        "BK 1101",
+        "BK 2301",
+        "BK 5102",
+        "BK 1318"
+      ],
+      "answer": 1,
+      "expl": "Lärmschwerhörigkeit ist in Deutschland als Berufskrankheit BK 2301 anerkannt."
+    },
+    {
+      "q": "Welche Aussage zur Behandlung der Lärmschwerhörigkeit ist korrekt?",
+      "choices": [
+        "Sie ist durch eine Operation vollständig heilbar.",
+        "Sie heilt von selbst, wenn die Lärmexposition endet.",
+        "Sie kann mit Medikamenten rückgängig gemacht werden.",
+        "Eine Heilung gibt es nicht; Behandlung zielt auf Verhinderung weiterer Schäden und Lebensqualität (z. B. Hörgeräte, Gehörschutz)."
+      ],
+      "answer": 3,
+      "expl": "Lärmschwerhörigkeit ist irreversibel. Die Behandlung konzentriert sich auf Hörgeräte, Lärmreduzierung am Arbeitsplatz und Gehörschutz."
+    },
+    {
+      "q": "Welche Kombination ist die Standarddiagnostik bei Verdacht auf Lärmschwerhörigkeit?",
+      "choices": [
+        "Anamnese (Lärmexposition) und Audiogramm",
+        "MRT des Schädels und Blutbild",
+        "Röntgen des Ohrs und Allergietest",
+        "Blutdruckmessung und Sehtest"
+      ],
+      "answer": 0,
+      "expl": "Die Diagnose erfolgt durch eine Kombination aus Anamnese (einschließlich der früheren Lärmexposition) und einem Hörtest, dem Audiogramm."
+    }
+  ]
+}

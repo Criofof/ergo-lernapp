@@ -1,0 +1,78 @@
+{
+  "id": "arbeitsmedizin-t12",
+  "title": "Box and Block Test (BBT)",
+  "eingrenzung": "Box und Block Test",
+  "prio": "high",
+  "body": "## Box and Block Test (BBT)\n\n**Hinweis:** In den Kursnotizen ist zu diesem Punkt nur der Titel vermerkt; die folgenden Inhalte wurden fachlich korrekt auf Kursniveau ergänzt.\n\n### Was ist der Box and Block Test?\n\nDer Box and Block Test (BBT) ist ein **standardisiertes, einfaches Testverfahren zur Erfassung der groben manuellen Geschicklichkeit (grobe Handgeschicklichkeit)**. Er wurde von Mathiowetz und Kollegen (1985) mit Normwerten veröffentlicht und ist in der ergotherapeutischen Diagnostik weit verbreitet.\n\n### Testmaterial und Aufbau\n\n- Eine **Holzkiste (Box)**, die durch eine **Trennwand in zwei gleiche Fächer** geteilt ist\n- **150 Holzwürfel (Blocks)** mit einer Kantenlänge von ca. 2,5 cm\n- Stoppuhr zur Zeitmessung\n\n### Durchführung\n\n1. Der Patient sitzt am Tisch, die Box steht vor ihm, die Würfel liegen in einem Fach.\n2. Aufgabe: Die Würfel sollen **einzeln** mit einer Hand gegriffen, **über die Trennwand** gehoben und ins andere Fach gelegt werden.\n3. **Übungsdurchgang:** 15 Sekunden zur Einarbeitung.\n4. **Testzeit:** 60 Sekunden pro Hand.\n5. Beide Hände werden getrennt getestet (in der Regel zuerst die dominante Hand).\n6. **Ergebnis:** die Anzahl der innerhalb von 60 Sekunden über die Trennwand bewegten Würfel. Würfel, die mehrere auf einmal transportiert wurden, werden nicht gezählt.\n\n### Auswertung\n\n- Vergleich der erzielten Würfelzahl mit **alters- und geschlechtsspezifischen Normwerten** sowie Seitenvergleich (dominante vs. nicht-dominante Hand).\n- Eine niedrigere Punktzahl weist auf eine **Einschränkung der groben manuellen Geschicklichkeit** hin.\n\n### Einsatzbereiche in der Ergotherapie\n\n- **Neurologie:** z. B. nach Schlaganfall, bei Multipler Sklerose, Morbus Parkinson\n- **Handchirurgie / Orthopädie:** nach Handverletzungen und Operationen\n- **Verlaufskontrolle:** Objektivierung des Therapiefortschritts\n\n### Vorteile des Tests\n\n- Sehr **kurze Durchführungsdauer** (ca. 5 Minuten inkl. Erklärung)\n- **Einfaches, kostengünstiges Material**\n- Gute **Reliabilität und Validität**, standardisierte Normwerte\n- Für den Patienten leicht verständlich",
+  "facts": [
+    "Der Box and Block Test misst die grobe manuelle Geschicklichkeit einer Hand.",
+    "Testmaterial: eine durch eine Trennwand geteilte Box und 150 Holzwürfel (ca. 2,5 cm Kantenlänge).",
+    "Testzeit beträgt 60 Sekunden pro Hand, nach einer 15-sekündigen Übungsphase.",
+    "Gemessen wird die Anzahl der Würfel, die einzeln über die Trennwand bewegt werden.",
+    "Normwerte von Mathiowetz et al. (1985), alters- und geschlechtsspezifisch.",
+    "Typische Einsatzgebiete: Schlaganfall, Multiple Sklerose, Handverletzungen, Verlaufskontrolle."
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Was misst der Box and Block Test?",
+      "a": "Die grobe manuelle Geschicklichkeit (grobe Handgeschicklichkeit) einer Hand."
+    },
+    {
+      "q": "Wie ist das Testmaterial des Box and Block Tests aufgebaut?",
+      "a": "Eine Box, die durch eine Trennwand in zwei Fächer geteilt ist, und 150 Holzwürfel mit ca. 2,5 cm Kantenlänge."
+    },
+    {
+      "q": "Wie lange dauert die Testzeit pro Hand beim Box and Block Test?",
+      "a": "60 Sekunden pro Hand, nach einer 15-sekündigen Übungsphase."
+    },
+    {
+      "q": "Wie wird der Box and Block Test ausgewertet?",
+      "a": "Es wird gezählt, wie viele Würfel innerhalb von 60 Sekunden einzeln über die Trennwand bewegt wurden; der Wert wird mit alters- und geschlechtsspezifischen Normwerten verglichen."
+    },
+    {
+      "q": "Nenne zwei typische Einsatzgebiete des Box and Block Tests in der Ergotherapie.",
+      "a": "Z. B. Neurologie (Schlaganfall, Multiple Sklerose, Morbus Parkinson) und Handchirurgie (nach Handverletzungen bzw. Operationen), außerdem zur Verlaufskontrolle."
+    },
+    {
+      "q": "Warum ist der Box and Block Test in der Praxis beliebt?",
+      "a": "Er ist schnell durchführbar (ca. 5 Minuten), benötigt einfaches Material, ist gut reliabel und validiert und für Patienten leicht verständlich."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Wie viele Holzwürfel gehören standardmäßig zum Material des Box and Block Tests?",
+      "choices": ["50", "100", "150", "200"],
+      "answer": 2,
+      "expl": "Der Box and Block Test verwendet 150 Holzwürfel mit ca. 2,5 cm Kantenlänge."
+    },
+    {
+      "q": "Wie lange beträgt die Testzeit pro Hand beim Box and Block Test?",
+      "choices": ["30 Sekunden", "60 Sekunden", "90 Sekunden", "120 Sekunden"],
+      "answer": 1,
+      "expl": "Pro Hand wird 60 Sekunden lang getestet, nach einer 15-sekündigen Übungsphase."
+    },
+    {
+      "q": "Welche Aussage zur Durchführung des Box and Block Tests ist richtig?",
+      "choices": [
+        "Die Würfel dürfen jeweils zu zweit transportiert werden.",
+        "Die Würfel müssen mit beiden Händen gleichzeitig bewegt werden.",
+        "Die Trennwand darf beim Greifen umgangen werden.",
+        "Die Würfel müssen einzeln über die Trennwand in das andere Fach bewegt werden."
+      ],
+      "answer": 3,
+      "expl": "Es zählen nur Würfel, die einzeln gegriffen und über die Trennwand in das andere Fach gelegt wurden."
+    },
+    {
+      "q": "Was wird beim Box and Block Test als Ergebnis notiert?",
+      "choices": [
+        "Die benötigte Zeit für 50 Würfel",
+        "Die Anzahl der in 60 Sekunden über die Trennwand bewegten Würfel",
+        "Die Greifkraft in Newton",
+        "Die Anzahl der fallen gelassenen Würfel"
+      ],
+      "answer": 1,
+      "expl": "Ergebnis ist die Würfelzahl, die innerhalb der 60-sekündigen Testzeit transportiert wurde; sie wird mit Normwerten verglichen."
+    }
+  ]
+}
