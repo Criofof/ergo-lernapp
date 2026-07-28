@@ -1,0 +1,99 @@
+{
+  "id": "akl-t6",
+  "title": "Endosymbiontentheorie und Aufbau der Mitochondrien",
+  "eingrenzung": "Endosymbiontentheorie",
+  "prio": "high",
+  "body": "## Aufbau der Mitochondrien\n\nDie Mitochondrien sind die **„Kraftwerke der Zelle“**. Sie sind **eiförmig** gebaut und besitzen eine **innere und eine äußere Membran**.\n\n- **Äußere Membran:** glatt und mit **Poren** versehen.\n- **Innere Membran:** stark aufgefaltet. Die Auffaltungen sind unterschiedlich geformt, z. B. **leistenförmig (Cristae)** oder **röhrenförmig (Tubuli)**; sie sind röhrenförmig angeordnet und enthalten **Enzyme, eine geringe Menge DNA und Ribosomen**.\n- Zwischen und innerhalb der Membranen liegen der **Matrixraum** und der **Intermembranraum**.\n\nDie schematische Darstellung eines Mitochondriums zeigt folgende Bestandteile: Matrixraum, Intermembranraum, innere Membran, Crista und äußere Membran.\n\n## Die Endosymbiontentheorie zur Entstehung der Mitochondrien\n\nDie Endosymbiontentheorie erklärt die Entstehung der Mitochondrien folgendermaßen:\n\n1. Ein **Einzeller** trifft auf ein **Bakterium**, das im Gegensatz zum Einzeller in der Lage ist, **Energie zu gewinnen**.\n2. Das Bakterium erhält das „Angebot“, in das **Zytoplasma des Einzellers** einzudringen, und wird dadurch zu einem **Organell** des Einzellers – nämlich zum **Mitochondrium**.\n3. Durch die **Endozytose** (das Eindringen in das Zytoplasma) besitzt das Mitochondrium **zwei Membranen**.\n4. Das Mitochondrium verfügt über **runde, ringförmige DNA**, weil es ursprünglich ein Bakterium war.\n\nDamit erklärt die Theorie zentrale Beobachtungen am Mitochondrium: die doppelte Membran, die eigene ringförmige DNA und die vorhandenen Ribosomen sind Hinweise auf den bakteriellen Ursprung (Quelle der Folie: Monarch, Infectiology, Boston 2011, p. 337).\n\n*Hinweis: Die Notizen zum Thema sind knapp; die Zusammenhänge wurden auf Kursniveau vollständig aus den Folieninhalten hergeleitet.*",
+  "facts": [
+    "Mitochondrien sind die „Kraftwerke der Zelle“ und eiförmig gebaut",
+    "Innere Membran ist aufgefaltet: leistenförmig (Cristae) oder röhrenförmig (Tubuli)",
+    "Innere Membran enthält Enzyme, geringe Menge DNA und Ribosomen",
+    "Äußere Membran ist glatt und besitzt Poren",
+    "Bestandteile: Matrixraum, Intermembranraum, innere und äußere Membran",
+    "Endosymbiontentheorie: Bakterium dringt in Einzeller ein und wird zum Mitochondrium",
+    "Zwei Membranen entstehen durch die Endozytose",
+    "Mitochondrium besitzt runde, ringförmige DNA, da es ursprünglich ein Bakterium war"
+  ],
+  "figures": [
+    {
+      "src": "assets/akl/g210.png",
+      "caption": "Mitochondrium in der Schemazeichnung: Matrixraum, Intermembranraum, innere Membran, Crista, äußere Membran (© G. Raichle, Ulm)"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Welche Form haben die Auffaltungen der inneren Mitochondrienmembran?",
+      "a": "Leistenförmig (Cristae) oder röhrenförmig (Tubuli)."
+    },
+    {
+      "q": "Was enthält die innere Membran der Mitochondrien?",
+      "a": "Enzyme, eine geringe Menge DNA und Ribosomen – ein Hinweis auf die Endosymbiontentheorie."
+    },
+    {
+      "q": "Wie ist die äußere Membran der Mitochondrien beschaffen?",
+      "a": "Sie ist glatt und besitzt Poren."
+    },
+    {
+      "q": "Nenne die Bestandteile des Mitochondriums (Schemazeichnung).",
+      "a": "Matrixraum, Intermembranraum, innere Membran, Crista und äußere Membran."
+    },
+    {
+      "q": "Was besagt die Endosymbiontentheorie zur Entstehung der Mitochondrien?",
+      "a": "Ein Bakterium, das Energie gewinnen kann, dringt in einen Einzeller ein und wird zu einem Organell – dem Mitochondrium."
+    },
+    {
+      "q": "Warum hat das Mitochondrium zwei Membranen?",
+      "a": "Wegen der Endozytose, des Eindringens des Bakteriums in das Zytoplasma des Einzellers."
+    },
+    {
+      "q": "Warum besitzt das Mitochondrium runde, ringförmige DNA?",
+      "a": "Weil es ursprünglich ein Bakterium war."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Woran erinnert die ringförmige DNA des Mitochondriums laut Endosymbiontentheorie?",
+      "choices": [
+        "An die DNA des Zellkerns",
+        "An den ursprünglich bakteriellen Ursprung des Mitochondriums",
+        "An virale Erbinformation",
+        "An die DNA der Ribosomen"
+      ],
+      "answer": 1,
+      "expl": "Das Mitochondrium besitzt runde, ringförmige DNA, weil es ursprünglich ein Bakterium war."
+    },
+    {
+      "q": "Wodurch besitzt das Mitochondrium zwei Membranen?",
+      "choices": [
+        "Durch die Zellteilung des Einzellers",
+        "Durch die Auffaltung der inneren Membran",
+        "Durch die Endozytose des Bakteriums in das Zytoplasma",
+        "Durch die Poren der äußeren Membran"
+      ],
+      "answer": 2,
+      "expl": "Aufgrund der Endozytose – des Eindringens in das Zytoplasma – hat das Mitochondrium zwei Membranen."
+    },
+    {
+      "q": "Welche Aussage zur äußeren Mitochondrienmembran trifft zu?",
+      "choices": [
+        "Sie ist glatt und besitzt Poren",
+        "Sie ist zu Cristae aufgefaltet",
+        "Sie enthält ringförmige DNA",
+        "Sie ist röhrenförmig angeordnet"
+      ],
+      "answer": 0,
+      "expl": "Die äußere Membran ist glatt und besitzt Poren; die Auffaltungen (Cristae/Tubuli) betreffen die innere Membran."
+    },
+    {
+      "q": "Welche Bestandteile gehören zum Aufbau des Mitochondriums?",
+      "choices": [
+        "Zellkern, Golgi-Apparat, Lysosomen",
+        "Chloroplasten, Thylakoide, Stroma",
+        "Endoplasmatisches Retikulum, Vesikel, Zentriolen",
+        "Matrixraum, Intermembranraum, innere und äußere Membran"
+      ],
+      "answer": 3,
+      "expl": "Das Mitochondrium besteht aus Matrixraum, Intermembranraum sowie innerer und äußerer Membran (mit Cristae)."
+    }
+  ]
+}

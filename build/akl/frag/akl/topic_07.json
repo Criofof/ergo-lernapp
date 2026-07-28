@@ -1,0 +1,86 @@
+{
+  "id": "akl-t7",
+  "title": "Antibiose und Antibiotika-Gruppen",
+  "eingrenzung": "Antibiose beschreiben",
+  "prio": "high",
+  "body": "## Antibiose\n\nUnter der **Antibiose** versteht man die **Behandlung von bakteriellen Infektionen mit Antibiotika**.\n\nPraktisch alle Bakterien sind mehr oder weniger gut mit einer Antibiose eindämmbar.\n\n**CAVE: Resistenzen** – ein zentrales Problem der Antibiose ist die Entwicklung bakterieller Resistenzen gegen Antibiotika.\n\n## Antibiotika – Wirkstoffgruppen\n\nDie Antibiotika lassen sich in zahlreiche Wirkstoffgruppen einteilen, die in der **Human- und Veterinärmedizin** eingesetzt werden:\n\n- **Penicilline**\n- **Cephalosporine**\n- **Makrolide**\n- **Fluorchinolone**\n- **Aminoglykoside**\n- **Tetrazykline**\n- **Sulfonamide**\n- Phenicole\n- Diaminopyrimidine\n- Pleuromutiline\n- Lincosamide\n- Polypeptide\n- Carbapeneme\n- Glycopeptide\n- Monobactam\n- Streptogramine\n- Quinoxaline\n- Ansamycine\n- Lipopeptide\n- Oxazolidinone\n\nBesonders hervorgehoben in den Kursunterlagen sind die **Makrolide, Fluorchinolone und Cephalosporine**.\n\n(Quellen: Muntermann, Infektiologie, 2008; Monarch, Infectiology, 2011)",
+  "facts": [
+    "Antibiose = Behandlung bakterieller Infektionen mit Antibiotika",
+    "Praktisch alle Bakterien sind mehr oder weniger gut mit Antibiose eindämmbar",
+    "CAVE: Resistenzen gegen Antibiotika",
+    "Wichtige Antibiotika-Gruppen: Penicilline, Cephalosporine, Makrolide, Fluorchinolone, Aminoglykoside, Tetrazykline, Sulfonamide, Glycopeptide, Carbapeneme, Oxazolidinone",
+    "Hervorgehoben im Kurs: Makrolide, Fluorchinolone, Cephalosporine",
+    "Antibiotika-Gruppen werden in Human- und Veterinärmedizin eingesetzt"
+  ],
+  "figures": [
+    {
+      "src": "assets/akl/g155.png",
+      "caption": "Entzündungsreaktion an Haut/Schleimhaut (Monarch 2011)"
+    },
+    {
+      "src": "assets/akl/g156.png",
+      "caption": "Venn-Diagramm: Antibiotika-Gruppen in Veterinär- und Humanmedizin"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Was versteht man unter Antibiose?",
+      "a": "Die Behandlung von bakteriellen Infektionen mit Antibiotika."
+    },
+    {
+      "q": "Welches zentrale Problem besteht bei der Antibiose (CAVE)?",
+      "a": "Die Entwicklung bakterieller Resistenzen gegen Antibiotika."
+    },
+    {
+      "q": "Sind alle Bakterien mit Antibiose eindämmbar?",
+      "a": "Ja, praktisch alle Bakterien sind mehr oder weniger gut mit einer Antibiose eindämmbar – allerdings mit der Einschränkung möglicher Resistenzen."
+    },
+    {
+      "q": "Nenne mindestens fünf Antibiotika-Wirkstoffgruppen.",
+      "a": "Z. B. Penicilline, Cephalosporine, Makrolide, Fluorchinolone, Aminoglykoside, Tetrazykline, Sulfonamide, Glycopeptide, Carbapeneme, Oxazolidinone."
+    },
+    {
+      "q": "Welche drei Antibiotika-Gruppen wurden im Kurs besonders hervorgehoben?",
+      "a": "Makrolide, Fluorchinolone und Cephalosporine."
+    },
+    {
+      "q": "In welchen medizinischen Bereichen werden die Antibiotika-Gruppen eingesetzt?",
+      "a": "In der Humanmedizin und der Veterinärmedizin."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Was ist die Definition von Antibiose?",
+      "choices": [
+        "Behandlung viraler Infektionen mit Virostatika",
+        "Behandlung bakterieller Infektionen mit Antibiotika",
+        "Behandlung von Pilzinfektionen mit Antimykotika",
+        "Vorbeugende Gabe von Impfstoffen"
+      ],
+      "answer": 1,
+      "expl": "Antibiose bedeutet die Behandlung bakterieller Infektionen mit Antibiotika."
+    },
+    {
+      "q": "Welche Antibiotika-Gruppen wurden in den Kursunterlagen besonders hervorgehoben (rot markiert)?",
+      "choices": [
+        "Penicilline, Aminoglykoside, Sulfonamide",
+        "Glycopeptide, Carbapeneme, Oxazolidinone",
+        "Tetrazykline, Polypeptide, Lincosamide",
+        "Makrolide, Fluorchinolone, Cephalosporine"
+      ],
+      "answer": 3,
+      "expl": "Im Venn-Diagramm der Kursunterlagen sind Makrolide, Fluorchinolone und Cephalosporine rot markiert."
+    },
+    {
+      "q": "Welche Aussage zur Eindämmbarkeit von Bakterien durch Antibiose ist richtig?",
+      "choices": [
+        "Nur grampositive Bakterien sind eindämmbar",
+        "Praktisch alle Bakterien sind mehr oder weniger gut eindämmbar, CAVE: Resistenzen",
+        "Kein Bakterium ist mit Antibiotika behandelbar",
+        "Antibiotika wirken nur gegen Viren"
+      ],
+      "answer": 1,
+      "expl": "Praktisch alle Bakterien sind mehr oder weniger gut mit einer Antibiose eindämmbar; das Hauptproblem sind Resistenzen."
+    }
+  ]
+}
