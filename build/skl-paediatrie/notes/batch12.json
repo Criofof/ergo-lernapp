@@ -1,0 +1,200 @@
+{
+  "batch": "12",
+  "pages": [
+    {
+      "gidx": 133,
+      "source": "skl-paediatrie p.133",
+      "slide_title": "Entwicklung der Schrift",
+      "type": "titel",
+      "notes_md": "# Entwicklung der Schrift\n\nTitelfolie: Einleitung des Themenblocks \"Entwicklung der Schrift\".",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": ["Themenblock: Entwicklung der Schrift"]
+    },
+    {
+      "gidx": 134,
+      "source": "skl-paediatrie p.134",
+      "slide_title": "Entwicklung der Schrift",
+      "type": "inhalt",
+      "notes_md": "# Entwicklung der Schrift\n\n## Wann fangen Kinder an zu schreiben?\n- Im Alter von 4 bis 6 Jahren können Kinder mit Werkzeugen umgehen und Schreibübungen durchführen\n- Visumotorische Fertigkeiten sind entscheidend für die Entwicklung der Handfunktionen\n- Hand-Augen-Koordination ist essenziell für Präzisionsarbeit\n\n## Allgemeine Voraussetzungen\n- Entwicklung der kleinen Handmuskeln\n- Hand-Auge-Koordination\n- Fähigkeit, Schreibwerkzeug zu halten\n- Problemloses Zeichnen von einfachen Formen (Kreise, Linien)\n- Buchstabenwahrnehmung (Erkennen der Form, gleichen und ungleichen Merkmalen und verbal beschreiben können)\n- Orientierung, wann eine Buchstabengruppe ein Wort bildet",
+      "figures": [
+        {
+          "caption": "Abb. 2: Die Entwicklung vom Kreis zum Viereck bzw. zum Dreieck verläuft stufenweise. Die Ecken kennzeichnen Kinder oft mit Strichen oder Spitzen.",
+          "shows": "Zeichnerische Entwicklungsstufen: Nachzeichnungen von Rechteck/Viereck und Dreieck durch Kinder in verschiedenen Stufen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Schreibbeginn: 4-6 Jahre, Umgang mit Werkzeugen und Schreibübungen möglich",
+        "Visumotorik entscheidend für Entwicklung der Handfunktionen",
+        "Hand-Augen-Koordination essenziell für Präzisionsarbeit",
+        "Voraussetzungen: kleine Handmuskeln, Schreibwerkzeug halten, einfache Formen zeichnen, Buchstabenwahrnehmung, Orientierung wann Buchstabengruppe ein Wort bildet"
+      ]
+    },
+    {
+      "gidx": 135,
+      "source": "skl-paediatrie p.135",
+      "slide_title": "Entwicklung der Schrift (Abb. 2 vergrößert)",
+      "type": "inhalt",
+      "notes_md": "# Entwicklung der Schrift — Abbildung 2 (vergrößert)\n\nVergrößerte Darstellung der Abb. 2 von der vorherigen Folie über dem gleichen Folieninhalt (Wann fangen Kinder an zu schreiben? / Allgemeine Voraussetzungen).\n\n**Abb. 2:** Die Entwicklung vom Kreis zum Viereck bzw. zum Dreieck verläuft stufenweise. Die Ecken kennzeichnen Kinder oft mit Strichen oder Spitzen.\n\nObere Reihe: stufenweise Entwicklung des Vierecks/Rechtecks (vom gerundeten Kreis über unregelmäßige Formen mit Andeutungen von Ecken zum Rechteck).\nUntere Reihe: stufenweise Entwicklung des Dreiecks (vom Kreis über gerundete Formen mit Strichen/Spitzen als Eckmarkierung zum Dreieck).",
+      "figures": [
+        {
+          "caption": "Abb. 2: Die Entwicklung vom Kreis zum Viereck bzw. zum Dreieck verläuft stufenweise. Die Ecken kennzeichnen Kinder oft mit Strichen oder Spitzen.",
+          "shows": "Stufenweise kindliche Zeichenentwicklung von geometrischen Formen: Viereck (obere Reihe) und Dreieck (untere Reihe), ausgehend vom Kreis",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Entwicklung vom Kreis zum Viereck bzw. Dreieck verläuft stufenweise",
+        "Ecken werden von Kindern oft mit Strichen oder Spitzen gekennzeichnet"
+      ]
+    },
+    {
+      "gidx": 136,
+      "source": "skl-paediatrie p.136",
+      "slide_title": "Entwicklung der Stifthaltung",
+      "type": "inhalt",
+      "notes_md": "# Entwicklung der Stifthaltung\n\n- **Unreife Stifthaltung (bis 4 Jahre)** -> palmarer Pronationsgriff, palmarer Supinationsgriff, Fingeroppositionsgriff, Pinselgriff, Stifthaltung mit gestrecktem Finger\n- **Übergangsstifthaltung (3-6 Jahre)** -> Lateral-Flexionsgriff, statischer Dreipunktgriff, statischer Vierfingergriff\n- **Reife Stifthaltung (ab 4-6 Jahre)** -> dynamischer Dreipunktgriff, lateraler Dreipunktgriff, dynamischer Vierfingergriff, lateraler Vierfingergriff, interdigitaler Dreipunktgriff = \"A-la-Ronde\"\n\nUnterschiede sind nur in Bewegung erkennbar",
+      "figures": [
+        {
+          "caption": "Abb. 2.17: Unreife Stifthaltungen (Foto: Christian Knospe) — a) Palmarer Pronationsgriff, b) Palmarer Supinationsgriff, c) Fingeroppositionsgriff, d) Pinselgriff",
+          "shows": "Fotos von Kinderhänden mit unreifen Stifthaltungen",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 2.18: Übergangsgriffe (Foto: Christian Knospe) — a) Lateraler Flexionsgriff, b) Statischer Dreipunktgriff, c) Statischer Vierfingergriff",
+          "shows": "Fotos von Übergangsstifthaltungen",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 2.19: Reife Stifthaltungen (Foto: Christian Knospe) — a) Dynamischer Dreipunktgriff, b) Lateraler Dreipunktgriff, c) Dynamischer Vierfingergriff, d) Lateraler Vierfingergriff, e) \"A-la-Ronde\"-Griff (interdigitaler Dreipunktgriff)",
+          "shows": "Fotos von reifen Stifthaltungen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Unreife Stifthaltung bis 4 Jahre: palmarer Pronationsgriff, palmarer Supinationsgriff, Fingeroppositionsgriff, Pinselgriff, Stifthaltung mit gestrecktem Finger",
+        "Übergangsstifthaltung 3-6 Jahre: Lateral-Flexionsgriff, statischer Dreipunktgriff, statischer Vierfingergriff",
+        "Reife Stifthaltung ab 4-6 Jahre: dynamischer/lateraler Dreipunktgriff, dynamischer/lateraler Vierfingergriff, interdigitaler Dreipunktgriff (A-la-Ronde)",
+        "Unterschiede der reifen Stifthaltungen nur in Bewegung erkennbar"
+      ]
+    },
+    {
+      "gidx": 137,
+      "source": "skl-paediatrie p.137",
+      "slide_title": "Möglichkeit der Überprüfung Symmetrieeignung",
+      "type": "inhalt",
+      "notes_md": "# Möglichkeit der Überprüfung Symmetrieeignung\n\n- **Beobachtungsinstrument SPOT** -> Screening Prewriting Skills Occupational Therapy\n- Kann das Kind beidhändig Kreise zu Papier bringen?\n- Kann das Kind eine liegende 8 zeichnen, ohne den Rumpf mitzubewegen? (Überkreuzen der Mittellinie)\n- **Aufgaben mit Papier und Stift:** Ausmalen, Namen schreiben, Mensch malen (Draw-a-man), Linien nachmalen: vertikal, horizontal, Zickzack, Schleifen vervollständigen\n- **Aufgaben Feinmotorik:** Auf einer Linie schneiden, Quadrat & Kreis ausschneiden, Stecker mit einer Hand in Lochbrett stecken, beidhändiges Kreise malen, liegende Acht (Rennstrecke)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "SPOT = Screening Prewriting Skills Occupational Therapy (Beobachtungsinstrument)",
+        "Prüfung: beidhändig Kreise malen, liegende 8 ohne Rumpfmitbewegung (Überkreuzen der Mittellinie)",
+        "Papier-und-Stift-Aufgaben: Ausmalen, Namen schreiben, Draw-a-man, Linien nachmalen, Schleifen vervollständigen",
+        "Feinmotorik-Aufgaben: auf Linie schneiden, Quadrat & Kreis ausschneiden, Stecker in Lochbrett, liegende Acht"
+      ]
+    },
+    {
+      "gidx": 138,
+      "source": "skl-paediatrie p.138",
+      "slide_title": "Weitere Tests",
+      "type": "inhalt",
+      "notes_md": "# Weitere Tests\n\n- **Developmental Test of Visual Motor Integration (Berry-VMI)**\n-> geprüft wird, wie sicher ein Kind bereits Buchstaben kopieren kann\n- **WRITIC = Writing Readiness Inventory Tool in Context**\n-> wird im Kindergartenkontext eingesetzt\n-> für Kinder in der letzten Kindergartenstufe (5-6 Jahre)",
+      "figures": [
+        {
+          "caption": "Beery VMI Testheft, Pre-Writing-Skills-Übersicht (Striche, Kreis, Kreuz, Quadrat, X, Dreieck) und WRITIC-Material (z. B. \"kom je tekenen?\" mit Oktopus)",
+          "shows": "Testmaterialien des Beery-VMI und des WRITIC sowie typische Pre-Writing-Grundformen",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Berry-VMI (Developmental Test of Visual Motor Integration): prüft, wie sicher ein Kind Buchstaben kopieren kann",
+        "WRITIC = Writing Readiness Inventory Tool in Context: Einsatz im Kindergartenkontext, letzte Kindergartenstufe (5-6 Jahre)"
+      ]
+    },
+    {
+      "gidx": 139,
+      "source": "skl-paediatrie p.139",
+      "slide_title": "Ergotherapie",
+      "type": "inhalt",
+      "notes_md": "# Ergotherapie\n\n## Wie kann man die Mal- und Schreibentwicklung in der Ergotherapie fördern?\n\n**Reife Stifthaltung fördern**\n-> Handmuskulatur stärken\n-> Einsatz von vertikalen Schreiboberflächen\n-> Ergonomische Stifte und Schreibhilfen\n-> Händigkeit und ihre Bedeutung\n\n**Übungen:**\n-> Abwechslungsreiche, spielerische Übungen anbieten\n-> Überforderung vermeiden\n-> Vorbild sein\n-> Kindergerechte und ergonomische Stifte aussuchen\n-> Viel Lob",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Reife Stifthaltung fördern: Handmuskulatur stärken, vertikale Schreiboberflächen, ergonomische Stifte/Schreibhilfen, Händigkeit beachten",
+        "Übungsprinzipien: abwechslungsreich und spielerisch, Überforderung vermeiden, Vorbild sein, kindergerechte ergonomische Stifte, viel Lob"
+      ]
+    },
+    {
+      "gidx": 140,
+      "source": "skl-paediatrie p.140",
+      "slide_title": "Quellen",
+      "type": "quelle",
+      "notes_md": "# Quellen\n\n- https://lexikon.stangl.eu/25267/grafomotorik\n- https://www.skizzen-zeichnungen.de/anleitung-zum-mann-zeichnen-test-mzt/\n- https://developlearngrow.com/pre-writing-skills/\n- https://lexikon.stangl.eu/25267/grafomotorik\n- https://ergolink.thieme.de/ejournals/1869-5507_2024_10?fromSearch=true&context=search#/10.1055-a-2351-2246\n- https://ergo-life.at/warum-ein-altersentsprechende-malenentwicklung-nichts-mit-zeichentalent-zu-tun-hat/\n- thieme-connect.com\n- ergolink-thieme.de Text: Ergotherapie bei Kindern mit Höhrbeeinträchtigung und Behinderung\n- https://www.prospiel.ch/de/blog/foerderthemen/stifthaltung-schwunguebungen/",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 141,
+      "source": "skl-paediatrie p.141",
+      "slide_title": "Habt ihr noch Fragen?",
+      "type": "deko",
+      "notes_md": "# Habt ihr noch Fragen?\n\nAbschlussfolie ohne fachlichen Inhalt.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 142,
+      "source": "skl-paediatrie p.142",
+      "slide_title": "Danke",
+      "type": "deko",
+      "notes_md": "# Danke\n\nDankesfolie ohne fachlichen Inhalt.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 143,
+      "source": "skl-paediatrie p.143",
+      "slide_title": "Soziale Entwicklung, Spielentwicklung & Medienkonsum in der Kindheit",
+      "type": "inhalt",
+      "notes_md": "# Soziale Entwicklung, Spielentwicklung & Medienkonsum in der Kindheit\n(Mirija, Nora, Chanesta, Maja)\n\n## SOZIALE ENTWICKLUNG\n\n### Gruppenzugehörigkeit\n- Bedürfnis nach sozialer Anerkennung & Zugehörigkeit (Peer Gruppen & Freundschaften -> wichtig für soziale Identität)\n- Hohe Empfindlichkeit gegenüber Ausgrenzung/Ablehnung\n\n### Empathie\n- Verständnis gegenüber Gefühle anderer -> dadurch bessere Konfliktlösung & Vertiefung zwischenmenschlicher Beziehungen\n\n### Kooperationsfähigkeit\n- Zusammenarbeit, Befolgen von Regeln & Eingehen von Kompromissen werden durch Spielen und sozialen Interaktionen gefördert\n\n### Kognitive Entwicklung\n- Längere Konzentrationszeit & Aufmerksamkeitsspanne (bis zu 1h)\n- Tiefe Gedanken: Kinder äußern komplexere, tiefere Gedankengänge\n- Detaillierte Beobachtungen: Versuchen, alles zu verstehen und einzuordnen\n- Kritisches Denken: Hinterfragen Dinge und äußern kritische Gedanken\n- Spezielle Interessen: Entwicklung einer Leidenschaft für bestimmte Themen oder Sportarten\n- Geldthema: Interesse daran, eigenes Geld zu verdienen (z. B. durch Flohmärkte)\n- Flüssiges Lesen: Kinder beginnen, Bücher zu lesen und sich dafür zu interessieren\n\n### 4 Teilbereiche\n- Beziehungsverhalten\n- Soziale Kognition\n- Nonverbale Kommunikation\n- Soziales Lernen\n\n## SPIELENTWICKLUNG\n- **Zeitaufwand:** Kinder verbringen ca. 15.000 Stunden in den ersten sechs Jahren mit Spielen, was ihre Entwicklung fördert.\n- **Voraussetzungen:** Spiel braucht Zeit, Raum, Wohlbefinden und geeignete Spielpartner.\n- **Spiel als Lernform:** Fördert selbstgesteuertes Lernen, motorische, soziale und kognitive Fähigkeiten und hilft bei der Erkundung der Umwelt.\n\n### Spielentwicklung (Altersstufen)\n- 0-2 Jahre: Erkunden von Objekten, Parallelspiel\n- 3-4 Jahre: Rollenspiele, erstes Regelverständnis\n- 5-6 Jahre: Komplexere Rollenspiele, Bauen, Wettspiele\n- 7-11 Jahre: Sport- und Strategiespiele, komplexe soziale Strukturen\n\n### Spieltypen\n- Symbolisches Spiel (3-8 Jahre): Fördert Kreativität und Problemlösung\n- Regelspiele (ab 6 Jahren): Fördert strategisches Denken und Teamarbeit\n- Kooperative Spiele (ab 6 Jahren): Fördert Teamarbeit und Konfliktlösung\n\n## MEDIENKONSUM\n- Fast alle Haushalte mit Kindern besitzen technische Geräte (Stand 2020)\n- Kinder kommen immer jünger in Kontakt mit Medien\n- Bedienung der Medien wird immer einfacher und \"kindgerechter\"\n- Medien werden unterwegs genutzt\n- Internet eröffnet Kindern \"unbegrenzte Lebensräume\"\n- Sinneserfahrungen (Riechen, Schmecken, Hören, Sehen und Fühlen) sind grundlegend für die Entwicklung des Gehirns",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Soziale Entwicklung: Gruppenzugehörigkeit, Empathie, Kooperationsfähigkeit; 4 Teilbereiche: Beziehungsverhalten, soziale Kognition, nonverbale Kommunikation, soziales Lernen",
+        "Kinder verbringen ca. 15.000 Stunden in den ersten 6 Jahren mit Spielen",
+        "Spielentwicklung: 0-2 J. Parallelspiel; 3-4 J. Rollenspiele/erstes Regelverständnis; 5-6 J. komplexere Rollenspiele, Bauen, Wettspiele; 7-11 J. Sport-/Strategiespiele",
+        "Spieltypen: symbolisches Spiel (3-8 J.), Regelspiele (ab 6 J.), kooperative Spiele (ab 6 J.)",
+        "Medienkonsum: Kinder immer jünger in Kontakt mit Medien; Sinneserfahrungen grundlegend für Gehirnentwicklung"
+      ]
+    },
+    {
+      "gidx": 144,
+      "source": "skl-paediatrie p.144",
+      "slide_title": "Medienkonsum: Folgen & Empfehlungen; Ergotherapie; Fazit",
+      "type": "inhalt",
+      "notes_md": "# Folgen (des Medienkonsums)\n- Schädigung der geistigen Entwicklung\n- Suchtverhalten\n- (Motorische) Hyperaktivität\n- Schädigung in Hirn- und Verhaltensentwicklung\n- Gedächtnisprobleme\n- Erhöhtes Risikoverhalten\n- Sprachentwicklungsstörungen\n- Unruhe\n- Schlechteres Schlafverhalten\n- Zu wenig Schlaf: Beeinträchtigung des Sehvermögens und der räumlichen Wahrnehmung\n\n# Empfehlung\n- 0 bis 2 Jahre: Verzicht auf Bildschirmmedien\n- 2 bis 4 Jahre: 5 bis 10 Minuten am Tag bis zu einer maximalen Bildschirmzeit von einer Stunde\n- 4 bis 8 Jahre: Nicht länger als 30 Minuten bis maximal 60 Minuten pro Tag\n- Begleitung durch Bezugspersonen\n- Als Erwachsener sollte man ein Vorbild darstellen\n- Bewusste Gestaltung des Umgangs mit digitalen Medien\n- Feste Bildschirmzeiten\n\n# ERGOTHERAPIE\n\n## Soziale Entwicklung\n- Gruppenaktivitäten\n- Simulation von Situationen & Konfliktlösungen entwickeln\n- Rollenspiele\n- Soziale Geschichten\n\n## Spielentwicklung\n- Einsatz zur funktionellen Förderung von motorischen und kognitiven Fähigkeiten\n- Therapie kann spielerische Interventionen für Kind, Eltern und Interaktionen beinhalten\n- Spieltherapie als Methode zur Verarbeitung emotionaler Erlebnisse\n\n## Medienkonsum\n- Beratung der Eltern\n- Förderung von sensorischen und motorischen Aktivitäten\n- Training von Selbstregulation und Aufmerksamkeit\n- Soziales Kompetenztraining\n\n# FAZIT\n\n## Soziale Entwicklung\n- Soziale Entwicklung -> entscheidend bei Kindern für ihre Fähigkeit, Beziehungen aufzubauen, Konflikte zu lösen und Empathie zu entwickeln\n- In dieser Phase lernen sie wichtige soziale Fähigkeiten wie Kooperation und Kommunikation, die für ihre spätere Integration in die Gesellschaft grundlegend sind\n\n## Spielentwicklung\n- Spielen ist essenziell für die kindliche Entwicklung und sollte aktiv gefördert werden\n- Die Qualität des Spiels hängt stark von den bereitgestellten Möglichkeiten, der Umgebung und den Spielpartnern ab\n- Eltern und Therapeuten spielen eine zentrale Rolle bei der Unterstützung und Gestaltung des kindlichen Spiels\n\n## Medienkonsum\n- Bewusster und begrenzter Medienkonsum ist entscheidend für die gesunde Entwicklung von Kindern\n- In den ersten Jahren ist die Erfahrung aller Sinne besonders relevant\n- Eltern sollen als Vorbilder agieren und klare Regeln setzen\n- Digitale Medien sind kein Ersatz für direkte Interaktion",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Folgen von Medienkonsum: Schädigung geistige Entwicklung, Suchtverhalten, Hyperaktivität, Gedächtnisprobleme, Sprachentwicklungsstörungen, Schlafprobleme u. a.",
+        "Bildschirmzeit-Empfehlungen: 0-2 J. Verzicht; 2-4 J. 5-10 Min/Tag bis max. 1 Stunde; 4-8 J. 30 bis max. 60 Min/Tag",
+        "Ergotherapie: Gruppenaktivitäten, Rollenspiele, soziale Geschichten, Spieltherapie, Elternberatung, Selbstregulations- und Aufmerksamkeitstraining, soziales Kompetenztraining",
+        "Fazit: Digitale Medien sind kein Ersatz für direkte Interaktion; Eltern als Vorbilder mit klaren Regeln"
+      ]
+    }
+  ]
+}

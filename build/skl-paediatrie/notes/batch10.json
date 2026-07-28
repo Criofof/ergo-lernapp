@@ -1,0 +1,228 @@
+{
+  "batch": "10",
+  "pages": [
+    {
+      "gidx": 109,
+      "source": "skl-paediatrie p.109",
+      "slide_title": "ICD-10",
+      "type": "inhalt",
+      "notes_md": "## ICD-10\n\n- F80.- Umschriebene Entwicklungsstörung der Sprache und des Sprechens\n- F80.0 Artikulationsstörung\n- F80.1 Expressive Sprachstörung\n- F80.2- Rezeptive Sprachstörung\n- F83 Kombinierte umschriebene Entwicklungsstörung",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "F80.- Umschriebene Entwicklungsstörung der Sprache und des Sprechens",
+        "F80.0 Artikulationsstörung, F80.1 Expressive Sprachstörung, F80.2- Rezeptive Sprachstörung",
+        "F83 Kombinierte umschriebene Entwicklungsstörung"
+      ]
+    },
+    {
+      "gidx": 110,
+      "source": "skl-paediatrie p.110",
+      "slide_title": "Visuelle Entwicklung / Wahrnehmung",
+      "type": "titel",
+      "notes_md": "## Visuelle Entwicklung / Wahrnehmung\n\nKapiteltitel: Visuelle Entwicklung / Wahrnehmung",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 111,
+      "source": "skl-paediatrie p.111",
+      "slide_title": "Visuelle Wahrnehmung",
+      "type": "inhalt",
+      "notes_md": "## Visuelle Wahrnehmung\n\n### Definition\n- komplexer Prozess, der nach der Geburt weitergeht, Grundstrukturen sind bei allerdings schon vorhanden\n- vollständige Entwicklung in den ersten Lebensjahren -> besonders wichtig sind die ersten 12 Monate\n- entscheidende Entwicklungsphase dauert 1-2 Jahre, gewisse Anpassungsfähigkeit bleibt in zum 8. bis 10. Lebensjahr\n\n### Fakten\n- knapp 80% aller sensorischen Informationen werden über die Augen aufgenommen -> großen Einfluss auf die frühkindliche Entwicklung\n- schwere angeborene Sehbehinderungen können zu einer verzögerten Entwicklung der Fein-, Grobmotorik und Kognition führen",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Visuelle Wahrnehmung: komplexer Prozess, der nach der Geburt weitergeht; Grundstrukturen schon vorhanden",
+        "Besonders wichtig sind die ersten 12 Monate; entscheidende Entwicklungsphase dauert 1-2 Jahre",
+        "Knapp 80% aller sensorischen Informationen werden über die Augen aufgenommen",
+        "Schwere angeborene Sehbehinderungen können Fein-, Grobmotorik und Kognition verzögern"
+      ]
+    },
+    {
+      "gidx": 112,
+      "source": "skl-paediatrie p.112",
+      "slide_title": "Entwicklung (visuelle Wahrnehmung)",
+      "type": "inhalt",
+      "notes_md": "## Entwicklung\n\n- 1. - 4. Woche: können Objekte kurz fixieren, aber die Augenbewegungen sind noch unkoordiniert und ruckartig\n- bis 6. Woche: Fixation wird stabiler, Babys fangen an Gesichter zu erkennen, Beginn der Anpassung verschiedener Entfernungen\n- bis 8. Woche: Verbesserung der Scharfstellung und das Sehen mit beiden Augen\n- bis 12. Woche: Die Hand-Augen Koordination und das Farbsehen entwickeln sich\n- bis 6. Monat: Farb- & Kontrastsehen sind vollständig entwickelt, langes gezieltes Sehen ist möglich Hand-Augen Koordination verbessert sich weiterhin\n- bis 9. Monat: können sehr kleine Objekte wahrnehmen und gezielt greifen\n- bis 24. Monat: vollständig entwickelt",
+      "figures": [
+        {
+          "caption": "Tab. 26.1 Visuelle Entwicklung",
+          "shows": "Tabelle zur visuellen Entwicklung: Lebensalter, Visus, visuelle Funktionen und Reflexe",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "1.-4. Woche: kurzes Fixieren, Augenbewegungen unkoordiniert und ruckartig",
+        "bis 8. Woche: Scharfstellung und beidäugiges Sehen verbessern sich",
+        "bis 6. Monat: Farb- & Kontrastsehen vollständig entwickelt",
+        "bis 24. Monat: visuelle Entwicklung vollständig"
+      ]
+    },
+    {
+      "gidx": 113,
+      "source": "skl-paediatrie p.113",
+      "slide_title": "Entwicklung (Tab. 26.1 Visuelle Entwicklung)",
+      "type": "inhalt",
+      "notes_md": "## Entwicklung\n\n- 1. - 4. Woche: können Objekte kurz fixieren, aber die Augenbewegungen sind noch unkoordiniert und ruckartig\n- bis 6. Woche: Fixation wird stabiler, Babys fangen an, Gesichter zu ...\n\n### Tab. 26.1 Visuelle Entwicklung\n\n| Lebensalter | Visus | visuelle Funktionen, Reflexe |\n|---|---|---|\n| 1.-4. Woche | 0,05-0,1 | Fixationsreflex, Fixation wird aber nur kurz gehalten, Folgebewegungen sakkadiert und dysmetrisch |\n| bis 6. Woche | 0,2 | Fixation wird stabiler und länger, Säugling erkennt bekannte Gesichter, erstes reaktives Lächeln, Beginn der Nah-Fern-Einstellung |\n| bis 8. Woche | 0,3 | gezielt eingesetzte Akkommodation, Entwicklung von Binokularität und Stereopsis, glatte Folgebewegungen |\n| bis 12. Woche | 0,4 | Hand-Auge-Koordination unter Führung der Hand, sichere Akkommodation, Stereopsis, Farb- und Kontrastsehen fast völlig ausgereift |\n| 6. Monat | 0,6 | Farb- und Kontrastsehen ausgereift, Gesichtsfeldgrenzen annähernd frei, aufmerksame lang anhaltende Fixation, Beginn der Auge-Hand-Koordination unter Führung der Augen |\n| 9. Monat | 0,8-1,0 | sog. \"Krümelvisus\", auch kleinste Teile werden aufgesammelt, sicher ausgebildeter Pinzettengriff mit opponiertem Daumen |\n| 12. Monat bis 2. Lj. | 1,0 | visuelle Funktionen in allen Bereichen ausgereift |",
+      "figures": [
+        {
+          "caption": "Tab. 26.1 Visuelle Entwicklung",
+          "shows": "Tabelle mit Lebensalter, Visus und visuellen Funktionen/Reflexen von der 1.-4. Woche bis zum 2. Lebensjahr",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Visus 1.-4. Woche: 0,05-0,1; Fixationsreflex, sakkadierte und dysmetrische Folgebewegungen",
+        "bis 8. Woche: Visus 0,3; Akkommodation, Binokularität und Stereopsis",
+        "6. Monat: Visus 0,6; Farb- und Kontrastsehen ausgereift",
+        "9. Monat: Krümelvisus mit sicherem Pinzettengriff",
+        "12. Monat bis 2. Lebensjahr: Visus 1,0, visuelle Funktionen in allen Bereichen ausgereift"
+      ]
+    },
+    {
+      "gidx": 114,
+      "source": "skl-paediatrie p.114",
+      "slide_title": "Wofür braucht man visuelle Wahrnehmung / räumlich konstruktive Wahrnehmung",
+      "type": "inhalt",
+      "notes_md": "## Wofür braucht man visuelle Wahrnehmung\n\n- essenziell wichtig für viele Alltagsaufgaben und hilft bei:\n- -> GefahrenErkennung\n- -> Unterscheidung von Gesichtern, Farben & Formen\n- -> Texten, sie zu lesen und verstehen\n- -> der Planung von Handlungen\n- -> der räumlichen Orientierung\n\n## räumlich konstruktive Wahrnehmung\n\n- spezifischer Bereich, der ermöglicht, dass die räumliche Anordnung von Objekten erfasst und verarbeitet wird\n- Tiefenwahrnehmung: Entfernung & Perspektive\n- Größenkontanz: unterschiedliche Entfernung, Objekt bleibt gleich groß\n- Formkonstanz: Wiedererkennung\n- Konstruktion räumlicher Strukturen: Wichtig für Tätigkeiten\n- Wichtig bei bestimmten Berufen, Tätigkeiten und bei Entwicklung von Kindern",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Visuelle Wahrnehmung wichtig für Gefahrenerkennung, Unterscheidung von Gesichtern/Farben/Formen, Lesen, Handlungsplanung, räumliche Orientierung",
+        "Räumlich konstruktive Wahrnehmung: räumliche Anordnung von Objekten erfassen und verarbeiten",
+        "Tiefenwahrnehmung, Größenkonstanz, Formkonstanz, Konstruktion räumlicher Strukturen"
+      ]
+    },
+    {
+      "gidx": 115,
+      "source": "skl-paediatrie p.115",
+      "slide_title": "Assesment FEW3 Testung",
+      "type": "inhalt",
+      "notes_md": "## Assesment FEW3 Testung\n\n- Befundungsinstrument auf der Funktionsebene -> für ganzheitliche Diagnostik\n- Vor allem bei Verdacht auf eingeschränkte visuelle Wahrnehmung\n- häufige Ausgangspunkt: Schwierigkeiten beim Puzzeln, Lego bauen, lesen oder schreiben\n\n## Aufbau und Durchführung\n\n1. Hand-Augen Koordination\n2. Abzeichnen\n3. Figur-Grund-Wahrnehmung\n4. Gestaltschließen\n5. Formkonstanz\n\n- Einzeltest -> Dauer von ca. 20 bis 40 Minuten\n- In der Praxis meist eine Einheit\n- Auswertung durch Antwortenheft -> dokumentiert, umgewandelt in Punktewertung und ausgewertet",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "FEW3: Befundungsinstrument auf Funktionsebene bei Verdacht auf eingeschränkte visuelle Wahrnehmung",
+        "Untertests: Hand-Augen-Koordination, Abzeichnen, Figur-Grund-Wahrnehmung, Gestaltschließen, Formkonstanz",
+        "Einzeltest, Dauer ca. 20 bis 40 Minuten, Auswertung über Antwortheft mit Punktewertung"
+      ]
+    },
+    {
+      "gidx": 116,
+      "source": "skl-paediatrie p.116",
+      "slide_title": "Malentwicklung",
+      "type": "titel",
+      "notes_md": "## Malentwicklung\n\nKapiteltitel: Malentwicklung",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 117,
+      "source": "skl-paediatrie p.117",
+      "slide_title": "Malentwicklung — wichtige Fakten / graue Substanz",
+      "type": "inhalt",
+      "notes_md": "## Malentwicklung\n\n### wichtige Fakten\n- Zeichnung von Kindern lassen nicht auf deren IQ schließen -> zusätzliche Tests\n- Was passiert im Gehirn beim Malen? -> viele positive Effekte, verschiedene Bereiche werden gleichzeitig aktiviert, das fördert Wachstum der grauen Hirnsubstanz\n\n### graue Substanz\n- Aufgabe: Funktionen muskulären & sensorischen Kontrollorgane, Fähigkeit körperlicher Koordination & Gleichgewicht, basale Funktionen\n- im cerebralem Cortex: Lernen, Aufmerksamkeit, Gedächtnis, Denkvorgänge\n- Beispielfunktionen Cerebellum: Motorik, Koordination, Präzision, Bewegungsabläufe",
+      "figures": [
+        {
+          "caption": "Gehirn-Übersicht: Großhirnrinde und Hirnstamm",
+          "shows": "Anatomische Abbildung des Gehirns mit Großhirnrinde (Hirnlappen) und Hirnstamm",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Zeichnungen von Kindern lassen nicht auf deren IQ schließen -> zusätzliche Tests nötig",
+        "Malen aktiviert verschiedene Hirnbereiche gleichzeitig und fördert Wachstum der grauen Hirnsubstanz",
+        "Graue Substanz im cerebralen Cortex: Lernen, Aufmerksamkeit, Gedächtnis, Denkvorgänge",
+        "Cerebellum: Motorik, Koordination, Präzision, Bewegungsabläufe"
+      ]
+    },
+    {
+      "gidx": 118,
+      "source": "skl-paediatrie p.118",
+      "slide_title": "Malentwicklung — Gehirn: Großhirnrinde / Hirnstamm",
+      "type": "inhalt",
+      "notes_md": "## Malentwicklung\n\n### wichtige Fakten\n- Zeichnung von Kindern lassen nicht auf deren IQ schließen -> ...\n\nAbbildungen:\n- Gehirn-Schema (Seitenansicht) mit Beschriftung: frontal lobe, somatomotor cortex, somatosensory cortex, parietal lobe, occipital lobe, temporal lobe, cerebellum, medulla oblongata, spinal cord\n- Großhirnrinde: anatomisches Präparat (Schnittbild) des Gehirns mit markierter Großhirnrinde\n- Hirnstamm: im Schema markiert",
+      "figures": [
+        {
+          "caption": "Gehirn-Schema Seitenansicht",
+          "shows": "Beschriftetes Gehirn-Schema: frontal lobe, somatomotor cortex, somatosensory cortex, parietal lobe, occipital lobe, temporal lobe, cerebellum, medulla oblongata, spinal cord; Hirnstamm markiert",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Großhirnrinde (anatomisches Präparat)",
+          "shows": "Schnittpräparat des Gehirns mit hervorgehobener Großhirnrinde",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Gehirn-Schema: frontal lobe, somatomotor cortex, somatosensory cortex, parietal lobe, occipital lobe, temporal lobe, cerebellum, medulla oblongata, spinal cord",
+        "Großhirnrinde und Hirnstamm anatomisch dargestellt"
+      ]
+    },
+    {
+      "gidx": 119,
+      "source": "skl-paediatrie p.119",
+      "slide_title": "Warum malen Kinder?",
+      "type": "inhalt",
+      "notes_md": "## Warum malen Kinder?\n\n- erfüllt mehrere Funktionen\n- Nachahmungsfunktion: ahmen Erwachsene & Kinder nach und üben dabei spielerische Fähigkeiten -> schreiben & Arbeitsplanung\n- Abbildungsfunktion: realistische Wiedergabe der sichtbaren Welt, ohne tiefer Bedeutung\n- Kommunikationsfunktion: Mitteilung und Ausdruck von Gefühlen und Teilhabe an Umwelt\n- Ausdrucks- & Symbolfunktion: Hinweise auf emotionale Verfassung, psychoanalytische Interpretationen sind umstritten\n- wichtigste Vorbereitung des Schreibens",
+      "figures": [
+        {
+          "caption": "Abb. 4 Menschzeichnung eines 5-jährigen",
+          "shows": "Kinderzeichnung: Menschzeichnung eines 5-jährigen Kindes",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 10 Nuria, 4;9 Jahre (IQ: 155)",
+          "shows": "Kinderzeichnung: Nuria, 4;9 Jahre (IQ: 155) hat ein Zeichnungsalter von > 8 Jahren",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Malen erfüllt Nachahmungs-, Abbildungs-, Kommunikations-, Ausdrucks- & Symbolfunktion",
+        "Psychoanalytische Interpretationen von Kinderzeichnungen sind umstritten",
+        "Malen ist die wichtigste Vorbereitung des Schreibens"
+      ]
+    },
+    {
+      "gidx": 120,
+      "source": "skl-paediatrie p.120",
+      "slide_title": "Warum malen Kinder? (Beispielzeichnungen)",
+      "type": "inhalt",
+      "notes_md": "## Warum malen Kinder?\n\n- erfüllt mehrere Funktionen\n- Nachahmungsfunktion: ahmen Erwachsene & Kinder nach und üben dabei spielerische Fähigkeiten -> schreiben & Arbeitsplanung\n\nBeispielzeichnungen (vergrößert):\n- Abb. 4 Menschzeichnung eines 5-jährigen\n- Abb. 10 Nuria, 4;9 Jahre (IQ: 155) hat ein Zeichnungsalter von > 8 Jahren",
+      "figures": [
+        {
+          "caption": "Abb. 4 Menschzeichnung eines 5-jährigen",
+          "shows": "Vergrößerte Kinderzeichnung: Menschzeichnung eines 5-jährigen Kindes (Kopffüßler mit Armen, Beinen, Blumen)",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 10 Nuria, 4;9 Jahre (IQ: 155)",
+          "shows": "Vergrößerte Kinderzeichnung: Nuria, 4;9 Jahre (IQ: 155) hat ein Zeichnungsalter von > 8 Jahren; figürliche Zeichnung mit Textzeile",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Abb. 4: Menschzeichnung eines 5-jährigen",
+        "Abb. 10: Nuria, 4;9 Jahre (IQ: 155) hat ein Zeichnungsalter von > 8 Jahren"
+      ]
+    }
+  ]
+}

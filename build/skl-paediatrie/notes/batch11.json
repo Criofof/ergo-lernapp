@@ -1,0 +1,241 @@
+{
+  "batch": "11",
+  "pages": [
+    {
+      "gidx": 121,
+      "source": "skl-paediatrie p.121",
+      "slide_title": "grobe Übersicht (Mal- und Zeichenentwicklung)",
+      "type": "inhalt",
+      "notes_md": "## grobe Übersicht\n\n- Malbewegungen sind anfangs zufällig -> Stift wird aus der Schulter geführt (unreife Schrifthaltung ist normal)\n- ab 3-4 Jahren Beginn des gezielteren Zeichnen und Ausmalen -> Bewegungseinsatz kommt zunehmend aus Handgelenk & Ellenbogen\n- Stifthaltung reift zwischen 4 und 6 Jahren\n- gewinnen mehr Kontrolle über ihre Bewegungen, erkennen bekannte Formen und beginnen es bewusst zu benennen und weiterzuentwickeln -> führt zur Planung einfacher Figuren wie Bäumen, Blumen & Kopffüßlern",
+      "figures": [
+        {
+          "caption": "Abb. 3 Kopffüßler, gemalt von Kindern zwischen 3 und 4;6 Jahren",
+          "shows": "Mehrere Kinderzeichnungen von Kopffüßlern (Kopf mit direkt angesetzten Beinen/Armen)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Anfangs zufällige Malbewegungen, Stiftführung aus der Schulter (unreife Schrifthaltung ist normal)",
+        "Ab 3-4 Jahren gezielteres Zeichnen/Ausmalen, Bewegung zunehmend aus Handgelenk & Ellenbogen",
+        "Stifthaltung reift zwischen 4 und 6 Jahren",
+        "Planung einfacher Figuren: Bäume, Blumen, Kopffüßler"
+      ]
+    },
+    {
+      "gidx": 122,
+      "source": "skl-paediatrie p.122",
+      "slide_title": "grobe Übersicht (Zoom auf Abb. 3 Kopffüßler)",
+      "type": "inhalt",
+      "notes_md": "## grobe Übersicht (Zoom-Schritt)\n\nAnimations-/Zoom-Stufe der vorherigen Folie (p.121): Die Abbildung der Kopffüßler wird vergrößert über dem Text eingeblendet. Inhaltlich identisch mit p.121.\n\nText (teilweise verdeckt):\n- Malbewegungen sind anfangs zufällig -> Stift wird aus der Schulter geführt (unreife Schrifthaltung ist normal)\n- ab 3-4 Jahren Beginn des gezielteren Zeichnen und Ausmalen -> Bewegungseinsatz aus Handgelenk & Ellenbogen\n- Stifthaltung reift zwischen 4 und 6 Jahren\n- gewinnen mehr Kontrolle über ihre Bewegungen, erkennen bekannte Formen und beginnen es bewusst zu benennen und weiterzuentwickeln -> Planung einfacher Figuren wie Bäumen, Blumen & Kopffüßlern",
+      "figures": [
+        {
+          "caption": "Abb. 3 Kopffüßler, gemalt von Kindern zwischen 3 und 4;6 Jahren",
+          "shows": "Vergrößerte Darstellung der Kopffüßler-Kinderzeichnungen",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Zoom-Darstellung der Abb. 3 (Kopffüßler von Kindern zwischen 3 und 4;6 Jahren)"
+      ]
+    },
+    {
+      "gidx": 123,
+      "source": "skl-paediatrie p.123",
+      "slide_title": "Malphasen (Kellogg, 1969)",
+      "type": "inhalt",
+      "notes_md": "## Malphasen (Kellogg, 1969)\n\n- 2-3 Jährige -> kritzeln, Produkt hat keine Bedeutung\n- 3-4 Jährigen -> Gemaltes wird hinterher benannt\n- 4-5 Jährige -> Idee von dem was sie malen, Anordnung ist unterschiedlich, beginnen Zeichnung zu beschriften/ unterschreiben\n- 6-7 Jährige -> Bekanntes kann detailliert gemalt werden, muss nicht der Realität von Erwachsenen entsprechen\n- ab 8 Jahre -> Einbezug der Perspektive, Position & Anordnung werden wichtiger",
+      "figures": [
+        {
+          "caption": "Abb. 2.16 Malphasen nach Kellogg (1969)",
+          "shows": "Beispielzeichnungen der Malphasen a-e (2-3-jährige bis 8-jährige)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "2-3 J.: Kritzeln ohne Bedeutung des Produkts",
+        "3-4 J.: Gemaltes wird hinterher benannt",
+        "4-5 J.: Idee vorhanden, unterschiedliche Anordnung, Beginn des Beschriftens/Unterschreibens",
+        "6-7 J.: Bekanntes detailliert malbar, muss nicht der Realität entsprechen",
+        "Ab 8 J.: Perspektive, Position & Anordnung werden wichtiger"
+      ]
+    },
+    {
+      "gidx": 124,
+      "source": "skl-paediatrie p.124",
+      "slide_title": "Malphasen (Kellogg, 1969) (Zoom auf Abb. 2.16)",
+      "type": "inhalt",
+      "notes_md": "## Malphasen (Kellogg, 1969) (Zoom-Schritt)\n\nAnimations-/Zoom-Stufe der vorherigen Folie (p.123): Die Abbildung 2.16 (Malphasen nach Kellogg) wird vergrößert über dem Text eingeblendet. Inhaltlich identisch mit p.123.\n\nLegende der Abbildung 2.16 (Malphasen nach Kellogg, 1969):\n- a: 2-3-jährige\n- b: 3-4-jährige\n- c: 4-5-jährige\n- d: 6-7-jährige\n- e: 8-jährige",
+      "figures": [
+        {
+          "caption": "Abb. 2.16 Malphasen nach Kellogg (1969). a 2-3-jährige, b 3-4-jährige, c 4-5-jährige, d 6-7-jährige, e 8-jährige",
+          "shows": "Vergrößerte Beispielzeichnungen der fünf Malphasen: Kritzeln, benanntes Kritzeln (Flugzeug), erste Figuren, detaillierte Zeichnungen (Schneemann, Hund im Korb), perspektivische Szene (Kind auf Pferd mit Blumen und Sonne)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Abb. 2.16 zeigt die fünf Malphasen nach Kellogg (1969) mit Beispielzeichnungen je Altersstufe"
+      ]
+    },
+    {
+      "gidx": 125,
+      "source": "skl-paediatrie p.125",
+      "slide_title": "Entwicklungsstörungen",
+      "type": "inhalt",
+      "notes_md": "## Entwicklungsstörungen\n\n- ICD-10: F80 bis F89\n- beginnen ausnahmslos im Kleinkindalter oder in der Kindheit\n- eine Entwicklungseinschränkung oder -verzögerung von Funktionen, die eng mit der biologischen Reifung des Zentralnervensystems verknüpft sind\n- stetiger Verlauf ohne Remissionen und Rezidive\n- in den meisten Fällen auch Sprache, visuelle Fertigkeiten und Bewegungskoordination betroffen\n- mit dem Älterwerden vermindern sich die Störungen zunehmend, wenn auch geringere Defizite oft im Erwachsenenalter zurückbleiben\n- Kinder mit kognitivem Entwicklungsrückstand zeigen eine verzögerte Zeichenentwicklung, die ihrem Entwicklungsalter entspricht\n- Ihre Zeichnungen durchlaufen ähnliche Stadien wie bei normal entwickelten Kindern, erreichen jedoch oft nicht die höheren Entwicklungsstufen",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "ICD-10: F80 bis F89",
+        "Beginn ausnahmslos im Kleinkindalter oder in der Kindheit",
+        "Entwicklungseinschränkung/-verzögerung von Funktionen, verknüpft mit biologischer Reifung des ZNS",
+        "Stetiger Verlauf ohne Remissionen und Rezidive",
+        "Meist auch Sprache, visuelle Fertigkeiten und Bewegungskoordination betroffen",
+        "Kinder mit kognitivem Entwicklungsrückstand: verzögerte Zeichenentwicklung entsprechend dem Entwicklungsalter, höhere Stufen oft nicht erreicht"
+      ]
+    },
+    {
+      "gidx": 126,
+      "source": "skl-paediatrie p.126",
+      "slide_title": "Kopffüßler",
+      "type": "inhalt",
+      "notes_md": "## Kopffüßler\n\n- Altersspanne von 3-6 Jahren\n- Ab der ersten Hälfte des 4. Lebensjahres werden in die geschlossenen kreisförmigen Kritzel aus Augen, Nase und Mund eingezeichnet\n- bestehen meist aus 3 Teilen, direkt an den Kopf angesetzte Beine und (oft auch) Arme angesetzt\n- geht um bestimmte Grundformen, die ein Kind können sollte und um eine gute Handgeschicklichkeit",
+      "figures": [
+        {
+          "caption": "Abb. 9 David, 5;9 Jahre alt, mit UEMF, hat ein Zeichnungsalter von 4 Jahren",
+          "shows": "Kopffüßler-Zeichnung eines 5;9 Jahre alten Kindes mit UEMF (Zeichnungsalter 4 Jahre)",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Bunte Kinderzeichnungen von Kopffüßlern",
+          "shows": "Mehrere farbige Kopffüßler-Figuren mit angesetzten Armen und Beinen",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Kopffüßler: Altersspanne 3-6 Jahre",
+        "Ab 1. Hälfte des 4. Lebensjahres: Augen, Nase, Mund in kreisförmiges Kritzel eingezeichnet",
+        "Meist 3 Teile: Kopf mit direkt angesetzten Beinen (und oft Armen)",
+        "Zeigt Grundformen-Können und gute Handgeschicklichkeit"
+      ]
+    },
+    {
+      "gidx": 127,
+      "source": "skl-paediatrie p.127",
+      "slide_title": "Bewertungssystem (Mann-Zeichen-Test)",
+      "type": "inhalt",
+      "notes_md": "## Bewertungssystem\n\n- basiert auf einem Punktesystem, bei dem jedes Kriterium einen Punkt ergibt\n- Mann-Zeichen-Test (Hermann Ziler)\n- gezeichnete Merkmale müssen erkennbar sein und in einer räumlichen Beziehung zueinander stehen\n- Allgemeine Kriterien:\n  - Erkennbarkeit als Mensch\n  - Räumliche Beziehung\n- einzelne Bewertungskriterien:\n  - Details\n  - Kleidung\n  - Doppelkontur\n  - Arme/ Beine\n  - Physiologische Armstellung\n\nPunktevergabe (Beispiel aus Abbildung): Haare = 1 Punkt, Kopf = 1 Punkt, Augen = 1 Punkt, Nase = 1 Punkt, Mund = 1 Punkt, Arme = 1 Punkt, Körper = 1 Punkt, Beine = 1 Punkt, Gesamt = 8 Punkte",
+      "figures": [
+        {
+          "caption": "Punktesystem Mann-Zeichen-Test (Strichmännchen mit Punktangaben)",
+          "shows": "Strichmännchen-Zeichnung mit beschrifteten Kriterien: Haare, Kopf, Augen, Nase, Mund, Arme, Körper, Beine = je 1 Punkt, Gesamt = 8 Punkte",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Mann-Zeichen-Test nach Hermann Ziler: Punktesystem, jedes Kriterium = 1 Punkt",
+        "Merkmale müssen erkennbar sein und in räumlicher Beziehung zueinander stehen",
+        "Allgemeine Kriterien: Erkennbarkeit als Mensch, räumliche Beziehung",
+        "Einzelne Bewertungskriterien: Details, Kleidung, Doppelkontur, Arme/Beine, physiologische Armstellung",
+        "Beispiel: Haare, Kopf, Augen, Nase, Mund, Arme, Körper, Beine = je 1 Punkt, Gesamt 8 Punkte"
+      ]
+    },
+    {
+      "gidx": 128,
+      "source": "skl-paediatrie p.128",
+      "slide_title": "Graphomotorik",
+      "type": "titel",
+      "notes_md": "# Graphomotorik\n\nZwischentitel / Kapiteltrenner für den Abschnitt Graphomotorik. Kein weiterer Inhalt.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Kapiteltitel: Graphomotorik"
+      ]
+    },
+    {
+      "gidx": 129,
+      "source": "skl-paediatrie p.129",
+      "slide_title": "Graphomotorik",
+      "type": "inhalt",
+      "notes_md": "## Graphomotorik\n\n### Definition\n\n- spezieller Aspekt der menschlichen Feinmotorik -> vor allem die menschliche Schreibbewegung unter Berücksichtigung aller beteiligten Teilkomponenten wie Koordination, Bewegung im Handgelenk, der Finger und der Hände\n- komplexer psychomotorischer Prozess, der erlernt werden muss\n- Beim Schreiben führt man im Grunde große Bewegungen des Körpers im Kleinen aus -> um feinmotorisch etwas leisten zu können, muss es grobmotorisch verinnerlicht werden, wobei nach dem Erlernen die meisten Prozesse automatisch ablaufen\n\n### Malen Ausgangsbasis zum Schreiben\n\n- gute Fein-, Grafo- und Schreibmotorik hängt von einer gut koordinierten Körpergeschicklichkeit ab\n- Kinder, die im Krabbelalter unkoordiniert waren oder weniger gekrabbelt sind -> Probleme bei Kreuzkoordination",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Graphomotorik = spezieller Aspekt der Feinmotorik, v. a. Schreibbewegung (Koordination, Handgelenk, Finger, Hände)",
+        "Komplexer psychomotorischer Prozess, der erlernt werden muss",
+        "Feinmotorische Leistung setzt grobmotorische Verinnerlichung voraus; nach dem Erlernen laufen Prozesse automatisch ab",
+        "Gute Fein-/Grafo-/Schreibmotorik hängt von koordinierter Körpergeschicklichkeit ab",
+        "Unkoordiniertes/wenig Krabbeln im Krabbelalter -> Probleme bei Kreuzkoordination"
+      ]
+    },
+    {
+      "gidx": 130,
+      "source": "skl-paediatrie p.130",
+      "slide_title": "Graphomotorik (Fortsetzung) / Schlussfolgerung",
+      "type": "inhalt",
+      "notes_md": "## Graphomotorik (Fortsetzung)\n\n- das bedeutet, dass es zu Schwierigkeiten kommen kann, wenn man Schrägen und Überkreuzungen malen soll\n- dies bildet die Vorstufe zum Schreiben von Buchstaben, Zahlen und Häusern\n- manchmal ist auch die Raumwahrnehmung eingeschränkt\n- die Entwicklung der Händigkeit (rechts/links) kann verzögert sein\n- Kreuzkoordinationen sind wichtig, da sie beide Gehirnhälften miteinander verbinden\n\n### Schlussfolgerung\n\n- Um Kindern bei Problemen der Fein-, Grafo- und Schreibmotorik zu helfen, bietet es sich an parallel an den ganz körperlichen Sinnes-, Bewegungs- und Raumerfahrungen zu arbeiten\n\n=> Fein- und Grobmotorik bedingen sich gegenseitig",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Schwierigkeiten bei Schrägen und Überkreuzungen (Vorstufe zum Schreiben von Buchstaben, Zahlen, Häusern)",
+        "Raumwahrnehmung kann eingeschränkt sein; Händigkeitsentwicklung (rechts/links) kann verzögert sein",
+        "Kreuzkoordinationen verbinden beide Gehirnhälften",
+        "Therapie: parallel an ganzkörperlichen Sinnes-, Bewegungs- und Raumerfahrungen arbeiten",
+        "Fein- und Grobmotorik bedingen sich gegenseitig"
+      ]
+    },
+    {
+      "gidx": 131,
+      "source": "skl-paediatrie p.131",
+      "slide_title": "Brunos Reise nach Afrika",
+      "type": "inhalt",
+      "notes_md": "## Brunos Reise nach Afrika\n\n- Kinder schlüpfen in die Rolle von Bruno dem Bären\n- mit diesem erledigen sie verschiedene Aufgaben, z.B. motorische Aufgaben (Fein- & Grobmotorik), kognitive Aufgaben (Rätsel, erkennen Formen & Farben) und Interaktion (Bruno begegnet anderen Tieren)\n- Das Lernen und die Therapie finden auf eine spielerische Art statt\n- motivationssteigernd und positive Atmosphäre\n\nEinordnung: Graphomotorik ab 4 Jahren. Aus dem Buch: Oh je, die Spitze ist abgebrochen",
+      "figures": [
+        {
+          "caption": "Graphomotorik ab 4 Jahren - aus dem Buch: Oh je, die Spitze ist abgebrochen",
+          "shows": "Arbeitsblatt 'Bruno reist nach Afrika' mit Illustration (Storch, Palmen, Tiere)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Therapiekonzept 'Brunos Reise nach Afrika': Kinder schlüpfen in die Rolle von Bruno dem Bären",
+        "Aufgaben: motorisch (Fein- & Grobmotorik), kognitiv (Rätsel, Formen & Farben erkennen), Interaktion",
+        "Spielerisches Lernen und Therapie, motivationssteigernd, positive Atmosphäre",
+        "Graphomotorik ab 4 Jahren; aus dem Buch 'Oh je, die Spitze ist abgebrochen'"
+      ]
+    },
+    {
+      "gidx": 132,
+      "source": "skl-paediatrie p.132",
+      "slide_title": "Brunos Reise nach Afrika (Zoom auf Arbeitsblatt)",
+      "type": "inhalt",
+      "notes_md": "## Brunos Reise nach Afrika (Zoom-Schritt)\n\nAnimations-/Zoom-Stufe der vorherigen Folie (p.131): Das Arbeitsblatt 'Bruno reist nach Afrika' (Graphomotorik ab 4 Jahren, aus dem Buch: Oh je, die Spitze ist abgebrochen) wird vergrößert über dem Text eingeblendet. Inhaltlich identisch mit p.131.",
+      "figures": [
+        {
+          "caption": "Graphomotorik ab 4 Jahren - Bruno reist nach Afrika (Arbeitsblatt)",
+          "shows": "Vergrößertes Arbeitsblatt mit Zeichnung: Storch, Palmen, Chamäleon und weitere Tiere; Text 'BRUNO REIST NACH AFRIKA'",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Zoom-Darstellung des Arbeitsblatts 'Bruno reist nach Afrika' (Graphomotorik ab 4 Jahren)"
+      ]
+    }
+  ]
+}
