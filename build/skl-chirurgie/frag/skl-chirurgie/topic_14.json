@@ -1,0 +1,105 @@
+{
+  "id": "skl-chirurgie-t14",
+  "title": "Luxation, Subluxation und Luxationsfrakturen",
+  "eingrenzung": "Luxation, Subluxation und Gelenkpartner (Definition)",
+  "prio": "high",
+  "body": "## Wichtige Vokabeln\n\n- **Luxation** = Verrenkung: kein Kontakt mehr zwischen den Gelenkpartnern\n- **Subluxation**: Teilkontakt zwischen den Gelenkpartnern ist erhalten\n- **Distorsion**: Verstauchung / Verdrehung\n- **Arthrodese**: operative Gelenkversteifung\n- **Ankylose**: Gelenkversteifung durch Schrumpfung der Gelenkkapsel bei längerer Ruhigstellung\n\n## Sternoklavikulargelenkluxation\n\n**Definition:** komplette oder partielle Luxation der medialen Klavikula aus dem Sternoklavikulargelenk.\n\n**Klassifikation:**\n\n- **Anteriore Verrenkung (Luxatio praesternalis):** häufigster Verletzungstyp; das mediale Klavikulaende ist nach vorn oder vorn oben disloziert, prominent sichtbar und palpabel.\n- **Posteriore Verrenkung (Luxatio retrosternalis):** selten; das mediale Klavikulaende ist nach hinten oben disloziert; stark schmerzhaft, oft Stauung der Halsvenen mit Dyspnoe, Durchblutungsverminderung des ipsilateralen Armes, evtl. Schluckschmerzen.\n\n**Ursachen:**\n\n- Vordere Luxation: direkte oder indirekte (seitliche) Gewalteinwirkung auf die Klavikula, z. B. Sturz auf die Schulter mit Scher-Hebel-Mechanismus oder Sturz auf den ausgestreckten Arm.\n- Hintere Luxation: Anpralltraumen.\n\n**Diagnose:** klinische Untersuchung (mediale Klavikula meist prominent), Röntgen, CT, MRT. Bei hinterer Luxation unbedingt auf den neurovaskulären Status der oberen Extremität achten, in Zweifelsfällen Angiographie.\n\n## Kahnbeinpseudarthrose\n\nBei der fortgeschrittenen Kahnbeinpseudarthrose sind die Ränder der beiden Knochenfragmente des Kahnbeins bereits sklerosiert und es haben sich Zysten im Knochen gebildet — Zeichen einer nicht verheilten Fraktur (Pseudarthrose).\n\n## Perilunäre Luxation (Luxation des Os lunatum / Mondbeins)\n\nHäufige Luxation der Handwurzelknochen.\n\n**Ursache:** Sturz mit ausgestrecktem Arm nach hinten auf die dorsalreflektierte Hand; Riss des Bandes zwischen Os lunatum und Os capitatum.\n\n**Begleitverletzung — De-Quervain-Fraktur:** Lunatumluxation mit Skaphoidfraktur sowie Frakturen des Proc. styloideus.\n\n**Klinik:** schmerzhafte Bewegungseinschränkung im Handgelenk, Parästhesien im Versorgungsgebiet des N. medianus, evtl. Bajonettstellung der Hand.\n\n**Diagnostik:** Röntgen.\n\n**Therapie:**\n\n- sofortige Reposition und operative Bandnaht\n- Ruhigstellung im Unterarmgips mit Daumeneinschluss für ca. 3–4 Wochen\n- aktive und passive Bewegungen nach Gipsabnahme\n- Belastung gegen Widerstand nach ca. 6 Wochen\n- bei Beteiligung des N. medianus oder misslungener Reposition: offene Reposition und Fixation mit Spickdraht\n\n**Komplikationen:** Schädigung des N. medianus (posttraumatisches Karpaltunnelsyndrom), Lunatumnekrose.\n\n## Lunatummalazie = Lunatumnekrose = Morbus Kienböck\n\n**Definition:** aseptische Knochennekrose des Os lunatum.\n\nDas Os lunatum sitzt sowohl dem Radius als auch der Ulna auf. Normalerweise sind beide Knochen gleich lang (Nullvariante). Bei Plusvarianten (zu langer Knochen) oder Minusvarianten (zu kurzer Knochen) entstehen Längendifferenzen, die eine verstärkte Kompression auf das Mondbein ausüben — dies kann zu Nekrosen bis zur vollständigen Auflösung des Mondbeins führen. Die Biomechanik des Radiokarpalgelenks ist dann stark beeinträchtigt.\n\n**Merke:** In ca. 70 % der Fälle liegt eine Radius-Plus-Variante vor, deren Kennzeichen die Verkürzung der Ulna ist — also eine Ulna-Minusvariante.\n\n## Frakturen der Mittelhand\n\nHäufig betroffen: Metacarpale I und V. Frakturformen: Schaftfrakturen, gelenknahe Frakturen, Gelenkfrakturen.\n\nBesonderheit: Frakturen des Metacarpale I dislozieren häufig:\n\n- Bennet-Luxationsfraktur\n- Rolandofraktur\n- Winterstein-Fraktur\n\n**Bennet-Luxationsfraktur:**\n\n- intraartikuläre, basisnahe Schrägfraktur des Os metacarpale I mit Subluxation im Daumensattelgelenk nach proximal und radial\n- entsteht zumeist durch axiale direkte oder indirekte Gewalteinwirkung auf den adduzierten Daumen, z. B. bei Sturz auf die Hand\n- durch den Zug des M. abductor pollicis longus wird der distale Frakturanteil nach proximal luxiert\n\n**Klinik:** Druckschmerzhaftigkeit, schmerzhafte Bewegungseinschränkung, Schwellung als Folge des ossären Blutaustritts; palpatorisch (und teils sichtbar) Instabilität und Deformierung des Daumengelenks.\n\n**Therapie — immer operativ:**\n\n- Fixation des MCP I am MCP II durch 2 Spickdrähte oder eine kleine Zugschraube, bzw. Kirschnerdraht oder Miniplatte\n- Minifixateur\n- Ruhigstellung für ca. 4 Wochen in Unterarmgipsschiene\n\n**Nachbehandlung:** physiotherapeutische Geräte zur Kräftigung des Greifens und der Daumenmuskulatur; Therapiebälle zur Stärkung des Greifverhaltens und zur Vorbeugung einer Gelenkeinsteifung.",
+  "facts": [
+    "Luxation = kein Kontakt mehr zwischen den Gelenkpartnern; Subluxation = Teilkontakt erhalten",
+    "Distorsion = Verstauchung/Verdrehung; Arthrodese = operative Gelenkversteifung; Ankylose = Versteifung durch Kapselschrumpfung bei längerer Ruhigstellung",
+    "Luxatio praesternalis (anterior): häufigster Typ der Sternoklavikularluxation, mediales Klavikulaende nach vorn disloziert, palpabel",
+    "Luxatio retrosternalis (posterior): selten; Halsvenenstauung mit Dyspnoe, Durchblutungsverminderung des ipsilateralen Armes, evtl. Schluckschmerzen — neurovaskulären Status beachten",
+    "Fortgeschrittene Kahnbeinpseudarthrose: sklerosierte Fragmentränder und Zysten im Knochen",
+    "Perilunäre Luxation: Sturz auf dorsalreflektierte Hand, Bandriss zwischen Os lunatum und Os capitatum; Parästhesien im N.-medianus-Gebiet, evtl. Bajonettstellung",
+    "De-Quervain-Fraktur = Lunatumluxation mit Skaphoidfraktur",
+    "Therapie perilunäre Luxation: sofortige Reposition, Bandnaht, Unterarmgips mit Daumeneinschluss 3–4 Wochen; Komplikationen: posttraumatisches Karpaltunnelsyndrom, Lunatumnekrose",
+    "Lunatummalazie = Morbus Kienböck = aseptische Knochennekrose des Os lunatum; in ca. 70 % Radius-Plus-Variante (= Ulna-Minusvariante)",
+    "Bennet-Luxationsfraktur: intraartikuläre basisnahe Schrägfraktur des Os metacarpale I mit Subluxation im Daumensattelgelenk; Therapie immer operativ"
+  ],
+  "figures": [
+    {
+      "src": "assets/skl-chirurgie/g276.png",
+      "caption": "Röntgen: Kahnbeinpseudarthrose mit sklerosierten Fragmenträndern und zystisch verändertem Knochen"
+    },
+    {
+      "src": "assets/skl-chirurgie/g283.png",
+      "caption": "Röntgenbild: perilunäre Luxation des Os lunatum"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Was ist der Unterschied zwischen Luxation und Subluxation?",
+      "a": "Luxation: kein Kontakt mehr zwischen den Gelenkpartnern; Subluxation: Teilkontakt zwischen den Gelenkpartnern ist erhalten."
+    },
+    {
+      "q": "Welche Symptome sind typisch für die posteriore Sternoklavikularluxation (Luxatio retrosternalis)?",
+      "a": "Stark schmerzhaft, Stauung der Halsvenen mit Dyspnoe, Durchblutungsverminderung des ipsilateralen Armes, evtl. Schluckschmerzen."
+    },
+    {
+      "q": "Was versteht man unter einer De-Quervain-Fraktur?",
+      "a": "Lunatumluxation mit Skaphoidfraktur (zusätzlich Frakturen des Proc. styloideus möglich)."
+    },
+    {
+      "q": "Wie wird eine perilunäre Luxation therapiert?",
+      "a": "Sofortige Reposition, operative Bandnaht, Unterarmgips mit Daumeneinschluss für ca. 3–4 Wochen; bei N.-medianus-Beteiligung oder misslungener Reposition offene Reposition mit Spickdrahtfixation."
+    },
+    {
+      "q": "Was ist Morbus Kienböck und welche Varianten fördern ihn?",
+      "a": "Aseptische Knochennekrose des Os lunatum (Lunatummalazie); begünstigt durch Längendifferenzen von Radius und Ulna — in ca. 70 % der Fälle Radius-Plus-Variante (= Ulna-Minusvariante)."
+    },
+    {
+      "q": "Was ist eine Bennet-Luxationsfraktur und wie wird sie behandelt?",
+      "a": "Intraartikuläre basisnahe Schrägfraktur des Os metacarpale I mit Subluxation im Daumensattelgelenk; Therapie immer operativ (Spickdrähte, Zugschraube, Kirschnerdraht oder Miniplatte, Minifixateur), ca. 4 Wochen Ruhigstellung."
+    },
+    {
+      "q": "Worin unterscheiden sich Arthrodese und Ankylose?",
+      "a": "Arthrodese = operative Gelenkversteifung; Ankylose = Gelenkversteifung durch Schrumpfung der Gelenkkapsel bei längerer Ruhigstellung."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zur Luxatio retrosternalis des Sternoklavikulargelenks trifft zu?",
+      "choices": [
+        "Sie ist der häufigste Verletzungstyp des Sternoklavikulargelenks.",
+        "Das mediale Klavikulaende ist nach vorn oben disloziert und gut palpabel.",
+        "Sie kann Halsvenenstauung mit Dyspnoe und Durchblutungsverminderung des ipsilateralen Armes verursachen.",
+        "Sie entsteht typischerweise durch einen Sturz auf den ausgestreckten Arm."
+      ],
+      "answer": 2,
+      "expl": "Die posteriore Luxation ist selten, aber gefährlich: Das mediale Klavikulaende disloziert nach hinten oben und kann Halsvenenstauung mit Dyspnoe, Durchblutungsverminderung des Armes und Schluckschmerzen verursachen. Der häufigste Typ ist die anteriore Luxation (Luxatio praesternalis)."
+    },
+    {
+      "q": "Welche Struktur zieht bei der Bennet-Luxationsfraktur den distalen Frakturanteil nach proximal?",
+      "choices": [
+        "M. abductor pollicis longus",
+        "M. flexor pollicis longus",
+        "M. opponens pollicis",
+        "M. extensor pollicis brevis"
+      ],
+      "answer": 0,
+      "expl": "Durch den Zug des M. abductor pollicis longus wird der distale Frakturanteil des Os metacarpale I nach proximal luxiert (Subluxation im Daumensattelgelenk nach proximal und radial)."
+    },
+    {
+      "q": "Welche Komplikationen sind typisch für die perilunäre Luxation?",
+      "choices": [
+        "Kompartmentsyndrom des Unterarms und Reflexdystrophie",
+        "Posttraumatisches Karpaltunnelsyndrom und Lunatumnekrose",
+        "Sehnenrupturen und Lunatummalazie ausschließlich der Ulna",
+        "Ankylose des Ellenbogengelenks und Volkmann-Kontraktur"
+      ],
+      "answer": 1,
+      "expl": "Typische Komplikationen sind die Schädigung des N. medianus (posttraumatisches Karpaltunnelsyndrom) und die Lunatumnekrose."
+    },
+    {
+      "q": "Welche Befunde zeigen eine fortgeschrittene Kahnbeinpseudarthrose im Röntgenbild?",
+      "choices": [
+        "Frische Frakturlinie ohne Kallusbildung",
+        "Bajonettstellung der Hand",
+        "Verkalkung des N. medianus",
+        "Sklerosierte Fragmentränder und Zysten im Knochen"
+      ],
+      "answer": 3,
+      "expl": "Zeichen der fortgeschrittenen Pseudarthrose sind sklerosierte Ränder der beiden Knochenfragmente und Zystenbildung im Knochen — die Fragmente sind nicht verheilt."
+    }
+  ]
+}

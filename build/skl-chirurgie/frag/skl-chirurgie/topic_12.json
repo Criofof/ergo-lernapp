@@ -1,0 +1,80 @@
+{
+  "id": "skl-chirurgie-t12",
+  "title": "Pseudodivertikel und echte Divertikel",
+  "eingrenzung": "Pseudodivertikel und echte Ventrikel",
+  "prio": "high",
+  "body": "## Pseudodivertikel und echte Divertikel\n\n### Formen der Divertikel\n\n**Pseudodivertikel (falsche Divertikel):**\n- Ausstülpungen der Darmschleimhaut durch Gefäßmuskellücken\n\n**Echte Divertikel:**\n- Ausstülpungen der gesamten Darmwand\n- jenseits des 70. Lebensjahres haben etwa 50 % der Menschen Kolondivertikel\n- kommen in allen Colonabschnitten vor, besonders aber im Sigmoid\n\n**Divertikulose:** das Auftreten multipler Divertikel des Colons.\n\n**Divertikulitis:** Entzündung der Divertikel.\n\n### Ursachen / prädisponierende Faktoren\n- Darmwandschwäche bei gleichzeitig erhöhtem Innendruck im Darmlumen\n- ballaststoffarme Ernährung\n- hohes Alter\n- zunehmender Muskeltonus\n- zunehmende Bindegewebsschwäche im höheren Alter\n- chronische Blutstauung mit Gefäßektasien\n- Obstipation\n\n### Symptome\n- **Divertikulose:** meist symptomlos\n- **Divertikulitis:** druckschmerzhafte Walzen, Spasmen/Darmkrämpfe, Stuhlunregelmäßigkeiten\n\n### Diagnostik\n- Labor: erhöhte BKS, Leukozytose\n- Sonographie, CT, MRT, Coloskopie — strenge Indikationsstellung wegen der Gefahr der Perforation bei akuter Divertikulitis\n\n### Therapie\n**Divertikulose:**\n- ballaststoffreiche Ernährung, reichlich Flüssigkeit\n- keine Lebensmittel, die Körner enthalten (auch Obstsorten), weil diese sich leicht in den Divertikeln festsetzen und zu Entzündungen führen können\n\n**Divertikulitis — abhängig vom Grad der Entzündung:**\n- leichte Divertikulitis: Breitbandantibiotika (z. B. Piperacillin + Combactam oder Cefazolin + Metronidazol) und ballaststoffarme Kost\n- schwere Divertikulitis: parenterale Ernährung, Breitbandantibiotika, evtl. Eisblase\n\n### Meckeldivertikel (Dünndarm)\nDivertikel im Bereich des Dünndarms sind selten und meist ohne Symptomatik.\n\n**Definition:**\n- Ausstülpung des Ileums\n- Relikt des Ductus omphaloentericus (Dottergang — eine embryonale Struktur, die den Dottersack mit dem Darmrohr des Embryos verbindet), der sich in der 6. Embryonalwoche zurückbildet\n- etwa 2–3 % der Menschen sind betroffen\n\n**Lage:** beim Erwachsenen ca. 30–100 cm vor der Ileozökalklappe (Bauhin'sche Klappe).\n\n**Klinik:**\n- häufig symptomlos\n- bei Komplikationen: Blutungen, Entzündungen, Perforation\n- bei Entzündung kann es eine Appendizitis vortäuschen\n\n**Therapie:** chirurgische Abtragung.\n\n### Bezug zur Appendizitis\n- Meckeldivertikel liegen ca. 30–100 cm vor der Ileozökalklappe und können bei Entzündung, Perforation oder Blutung eine Appendizitis vortäuschen.\n- Lagevarianten der Appendix: 65 % retrozökal gelegen, 30 % in die freie Bauchhöhle ragend.\n- Die Altersappendizitis kann sehr symptomarm sein.\n- Bei Frauen immer eine extrauterine Schwangerschaft ausschließen.\n\n### Einordnung ins akute Abdomen\nIn der Topographie des akuten Abdomens werden die Divertikulitis periumbilikal/Mitte und die Sigmadivertikulitis bzw. Sigmaperforation dem linken Unterbauch zugeordnet; die Meckeldivertikulitis dem rechten Unterbauch. Grundsätze beim akuten Abdomen: schnellstmögliche Diagnosefindung und schnelle Entscheidung, ob OP oder konservativ; keine Schmerzmittel vor klarer Diagnose (nur auf ärztliche Anordnung), Nahrungskarenz, Infusionstherapie mit Bilanz, Magensonde, evtl. Antibiose i.v., Klistiere/Einläufe, evtl. Atemgymnastik/Inhalation als Pneumonieprophylaxe.",
+  "facts": [
+    "Pseudodivertikel: Ausstülpung der Darmschleimhaut durch Gefäßmuskellücken",
+    "Echtes Divertikel: Ausstülpung der gesamten Darmwand",
+    "Jenseits des 70. Lebensjahres ca. 50 % Kolondivertikel, besonders im Sigmoid",
+    "Divertikulose = multiples Auftreten von Divertikeln des Colons; Divertikulitis = Entzündung der Divertikel",
+    "Ursachen: Darmwandschwäche bei erhöhtem Innendruck, ballaststoffarme Ernährung, hohes Alter, Bindegewebsschwäche, Obstipation",
+    "Divertikulose meist symptomlos; Divertikulitis: druckschmerzhafte Walzen, Spasmen, Stuhlunregelmäßigkeiten",
+    "Coloskopie nur bei strenger Indikation — Perforationsgefahr bei akuter Divertikulitis",
+    "Therapie Divertikulose: ballaststoffreiche Kost, keine Körner; leichte Divertikulitis: Breitbandantibiotika + ballaststoffarme Kost; schwere: parenterale Ernährung, Antibiotika, evtl. Eisblase",
+    "Meckeldivertikel: Ausstülpung des Ileums, Relikt des Ductus omphaloentericus, ca. 2–3 % betroffen, 30–100 cm vor der Ileozökalklappe",
+    "Meckeldivertikel kann bei Entzündung eine Appendizitis vortäuschen; Therapie: chirurgische Abtragung"
+  ],
+  "figures": [
+    { "src": "assets/skl-chirurgie/g54.png", "caption": "Abb. 5.8 Echte und falsche Divertikel des Kolons" },
+    { "src": "assets/skl-chirurgie/g55.png", "caption": "Divertikel am Kolon (Präparatfoto)" },
+    { "src": "assets/skl-chirurgie/g56.png", "caption": "Endoskopiebild: Kolondivertikel" },
+    { "src": "assets/skl-chirurgie/g20.png", "caption": "Akutes Abdomen – Topographie" }
+  ],
+  "flashcards": [
+    { "q": "Was unterscheidet ein Pseudodivertikel von einem echten Divertikel?", "a": "Pseudodivertikel: Ausstülpung nur der Darmschleimhaut durch Gefäßmuskellücken. Echtes Divertikel: Ausstülpung der gesamten Darmwand." },
+    { "q": "Definiere Divertikulose und Divertikulitis.", "a": "Divertikulose = das Auftreten multipler Divertikel des Colons. Divertikulitis = Entzündung der Divertikel." },
+    { "q": "Welche Symptome zeigt eine Divertikulitis?", "a": "Druckschmerzhafte Walzen, Spasmen/Darmkrämpfe und Stuhlunregelmäßigkeiten. Die Divertikulose ist dagegen meist symptomlos." },
+    { "q": "Warum ist die Coloskopie bei akuter Divertikulitis nur streng indiziert?", "a": "Wegen der Gefahr der Perforation bei akuter Divertikulitis." },
+    { "q": "Wie wird eine leichte bzw. schwere Divertikulitis therapiert?", "a": "Leicht: Breitbandantibiotika (z. B. Piperacillin + Combactam oder Cefazolin + Metronidazol) und ballaststoffarme Kost. Schwer: parenterale Ernährung, Breitbandantibiotika, evtl. Eisblase." },
+    { "q": "Was ist ein Meckeldivertikel und wo liegt es?", "a": "Eine Ausstülpung des Ileums, Relikt des Ductus omphaloentericus (Dottergang); beim Erwachsenen ca. 30–100 cm vor der Ileozökalklappe (Bauhin'sche Klappe); ca. 2–3 % der Menschen sind betroffen." },
+    { "q": "Welche Komplikationen kann ein Meckeldivertikel verursachen?", "a": "Blutungen, Entzündungen, Perforation; bei Entzündung kann es eine Appendizitis vortäuschen. Therapie: chirurgische Abtragung." }
+  ],
+  "quiz": [
+    {
+      "q": "Was ist ein Pseudodivertikel?",
+      "choices": [
+        "Eine Ausstülpung der gesamten Darmwand",
+        "Eine Ausstülpung der Darmschleimhaut durch Gefäßmuskellücken",
+        "Ein Relikt des Ductus omphaloentericus",
+        "Eine Entzündung multipler Kolondivertikel"
+      ],
+      "answer": 1,
+      "expl": "Beim Pseudodivertikel stülpt sich nur die Schleimhaut durch Gefäßmuskellücken vor; das echte Divertikel umfasst die gesamte Darmwand."
+    },
+    {
+      "q": "In welchem Colonabschnitt treten Divertikel besonders häufig auf?",
+      "choices": [
+        "Coecum",
+        "Colon transversum",
+        "Colon ascendens",
+        "Sigmoid"
+      ],
+      "answer": 3,
+      "expl": "Divertikel kommen in allen Colonabschnitten vor, besonders aber im Sigmoid."
+    },
+    {
+      "q": "Welche Ernährungsempfehlung gilt bei Divertikulose?",
+      "choices": [
+        "Ballaststoffreiche Ernährung, reichlich Flüssigkeit, keine körnerhaltigen Lebensmittel",
+        "Streng ballaststoffarme Kost und parenterale Ernährung",
+        "Nahrungskarenz mit Magensonde",
+        "Kost reich an Körnern und Kernobst"
+      ],
+      "answer": 0,
+      "expl": "Bei Divertikulose: ballaststoffreiche Kost und reichlich Flüssigkeit; Körner werden gemieden, da sie sich in den Divertikeln festsetzen und Entzündungen auslösen können."
+    },
+    {
+      "q": "Wo liegt das Meckeldivertikel beim Erwachsenen typischerweise?",
+      "choices": [
+        "Im Sigmoid",
+        "Direkt an der Bauhin'schen Klappe",
+        "Ca. 30–100 cm vor der Ileozökalklappe",
+        "Im Duodenum"
+      ],
+      "answer": 2,
+      "expl": "Das Meckeldivertikel liegt ca. 30–100 cm vor der Ileozökalklappe (Bauhin'sche Klappe) und kann bei Entzündung eine Appendizitis vortäuschen."
+    }
+  ]
+}

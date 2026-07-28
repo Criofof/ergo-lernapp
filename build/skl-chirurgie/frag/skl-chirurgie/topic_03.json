@@ -1,0 +1,62 @@
+{
+  "id": "skl-chirurgie-t3",
+  "title": "Drainagen: Systeme, Indikationen und klinische Anwendung",
+  "eingrenzung": "Drainage",
+  "prio": "high",
+  "body": "# Drainage\n\nDrainagen sind **Schlauchsysteme**, die der Ableitung von **Blut, Eiter, Wundsekret oder sonstiger Flüssigkeit** aus Körper- und Abszesshöhlen oder Operationsgebieten dienen. Je nach Lage und Funktion bezeichnet man ab-/zuleitende Schlauchsysteme als **Katheter, Sonden oder Drainagen**.\n\n## Indikationen für Drainagen\n- Vermeidung der **Hämatombildung** im Operationsgebiet (Infektionsgefahr)\n- Kontrolle über den **postoperativen Blutverlust**\n- Ableitung von Eiter-, Blut- oder Sekretansammlungen aus Körperhöhlen (Pleuraraum, Bauchraum)\n- Absaugen von Luft beim **Pneumothorax** (Bülau-Drainage)\n\n## Systeme der Drainagen\n\n### Geschlossene Systeme ohne Sog\nDas Sekret wird über einen Kunststoffschlauch aus einer inneren Körperhöhle nach außen in einen Sammelbehälter (Flasche, Beutel) abgeleitet. Da kein Sog besteht, muss der **Auffangbehälter tiefer als der Patient** stehen. Anwendung vor allem in der **Bauchchirurgie**, da ein zu starker Sog die Darmwand schädigen könnte.\n- **Robinson-Drainage:** Peritonealdrainage, wird in den freien Bauchraum eingelegt, um Blut und Sekret abzuleiten.\n- **T-Drainage:** T-förmiges Kopfstück, wird in den **Gallengang** eingelegt, um den Gallenabfluss zu ermöglichen.\n\n### Geschlossene Systeme mit unkontrolliertem Sog\nAm Ende der Drainage befindet sich eine **Vakuumflasche**; die Saugstärke ist **nicht regulierbar**.\n- **Redon-Drainage:** am häufigsten eingesetzte Drainage; subkutan eingelegt, beugt durch ständigen Sog der Hämatombildung im OP-Gebiet vor. Wird bei fast jeder Operationswunde eingelegt.\n- **Saug-Spül-Drainage:** z. B. bei Gelenkinfektionen – kontinuierlich läuft eine Spüllösung in das infizierte Gelenk, die Flüssigkeit wird über eine zweite Drainage wieder abgesaugt.\n\n> Bei jeder größeren Operationswunde sollte eine subkutane Redon-Drainage eingelegt werden, um einen Abfluss von Blut und Wundsekret zu ermöglichen.\n\n### Geschlossene Systeme mit kontrolliertem Sog\nDie Saugstärke kann über ein angeschlossenes **Monometersystem** eingestellt und kontrolliert werden. Notwendig vor allem bei **Thoraxdrainagen**, da der physiologische Unterdruck im Pleuraraum zur Lungenentfaltung möglichst genau wiederhergestellt werden muss.\n- **Thoraxdrainage = Bülau-Drainage**, indiziert bei **Pneumothorax oder Hämatothorax**.\n- Einlage in den **2. oder 3. Interkostalraum (ICR) in der Medioklavikularlinie**, angeschlossen an eine unter Sog stehende Sekret-/Wasserflasche (Ein-Flaschen-System = kombiniertes Wasserverschluss- und Sammelgefäß, Heberprinzip).\n- **Thoraxdrainagen sind immer geschlossene Drainagesysteme mit kontrolliertem Sog.**\n\n### Halb offene Systeme\nDie Drainage liegt frei in einem Beutel, benötigt keinen Sog und funktioniert durch **Kapillarwirkung** (z. B. **Easy-Flow-System**). Anwendung: Ableitung von Sekreten aus der **Bauchhöhle**.\n\n### Offene Systeme\nOffene Drainagen enden außerhalb des Körpers frei in einem **Verbandmull**. Wegen der Infektionsgefahr dürfen sie **nur bei infizierten Wunden** angewandt werden; sie sollen eine Wundheilung vor Abheilung der Infektion verhindern.\n- Beispiele: **Penrose-Drainagen** (flache Gummi-/Latexstreifen, passive Drainage ohne Sog) und **Laschen**, z. B. bei **Peritonitis**.\n\n> Merksatz: Offene Systeme dürfen nur bei infizierten Wundgebieten eingelegt werden (z. B. Peritonitis).\n\n## Drainage in der Abszesstherapie\n- Typische Erreger von Abszessen: **koagulase-positive Staphylokokken**; Abszesse sind in fast allen Organen möglich (Furunkel/Karbunkel, Leber-, Milz-, Hirn-, Lungen-, Analabszess).\n- Therapie: **chirurgische Eröffnung (Abszessspaltung)**, Spülung der Abszesshöhle und **Einlage eines Drains**, um einen vorzeitigen Verschluss der Inzision zu verhindern und den weiteren Sekretabfluss zu ermöglichen; zusätzlich Ruhigstellung (ggf. Orthese) und Antibiose.\n- Sekretabfluss mittels **Redondrainage oder Laschen**.\n\n## Drainage beim Pneumothorax\n- Bei **ausgedehntem Pneumothorax** (konservativ nur < 3 cm): **Thoraxdrainage/Bülau-Drainage** – ein Schlauch wird in den Pleuraspalt eingelegt, um die eingedrungene Luft abzusaugen, sodass der negative Druck wiederhergestellt wird und die Lunge sich wieder entfalten kann.\n- Bei **Rezidiv**: Resektion des blasenbefallenen Lungenteils.\n- Vor **Pleurodese oder Pleuraabrasio** (Verklebung des Pleuraspaltes beim sekundären Pneumothorax) ist eine sofortige Entlastung durch eine Thoraxdrainage zwingend notwendig.\n- Weitere Anwendung: **Punktion mit Drainage** zur Entlastung der Gelenkkapsel bei konservativ behandelten Schenkelhalsfrakturen.\n\n## Abgrenzung: Harnblasenkatheter (Beispiel ableitender Systeme)\n- Kunststoffschlauch zur Ableitung des Urins; Indikationen: längere Operationen, Inkontinenz, Harnverhalt, exakte Ausscheidungsbilanzierung.\n- **Transurethral** über die Harnröhre oder **suprapubisch** (Cystofix, Punktion über dem Schambein, nur bei stark gefüllter Blase).\n- Bei längerfristigem Bedarf wird wegen der **geringeren Infektionsgefahr** der suprapubische Katheter gewählt; Komplikation: aufsteigende Infektion (besonders transurethral).",
+  "facts": [
+    "Drainagen leiten Blut, Eiter, Wundsekret oder sonstige Flüssigkeit aus Körper-/Abszesshöhlen oder OP-Gebieten ab",
+    "Indikationen: Hämatomprophylaxe, Kontrolle des postop. Blutverlusts, Sekretableitung aus Pleura-/Bauchraum, Luftabsaugung beim Pneumothorax (Bülau)",
+    "Geschlossene Systeme ohne Sog: Auffangbehälter muss tiefer als der Patient stehen; Robinson-Drainage (freier Bauchraum), T-Drainage (Gallengang)",
+    "Unkontrollierter Sog: Vakuumflasche, nicht regulierbar; Redon-Drainage subkutan gegen Hämatombildung bei fast jeder OP-Wunde",
+    "Kontrollierter Sog: Monometersystem; Thoraxdrainage = Bülau-Drainage bei Pneumothorax/Hämatothorax; immer geschlossenes System mit kontrolliertem Sog",
+    "Thoraxdrainage: Einlage in den 2./3. ICR in der Medioklavikularlinie; Ein-Flaschen-System mit Wasserverschluss (Heberprinzip)",
+    "Halb offene Systeme (z. B. Easy-Flow): frei im Beutel, kein Sog, Kapillarwirkung, für Bauchhöhlensekrete",
+    "Offene Systeme (Penrose-Drainagen, Laschen): enden frei im Verbandmull; nur bei infizierten Wunden (z. B. Peritonitis)",
+    "Abszesstherapie: Abszessspaltung, Spülung, Draineinlage gegen vorzeitigen Verschluss; Sekretabfluss via Redondrainage oder Laschen",
+    "Suprapubischer Blasenkatheter (Cystofix) bei Langzeitbedarf wegen geringerer Infektionsgefahr als transurethral"
+  ],
+  "figures": [
+    {"src": "assets/skl-chirurgie/g2.png", "caption": "Redondrainage am Fuß/Unterschenkel"},
+    {"src": "assets/skl-chirurgie/g167.png", "caption": "Redon-Drainage mit Vakuumflasche"},
+    {"src": "assets/skl-chirurgie/g168.png", "caption": "Drainagesystem mit kontrolliertem Sog (Wasserschloss)"},
+    {"src": "assets/skl-chirurgie/g170.png", "caption": "Penrose-Drainage an der Hand/am Fuß"},
+    {"src": "assets/skl-chirurgie/g175.png", "caption": "Transurethraler Blasenkatheter bei Frau und Mann"},
+    {"src": "assets/skl-chirurgie/g257.png", "caption": "Therapie des Pneumothorax: Thoraxdrainage (Bülau)"}
+  ],
+  "flashcards": [
+    {"q": "Was sind Drainagen und welche vier Indikationen nennt man?", "a": "Schlauchsysteme zur Ableitung von Blut, Eiter, Wundsekret oder sonstiger Flüssigkeit aus Körper-/Abszesshöhlen oder OP-Gebieten. Indikationen: Hämatomprophylaxe, Kontrolle des postoperativen Blutverlusts, Ableitung aus Pleura-/Bauchraum, Luftabsaugung beim Pneumothorax (Bülau-Drainage)."},
+    {"q": "Welche Regel gilt für den Auffangbehälter bei geschlossenen Drainagesystemen ohne Sog – und welche zwei Drainagen gehören dazu?", "a": "Der Auffangbehälter muss tiefer als der Patient stehen. Dazu gehören die Robinson-Drainage (freier Bauchraum/Peritonealdrainage) und die T-Drainage (Gallengang)."},
+    {"q": "Was ist die Redon-Drainage und wann wird sie eingelegt?", "a": "Subkutan eingelegte Drainage mit unkontrolliertem Sog über eine Vakuumflasche (Saugstärke nicht regulierbar). Sie beugt der Hämatombildung im OP-Gebiet vor und wird bei fast jeder Operationswunde eingelegt."},
+    {"q": "Warum benötigt die Thoraxdrainage (Bülau-Drainage) einen kontrollierten Sog und wo wird sie eingelegt?", "a": "Der physiologische Unterdruck im Pleuraraum muss zur Lungenentfaltung möglichst genau wiederhergestellt werden (Saugstärke über Monometersystem einstellbar). Einlage in den 2. oder 3. ICR in der Medioklavikularlinie; Indikation: Pneumothorax oder Hämatothorax."},
+    {"q": "Wann dürfen offene Drainagesysteme angewandt werden? Nenne Beispiele.", "a": "Wegen der Infektionsgefahr nur bei infizierten Wunden (z. B. Peritonitis); sie verhindern eine Wundheilung vor Abheilung der Infektion. Beispiele: Penrose-Drainagen und Laschen."},
+    {"q": "Warum wird nach einer Abszessspaltung ein Drain eingelegt?", "a": "Um einen vorzeitigen Verschluss der Inzision zu verhindern und so den weiteren Sekretabfluss zu ermöglichen; die Abszesshöhle wird zuvor gespült. Sekretabfluss mittels Redondrainage oder Laschen."},
+    {"q": "Wie funktionieren halb offene Drainagesysteme und wo werden sie eingesetzt?", "a": "Die Drainage liegt frei in einem Beutel, benötigt keinen Sog und funktioniert durch Kapillarwirkung (z. B. Easy-Flow-System); eingesetzt zur Ableitung von Sekreten aus der Bauchhöhle."}
+  ],
+  "quiz": [
+    {
+      "q": "Welche Drainage wird mit ihrem T-förmigen Kopfstück in den Gallengang eingelegt?",
+      "choices": ["Robinson-Drainage", "T-Drainage", "Redon-Drainage", "Penrose-Drainage"],
+      "answer": 1,
+      "expl": "Die T-Drainage gehört zu den geschlossenen Systemen ohne Sog und wird mit ihrem T-förmigen Kopfstück in den Gallengang eingelegt, um den Gallenabfluss zu ermöglichen. Die Robinson-Drainage liegt im freien Bauchraum."
+    },
+    {
+      "q": "Welche Aussage zur Redon-Drainage ist richtig?",
+      "choices": ["Sie funktioniert ausschließlich durch Kapillarwirkung.", "Sie wird nur bei infizierten Wunden eingelegt.", "Sie ist ein geschlossenes System mit unkontrolliertem Sog über eine Vakuumflasche.", "Sie wird in den Gallengang eingelegt."],
+      "answer": 2,
+      "expl": "Die Redon-Drainage ist die am häufigsten eingesetzte Drainage: subkutan eingelegt, mit ständigem, nicht regulierbarem Sog einer Vakuumflasche zur Hämatomprophylaxe – bei fast jeder Operationswunde."
+    },
+    {
+      "q": "Eine Thoraxdrainage (Bülau-Drainage) wird eingelegt in den …",
+      "choices": ["2. oder 3. ICR in der Medioklavikularlinie", "5. ICR in der vorderen Axillarlinie", "freien Bauchraum", "Pleuraspalt ausschließlich dorsal"],
+      "answer": 0,
+      "expl": "Die Thoraxdrainage wird in den 2. oder 3. Interkostalraum in der Medioklavikularlinie eingelegt und an eine unter Sog stehende Sekret-/Wasserflasche angeschlossen (Bülau-Drainage)."
+    },
+    {
+      "q": "Wann dürfen offene Drainagesysteme (z. B. Penrose-Drainage, Laschen) angewandt werden?",
+      "choices": ["Bei jeder größeren Operationswunde", "Nur bei infizierten Wundgebieten, z. B. Peritonitis", "Ausschließlich beim Pneumothorax", "Nur in der Bauchchirurgie ohne Sog"],
+      "answer": 1,
+      "expl": "Offene Drainagen enden frei im Verbandmull und dürfen wegen der Infektionsgefahr nur bei infizierten Wunden eingelegt werden; sie sollen eine Wundheilung vor Abheilung der Infektion verhindern."
+    }
+  ]
+}
