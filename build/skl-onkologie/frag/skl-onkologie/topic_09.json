@@ -1,0 +1,107 @@
+{
+  "id": "skl-onkologie-t9",
+  "title": "Bronchialkarzinom: Formen, Ätiologie, Klinik und Diagnostik",
+  "eingrenzung": "Bronchialkarzinom (Formen)",
+  "prio": "high",
+  "body": "# Bronchialkarzinom (Lungenkarzinom)\n\nDas Bronchialkarzinom ist das **häufigste Karzinom des Mannes**; bei Frauen steht es an **Platz 2** (hinter Brustkrebs). Der Häufigkeitsgipfel liegt zwischen dem **55. und 60. Lebensjahr**.\n\n## Histologisches Beispiel: Adenokarzinom der Lunge\n\nIm histologischen Präparat sind die hellen Zellen die Karzinomzellen. Es handelt sich um ein **Adenokarzinom**: Es stammt von **Drüsenzellen** ab, die **ektodermale** Zellen sind.\n\n## Formen des Bronchialkarzinoms\n\n### Kleinzelliges Bronchialkarzinom\n- 15 bis 17 % aller Lungenkrebserkrankungen\n- Krebszellen sind klein und dicht gedrängt\n- wächst schnell und bildet frühzeitig Metastasen\n- schlechte Prognose\n\n### Nicht-kleinzelliges Bronchialkarzinom\nAlle anderen Karzinomarten; sie werden in 3 Gruppen unterteilt:\n\n**Plattenepithelkarzinom**\n- 15 bis 28 % aller Lungenkrebserkrankungen\n- bildet sich aus Zellen, die **keinen Schleim** bilden\n- betroffen sind die Verzweigungen der Luftwege (Bronchien)\n\n**Adenokarzinom**\n- 38 bis 48 % aller Lungenkarzinome (**häufigste Form**)\n- entsteht aus **schleimbildenden Drüsenzellen** der Lunge\n\n**Großzelliges Karzinom**\n- 5 bis 6 % aller Lungenkrebsfälle\n- große Zellen, die nicht eindeutig aus Drüsen- oder Epithelzellen bestehen\n\n## Ätiologie\n- Karzinogene Substanzen\n  - **Zigarettenrauchinhalation (85 %)**\n  - Asbeststaub\n  - genetische Disposition (2- bis 3-fach erhöht)\n  - umweltbedingte Luftverschmutzung\n\n## Metastasierung\n- **lymphogen**\n- **hämatogen** in: Leber, Gehirn, Nebennieren, Skelett\n\n## Klinik\n- Husten, Atemnot, Schmerzen im Thorax\n- **rezidivierende Lungenentzündungen** (karzinomverdächtig)\n- **therapieresistente Infektionen** (karzinomverdächtig)\n- Husten, der trotz Behandlung länger als 4 Wochen anhält\n- später: Bluthusten, Pleuraerguss, Lähmung des N. phrenicus\n\n### Besonderheit: Pancoast-Tumor (Lungenspitzentumor)\n- Armschmerzen (Plexusneuralgie)\n- Interkostalneuralgie\n- Armschwellungen (Lymph- und Venenstau)\n\n## Diagnostik\n- Anamnese, Klinik\n- Röntgen, MRT, CT, **Bronchoskopie**\n- Histologie aus Sputum, Biopsie\n- Sonographie der Leber\n- Labor: Tumormarker (wichtig für die Nachsorge)\n\nGewebeproben können durch **Inspektion** gewonnen werden bei Tumoren im Mund-, Rachen- und Magen-Darmbereich, bei Bronchialtumoren, an der Blase und an der Haut.\n\n## Therapie\n- chirurgisch: **Lobektomie**\n- Strahlentherapie (kurativ oder palliativ)\n- Zytostatikatherapie (Chemotherapie)\n\n## Prognose\n- schlecht: 5-Jahres-Überlebensrate ca. 5 %\n- **Frühdiagnose ist entscheidend!**\n\n## Optische Untersuchungsverfahren in der Tumordiagnose\n\n**Laparoskopie:** Inspektion der **Bauchhöhle** mit einer dafür konstruierten Sonde, dem Laparoskop.\n\n**Bronchoskopie:** visuelle Inspektion des **Bronchialsystems**. Heutige Instrumente sind klein und flexibel genug, um die Untersuchung beim wachen Patienten durchführen zu können. Die **Tumorsuche ist eine Hauptanwendung** (Hauptindikation) der Bronchoskopie.\n\n**Zystoskopie und Rektoskopie:** visuelle Inspektion von **Blase** bzw. **Enddarm** durch eine Sonde. Die Rektoskopie ist ein Teil der **Coloskopie** (Darmspiegelung) – diese ist der wesentliche Bestandteil der Krebsvorsorgeuntersuchung des Darmes.",
+  "facts": [
+    "Bronchialkarzinom: häufigstes Karzinom des Mannes; bei Frauen Platz 2 hinter Brustkrebs; Häufigkeitsgipfel 55.–60. Lebensjahr",
+    "Hauptnoxe: Zigarettenrauchinhalation (85 %); weitere: Asbeststaub, genetische Disposition, Luftverschmutzung",
+    "Kleinzelliges Bronchialkarzinom: 15–17 %, kleine dicht gedrängte Zellen, wächst schnell, frühe Metastasen, schlechte Prognose",
+    "Nicht-kleinzelliges Bronchialkarzinom: Plattenepithelkarzinom (15–28 %), Adenokarzinom (38–48 %, häufigste), großzelliges Karzinom (5–6 %)",
+    "Adenokarzinom entsteht aus schleimbildenden Drüsenzellen (ektodermal); Plattenepithelkarzinom aus Zellen ohne Schleimbildung in den Bronchialverzweigungen",
+    "Metastasierung lymphogen und hämatogen in Leber, Gehirn, Nebennieren, Skelett",
+    "Karzinomverdächtig: rezidivierende Pneumonien, therapieresistente Infektionen, Husten >4 Wochen trotz Behandlung",
+    "Pancoast-Tumor (Lungenspitzentumor): Plexusneuralgie, Interkostalneuralgie, Armschwellungen durch Lymph- und Venenstau",
+    "Diagnostik: Röntgen, MRT, CT, Bronchoskopie, Histologie aus Sputum/Biopsie, Leber-Sonographie, Tumormarker (Nachsorge)",
+    "Therapie: Lobektomie, Strahlentherapie (kurativ/palliativ), Chemotherapie; Prognose schlecht (5-Jahres-Überlebensrate 5 %), Frühdiagnose entscheidend",
+    "Bronchoskopie = visuelle Inspektion des Bronchialsystems, Hauptindikation Tumoruntersuchung, beim wachen Patienten möglich",
+    "Laparoskopie = Inspektion der Bauchhöhle; Zystoskopie = Blase; Rektoskopie = Enddarm, Teil der Coloskopie (Krebsvorsorge Darm)"
+  ],
+  "figures": [
+    {
+      "src": "assets/skl-onkologie/g13.png",
+      "caption": "Lungenkarzinom im histologischen Präparat: Die hellen Zellen sind Karzinomzellen (Adenokarzinom)"
+    },
+    {
+      "src": "assets/skl-onkologie/g114.png",
+      "caption": "Lungenkarzinom: Röntgenbild und histologische Abbildung (Adenokarzinom aus Drüsenzellen)"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Wie häufig ist das kleinzellige Bronchialkarzinom und was kennzeichnet es?",
+      "a": "15–17 % aller Lungenkrebserkrankungen; kleine, dicht gedrängte Krebszellen; wächst schnell, bildet frühzeitig Metastasen; schlechte Prognose."
+    },
+    {
+      "q": "In welche 3 Gruppen wird das nicht-kleinzellige Bronchialkarzinom unterteilt (mit Häufigkeiten)?",
+      "a": "Plattenepithelkarzinom (15–28 %), Adenokarzinom (38–48 %, häufigste Form), großzelliges Karzinom (5–6 %)."
+    },
+    {
+      "q": "Aus welchen Zellen entsteht das Adenokarzinom der Lunge?",
+      "a": "Aus schleimbildenden Drüsenzellen der Lunge; Drüsenzellen sind ektodermale Zellen."
+    },
+    {
+      "q": "Welche Noxen gelten als Hauptursachen des Bronchialkarzinoms?",
+      "a": "Zigarettenrauchinhalation (85 %), Asbeststaub, genetische Disposition (2- bis 3-fach erhöht), umweltbedingte Luftverschmutzung."
+    },
+    {
+      "q": "Wohin metastasiert das Bronchialkarzinom hämatogen?",
+      "a": "Leber, Gehirn, Nebennieren und Skelett (außerdem lymphogene Metastasierung)."
+    },
+    {
+      "q": "Welche klinischen Zeichen beim Bronchialkarzinom sind karzinomverdächtig?",
+      "a": "Rezidivierende Lungenentzündungen, therapieresistente Infektionen und Husten, der trotz Behandlung länger als 4 Wochen anhält."
+    },
+    {
+      "q": "Was ist ein Pancoast-Tumor und welche Symptome verursacht er?",
+      "a": "Lungenspitzentumor; Armschmerzen (Plexusneuralgie), Interkostalneuralgie und Armschwellungen durch Lymph- und Venenstau."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Form des Bronchialkarzinoms ist mit 38–48 % die häufigste?",
+      "choices": [
+        "Plattenepithelkarzinom",
+        "Kleinzelliges Bronchialkarzinom",
+        "Adenokarzinom",
+        "Großzelliges Karzinom"
+      ],
+      "answer": 2,
+      "expl": "Das Adenokarzinom macht 38–48 % aller Lungenkarzinome aus und entsteht aus schleimbildenden Drüsenzellen der Lunge."
+    },
+    {
+      "q": "Welche Aussage zur Bronchoskopie ist richtig?",
+      "choices": [
+        "Sie ist die Inspektion der Bauchhöhle mit dem Laparoskop",
+        "Sie ist eine visuelle Inspektion des Bronchialsystems; Tumorsuche ist eine Hauptanwendung",
+        "Sie ist Teil der Coloskopie und dient der Darmkrebsvorsorge",
+        "Sie dient der Inspektion von Blase und Enddarm"
+      ],
+      "answer": 1,
+      "expl": "Die Bronchoskopie ist die visuelle Inspektion des Bronchialsystems; dank kleiner, flexibler Instrumente ist sie beim wachen Patienten möglich, Hauptindikation ist die Tumoruntersuchung."
+    },
+    {
+      "q": "Wie hoch ist die 5-Jahres-Überlebensrate beim Bronchialkarzinom laut Kurs?",
+      "choices": [
+        "50 %",
+        "25 %",
+        "15 %",
+        "5 %"
+      ],
+      "answer": 3,
+      "expl": "Die Prognose ist schlecht: Die 5-Jahres-Überlebensrate beträgt nur etwa 5 % – deshalb ist die Frühdiagnose entscheidend."
+    },
+    {
+      "q": "Welches Symptombild passt zum Pancoast-Tumor (Lungenspitzentumor)?",
+      "choices": [
+        "Bluthusten, Pleuraerguss, Lähmung des N. phrenicus",
+        "Armschmerzen (Plexusneuralgie), Interkostalneuralgie, Armschwellungen",
+        "Rezidivierende Pneumonien und therapieresistente Infektionen",
+        "Husten, Atemnot und Schmerzen im Thorax"
+      ],
+      "answer": 1,
+      "expl": "Der Pancoast-Tumor verursacht typischerweise Armschmerzen (Plexusneuralgie), Interkostalneuralgie und Armschwellungen durch Lymph- und Venenstau."
+    }
+  ]
+}

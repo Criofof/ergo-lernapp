@@ -1,0 +1,98 @@
+{
+  "id": "skl-onkologie-t6",
+  "title": "Kolorektales Karzinom",
+  "eingrenzung": "Kolorektales Karzinom",
+  "prio": "high",
+  "body": "# Kolorektales Karzinom\n\n## Epidemiologie\n\n- Zweithäufigstes Karzinom des Mannes (nach dem Bronchialkarzinom)\n- Inzidenz: ca. 30 pro 100.000 Einwohner pro Jahr\n- 90 % der Karzinome treten nach dem 50. Lebensjahr auf\n\n## Ätiologie\n\n- Vererbung\n- Risikoerkrankungen:\n  - Kolonadenom\n  - M. Crohn\n  - Colitis ulcerosa (chronisch entzündliche Darmerkrankung des Dickdarms)\n\n## Metastasierung\n\n- Auf dem Blutweg in **Leber und Lunge**\n\n## Klinik\n\n- Blut im Stuhl (hell)\n- Anfangs ohne Symptome\n- „Es war wohl etwas Land dabei\"\n- Leistungsknick\n- Gewichtsverlust\n- Anämie\n- Schmerzen, Fieber\n\nSpätsymptome des Darmkrebses (aus den Notizen zur Tumordiagnose): Veränderungen der Stuhlgewohnheiten, hartnäckige Verdauungsbeschwerden, Schmerzen, Blut im oder am Stuhl.\n\n## Diagnostik\n\n- Anamnese, Klinik\n- Spiegelung (Koloskopie), CT\n- Labor, Tumormarker, Anämieabklärung\n\n### Tumormarker\n\nTumormarker sind Proteine im Blut, deren Werte bei bestimmten Tumorarten ansteigen. Sie sind **nicht spezifisch** genug, um eine Krebserkrankung nachzuweisen (können auch z. B. bei Infektionen erhöht sein), eignen sich daher **nicht zum Screening**, sondern zur **Verlaufskontrolle** bei bekanntem Karzinom. Relevante Marker für den Magen-Darm-Trakt: **CEA** (Darm, Bauchspeicheldrüse, Lunge), **Ca 19-9** (Magen-Darm, Bauchspeicheldrüse) und **Tumor M2-PK** (Magen-Darmtrakt, Genitalorgane).\n\n### Endoskopie und Darm-CT\n\n- Die **Koloskopie** (Darmspiegelung) ist der wesentliche Bestandteil der Krebsvorsorgeuntersuchung des Darmes; die **Rektoskopie** (visuelle Inspektion des Enddarms durch eine Sonde) ist Teil der Koloskopie.\n- Die **Darm-CT** (virtuelle Koloskopie) kommt **ohne Schlauch** aus und liefert sehr genaue Bilder: Blick in den gesamten Darm, gefahrlos (keine Endoskop-Verletzungen der Darmwand), Dauer ca. 15 Minuten, der Patient kann die Praxis danach direkt verlassen.\n- Nachteile der klassischen Koloskopie: nicht immer ganze Darmstrecke untersuchbar, Probleme bei Stenosen und Darmwindungen, mögliche Verletzungen an Schleimhäuten oder Darmwand.\n\n## Früherkennung / Vorsorge (Darm)\n\n- Dickdarm- und Rektumuntersuchung mit Test auf verborgenes Blut jährlich bei Frauen und Männern ab 50 Jahren, ab 55 Jahren alle 2 Jahre.\n- Zwei Darmspiegelungen (im Abstand von 10 Jahren) oder Test auf verborgenes Blut im Stuhl (alle zwei Jahre) bei Frauen und Männern ab 55 Jahren.\n- Ab dem 65. Lebensjahr ist jede Darmspiegelung für die gesetzliche Krankenkasse die zweite Spiegelung.\n\n## Gesundheitliche Folgen der Tumorchirurgie am Darm\n\n- **Anus praeter** (= künstlicher Darmausgang) in fortgeschrittenen Fällen oder bei ungünstiger Lokalisation.",
+  "facts": [
+    "Zweithäufigstes Karzinom des Mannes (nach Bronchialkarzinom); ca. 30 pro 100.000 Einwohner pro Jahr",
+    "90% der Karzinome treten nach dem 50. Lebensjahr auf",
+    "Risikoerkrankungen: Kolonadenom, M. Crohn, Colitis ulcerosa",
+    "Metastasierung auf dem Blutweg in Leber und Lunge",
+    "Klinik: helles Blut im Stuhl, anfangs symptomlos, Leistungsknick, Gewichtsverlust, Anämie",
+    "Diagnostik: Anamnese/Klinik, Koloskopie, CT, Labor mit Tumormarkern (CEA, Ca 19-9, Tumor M2-PK) und Anämieabklärung",
+    "Vorsorge: Test auf verborgenes Blut jährlich ab 50; zwei Darmspiegelungen im 10-Jahres-Abstand oder Stuhlblut-Test alle 2 Jahre ab 55",
+    "Tumorchirurgie Darm: Anus praeter (künstlicher Darmausgang) in fortgeschrittenen Fällen"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Wie häufig ist das kolorektale Karzinom und ab welchem Alter tritt es meist auf?",
+      "a": "Zweithäufigstes Karzinom des Mannes (nach Bronchialkarzinom), ca. 30 pro 100.000 Einwohner pro Jahr; 90 % treten nach dem 50. Lebensjahr auf."
+    },
+    {
+      "q": "Welche Risikoerkrankungen begünstigen ein kolorektales Karzinom?",
+      "a": "Kolonadenom, M. Crohn und Colitis ulcerosa (chronisch entzündliche Darmerkrankung des Dickdarms)."
+    },
+    {
+      "q": "Wohin metastasiert das kolorektale Karzinom auf dem Blutweg?",
+      "a": "In Leber und Lunge."
+    },
+    {
+      "q": "Nenne typische klinische Zeichen des kolorektalen Karzinoms.",
+      "a": "Helles Blut im Stuhl, anfangs symptomlos, Leistungsknick, Gewichtsverlust, Anämie, Schmerzen und Fieber."
+    },
+    {
+      "q": "Welche Tumormarker sind für den Magen-Darm-Trakt relevant?",
+      "a": "CEA (Darm, Bauchspeicheldrüse, Lunge), Ca 19-9 (Magen-Darm, Bauchspeicheldrüse) und Tumor M2-PK (Magen-Darmtrakt, Genitalorgane)."
+    },
+    {
+      "q": "Warum eignen sich Tumormarker nicht zum Screening?",
+      "a": "Sie sind nicht spezifisch genug (können auch z. B. bei Infektionen erhöht sein) und dienen daher nur der Verlaufskontrolle bei bekanntem Karzinom."
+    },
+    {
+      "q": "Wie sieht die Darmkrebsvorsorge ab 50 bzw. ab 55 Jahren aus?",
+      "a": "Ab 50: jährlicher Test auf verborgenes Blut (ab 55 alle 2 Jahre); ab 55: zwei Darmspiegelungen im Abstand von 10 Jahren oder Stuhlblut-Test alle 2 Jahre."
+    },
+    {
+      "q": "Welche chirurgische Folge kann eine Darm-Tumoroperation haben?",
+      "a": "Anus praeter (künstlicher Darmausgang) in fortgeschrittenen Fällen oder bei ungünstiger Lokalisation."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zum kolorektalen Karzinom ist richtig?",
+      "choices": [
+        "Es ist das häufigste Karzinom des Mannes",
+        "Es ist das zweithäufigste Karzinom des Mannes (nach dem Bronchialkarzinom)",
+        "Es tritt zu 90 % vor dem 50. Lebensjahr auf",
+        "Die Inzidenz beträgt 30 pro 1.000 Einwohner pro Jahr"
+      ],
+      "answer": 1,
+      "expl": "Das kolorektale Karzinom ist das zweithäufigste Karzinom des Mannes, mit ca. 30 Fällen pro 100.000 Einwohner pro Jahr; 90 % treten nach dem 50. Lebensjahr auf."
+    },
+    {
+      "q": "Welche Erkrankung gehört NICHT zu den Risikoerkrankungen für ein kolorektales Karzinom?",
+      "choices": [
+        "Kolonadenom",
+        "M. Crohn",
+        "Colitis ulcerosa",
+        "Diabetes mellitus"
+      ],
+      "answer": 3,
+      "expl": "Risikoerkrankungen sind Kolonadenom, M. Crohn und Colitis ulcerosa; Diabetes mellitus wird in den Notizen nicht als Risikoerkrankung genannt."
+    },
+    {
+      "q": "Wohin metastasiert das kolorektale Karzinom typischerweise auf dem Blutweg?",
+      "choices": [
+        "Knochen und Gehirn",
+        "Leber und Lunge",
+        "Niere und Milz",
+        "Haut und Lymphknoten"
+      ],
+      "answer": 1,
+      "expl": "Die hämatogene Metastasierung erfolgt in Leber und Lunge."
+    },
+    {
+      "q": "Ab welchem Alter werden zwei Darmspiegelungen im Abstand von 10 Jahren (alternativ Stuhlblut-Test alle 2 Jahre) zur Vorsorge angeboten?",
+      "choices": [
+        "Ab 45 Jahren",
+        "Ab 50 Jahren",
+        "Ab 55 Jahren",
+        "Ab 65 Jahren"
+      ],
+      "answer": 2,
+      "expl": "Ab 55 Jahren: zwei Darmspiegelungen im 10-Jahres-Abstand oder Test auf verborgenes Blut im Stuhl alle zwei Jahre."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "skl-onkologie-t7",
+  "title": "Kernatypie bei Krebszellen – die wichtigsten Kriterien",
+  "eingrenzung": "Kernatypie bei Krebszellen (Kriterien)",
+  "prio": "high",
+  "body": "## Kernatypie bei Krebszellen (Kriterien)\n\n_Hinweis: Zu diesem Punkt lag keine direkt markierte Kursseite vor. Der folgende Abschnitt wurde daher fachlich korrekt auf Kursniveau (allgemeine Onkologie/Pathologie) ergänzt._\n\n**Kernatypien** sind Veränderungen des Zellkerns und gelten als eines der wichtigsten histologischen **Malignitätskriterien** – sie weisen auf eine bösartige (maligne) Tumorzelle hin und werden bei der **mikroskopischen Beurteilung** von Gewebeproben (Histologie/Zytologie) genutzt.\n\n### Wichtigste Kriterien der Kernatypie\n\n- **Kernvergrößerung**: Der Kern ist deutlich größer als bei normalen Zellen.\n- **Erhöhter Kern-Plasma-Quotient (Nukleo-zytoplasmatische Relation)**: Das Verhältnis von Kern zu Zytoplasma ist zugunsten des Kerns verschoben – der Kern nimmt überproportional viel Raum ein.\n- **Hyperchromasie**: Der Kern färbt sich besonders dunkel an, da der Chromatingehalt (DNA-Gehalt) erhöht ist.\n- **Polymorphie / Pleomorphie**: Kerne variieren stark in Form und Größe (**Anisokaryose** = unterschiedliche Kerngrößen im gleichen Gewebe).\n- **Unregelmäßige Kernkontur und grobes, klumpiges Chromatin**: Die Kernmembran ist nicht glatt rund/oval, das Chromatin ist ungleichmäßig verteilt.\n- **Prominente oder mehrere Nukleolen (Kernkörperchen)**: Zeichen der gesteigerten Stoffwechsel- und Teilungsaktivität.\n- **Vermehrte und atypische Mitosen**: Häufige, teils pathologische (z. B. mehrpolige) Teilungsfiguren als Ausdruck des unkontrollierten Wachstums.\n- **Polaritätsverlust**: Verlust der normalen Zell- und Kernausrichtung im Gewebeverband.\n\n### Bedeutung für die Diagnostik\nJe ausgeprägter die Kernatypien (zusammen mit weiteren Kriterien wie invasivem Wachstum und Zelldifferenzierung), desto höher der **Malignitätsgrad (Grading)** des Tumors. Für die Ergotherapie relevant: Das Grading beeinflusst Prognose und Therapie und damit auch Belastbarkeit, Nebenwirkungen und den rehabilitativen Bedarf der Patienten."
+,
+  "facts": [
+    "Kernatypien sind zentrale histologische Malignitätskriterien von Krebszellen",
+    "Typisch: Kernvergrößerung und erhöhter Kern-Plasma-Quotient",
+    "Hyperchromasie = dunklere Anfärbbarkeit des Kerns durch erhöhten DNA-Gehalt",
+    "Polymorphie/Pleomorphie: Kerne variieren stark in Form und Größe (Anisokaryose)",
+    "Prominente Nukleolen und grobes, klumpiges Chromatin weisen auf Malignität hin",
+    "Vermehrte und atypische (z. B. mehrpolige) Mitosen zeigen unkontrolliertes Wachstum",
+    "Ausprägung der Kernatypie fließt in das histologische Grading des Tumors ein"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Was versteht man unter Kernatypie bei Krebszellen?",
+      "a": "Veränderungen des Zellkerns (Größe, Form, Färbbarkeit, Mitosen), die als histologische Malignitätskriterien dienen."
+    },
+    {
+      "q": "Was bedeutet Hyperchromasie?",
+      "a": "Der Zellkern färbt sich besonders dunkel an, weil der Chromatin-/DNA-Gehalt erhöht ist."
+    },
+    {
+      "q": "Was ist der Kern-Plasma-Quotient und wie verändert er sich bei Tumorzellen?",
+      "a": "Das Verhältnis von Zellkern zu Zytoplasma; bei Tumorzellen ist er erhöht – der Kern nimmt überproportional viel Raum ein."
+    },
+    {
+      "q": "Nenne mindestens vier Kriterien der Kernatypie.",
+      "a": "Kernvergrößerung, erhöhter Kern-Plasma-Quotient, Hyperchromasie, Polymorphie (Anisokaryose), prominente Nukleolen, grobes Chromatin, vermehrte/atypische Mitosen, Polaritätsverlust."
+    },
+    {
+      "q": "Was sagt der Befund vermehrter und atypischer Mitosen aus?",
+      "a": "Er zeigt das unkontrollierte, gesteigerte Wachstum der Tumorzellen (teilweise pathologische, z. B. mehrpolige Teilungsfiguren)."
+    },
+    {
+      "q": "Welche diagnostische Bedeutung hat die Ausprägung der Kernatypie?",
+      "a": "Sie fließt in das histologische Grading (Malignitätsgrad) des Tumors ein und beeinflusst damit Prognose und Therapie."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welches Kriterium gehört NICHT zu den typischen Kernatypien?",
+      "choices": [
+        "Kernvergrößerung",
+        "Hyperchromasie",
+        "Gleichmäßig kleine, runde Kerne ohne Nukleolen",
+        "Atypische Mitosen"
+      ],
+      "answer": 2,
+      "expl": "Kernatypien sind gerade durch unregelmäßige, vergrößerte, polymorphe Kerne mit prominenten Nukleolen und Mitosen gekennzeichnet – gleichmäßig kleine runde Kerne entsprechen normalen Zellen."
+    },
+    {
+      "q": "Was bedeutet ein erhöhter Kern-Plasma-Quotient?",
+      "choices": [
+        "Das Zytoplasma überwiegt deutlich gegenüber dem Kern",
+        "Der Kern nimmt im Verhältnis zum Zytoplasma überproportional viel Raum ein",
+        "Die Zelle besitzt zwei Kerne",
+        "Der Kern enthält besonders viele Mitochondrien"
+      ],
+      "answer": 1,
+      "expl": "Bei Tumorzellen ist das Verhältnis von Kern zu Zytoplasma zugunsten des Kerns verschoben – ein klassisches Malignitätskriterium."
+    },
+    {
+      "q": "Warum erscheinen Tumorzellkerne bei der Hyperchromasie dunkler?",
+      "choices": [
+        "Wegen eines erhöhten Chromatin-/DNA-Gehalts im Kern",
+        "Wegen vermehrter Pigmenteinlagerung",
+        "Wegen einer dickeren Zellmembran",
+        "Wegen eines höheren Wassergehalts des Zytoplasmas"
+      ],
+      "answer": 0,
+      "expl": "Hyperchromasie entsteht durch den erhöhten DNA-Gehalt (Chromatin) der oft polyploiden Tumorzellkerne, der sich stärker anfärbt."
+    }
+  ]
+}

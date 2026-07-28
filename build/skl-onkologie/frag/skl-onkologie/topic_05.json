@@ -1,0 +1,77 @@
+{
+  "id": "skl-onkologie-t5",
+  "title": "Entfernung gutartiger Tumore: Indikationen und Begruendung",
+  "eingrenzung": "Wann muss man gutartige Tumore entfernen und warum?",
+  "prio": "high",
+  "body": "## Gutartige (benigne) Tumore — wann ist eine Entfernung noetig?\n\n*Hinweis: Zu diesem Eingrenzungspunkt lagen keine direkten Kursseiten vor. Der folgende Inhalt wurde daher fachlich korrekt auf Kursniveau ergaenzt und knuepft an die Nachbarthemen des Kurses an (z. B. Kolonadenom als Risikoerkrankung fuer das kolorektale Karzinom, Operationsprinzipien der Tumorchirurgie).*\n\n### Grundsaetzliches\n\nGutartige Tumore **metastasieren nicht** und wachsen meist langsam und verdrängend (expansiv) statt infiltrierend. Trotzdem koennen sie eine **operative Entfernung** notwendig machen. Die Entscheidung haengt von Lage, Groesse, Wachstum und Beschwerden ab.\n\n### Indikationen zur Entfernung\n\n- **Raumforderung / Kompression:** Auch ein benigner Tumor kann durch seine Groesse lebenswichtige Strukturen beengen — z. B. im Gehirn (neurologische Ausfaelle), an Atemwegen oder an Gefaessen und Nerven.\n- **Funktionelle Stoerungen des Organs:** Beeintraechtigt der Tumor die Organfunktion (z. B. Darmverschluss durch einen gutartigen Darmpolyp), muss er entfernt werden.\n- **Hormonaktive Tumore:** Gutartige Tumore endokriner Druesen koennen durch uebermaessige Hormonproduktion erhebliche Beschwerden verursachen.\n- **Diagnostische Unsicherheit:** Kann ein Malignom klinisch oder bildgebend nicht sicher ausgeschlossen werden, wird der Tumor entfernt und **histologisch** untersucht — nur die Gewebeuntersuchung sichert die Diagnose.\n- **Entartungsgefahr:** Manche benigne Tumore gelten als **Praekanzerosen**, d. h. sie koennen in ein Karzinom uebergehen. Kursbeispiel: Das **Kolonadenom** ist eine Risikoerkrankung fuer das **kolorektale Karzinom** und wird deshalb im Rahmen der Darmspiegelung (Koloskopie) entfernt.\n- **Beschaertigung der Lebensqualitaet:** Schmerzen, Blutungen, kosmetische Beeintraechtigung oder nachweisbares Wachstum koennen die Entfernung rechtfertigen.\n\n### Warum nicht einfach abwarten?\n\n- Jeder tastbare Tumor hat die Mehrzahl seiner Zellteilungen bereits hinter sich — Warten kann bei Entartungsrisiko die Prognose verschlechtern.\n- Kursprinzip der Tumorchirurgie: Der Tumor muss, wenn immer moeglich, **bis in das gesunde Gewebe hinein** entfernt werden; jedes zurueckgelassene Teil verschlechtert die Prognose. Dieses Prinzip der vollstaendigen Entfernung gilt auch beim gutartigen Tumor mit Entartungsrisiko.\n- Fruehzeitige Entfernung von Praekanzerosen ist **Krebsvorsorge** im eigentlichen Sinne (sekundaere Praevention), z. B. Polypenabtragung bei der Koloskopie.\n\n### Bezug zur Ergotherapie\n\nNach Tumoroperationen — auch bei benignen Tumoren — koennen funktionelle Einschraenkungen entstehen (vgl. gesundheitliche Folgen der Tumorchirurgie: z. B. neurologische Ausfaelle nach Eingriffen am Gehirn, Einschraenkungen nach Eingriffen an Lunge oder Darm). Die Ergotherapie unterstuetzt die Wiederherstellung von Selbststaendigkeit und Lebensqualitaet.",
+  "facts": [
+    "Gutartige Tumore metastasieren nicht, wachsen aber verdrängend und koennen durch ihre Lage gefaehrlich werden",
+    "Entfernungsindikationen: Kompression von Strukturen, Organfunktionsstoerung, Hormonaktivitaet, diagnostische Unsicherheit, Entartungsgefahr, Beschwerden",
+    "Kolonadenom = gutartiger Darmpolyp mit Entartungsrisiko (Risikoerkrankung fuer kolorektales Karzinom) — wird bei der Koloskopie entfernt",
+    "Nur die histologische Untersuchung sichert die Diagnose benigne vs. maligne",
+    "Tumorchirurgie-Prinzip: Entfernung bis in gesundes Gewebe hinein; Resttumor verschlechtert die Prognose",
+    "Entfernung von Praekanzerosen ist wirksame Krebsvorsorge (sekundaere Praevention)"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Nenne vier Indikationen, einen gutartigen Tumor zu entfernen.",
+      "a": "Kompression/Raumforderung, Organfunktionsstoerung, diagnostische Unsicherheit (Malignom nicht ausschliessbar), Entartungsgefahr (Praekanzerose), Hormonaktivitaet, Beschwerden wie Schmerz oder Blutung."
+    },
+    {
+      "q": "Warum kann ein gutartiger Tumor im Gehirn trotz gutartigkeit gefaehrlich sein?",
+      "a": "Wegen der Raumforderung: Er waechst verdrängend im starren Schaede und kann so lebenswichtige Strukturen komprimieren — neurologische Ausfaelle sind die Folge."
+    },
+    {
+      "q": "Welches Kursbeispiel zeigt, dass ein gutartiger Tumor entartet werden muss (Entartungsrisiko)?",
+      "a": "Das Kolonadenom (gutartiger Darmpolyp) — es gilt als Risikoerkrankung/Praekanzerose fuer das kolorektale Karzinom und wird bei der Darmspiegelung entfernt."
+    },
+    {
+      "q": "Wie wird die Diagnose 'gutartig' letztlich gesichert?",
+      "a": "Durch die histologische (feingewebliche) Untersuchung des entfernten Gewebes — klinisch und bildgebend kann ein Malignom oft nicht sicher ausgeschlossen werden."
+    },
+    {
+      "q": "Metastasieren gutartige Tumore?",
+      "a": "Nein. Benigne Tumore bilden keine Metastasen; gefaehrlich werden sie durch verdrängendes Wachstum, Funktionsstoerungen oder moegliche Entartung."
+    },
+    {
+      "q": "Warum ist die Entfernung von Darmpolypen Krebsvorsorge?",
+      "a": "Weil Adenome (Polypen) Praekanzerosen sind: Ihre rechtzeitige Entfernung bei der Koloskopie verhindert die Entstehung eines kolorektalen Karzinoms (sekundaere Praevention)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Situation ist KEINE zwingende Indikation zur Entfernung eines gutartigen Tumors?",
+      "choices": [
+        "Kompression lebenswichtiger Strukturen",
+        "Verdacht auf Malignitaet bei diagnostischer Unsicherheit",
+        "Kleiner, beschwerdefreier Tumor ohne Wachstum und ohne Entartungsrisiko",
+        "Nachgewiesene Entartungsgefahr (Praekanzerose)"
+      ],
+      "answer": 2,
+      "expl": "Ein kleiner, symptomloser Tumor ohne Wachstum und Entartungsrisiko kann kontrolliert (beobachtet) werden. Alle anderen Optionen sind klare Operationsindikationen."
+    },
+    {
+      "q": "Warum wird das Kolonadenom im Kurs als Beispiel fuer die Entfernung gutartiger Tumore genannt?",
+      "choices": [
+        "Weil es immer metastasiert",
+        "Weil es eine Risikoerkrankung fuer das kolorektale Karzinom ist (Entartungsgefahr)",
+        "Weil es starke Hormone produziert",
+        "Weil es die Atemwege komprimiert"
+      ],
+      "answer": 1,
+      "expl": "Das Kolonadenom ist eine Praekanzerose: Aus ihm kann ein kolorektales Karzinom entstehen. Deshalb wird es bei der Koloskopie entfernt. Benigne Tumore metastasieren grundsaetzlich nicht."
+    },
+    {
+      "q": "Welches chirurgische Prinzip aus dem Kurs gilt auch bei der Entfernung von Tumoren?",
+      "choices": [
+        "Der Tumor wird nur punktiert, nie vollstaendig entfernt",
+        "Man wartet grundsaetzlich ab, bis Symptome auftreten",
+        "Die Entfernung erfolgt ausschliesslich durch Chemotherapie",
+        "Der Tumor muss wenn immer moeglich bis in das gesunde Gewebe hinein entfernt werden"
+      ],
+      "answer": 3,
+      "expl": "Kursprinzip der Tumorchirurgie: vollstaendige Entfernung bis ins gesunde Gewebe hinein; jedes zurueckgelassene Tumorteil verschlechtert die Prognose drastisch."
+    }
+  ]
+}
