@@ -1,0 +1,188 @@
+{
+  "batch": "20",
+  "pages": [
+    {
+      "gidx": 229,
+      "source": "akl p.229",
+      "slide_title": "I Störungen der Zellteilung",
+      "type": "inhalt",
+      "notes_md": "## I Störungen der Zellteilung\n\n- Dreiteilung des Zentromers\n- Zellen mit vergrößertem Kern\n- Chromosomenveränderungen\n- Ausbleiben der Plasmaeinschnürrung während der Telophase",
+      "figures": [],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Störungen der Zellteilung: Dreiteilung des Zentromers, vergrößerter Kern, Chromosomenveränderungen, ausbleibende Plasmaeinschnürrung in der Telophase"
+      ]
+    },
+    {
+      "gidx": 230,
+      "source": "akl p.230",
+      "slide_title": "II Störungen des Zellstoffwechsels",
+      "type": "inhalt",
+      "notes_md": "## II Störungen des Zellstoffwechsels\n\n- Störungen in der Zufuhr und in der Verarbeitung\n  - Stoffe können bspw. von der Zelle nicht aufgenommen werden\n  - Zellorganellen arbeiten nicht richtig, gestört",
+      "figures": [],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Störungen des Zellstoffwechsels: Störungen in Zufuhr und Verarbeitung (Stoffe werden nicht aufgenommen; Zellorganellen arbeiten gestört)"
+      ]
+    },
+    {
+      "gidx": 231,
+      "source": "akl p.231",
+      "slide_title": "III Apoptose und Nekrose — Apoptose",
+      "type": "inhalt",
+      "notes_md": "## III Apoptose und Nekrose\n\n### Apoptose\n- programmierter Zelltod\n- Ausgelöst durch die Zelle selbst oder hormonell bedingt\n- Der Zellkern schrumpft, weiterer Abbau durch Phagozytose\n\n### Wissenswertes?! Störung der Apoptose\n- Apoptoseresistenz bei Tumoren oder AIDS",
+      "figures": [],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Apoptose = programmierter Zelltod, ausgelöst durch die Zelle selbst oder hormonell",
+        "Zellkern schrumpft, Abbau durch Phagozytose",
+        "Apoptoseresistenz tritt bei Tumoren oder AIDS auf"
+      ]
+    },
+    {
+      "gidx": 232,
+      "source": "akl p.232",
+      "slide_title": "III Apoptose und Nekrose — Nekrose",
+      "type": "inhalt",
+      "notes_md": "## III Apoptose und Nekrose\n\n### Nekrose\n- Provozierter Zelltod\n- Entsteht durch äußere Einflüsse\n\n### Welche äußeren Einflüsse können zu einer Nekrose führen?\n- Reibung, Hitze, Kälte, Bakterien, Fremdkörper etc.\n  - Verbrennungen, Erfrierungen\n  - Entzündungen\n  - Diabetisches Fußsyndrom\n  - Dekubiti",
+      "figures": [],
+      "eingrenzung_hits": [9, 12],
+      "key_facts": [
+        "Nekrose = provozierter Zelltod durch äußere Einflüsse",
+        "Auslöser: Reibung, Hitze, Kälte, Bakterien, Fremdkörper",
+        "Beispiele: Verbrennungen, Erfrierungen, Entzündungen, Diabetisches Fußsyndrom, Dekubiti"
+      ]
+    },
+    {
+      "gidx": 233,
+      "source": "akl p.233",
+      "slide_title": "III Apoptose und Nekrose — Nekrose (Abbildung Hand)",
+      "type": "inhalt",
+      "notes_md": "## III Apoptose und Nekrose\n\n### Nekrose\nAbbildung: Nekrose an den Fingern einer Hand — die Fingerkuppen sind schwarz verfärbt und abgestorben (trockene Gangrän).",
+      "figures": [
+        {
+          "caption": "Nekrose — Hand",
+          "shows": "Klinisches Foto einer Hand mit ausgeprägter Nekrose der Finger (schwarz verfärbte, abgestorbene Fingerkuppen, Gangrän)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Nekrose an der Hand: schwarz verfärbtes, abgestorbenes Gewebe (Gangrän)"
+      ]
+    },
+    {
+      "gidx": 234,
+      "source": "akl p.234",
+      "slide_title": "III Apoptose und Nekrose — Nekrose (Abbildung Unterschenkel)",
+      "type": "inhalt",
+      "notes_md": "## III Apoptose und Nekrose\n\n### Nekrose\nAbbildung: Ausgedehnte Nekrose am Unterschenkel — schwarz verfärbtes, nekrotisches Gewebe mit Wundrändern.",
+      "figures": [
+        {
+          "caption": "Nekrose — Unterschenkel",
+          "shows": "Klinisches Foto eines Unterschenkels mit großflächiger Nekrose (schwarz verfärbtes, abgestorbenes Gewebe mit sichtbaren Wundarealen)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Nekrose am Unterschenkel: ausgedehntes nekrotisches, schwarz verfärbtes Gewebe"
+      ]
+    },
+    {
+      "gidx": 235,
+      "source": "akl p.235",
+      "slide_title": "III Apoptose und Nekrose — Nekrose (Abbildung Dekubitus)",
+      "type": "inhalt",
+      "notes_md": "## III Apoptose und Nekrose\n\n### Nekrose\nAbbildung: Lokalisierte Nekrose der Haut (rundliche, dunkel verfärbte, gerötet umgebene Wunde — typisch für Dekubitus).",
+      "figures": [
+        {
+          "caption": "Nekrose — Haut/Dekubitus",
+          "shows": "Klinisches Foto einer umschriebenen Hautnekrose mit dunklem Zentrum und gerötetem Rand (Dekubitus)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Umschriebene Hautnekrose (Dekubitus): dunkles Zentrum mit gerötetem Rand"
+      ]
+    },
+    {
+      "gidx": 236,
+      "source": "akl p.236",
+      "slide_title": "Wiederholungsfragen",
+      "type": "inhalt",
+      "notes_md": "## Wiederholungsfragen\n\n- Von welchen Faktoren hängt die Semipermeabilität ab?\n- Nennen Sie ein Beispiel für die Wirkweise osmotischen Drucks im menschlichen Körper.\n- Nennen Sie eine der Hauptursachen für die genetische Einzigartigkeit jedes Individuums. Begründen Sie Ihre Aussage.\n- Was versteht man unter einem haploiden Chromosomensatz?\n- Worin liegt der grundlegende Unterschied zwischen Mitose und Meiose?",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Wiederholungsfragen zu Semipermeabilität, osmotischem Druck, genetischer Einzigartigkeit, haploidem Chromosomensatz und Unterschied Mitose/Meiose"
+      ]
+    },
+    {
+      "gidx": 237,
+      "source": "akl p.237",
+      "slide_title": "Hochschule Fresenius (Logo-Folie)",
+      "type": "deko",
+      "notes_md": "Folie mit dem Logo der Hochschule Fresenius — University of Applied Sciences (kein Fachinhalt).",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 238,
+      "source": "akl p.238",
+      "slide_title": "Allgemeine Hygiene und Pathologie — Benigne und maligne Neubildungen",
+      "type": "titel",
+      "notes_md": "## Titelfolie\n\n**Allgemeine Hygiene und Pathologie**\n\n**Benigne und maligne Neubildungen**\n\n- WS 2023/2024, Köln\n- Allgemeine Hygiene und Pathologie\n- Dr. med. Dr. phil. Mario Oliver Bohnhoff",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Neues Vorlesungsthema: Benigne und maligne Neubildungen (Dr. med. Dr. phil. Mario Oliver Bohnhoff, WS 2023/2024)"
+      ]
+    },
+    {
+      "gidx": 239,
+      "source": "akl p.239",
+      "slide_title": "Benigne und maligne Neubildungen — Neubildung / Neoplasie",
+      "type": "inhalt",
+      "notes_md": "## Benigne und maligne Neubildungen\n\n### Neubildung / Neoplasie\n\n- Unter einer **Neoplasie** versteht man eine gut- oder bösartige Neubildung von Körpergewebe durch eine Fehlregulation des Zellwachstums.\n- Im klinischen Sprachgebrauch wird der Begriff **Neoplasie** häufig für die überschießende, abnorme Neubildung von Zellen bei bösartigen Tumoren verwendet.\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors: Krebszellen durchbrechen die Basalmembran und dringen in das darunterliegende Gewebe ein (Normal cells vs. Cancer cells, Basement membrane)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Neoplasie = gut- oder bösartige Neubildung von Körpergewebe durch Fehlregulation des Zellwachstums",
+        "Klinisch meist für überschießende, abnorme Zellneubildung bei bösartigen Tumoren verwendet"
+      ]
+    },
+    {
+      "gidx": 240,
+      "source": "akl p.240",
+      "slide_title": "Benigne und maligne Neubildungen — Krebs",
+      "type": "inhalt",
+      "notes_md": "## Benigne und maligne Neubildungen\n\n### Krebs\n\n- Die Bezeichnung **Krebs** ist ein Sammelbegriff für die Gruppe der malignen (bösartigen) Tumorerkrankungen.\n- Ihr gemeinsames Merkmal ist das unkontrollierte Wachstum von Tumorzellen, die invasiv gesundes Gewebe verdrängen und zerstören können.\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors: Krebszellen durchbrechen die Basalmembran und wachsen invasiv in das Unterhautgewebe ein",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Krebs = Sammelbegriff für die Gruppe der malignen (bösartigen) Tumorerkrankungen",
+        "Gemeinsames Merkmal: unkontrolliertes Wachstum von Tumorzellen, die invasiv gesundes Gewebe verdrängen und zerstören"
+      ]
+    }
+  ]
+}

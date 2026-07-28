@@ -1,0 +1,268 @@
+{
+  "batch": "21",
+  "pages": [
+    {
+      "gidx": 241,
+      "source": "akl p.241",
+      "slide_title": "Benigne und maligne Neubildungen — Kennzeichen der Gutartigkeit / Benignität",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Kennzeichen der Gutartigkeit / Benignität\n\n- Einem benignen Tumor fehlen die Kennzeichen der Malignität.\n- Zudem ist er gut **abgrenzbar**, auf der geweblichen Unterlage **verschieblich** und oftmals **abgekapselt**.\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors: Normal cells, Cancer cells und Basement membrane (Basalmembran).",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Benigner Tumor: keine Kennzeichen der Malignität",
+        "Gut abgrenzbar, verschieblich, oftmals abgekapselt"
+      ]
+    },
+    {
+      "gidx": 242,
+      "source": "akl p.242",
+      "slide_title": "Benigne und maligne Neubildungen — Kennzeichen der Gutartigkeit / Benignität (Abbildungen)",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Kennzeichen der Gutartigkeit / Benignität (Abbildungen)\n\nVergleichsabbildung gutartiger vs. bösartiger Tumor:\n- **Gutartiger Tumor:** gekapselt, Beschriftungen: Blutgefäß, Lymphgefäß, Verbreitung über Lymphgefäße, Kapsel\n- **Bösartiger Tumor:** Einwachsen in umgebendes Gewebe, Verbreitung über Blutgefäße\n\nWeitere Abbildung: Benign & Malignant Tumor (zelluläre Darstellung).\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.34",
+      "figures": [
+        {
+          "caption": "Gutartiger Tumor vs. bösartiger Tumor",
+          "shows": "Gegenüberstellung: gutartiger Tumor mit Kapsel (Blutgefäß, Lymphgefäß, Verbreitung über Lymphgefäße) und bösartiger Tumor mit Einwachsen in umgebendes Gewebe und Verbreitung über Blutgefäße.",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Benign & Malignant Tumor",
+          "shows": "Zelluläre Darstellung eines benignen und eines malignen Tumors im Gewebeverband.",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Gutartiger Tumor: Kapsel, keine Gefäßeinvasion",
+        "Bösartiger Tumor: Einwachsen in umgebendes Gewebe, Verbreitung über Blutgefäße"
+      ]
+    },
+    {
+      "gidx": 243,
+      "source": "akl p.243",
+      "slide_title": "Benigne und maligne Neubildungen — Kennzeichen der Bösartigkeit / Malignität",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Kennzeichen der Bösartigkeit / Malignität\n\nWachstumsmerkmale:\n\n- **Enthemmtes, schnelles Wachstum**\n- **Infiltratives Wachstum**\n- **Destruktives Wachstum**\n- **Fähigkeit zu metastasieren**\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors (Normal cells, Cancer cells, Basement membrane).",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Malignitätskriterien: enthemmtes schnelles Wachstum, infiltratives Wachstum, destruktives Wachstum, Metastasierungsfähigkeit"
+      ]
+    },
+    {
+      "gidx": 244,
+      "source": "akl p.244",
+      "slide_title": "Benigne und maligne Neubildungen — Kennzeichen der Bösartigkeit / Malignität (Vergleich)",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Kennzeichen der Bösartigkeit / Malignität (Vergleichstabelle)\n\n**Gutartiger Tumor:**\n- verdrängendes (expansives) Wachstum\n- Tumor scharf begrenzt (\"Kapsel\")\n- kein Einbruch in Gefäße\n- keine Metastasierung\n\n**Krebs (bösartiger Tumor):**\n- invasives und zerstörendes Wachstum\n- Tumor unscharf begrenzt\n- Einbruch in Gefäße und umgebendes Gewebe, Metastasierung\n\nAbbildung: Blutgefäß, Tumor, umgebendes Gewebe; zusätzlich 4-stufige schematische Darstellung des Tumorwachstums (Stadien 1–4).\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Vergleich gutartiger Tumor vs. Krebs (bösartiger Tumor)",
+          "shows": "Tabelle und Schema: gutartiger Tumor (expansives Wachstum, scharf begrenzt, keine Gefäßeinvasion, keine Metastasierung) vs. bösartiger Tumor (invasiv-destruierend, unscharf begrenzt, Gefäßeinbruch, Metastasierung); dargestellt an Blutgefäß, Tumor und umgebendem Gewebe.",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Stadien des Tumorwachstums (1–4)",
+          "shows": "Vierstufige schematische Darstellung des fortschreitenden Tumorwachstums im Gewebe.",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Gutartig: expansiv-verdrängend, scharf begrenzt, gekapselt, keine Metastasen",
+        "Bösartig: invasiv-destruierend, unscharf begrenzt, Gefäßeinbruch, Metastasierung"
+      ]
+    },
+    {
+      "gidx": 245,
+      "source": "akl p.245",
+      "slide_title": "Benigne und maligne Neubildungen — Metastasierungswege",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Metastasierungswege\n\n- Viele Tumoren (**Primärtumor**) bilden Tochtergeschwulste, sogenannte Metastasen (**Sekundärtumore, Filiae**) aus.\n- Nachdem ein Tumor eine Gewebegrenze überschritten hat, können sich einzelne Tumorzellen ablösen und über die Blutbahn (**hämatogen**), über die Lymphbahn (**lymphogen**) und über Höhlensysteme (**kavitär**) in andere Gewebe verschleppt werden.\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors (Normal cells, Cancer cells, Basement membrane).",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Primärtumor bildet Sekundärtumore (Filiae) = Metastasen",
+        "Metastasierungswege: hämatogen (Blutbahn), lymphogen (Lymphbahn), kavitär (Höhlensysteme)"
+      ]
+    },
+    {
+      "gidx": 246,
+      "source": "akl p.246",
+      "slide_title": "Benigne und maligne Neubildungen — Karzinome",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Karzinome\n\n**Karzinom**, lateinisch Carcinoma, auch Carcinom [kartsiˈnoːm] (von griechisch καρκίνος karkínos, „Krebs“, und karkínoma, „krebsartige Krankheit“), abgekürzt Ca, ist eine Krebserkrankung, die von Zellen im Deckgewebe von Haut oder Schleimhaut (**Epithel**) ausgeht.\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Darstellung einer Krebszelle",
+          "shows": "3D-Illustration einer Tumorzelle mit Ausläufern auf einer Gewebsoberfläche.",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors (Normal cells, Cancer cells, Basement membrane).",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Karzinom (Carcinoma, Ca): Krebserkrankung ausgehend vom Epithel (Deckgewebe von Haut oder Schleimhaut)"
+      ]
+    },
+    {
+      "gidx": 247,
+      "source": "akl p.247",
+      "slide_title": "Benigne und maligne Neubildungen — Karzinome (Krebsneuerkrankungen in Deutschland 2012)",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Karzinome — Krebsneuerkrankungen in Deutschland 2012\n\nDiagramm (Männer / Frauen), häufigste Lokalisationen:\n\n**Männer:**\n- Prostata 23,3 %\n- Lunge 13,7 %\n- Darm 13,4 %\n- Harnblase, Malignes Melanom 4,1 %, Niere, Mundhöhle und Rachen, Magen, Non-Hodgkin-Lymphome, Bauchspeicheldrüse, Leukämien\n\n**Frauen:**\n- Brustdrüse 30,8 %\n- Darm 12,6 %\n- Lunge 8,0 %\n- Gebärmutterkörper, Malignes Melanom 4,6 %, Bauchspeicheldrüse, Non-Hodgkin-Lymphome, Eierstöcke, Magen, Niere, Leukämien\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Krebsneuerkrankungen in Deutschland 2012",
+          "shows": "Balkendiagramm der häufigsten Krebsneuerkrankungen nach Geschlecht: Männer (Prostata 23,3 %, Lunge 13,7 %, Darm 13,4 %) und Frauen (Brustdrüse 30,8 %, Darm 12,6 %, Lunge 8,0 %) u. a.",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors (Normal cells, Cancer cells, Basement membrane).",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Häufigste Krebsneuerkrankung Männer 2012: Prostata (23,3 %)",
+        "Häufigste Krebsneuerkrankung Frauen 2012: Brustdrüse (30,8 %)"
+      ]
+    },
+    {
+      "gidx": 248,
+      "source": "akl p.248",
+      "slide_title": "Benigne und maligne Neubildungen — Sarkom",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Sarkom\n\n- Das **Sarkom** (von altgriechisch σάρκωμα sárkoma, zu σάρξ sárx, „Fleisch“, „Weichteile“ und -om „Geschwulst“), früher auch als Fleischgewächs bezeichnet, ist eine bösartige Geschwulst von krebsähnlichem Charakter, die von mesenchymalem Gewebe ausgeht und frühzeitig in die Blutgefäße (**hämatogen**) metastasiert.\n- Im Gegensatz zu Karzinomen nehmen Sarkome also ihren Ausgang vom Binde- / Stützgewebe.\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors (Normal cells, Cancer cells, Basement membrane).",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Sarkom: bösartige Geschwulst aus mesenchymalem Gewebe (Binde-/Stützgewebe)",
+        "Metastasiert frühzeitig hämatogen (über Blutgefäße)",
+        "Gegensatz zum Karzinom, das vom Epithel ausgeht"
+      ]
+    },
+    {
+      "gidx": 249,
+      "source": "akl p.249",
+      "slide_title": "Benigne und maligne Neubildungen — Lymphom",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Lymphom\n\n- **Lymphome** sind in der Regel bösartige Tumoren des lymphatischen Systems. Der umgangssprachliche Begriff ist Lymphdrüsenkrebs. Wörtlich bedeutet das Wort **Lymphom** \"Lymphknotenschwellung\".\n- Das lymphatische System ist kein einzelnes Organ.\n- Die meisten Lymphome nehmen von Lymphknoten ihren Ausgang.\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors (Normal cells, Cancer cells, Basement membrane).",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Lymphom = bösartiger Tumor des lymphatischen Systems (Lymphdrüsenkrebs)",
+        "Wörtlich: \"Lymphknotenschwellung\"; Ausgang meist von Lymphknoten"
+      ]
+    },
+    {
+      "gidx": 250,
+      "source": "akl p.250",
+      "slide_title": "Benigne und maligne Neubildungen — Leukämie",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Leukämie\n\n- Eine **Leukämie** wird auch als Blutkrebs bezeichnet: Die Krankheit geht vom Knochenmark aus, wo der Körper die Blutzellen bildet.\n- Es gibt akute **Leukämien** und chronische **Leukämien**: Sie unterscheiden sich in Symptomen, Krankheitsverlauf, der Prognose und den Behandlungsmöglichkeiten deutlich voneinander.\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors (Normal cells, Cancer cells, Basement membrane).",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Leukämie = Blutkrebs, Ausgangspunkt Knochenmark (Blutzellbildung)",
+        "Akute vs. chronische Leukämien: Unterschiede in Symptomen, Verlauf, Prognose, Behandlung"
+      ]
+    },
+    {
+      "gidx": 251,
+      "source": "akl p.251",
+      "slide_title": "Benigne und maligne Neubildungen — Staging and Grading",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Staging and Grading\n\n- Beim **Grading** werden Tumore mit G1 bis G4 bezeichnet: Je höher der Grad, desto weniger differenziert und bösartiger ist der Tumor (**Malignitätsgrad**).\n- Mit **Staging** ist etwas anderes gemeint: Sind alle Tumormerkmale untersucht, wird anhand der Untersuchungsergebnisse ermittelt, in welchem Stadium sich der Tumor bzw. das Tumorwachstum befindet.\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors (Normal cells, Cancer cells, Basement membrane).",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Grading G1–G4: höherer Grad = weniger differenziert = bösartiger (Malignitätsgrad)",
+        "Staging: Ermittlung des Tumorstadiums anhand aller Untersuchungsergebnisse"
+      ]
+    },
+    {
+      "gidx": 252,
+      "source": "akl p.252",
+      "slide_title": "Benigne und maligne Neubildungen — Therapie der Malignose",
+      "type": "inhalt",
+      "notes_md": "# Benigne und maligne Neubildungen\n\n## Therapie der Malignose\n\nDie Therapie der bösartigen Neubildungen (Malignome) umfasst drei Gruppen:\n\n- **I Operative Optionen**\n- **II Medikamentöse Optionen**\n  (Klassische Chemotherapie / Zytostase, Immuntherapie, Hormontherapie, Immunmodulation / Biologicals / monoklonale Antikörper)\n- **III Optionen des Strahlenmedizin und der Nuklearmedizin**\n\nQuelle: Bruckfield, Sebastian, Oncology, Orlando 2001, p.21",
+      "figures": [
+        {
+          "caption": "Growing Malignant Tumor",
+          "shows": "Schematische Darstellung eines wachsenden malignen Tumors (Normal cells, Cancer cells, Basement membrane).",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Drei Therapiegruppen bei Malignomen: operativ, medikamentös, Strahlenmedizin/Nuklearmedizin",
+        "Medikamentöse Optionen: klassische Chemotherapie/Zytostase, Immuntherapie, Hormontherapie, Immunmodulation/Biologicals/monoklonale Antikörper"
+      ]
+    }
+  ]
+}
