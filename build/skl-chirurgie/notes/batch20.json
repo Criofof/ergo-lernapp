@@ -1,0 +1,250 @@
+{
+  "batch": "20",
+  "pages": [
+    {
+      "gidx": 229,
+      "source": "skl-chirurgie p.229",
+      "slide_title": "Kreuzbandrupturen — Ursachen, Klinik, Funktionstests",
+      "type": "inhalt",
+      "notes_md": "**Ursachen: Ruptur des VKB (vorderes Kreuzband):**\n- Hyperextension\n- forcierte Quadrizepskontraktion bei gebeugtem Kniegelenk\n- Valgusrotationsstress\n- Hyperflexion\n- reine Varusbelastung\n- reine Valgusbelastung\n- in 75% der Fälle sind weitere Kniebinnenverletzungen vorhanden\n\n**Klinik:**\n- peitschenartiges Schnalzen\n- „Plopp“-Geräusch\n- Schmerzen\n- Gelenkerguss\n- eingeschränkte Beweglichkeit\n\n**Instabilitätsgefühl: Gingway-Syndrom:**\n- spontanes Weggleiten des Unterschenkels\n\n**Funktionstests: vordere Kreuzbandruptur:**\n- Lachman-Test\n- vorderes Schubladenphänomen\n- Pivot-Shift\n\n**Schubladenphänomen:**\n- Wird in 90° Flexion durchgeführt. Die Untersuchung erfolgt bei 90° Kniebeugung mit flach auf der Liege aufsetzender Fußsohle des Patienten, die durch den Oberschenkel des Untersuchers fixiert wird. Der Tibiakopf wird mit beiden Händen umfasst und bei entspannter Beugemuskulatur nach ventral gezogen („vorderer Schubladentest“) oder nach dorsal gedrückt („hinterer Schubladentest“).",
+      "figures": [
+        {
+          "caption": "Foto: Durchführung des Schubladentests am Knie",
+          "shows": "Untersucher umfasst den Tibiakopf des bei 90° gebeugten Knies mit beiden Händen und zieht ihn nach ventral",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Ursachen VKB-Ruptur: Hyperextension, forcierte Quadrizepskontraktion bei gebeugtem Knie, Valgusrotationsstress, Hyperflexion, reine Varus-/Valgusbelastung",
+        "In 75% der Fälle weitere Kniebinnenverletzungen",
+        "Klinik: Plopp-Geräusch, Schmerzen, Gelenkerguss, eingeschränkte Beweglichkeit",
+        "Gingway-Syndrom: spontanes Weggleiten des Unterschenkels",
+        "Funktionstests VKB: Lachman-Test, vorderes Schubladenphänomen, Pivot-Shift",
+        "Schubladentest in 90° Flexion: ventraler Zug = vorderer, dorsaler Druck = hinterer Schubladentest"
+      ]
+    },
+    {
+      "gidx": 230,
+      "source": "skl-chirurgie p.230",
+      "slide_title": "Kreuzbandrupturen — Lachmann-Test: Durchführung",
+      "type": "inhalt",
+      "notes_md": "**Lachmann-Test — Durchführung:**\nDer Lachman-Test ist ein Schubladen-Test, bei dem das zu testende Knie in ca. 20-30° Beugung gehalten wird. Die Ferse hat Kontakt zur Liege. Der Untersuchende umfasst den Unterschenkel mit beiden Händen so, dass die Zeigefinger in der Kniekehle liegen. Der Unterschenkel wird nach ventral gezogen. Die Verschiebbarkeit des Unterschenkels gegenüber dem Oberschenkel zeigt an, ob eine Verletzung des Kreuzbandes vorliegt oder nicht.\n\n**Positiv** ist der Lachman-Test, wenn bei Vorbewegen des Unterschenkels kein harter Anschlag zu spüren ist. Das vordere Kreuzband ist dann mit großer Sicherheit gerissen.\n\n**Negativ** ist der Lachman-Test bei Verspüren eines harten Anschlags. Eine Ruptur des vorderen Kreuzbandes ist unwahrscheinlich.",
+      "figures": [
+        {
+          "caption": "Vier Schrittfotos des Lachman-Tests (englische Beschriftungen)",
+          "shows": "1) linke Hand hebt Femur leicht an, Knie in 30° Flexion; 2) rechte Hand zieht Tibia nach vorn, ACL unter Spannung; 3) intaktes ACL widersteht der anterioren Tibiatranslation; 4) übertriebene Darstellung eines positiven Lachman-Tests",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Lachman-Test: Schubladen-Test bei ca. 20-30° Kniebeugung, Unterschenkel wird nach ventral gezogen",
+        "Positiv = kein harter Anschlag → VKB mit großer Sicherheit gerissen",
+        "Negativ = harter Anschlag → VKB-Ruptur unwahrscheinlich"
+      ]
+    },
+    {
+      "gidx": 231,
+      "source": "skl-chirurgie p.231",
+      "slide_title": "Kreuzbandrupturen — Aussagekraft Lachman-Test, IKDC-Grade, Pivot-Shift-Test",
+      "type": "inhalt",
+      "notes_md": "**Aussagekraft:**\nDer Lachman-Test ist eine schnelle und kostengünstiger Weg für eine orientierende Untersuchung der Stabilität des Kniegelenks.\n- er besitzt bei der vorderen Kreuzbandruptur im Vergleich zum Schubladentest insbesondere bei frischen Verletzungen eine erhöhte Aussagekraft\n\n**Das International Knie-Dokumentations-Komitee (IKDC) unterscheidet 4 Grade beim Lachman-/Noulis-Test:**\n1. Normal: 1-2 mm Schublade\n2. Fast normal: 3-5 mm Schublade (leichte Instabilität)\n3. Abnormal: 6-10 mm Schublade (mittelschwere Instabilität)\n4. Stark abnormal: > 10 mm Schublade (schwere Instabilität)\n\n**Pivot-Shift-Test:**\n- Der Patient liegt in Rückenlage. Das gestreckte Kniegelenk wird unter Valgusdruck, leichter Innenrotation und axialem Druck schnell gebeugt.\n- Der Pivot-Shift ist positiv, wenn es zu einer schmerzhaften vorderen Subluxation der Tibia bei 20-30° Beugung kommt und spricht damit für eine Ruptur des vorderen Kreuzbandes.",
+      "figures": [
+        {
+          "caption": "Fotos: Durchführung des Pivot-Shift-Tests",
+          "shows": "Untersucher beugt das gestreckte Knie unter Valgusdruck, Innenrotation und axialem Druck",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Lachman-Test: schnelle, kostengünstige orientierende Stabilitätsprüfung; bei frischen VKB-Verletzungen höhere Aussagekraft als Schubladentest",
+        "IKDC-Grade: 1 = 1-2 mm (normal), 2 = 3-5 mm (leicht), 3 = 6-10 mm (mittelschwer), 4 = >10 mm (schwer)",
+        "Pivot-Shift positiv: schmerzhafte vordere Subluxation der Tibia bei 20-30° Beugung → VKB-Ruptur"
+      ]
+    },
+    {
+      "gidx": 232,
+      "source": "skl-chirurgie p.232",
+      "slide_title": "Kreuzbandrupturen — Ruptur des hinteren Kreuzbands",
+      "type": "inhalt",
+      "notes_md": "**Ruptur des hinteren Kreuzbands — Ursachen:**\n- insbesondere bei Anpralltraumen\n- Sportverletzungen, Sturz auf das gebeugte Knie\n\n**Klinik:**\n- peitschenartiges Schnalzen\n- „Plopp“-Geräusch\n- Schwellung\n- Ergussbildung\n- eingeschränkte Beweglichkeit\n- akute hintere Instabilität mit unvollkommener Streckung und leicht gebeugtem Kniegelenk beim Gehen\n\n**Funktionstest der HKB-Ruptur:**\n- hinteres Schubladenphänomen\n\n**Therapie — Konservativ:**\n- Kräftigung der Muskulatur\n- Verbesserung der Bewegungsabläufe\n- Koordinationstraining\n- medikamentös: Analgetika\n\n**Operativ bei größerer Instabilität:**\narthroskopisch mittels autologen Sehnenersatz:\n- Ligg. semitendinosus, gracilis, semimembranosus\n\n**Unhappy triad:**\n- Kombinationsverletzung aus VKB-Ruptur, Innenband und Innenmeniskus\n\n**dorsaler Durchhang der Tibia**",
+      "figures": [
+        {
+          "caption": "Foto mit schematischer Einblendung: dorsaler Durchhang der Tibia",
+          "shows": "Bei gebeugtem Knie hängt die Tibia nach dorsal durch; Schema zeigt die Kreuzbandverhältnisse",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "HKB-Ruptur: v. a. Anpralltraumen, Sturz auf gebeugtes Knie",
+        "Funktionstest: hinteres Schubladenphänomen; Zeichen: dorsaler Durchhang der Tibia",
+        "Konservativ: Muskelkräftigung, Koordinationstraining, Analgetika; operativ: arthroskopischer autologer Sehnenersatz (Semitendinosus, Gracilis, Semimembranosus)",
+        "Unhappy triad = VKB-Ruptur + Innenband + Innenmeniskus"
+      ]
+    },
+    {
+      "gidx": 233,
+      "source": "skl-chirurgie p.233",
+      "slide_title": "Kreuzbandrupturen — Nachbehandlung",
+      "type": "inhalt",
+      "notes_md": "**Nachbehandlung:**\n- nach der Operation wird das Knie für zwei Tage in einer Ruhigstellungsschiene gelagert\n- Schmerztherapie sowie abschwellende Maßnahmen im Vordergrund\n- nach Entfernung der Drainagen am 2. postoperativen Tag erfolgen neben passiven Bewegungsübungen auf der Motorschiene (CPM) erste krankengymnastische Übungsbehandlungen\n- spezielle Kniegelenksorthese, welche für insgesamt 6 bis 8 Wochen getragen werden sollte\n\nDie Dauer des stationären Aufenthaltes beträgt etwa 3-4 Tage.\n\nDas Ziel der Kreuzbandersatzoperation ist die volle Wiederherstellung der Stabilität und Beweglichkeit des Kniegelenkes, was in den meisten Fällen nach 10-12 Wochen erreicht werden kann.\n\nWiederaufnahme der sportlichen Aktivität ist nach 6 Monaten möglich, bei Kontakt- und Ballsportarten erst nach 6-12 Monaten.",
+      "figures": [
+        {
+          "caption": "Foto: Kniegelenksorthese",
+          "shows": "Spezielle Knieorthese mit Gelenkschienen und Klettverschlüssen, getragen für 6-8 Wochen postoperativ",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Postop: 2 Tage Ruhigstellungsschiene; Drainagenentfernung am 2. Tag, dann CPM-Motorschiene und Krankengymnastik",
+        "Kniegelenksorthese 6-8 Wochen; stationärer Aufenthalt 3-4 Tage",
+        "Volle Stabilität/Beweglichkeit nach 10-12 Wochen; Sport nach 6 Monaten, Kontakt-/Ballsportarten nach 6-12 Monaten"
+      ]
+    },
+    {
+      "gidx": 234,
+      "source": "skl-chirurgie p.234",
+      "slide_title": "Luxation des AC-Gelenks — Definition, Ursache, Symptome",
+      "type": "inhalt",
+      "notes_md": "**Luxation des AC-Gelenks: Schulterecksgelenksprengung**\n\n**Definition:**\n- Verletzung der stabilisierenden Bänder des Schultereckgelenks: Lig. acromioclaviculare und Lig. coracoclaviculare\n\n**Kraftverteilung:**\n- Lig. coracoclaviculare: übernimmt mit ca. 80% die Kraft im AC-Gelenk\n- Lig. acromioclaviculare: mit ca. 20%\n\n**Ursache:**\n- typischerweise durch einen Sturz auf die Schulter\n- Ursache hierfür ist eine starke Hebelwirkung am Schultergürtel, die beim Sturz auf den zur Seite gestreckten Arm erfolgt\n\n**Symptome:**\n- Schmerzen\n- Funktionsverlust der Schulter\n- Schonhaltung (Arm wird nah am Körper und nach innen gedreht gehalten)\n- Hämatome\n- Schwellung\n- evtl. Vorwölbung des seitlichen Schlüsselbeinendes nach oben",
+      "figures": [
+        {
+          "caption": "Anatomische Zeichnung des Schultereckgelenks",
+          "shows": "Beschriftet: Schultereckgelenk (Akromioklavikulargelenk), Schulterdach (Akromion), Schlüsselbein (Clavicula), Ligamentum coracoclaviculare, Ligamentum coracoacromiale, Schulterblattfortsatz (Korakoid)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "AC-Gelenksluxation = Schultereckgelenksprengung: Verletzung von Lig. acromioclaviculare und Lig. coracoclaviculare",
+        "Kraftverteilung: Lig. coracoclaviculare ca. 80%, Lig. acromioclaviculare ca. 20%",
+        "Ursache: Sturz auf Schulter bzw. zur Seite gestreckten Arm (Hebelwirkung am Schultergürtel)",
+        "Symptome: Schmerzen, Funktionsverlust, Schonhaltung, Hämatome, Schwellung, evtl. Vorwölbung des lateralen Schlüsselbeinendes"
+      ]
+    },
+    {
+      "gidx": 235,
+      "source": "skl-chirurgie p.235",
+      "slide_title": "Vokabeln",
+      "type": "inhalt",
+      "notes_md": "**Vokabeln**\n\n- **Luxation:** Verrenkung: kein Kontakt mehr zwischen den Gelenkpartnern\n- **Subluxation:** Teilkontakt zwischen den Gelenkpartnern erhalten\n- **Distorsion:** Verstauchung/ Verdrehung\n- **Arthrodese:** operative Gelenkversteifung\n- **Ankylose:** Gelenkversteifung durch Schrumpfung der Gelenkkapsel bei längerer Ruhigstellung",
+      "figures": [],
+      "eingrenzung_hits": [14],
+      "key_facts": [
+        "Luxation = kein Kontakt mehr zwischen den Gelenkpartnern",
+        "Subluxation = Teilkontakt zwischen den Gelenkpartnern erhalten",
+        "Distorsion = Verstauchung/Verdrehung",
+        "Arthrodese = operative Gelenkversteifung; Ankylose = Versteifung durch Kapselschrumpfung bei längerer Ruhigstellung"
+      ]
+    },
+    {
+      "gidx": 236,
+      "source": "skl-chirurgie p.236",
+      "slide_title": "Luxation des AC-Gelenks — Einteilung nach Verletzungsgraden (Tossy/Rockwood)",
+      "type": "inhalt",
+      "notes_md": "**Einteilung nach Verletzungsgraden:**\n- werden nach „Tossy I-III“ (alte Klassifikation) oder „Rockwood I-VI“ (neue Klassifikation) eingeteilt\n- Tossy und Rockwood I-III stimmen überein und stellen die wichtigsten Schweregrade dar\n\n**Tossy I/ Rockwood I:**\n- Überdehnung beider Bänder (Lig. acromioclaviculare und Lig. coracoclaviculare)\n\n**Tossy II/ Rockwood II:**\n- Ruptur des Lig. acromioclaviculare\n- und Dehnung des Lig. coracoclaviculare\n- mit daraus resultierender Subluxation im AC-Gelenk\n- (= die Gelenkflächen von Akromion und Clavicula berühren sich nur noch teilweise)\n- Klavikula ist um 0,5 cm höhergestellt\n\n**Tossy III/ Rockwood III:**\n- Ruptur/Riss beider Bänder (Lig. acromioclaviculare und Lig. coracoclaviculare) mit daraus resultierender Luxation im AC-Gelenk (= vollständiger Kontaktverlust der Gelenkflächen von Akromion und Clavicula)\n- Klaviertastenphänomen: Klavikulahochstand, sie lässt sich durch leichten Druck nach unten drücken",
+      "figures": [
+        {
+          "caption": "Schema der drei Schweregrade Tossy I-III / Rockwood I-III",
+          "shows": "Zeichnungen des AC-Gelenks: Tossy I (Überdehnung beider Bänder), Tossy II (Ruptur Lig. acromioclaviculare, Dehnung Lig. coracoclaviculare), Tossy III (Ruptur beider Bänder mit Luxation)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Klassifikation: Tossy I-III (alt) bzw. Rockwood I-VI (neu); I-III stimmen überein",
+        "Tossy I: Überdehnung beider Bänder; Tossy II: Ruptur Lig. acromioclaviculare + Dehnung Lig. coracoclaviculare mit Subluxation, Klavikula 0,5 cm höhergestellt",
+        "Tossy III: Ruptur beider Bänder mit kompletter Luxation; Klaviertastenphänomen"
+      ]
+    },
+    {
+      "gidx": 237,
+      "source": "skl-chirurgie p.237",
+      "slide_title": "Luxation des AC-Gelenks — Diagnostik und Therapie",
+      "type": "inhalt",
+      "notes_md": "**Diagnostik — Prüfen auf Fehlstellung:**\n- „Klaviertastenphänomen“: bei einer kompletten Ruptur der Bänder (Tossy III) steht das seitliche Ende des Schlüsselbeins nach oben ab und lässt sich vom Untersuchenden wie eine Klaviertaste nach unten drücken\n- Druckschmerz über dem AC-Gelenk\n- Funktionsprüfung der Schulter\n\n**Röntgen:**\n- bei Überdehnung ist ein erweiterter Gelenkspalt im AC-Gelenk sichtbar\n- bei einer Ruptur ist das Schlüsselbein nach hinten und oben verschoben\n- durch Belastung des Arms mit einem Gewicht von 10 kg während der Röntgenaufnahme wird die Schultersprengung im Seitenvergleich verstärkt dargestellt (das Schulterdach wird fußwärts gezogen und der Abstand zwischen Schlüsselbein und Schulterdach dadurch vergrößert)\n- Röntgenbild einer AC-Gelenksprengung mit vollständigem Kontaktverlust der Gelenkflächen von Schlüsselbein und Schulterdach (Tossy III)\n\n**Therapie:** nach dem Grad der Verletzung nach Tossy und Rockwood.\n\n**Konservativ:**\n- **Tossy/Rockwood I:** symptomatisch: Analgetika, Salbenverbände, Tapen\n- **Tossy/Rockwood II:** Gilchrist- oder Desault-Verband für ca. 3 Wochen; dann können über 3 Wochen Abduktion bis 90° und Flexion geübt werden\n\n**Tossy/Rockwood III — operativ:** zahlreiche operative Techniken: z. B.\n- offene Reposition (= intraoperative Wiederherstellung der korrekten, anatomischen Stellung der Knochenfragmente), Bandnaht und Sicherung durch Zuggurtung oder temporäre Drahtfixierung\n- oder Plattenosteosynthese\n- oder Verschraubung nach Bosworth (AC-Gelenk wird durch eine durch die Klavikula in das Korakoid gebohrte Schraube gesichert)",
+      "figures": [],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Klaviertastenphänomen bei Tossy III: seitliches Schlüsselbeinende steht ab, lässt sich wie eine Klaviertaste nach unten drücken",
+        "Röntgen mit 10-kg-Belastung verstärkt Darstellung der Schultersprengung im Seitenvergleich",
+        "Therapie: Tossy I symptomatisch; Tossy II Gilchrist-/Desault-Verband ca. 3 Wochen; Tossy III operativ (offene Reposition mit Zuggurtung/Drahtfixierung, Plattenosteosynthese oder Verschraubung nach Bosworth)"
+      ]
+    },
+    {
+      "gidx": 238,
+      "source": "skl-chirurgie p.238",
+      "slide_title": "Luxation des AC-Gelenks — Weiterbehandlung, Komplikationen, TightRope-Stabilisierung",
+      "type": "inhalt",
+      "notes_md": "**Weiterbehandlung:**\nNach einer Ruhigstellung im Rahmen der konservativen und operativen Behandlung erfolgt die physiotherapeutische, funktionelle Mobilisierung der Schulter.\n\n**Mögliche Komplikationen:**\n- chronische Schmerzen\n- Funktionsverlust im Schultergürtel\n- Instabilitäten im Schultereckgelenk\n- Repositionsverlust (= postoperatives erneutes Verschieben des seitlichen Schlüsselbeinendes nach oben)\n- Lockerung oder Ausbruch des Implantats\n- Arthrose im AC-Gelenk\n\n**Neuartiges Stabilisierungsverfahren bei Tossy III — arthroskopische Tight Rope-Stabilisierung:**\n- unter Verwendung einer flaschenzugartigen Materialkombination (TightRope® von Arthrex)\n- respektiert ideal den physiologischen Verlauf der rupturierten coracoacromialen Bandanteile, ohne die Gelenkflächen zusätzlich zu tangieren und damit die vorzeitige Arthroseentwicklung im ohnehin schon traumatisierten AC-Gelenk zu fördern. Darüber hinaus sind Komplikationen wie Materialversagen und -dislokationen weitgehend ausgeschlossen.",
+      "figures": [
+        {
+          "caption": "Röntgenbilder der AC-Gelenksprengung (Vergleich mit Winkelmarkierungen A und C)",
+          "shows": "Zwei Röntgenaufnahmen der Schulter mit eingezeichneten Winkeln zur Beurteilung der AC-Gelenksprengung",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Schema und Röntgenbild der TightRope-Stabilisierung",
+          "shows": "Flaschenzugartige Materialkombination (TightRope®) zwischen Klavikula und Korakoid; postoperatives Röntgenbild mit eingebrachtem Material",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Weiterbehandlung: physiotherapeutische, funktionelle Mobilisierung der Schulter nach Ruhigstellung",
+        "Komplikationen: chronische Schmerzen, Funktionsverlust, Instabilitäten, Repositionsverlust, Implantatlockerung/-ausbruch, Arthrose im AC-Gelenk",
+        "TightRope® (Arthrex): flaschenzugartige arthroskopische Stabilisierung bei Tossy III, schont Gelenkflächen, Materialversagen/-dislokationen weitgehend ausgeschlossen"
+      ]
+    },
+    {
+      "gidx": 239,
+      "source": "skl-chirurgie p.239",
+      "slide_title": "Luxation des AC-Gelenks — Twin Tail TightRope®",
+      "type": "inhalt",
+      "notes_md": "Aus der ständigen Weiterentwicklung der Versorgung von AC-Gelenkverletzungen ist der **Twin Tail TightRope®** hervorgegangen.\n\n- er besteht aus zwei voneinander unabhängigen Klavikula-Button zur Unterstützung bei der Reposition und Stabilisierung des AC-Gelenks bei offenen und akuten AC-Gelenkrekonstruktionen\n- wie beim AC TightRope® und GraftRope® sind die Klavikula-Button mit einer autarken FiberWire®-Schlinge der Stärke #5 mit dem Korakoid-Button verbunden\n- die beiden Enden ermöglichen es dem Operateur, bei der Stabilisierung des AC-Gelenks den normalen anatomischen Verlauf der Bänder nachzuahmen",
+      "figures": [
+        {
+          "caption": "Schematische Darstellung des Twin Tail TightRope® am Schultermodell",
+          "shows": "Zwei unabhängige Klavikula-Button, über FiberWire®-Schlingen mit dem Korakoid-Button verbunden",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Twin Tail TightRope®: zwei unabhängige Klavikula-Button für offene und akute AC-Gelenkrekonstruktionen",
+        "Klavikula-Button über autarke FiberWire®-Schlinge Stärke #5 mit Korakoid-Button verbunden",
+        "Ermöglicht Nachahmung des normalen anatomischen Bandverlaufs"
+      ]
+    },
+    {
+      "gidx": 240,
+      "source": "skl-chirurgie p.240",
+      "slide_title": "Luxation des Sternoclavikulargelenks",
+      "type": "inhalt",
+      "notes_md": "**Sternoklavikulargelenkluxation — Definition:**\n- komplette oder partielle Luxation der medialen Klavikula aus dem Sternoklavikulargelenk\n\n**Klassifikationen:**\n\n**Anteriore Verrenkung (Luxatio praesternalis):**\n- häufigster Verletzungstyp\n- das mediale Klavikularende ist nach vorn oder vorn oben disloziert, prominent sichtbar und kann palpiert werden\n\n**Posteriore Verrenkung (Luxatio retrosternalis):**\n- selten.\n- das mediale Klavikularende ist nach hinten oben disloziert\n- stark schmerzhaft, oft Stauung im Bereich der Halsvenen mit Dyspnoe\n- Durchblutungsverminderung des ipsilateralen Armes\n- evtl. Schluckschmerzen\n\n**Ursachen für z. B. vordere Luxation:**\n- direkte oder indirekte (seitliche) Gewalteinwirkung auf Klavikula: Sturz auf Schulter mit Scher-Hebel-Mechanismus\n- Sturz auf den ausgestreckten Arm\n\n**Hintere Luxation:**\n- Anpralltraumen\n\n**Diagnose:**\n- klinische Untersuchung: mediale Klavikula ist gewöhnlich prominent\n- Röntgen, CT, MRT\n- bei hinterer Luxation unbedingt auf neurovaskulären Status der oberen Extremität achten; in Zweifelsfällen Angiographie",
+      "figures": [],
+      "eingrenzung_hits": [9, 14],
+      "key_facts": [
+        "Definition: komplette oder partielle Luxation der medialen Klavikula aus dem Sternoklavikulargelenk",
+        "Luxatio praesternalis (anterior): häufigster Typ, mediales Klavikulaende nach vorn/vorn oben disloziert, palpabel",
+        "Luxatio retrosternalis (posterior): selten, nach hinten oben disloziert; Halsvenenstauung mit Dyspnoe, Durchblutungsverminderung des ipsilateralen Armes, evtl. Schluckschmerzen",
+        "Ursachen: vordere Luxation durch Sturz auf Schulter/ausgestreckten Arm; hintere durch Anpralltraumen",
+        "Diagnose: klinisch, Röntgen/CT/MRT; bei hinterer Luxation neurovaskulären Status beachten, ggf. Angiographie"
+      ]
+    }
+  ]
+}

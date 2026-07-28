@@ -1,0 +1,250 @@
+{
+  "batch": "17",
+  "pages": [
+    {
+      "gidx": 193,
+      "source": "skl-chirurgie p.193",
+      "slide_title": "Humerusfrakturen – Klassifikation nach Neer",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n**Klassifikation nach Neer:**\n\n**Typ I:**\n- nicht dislozierte Fraktur/ Dislokation < 1cm, Achsenabknickung <45°\n\n**Typ II:**\n- Fraktur durch das Collum anatomicum\n- durch Schädigung der vorderen/hinteren A. circumflexa (-> aufsteigender Ast dringt im Sulcus bicepitis in den Knochen) kann sich eine vaskuläre Nekrose entwickeln.\n\n**Typ III:**\n- Frakturlinie läuft durch das Collum chirurgicum/ Two-part fracture\n\n**Typ IV:**\n- Tuberculum-majus-Fraktur: Two-, Three-, Four-part- fracture\n\n**Typ V:**\n- Tuberculum-minus- Fraktur: Two-, Three-, Four-part- fracture\n\n**Typ VI:** Luxationsfraktur mit vorderer und hinterer Kopfluxation",
+      "figures": [
+        {
+          "caption": "Neer-Klassifikation: Tabelle mit Segmenten (2, 3, 4 Segmente) und Frakturlokalisationen (Collum anatomicum, Collum chirurgicum, Tuberculum majus, Tuberculum minus)",
+          "shows": "Schematische Darstellung der Humeruskopffrakturen nach Neer (Neer-1 bis 4-Segment-Frakturen)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Neer Typ I: nicht dislozierte Fraktur, Dislokation < 1 cm, Achsenabknickung < 45°",
+        "Neer Typ II: Fraktur durch das Collum anatomicum; Gefahr einer vaskulären Nekrose durch Schädigung der A. circumflexa",
+        "Neer Typ III: Fraktur durch das Collum chirurgicum (Two-part fracture)",
+        "Neer Typ IV/V: Tuberculum-majus- bzw. Tuberculum-minus-Fraktur (Two-, Three-, Four-part fracture)",
+        "Neer Typ VI: Luxationsfraktur mit vorderer und hinterer Kopfluxation"
+      ]
+    },
+    {
+      "gidx": 194,
+      "source": "skl-chirurgie p.194",
+      "slide_title": "Proximale Humerusfraktur – Klassifikation nach AO",
+      "type": "inhalt",
+      "notes_md": "# Proximale Humerusfraktur\n\n**Klassifikation nach AO**\n\n**A: extraartikuläre, unifokale 2-Segment-Fraktur (isolierter Tuberculumabriss oder Collum-chirurgicum-Fraktur)**\n- A1: Fraktur des Collum chirurgicum oder Abriss des Tuberculum majus\n- A2 impaktierte Fraktur des Collum chirurgicum\n- A3 nichtimpaktierte Fraktur des Collum chirurgicum  Anmerkung: impaktiert: nicht disloziert\n\n**B: extraartikuläre, bifokale 3-Segment-Fraktur (Collum-chirurgicum-Fraktur und Fraktur eines Tuberculums mit oder ohne Schultergelenkluxation)**\n- B1: mit metaphysärer Impaktierung (am Collum chirurgicum)\n- B2: ohne metaphysäre Impaktierung\n- B3: mit glenohumeraler Dislokation\n\n**C: artikuläre Fraktur (Collum-anatomicum-Fraktur, 3- und 4-Segment-Fraktur mit oder ohne Schultergelenkluxation)**\n- C1: intraartikulär, gering disloziert\n- C2: impaktierte Fraktur mit deutlicher Dislokation\n- C3: intraartikuläre Luxationsfraktur",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "AO A: extraartikuläre, unifokale 2-Segment-Fraktur (A1 Collum chirurgicum/Tuberculum-majus-Abriss, A2 impaktiert, A3 nichtimpaktiert)",
+        "AO B: extraartikuläre, bifokale 3-Segment-Fraktur (B1 mit metaphysärer Impaktierung, B2 ohne, B3 mit glenohumeraler Dislokation)",
+        "AO C: artikuläre Fraktur (C1 gering disloziert, C2 impaktiert mit deutlicher Dislokation, C3 intraartikuläre Luxationsfraktur)",
+        "impaktiert = nicht disloziert"
+      ]
+    },
+    {
+      "gidx": 195,
+      "source": "skl-chirurgie p.195",
+      "slide_title": "Humerusfrakturen – Diagnostik und Therapie",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n**Diagnostik:**\n- Röntgen, CT, MRT\n- neurologische Untersuchung: evtl. N. axillaris- oder Plexus brachialis-Schädigung\n- evtl. Angiographie; die A. axillaris kann v.a. bei Luxationsfrakturen verletzt sein\n\n**Therapie:**\n**konservativ:**\n- in 80% der Fälle\n- Anlage eines Gilchrist-Verbandes oder Desault-Verbandes für ca.14 Tage und mehr\n- danach Bewegungsübungen/ Pendeln bis zur Schmerzgrenze\n- nach zwei bis drei Wochen darf der Patient den Arm selbst wieder aktiv und passiv bewegen\n- in der Regel folgt eine Röntgen- Kontrolle nach einem Tag, zehn Tagen und sechs Wochen. Der Knochen ist bei adäquater Heilung etwa nach sechs Wochen wieder stabil.\n\n**Indikationen zur operativen Therapie:**\n- nicht reponierbare Frakturen mit Beteiligung der Gelenkfläche\n- Impingement durch Frakturfragmente\n- dislozierte mehrfragmentäre Frakturen\n- offene Frakturen\n- Abrisse von Tuberculum minus bzw. Tuberculum majus mit vollständiger Dislokation\n\n**Operationsverfahren:**\n- Spickdrahtosteosynthese (z.B. bei subkapitaler Fraktur)\n- Schraubenosteosynthese und Zuggurtungsosteosynthese (z.B. bei Tuberculum-Abrissen)\n- Plattenosteosynthese, evtl. Humeruskopfendoprothese\n\nBewegungen sind je nach OP- Technik und Art der Verletzung freigegeben.\nAb der 5. Woche ist in der Regel die Abduktion und Flexion über 90° erlaubt.",
+      "figures": [],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Diagnostik: Röntgen, CT, MRT; neurologische Untersuchung (N. axillaris, Plexus brachialis); evtl. Angiographie (A. axillaris bei Luxationsfrakturen gefährdet)",
+        "Konservative Therapie in 80 % der Fälle: Gilchrist- oder Desault-Verband ca. 14 Tage, danach Pendelübungen bis zur Schmerzgrenze",
+        "Röntgenkontrolle nach 1 Tag, 10 Tagen und 6 Wochen; Knochen nach ca. 6 Wochen wieder stabil",
+        "OP-Indikationen: nicht reponierbare Frakturen mit Gelenkflächenbeteiligung, Impingement, dislozierte Mehrfragmentfrakturen, offene Frakturen, Tuberculum-Abrisse mit vollständiger Dislokation",
+        "OP-Verfahren: Spickdrahtosteosynthese, Schrauben- und Zuggurtungsosteosynthese, Plattenosteosynthese, evtl. Humeruskopfendoprothese",
+        "Ab der 5. Woche Abduktion und Flexion über 90° erlaubt"
+      ]
+    },
+    {
+      "gidx": 196,
+      "source": "skl-chirurgie p.196",
+      "slide_title": "Humerusfrakturen – Schraubenosteosynthese",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n**Schraubenosteosynthese**\n\n- **Abbildung 1:** Dieses Röntgenbild einer Schulter zeigt den typischen Verletzungsmechanismus: Das Gelenk ist ausgekugelt (luxiert) und der Knochenvorsprung (Tuberculum majus siehe *) bleibt mit seiner angewachsenen Sehne stehen.\n- **Abbildung 2:** Nach Einrenken der Schulter liegt der abgesprengte Knochen zwar wieder in der Nähe seiner ursprünglichen Position, jedoch ist er zu weit entfernt, um gut einzuheilen, so dass eine kleine Operation mit Fixierung erfolgen muss.\n- **Abbildung 3:** Dieses Röntgenbild zeigt den Oberarm nach Refixierung mittels einer Schraube: deutlich zu erkennen ist das wieder gut adaptierte Fragment.",
+      "figures": [
+        {
+          "caption": "Röntgenbilder Schulter: Luxation mit Tuberculum-majus-Abriss, Zustand nach Einrenken, Zustand nach Refixierung mittels Schraube",
+          "shows": "Verletzungsmechanismus und Versorgung eines Tuberculum-majus-Abrisses durch Schraubenosteosynthese",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Tuberculum majus bleibt bei Schulterluxation mit angewachsener Sehne stehen (Abriss)",
+        "Zu weit disloziertes Fragment heilt nicht gut ein → operative Refixierung mittels Schraube (Schraubenosteosynthese)"
+      ]
+    },
+    {
+      "gidx": 197,
+      "source": "skl-chirurgie p.197",
+      "slide_title": "Humerusfrakturen – Humeruskopffraktur und Humeruskopfendoprothese / Plattenosteosynthese",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n**Humeruskopffraktur und Humeruskopfendoprothese**\n\n**Plattenosteosynthese**\n\n(Röntgenbilder: Humeruskopffraktur, Versorgung mit Humeruskopfendoprothese sowie Plattenosteosynthese am proximalen Humerus)",
+      "figures": [
+        {
+          "caption": "Röntgenbilder: Humeruskopffraktur und Humeruskopfendoprothese",
+          "shows": "Humeruskopffraktur und deren Versorgung mit einer Humeruskopfendoprothese",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Röntgenbild: Plattenosteosynthese am proximalen Humerus",
+          "shows": "Plattenosteosynthese mit winkelstabiler Platte und Schrauben am Humeruskopf/-schaft",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Humeruskopffraktur kann mit einer Humeruskopfendoprothese versorgt werden",
+        "Plattenosteosynthese als osteosynthetisches Verfahren am proximalen Humerus"
+      ]
+    },
+    {
+      "gidx": 198,
+      "source": "skl-chirurgie p.198",
+      "slide_title": "Humerusfrakturen – Humeruskopffraktur und Humeruskopfendoprothese / Plattenosteosynthese",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n**Humeruskopffraktur und Humeruskopfendoprothese**\n\n**Plattenosteosynthese**\n\n(Röntgenbilder: Humeruskopffraktur, Versorgung mit Humeruskopfendoprothese sowie Plattenosteosynthese am proximalen Humerus)",
+      "figures": [
+        {
+          "caption": "Röntgenbilder: Humeruskopffraktur und Humeruskopfendoprothese",
+          "shows": "Humeruskopffraktur und deren Versorgung mit einer Humeruskopfendoprothese",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Röntgenbild: Plattenosteosynthese am proximalen Humerus",
+          "shows": "Plattenosteosynthese mit winkelstabiler Platte und Schrauben am Humeruskopf/-schaft",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Humeruskopffraktur kann mit einer Humeruskopfendoprothese versorgt werden",
+        "Plattenosteosynthese als osteosynthetisches Verfahren am proximalen Humerus"
+      ]
+    },
+    {
+      "gidx": 199,
+      "source": "skl-chirurgie p.199",
+      "slide_title": "Humerusfrakturen – 2. Humerusschaftfraktur (Ursachen, AO-Klassifikation)",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n## 2. Humerusschaftfraktur\n\n**Ursachen:**\n- durch direkte und indirekte Gewalteinwirkung hervorgerufen.\n- Verkehrsunfälle, Arbeitsunfälle und Stürze aus größerer Höhe führen über eine direkte Gewalteinwirkung vor allem zu Querfrakturen, kurzen Schrägfrakturen oder Mehrfragmentfrakturen\n- beim Sturz auf die Hand werden vor allem bei älteren Menschen/Osteoporose Torsionsfrakturen beobachtet\n\n**AO-Klassifikation**\n\n**A-Fraktur: einfache Fraktur**\n- A1 -Spiralfraktur, A2- Schrägfraktur (> 30°), A3 - Querfraktur (< 30°)\n\n**B-Fraktur: Keilfraktur**\n- B1 – Drehkeilfraktur, B2 – Biegungskeilfraktur, B3 - Fragmentierte Keilfraktur\n\n**C-Fraktur: komplexe Fraktur**\n- C1 - Komplexe Spiralfragmentfraktur, C2 - Doppelbruchetagenfraktur\n- C3 - Komplexe polyfragmentierte Fraktur",
+      "figures": [
+        {
+          "caption": "AO-Klassifikation 12-Humerus, Diaphyse: 12-A einfache Fraktur (A1 spiralförmig, A2 schräg, A3 quer), 12-B Keilfraktur (B1 Drehkeil, B2 Biegungskeil, B3 Keilfragment), 12-C komplexe Fraktur (C1 spiralförmig, C2 etagenförmig, C3 irregulär)",
+          "shows": "Schematische Zeichnungen der Frakturformen der Humerusdiaphyse nach AO",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Humerusschaftfraktur entsteht durch direkte/indirekte Gewalteinwirkung; direkte Gewalt → Quer-, kurze Schräg- oder Mehrfragmentfrakturen",
+        "Sturz auf die Hand bei älteren Menschen/Osteoporose → Torsionsfrakturen",
+        "AO A: einfache Fraktur (A1 Spiral-, A2 Schrägfraktur > 30°, A3 Querfraktur < 30°)",
+        "AO B: Keilfraktur (B1 Drehkeil-, B2 Biegungskeil-, B3 fragmentierte Keilfraktur)",
+        "AO C: komplexe Fraktur (C1 Spiralfragment-, C2 Doppelbruchetagen-, C3 polyfragmentierte Fraktur)"
+      ]
+    },
+    {
+      "gidx": 200,
+      "source": "skl-chirurgie p.200",
+      "slide_title": "Humerusfrakturen – Humerusschaftfraktur: Symptome, Begleitverletzungen, Diagnose, Therapie",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n**Symptome:**\n- Schmerzen\n- Instabilität\n- Krepitationen\n- Schwellung und Hämatom\n- eingeschränkte Beweglichkeit\n- Krepitation\n\n**Begleitverletzungen:**\n- bei Frakturen im mittleren Drittel der Diaphyse kommt es in ca. 15% der Fälle zur Verletzung des N. radialis/Parese: Fallhand\n- der N. radialis verläuft spiralig um den Humerusschaft und kann durch eine Humerusschaftfraktur geschädigt werden\n- dabei ist der M. triceps brachii in der Regel nicht in seiner Funktion eingeschränkt, da die den M. triceps brachii innervierenden Nervenfasern in der Regel bereits in der Axilla vom N. radialis abgegangen sind\n- Ausfall der Extensoren am Unterarm, Fallhand\n- auf der Streckseite des Unterarmes, auf dem Handrücken sowie auf der Dorsalseite der radialen 2 ½ Finger kommt es zu einem Sensibilitätsausfall\n- Kontusion oder leichte Dehnung des Nerven (Neurapraxie)\n\n**Diagnose:**\n- Röntgen\n- neurologisch: Ausschluss N. radialis-Parese/ Inkomplette Lähmung bzw. Plegie/Komplette Lähmung\n\n**Therapie:**\n**konservativ: mehrere Verfahren**\n- Gilchrist, Desault-Verband\n- Anlage einer Oberarmgipsschiene mit Schulter- und Ellenbogeneinschluss (Coaptation Splint)\n\n**modernstes Vorgehen ist die funktionelle Behandlung mittels eines Sarmiento-Brace.**",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Symptome: Schmerzen, Instabilität, Krepitation, Schwellung/Hämatom, eingeschränkte Beweglichkeit",
+        "N.-radialis-Verletzung in ca. 15 % bei Frakturen im mittleren Diaphysendrittel → Fallhand (Ausfall der Extensoren am Unterarm)",
+        "M. triceps brachii meist funktionsfähig, da seine Nervenfasern bereits in der Axilla vom N. radialis abgehen",
+        "Sensibilitätsausfall an Streckseite Unterarm, Handrücken und Dorsalseite der radialen 2 ½ Finger",
+        "Konservative Therapie: Gilchrist-/Desault-Verband, Coaptation Splint; modernstes Verfahren: funktionelle Behandlung mit Sarmiento-Brace"
+      ]
+    },
+    {
+      "gidx": 201,
+      "source": "skl-chirurgie p.201",
+      "slide_title": "Humerusfrakturen – Sarmiento-Brace",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n**Sarmiento-Brace**\n\n**Brace: Stütze**\n- modernstes Vorgehen ist die funktionelle Behandlung mittels eines Sarmiento-Brace\n- dieser ist eine konfektionierte Kunststoffhülse, die dem Oberarm exakt angepasst wird\n- der Brace übt sanften Druck auf den Weichteilmantel aus und hält so die Fraktur in achsengerechter Stellung\n- Ellenbogen- und Schultergelenk bleiben dabei frei, wodurch einer Einsteifung der Gelenke vorgebeugt wird\n- der Brace wird angelegt, sobald der erste bindegewebige Kontakt der Bruchflächen angenommen werden kann, also etwa 10–14 Tage nach dem Trauma\n- bis dahin erfolgt eine Ruhigstellung mittels Desault- oder Gilchristverband\n- nach ca. 3 Wochen kann vorsichtig mit passiven Mobilisationsübungen/Pendelübungen begonnen werden/ keine Rotationsbewegungen\n- nach ca. 5-6 Wochen aktive Bewegungsübungen bis zur Schmerzgrenze",
+      "figures": [
+        {
+          "caption": "Foto: Sarmiento-Brace am Oberarm",
+          "shows": "Konfektionierte Kunststoffhülse am Oberarm mit freiem Schulter- und Ellenbogengelenk",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Sarmiento-Brace = konfektionierte Kunststoffhülse, übt sanften Druck auf den Weichteilmantel aus und hält die Fraktur achsengerecht",
+        "Ellenbogen- und Schultergelenk bleiben frei → Vorbeugung einer Gelenkeinsteifung",
+        "Anlage ca. 10–14 Tage nach dem Trauma (erster bindegewebiger Kontakt der Bruchflächen); vorher Desault-/Gilchristverband",
+        "Nach ca. 3 Wochen passive Mobilisations-/Pendelübungen (keine Rotation), nach ca. 5–6 Wochen aktive Übungen bis zur Schmerzgrenze"
+      ]
+    },
+    {
+      "gidx": 202,
+      "source": "skl-chirurgie p.202",
+      "slide_title": "Humerusfrakturen – Indikationen zur operativen Therapie und OP-Verfahren (Humerusschaft)",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n**Indikationen zur operativen Therapie und OP-Verfahren:**\n- offene Frakturen\n- erhebliche Dislokation der Fragmente\n- Radialis-Schädigung\n\n**Verfahren:**\n- Marknagelung\n- Verriegelungsnagel\n- Plattenosteosynthese\n- Fixateur externe",
+      "figures": [
+        {
+          "caption": "Röntgenbilder: Marknagelung/Verriegelungsnagel, Fixateur externe und Plattenosteosynthese am Humerusschaft",
+          "shows": "Operative Versorgungsverfahren der Humerusschaftfraktur (Marknagel, Fixateur externe, Platte)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "OP-Indikationen bei der Humerusschaftfraktur: offene Frakturen, erhebliche Dislokation der Fragmente, Radialis-Schädigung",
+        "OP-Verfahren: Marknagelung, Verriegelungsnagel, Plattenosteosynthese, Fixateur externe"
+      ]
+    },
+    {
+      "gidx": 203,
+      "source": "skl-chirurgie p.203",
+      "slide_title": "Humerusfrakturen – 3. Distale Humerusfraktur (Definition, AO-Klassifikation)",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n## 3. Distale Humerusfraktur\n\n**Definition:**\n- ellenbogengelenksnahe Fraktur, meist durch Sturz auf den ausgestreckten Arm\n\n**Klassifikation nach AO**\n\n**Typ A: extraartikuläre Fraktur**\n- keine Gelenkbeteiligung\n\n**Typ B: partielle Gelenkfraktur**\n- Gelenkfraktur durch einen der beiden Kondylen\n\n**Typ C: vollständige Gelenkfraktur**\n- Gelenkfrakturen durch beide Kondylen mit y- förmigem Frakturverlauf\n- oder Trümmerfraktur",
+      "figures": [
+        {
+          "caption": "AO-Klassifikation 13-Humerus distal: 13-A extraartikuläre Fraktur (A1 apophysär, A2 metaphysär einfach, A3 metaphysär interfragmentär), 13-B partielle Gelenkfraktur (B1 lateral-sagittal, B2 medial-sagittal, B3 Frontalebene), 21-C vollständige Gelenkfraktur (C1 artikulär einfach/metaphysär einfach, C2 artikulär einfach/metaphysär mehrfragmentär, C3 artikulär einfach/metaphysär mehrfragmentär)",
+          "shows": "Schematische Zeichnungen der Frakturformen des distalen Humerus nach AO",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Distale Humerusfraktur: ellenbogengelenksnahe Fraktur, meist durch Sturz auf den ausgestreckten Arm",
+        "AO Typ A: extraartikuläre Fraktur ohne Gelenkbeteiligung",
+        "AO Typ B: partielle Gelenkfraktur durch einen der beiden Kondylen",
+        "AO Typ C: vollständige Gelenkfraktur durch beide Kondylen mit y-förmigem Frakturverlauf oder Trümmerfraktur"
+      ]
+    },
+    {
+      "gidx": 204,
+      "source": "skl-chirurgie p.204",
+      "slide_title": "Humerusfrakturen – Distale Humerusfraktur: Symptome und Therapie",
+      "type": "inhalt",
+      "notes_md": "# Humerusfrakturen\n\n**Symptome:**\n- Hämatome; Schwellung\n- starke Schmerzen\n- eine Bewegung im Ellenbogengelenk ist häufig kaum noch möglich\n- eine Fehlstellung\n- Krepitation\n\n**Therapie:**\n**konservativ:**\n- Anlage eines Oberarmgipses für drei bis sechs Wochen: bei stabilen extraartikulären Frakturen, bei älteren Menschen\n- bei Kindern: Ruhigstellung mittels Armschlinge gering dislozierten extraartikulären Frakturen und nichtdislozierten intraartikulären Frakturen\n\n**operativ:**\ndie primäre Stabilisierung von offenen Frakturen und Frakturen mit Weichteilschaden erfolgt durch\n- Anlage eines gelenküberbrückenden Fixateur externe.\n- sobald die Weichteile konsoldiert sind, dann\n- Platten,- Schraubenosteosynthese, Kirschner-Drähte, Zuggurtung",
+      "figures": [],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Symptome: Hämatome/Schwellung, starke Schmerzen, kaum mögliche Ellenbogenbewegung, Fehlstellung, Krepitation",
+        "Konservativ: Oberarmgips 3–6 Wochen bei stabilen extraartikulären Frakturen/älteren Menschen; bei Kindern Armschlinge",
+        "Operativ: primäre Stabilisierung offener Frakturen/Weichteilschaden durch gelenküberbrückenden Fixateur externe",
+        "Nach Weichteilkonsolidierung: Platten-/Schraubenosteosynthese, Kirschner-Drähte, Zuggurtung"
+      ]
+    }
+  ]
+}

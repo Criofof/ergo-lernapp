@@ -1,0 +1,241 @@
+{
+  "batch": "21",
+  "pages": [
+    {
+      "gidx": 241,
+      "source": "skl-chirurgie p.241",
+      "slide_title": "Luxation des Sternoclavikulargelenk",
+      "type": "inhalt",
+      "notes_md": "## Luxation des Sternoclavikulargelenk\n\n### Symptome:\n- Bewegungsschmerz\n- Druckschmerz über dem Sternoklavikulargelenk\n\n### Komplikationen:\n- Verletzung von Trachea, Ösophagus, Ductus thoracicus, Gefäße, Contusio cordis, Myokardverletzungen insbesondere bei Luxatio retrosternalis\n- Mitverletzung des Akromioklavikulargelenks\n- Reluxation => Operation notwendig\n\n### Therapie:\n**konservativ:**\nbei vorderer Luxation:\n- Reposition durch Zug nach lateral am gestreckten Arm und Druck auf die mediale Klavikula\n- Rucksackverband für 4-5 Wochen frühfunktionelle Behandlung\n\n**operativ:**\nEinbringen einer Gelenkplatte, die von ventral auf Sternum und proximale Klavicula aufgebracht wird\n\n**OP nach Bunell:**\n- Fixation von Sternum und Klavikula, heute modifiziert mit PDS-Banding (Band, welches sich nach 3-5 Monaten selbst auflöst), entsprechend des Verlaufes des Lig. sternoclaviculare\n- Resektion und Arthrodese bei sehr alten Patienten",
+      "figures": [
+        {
+          "caption": "vordere Luxation",
+          "shows": "Klinisches Foto eines Patienten mit vorderer Luxation des Sternoklavikulargelenks (sichtbare Vorwölbung am Sternoklavikulargelenk)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Symptome: Bewegungsschmerz, Druckschmerz über dem Sternoklavikulargelenk",
+        "Luxatio retrosternalis: Gefahr der Verletzung von Trachea, Ösophagus, Ductus thoracicus, Gefäßen und Myokard (Contusio cordis)",
+        "Reluxation macht Operation notwendig",
+        "Konservativ bei vorderer Luxation: Reposition durch Zug nach lateral + Druck auf mediale Klavikula, Rucksackverband 4-5 Wochen",
+        "OP nach Bunell: Fixation von Sternum und Klavikula, modifiziert mit PDS-Banding (löst sich nach 3-5 Monaten selbst auf)"
+      ]
+    },
+    {
+      "gidx": 242,
+      "source": "skl-chirurgie p.242",
+      "slide_title": "Lymphadenitis und Lymphangitis",
+      "type": "inhalt",
+      "notes_md": "## Lymphadenitis und Lymphangitis\n\n**Lymphadenitis:** Lymphknotenschwellung\n**Lymphangitis:** Entzündung der Lymphgefäße\n\n### Lymphadenitis:\n**Formen:**\n- akute Lymphadenitis\n- chronische Lymphadenitis\n\nSonderform: Lymphadenitis mesenterialis\n- betroffen sind hier spezielle Lymphknoten in der Ileozökalregion\nkann entweder spezifisch\n- durch bestimmte Bakterien ausgelöst werden oder entsteht als Begleiterscheinung einer den ganzen Körper betreffenden (systemischen) Viruserkrankung\n\n### Lokalisation:\n- regionale Lymphadenitis\n- generalisierte Lymphadenitis\n\n### Ursachen:\n**Viren sind die häufigsten Auslöser einer Lymphadenitis:**\n- Rhinoviren - häufig die Auslöser eines klassischen Schnupfens.\n- Influenzaviren - verursachen die echte Grippe.\n- Parainfluenzaviren - rufen grippeähnliche Symptome hervor, haben mit einer echten Grippe aber nichts zu tun.\n- Adenoviren - wie Parainfluenzaviren oft an Atemwegsinfekten beteiligt.\n- Eppstein-Barr-Virus (EBV) - der Erreger des Pfeifferschen Drüsenfiebers.\n- Kinderkrankheiten wie Masern oder Röteln",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Lymphadenitis = Lymphknotenschwellung; Lymphangitis = Entzündung der Lymphgefäße",
+        "Formen der Lymphadenitis: akut und chronisch; Sonderform: Lymphadenitis mesenterialis (Ileozökalregion)",
+        "Lokalisation: regional vs. generalisiert",
+        "Viren sind die häufigsten Auslöser (Rhino-, Influenza-, Parainfluenza-, Adenoviren, EBV, Masern/Röteln)"
+      ]
+    },
+    {
+      "gidx": 243,
+      "source": "skl-chirurgie p.243",
+      "slide_title": "Lymphadenitis und Lymphangitis",
+      "type": "inhalt",
+      "notes_md": "## Lymphadenitis und Lymphangitis\n\n### Bakterien als Auslöser einer Lymphadenitis: z. B.:\n- Haemophilus influenzae\n- Staphylokokken und Streptokokken\n- Chlamydien\n- Tuberkulosebakterien\n- die Auslöser einer spezifischen Lymphadenitis mesenterialis sind Bakterien der Gattung Yersinia.\n- Pilzinfektionen, Parasiten selten als Auslöser\n\n### Symptome:\n- tastbare Schwellung der betroffenen Lymphknoten.\n- Schwellung kann schmerzlos oder schmerzhaft sein\n- die betroffene Region kann überwärmt (\"Calor\") und gerötet (\"Rubor\") sein.\n- Allgemeinsymptome: Krankheitsgefühl, Abgeschlagenheit und Fieber\n- Nachtschweiß, allgemeine Müdigkeit\n\nGewichtsabnahme: Hinweis auf Lymphknotenkrebs: z.B. Morbus Hodgkin mit derben, nicht verschieblichen Lymphknoten und einer Größe von > 2 cm\n\n**Komplikation einer Lymphadenitis: Fistelbildung**\n\n### Diagnostik:\n- Palpation der wichtigsten Lymphknotenstationen (Halslymphknoten, Achsellymphknoten, Inguinale Lymphknoten).\n- Labor\n- Sonographie\n- Lymphknotenpunktion (zur mikroskopischen Untersuchung des Gewebes auf Tumorzellen, Tuberkulose, etc.)\n\n### Therapie:\n- symptomatisch nach Krankheitsursache\noperativ:\n- Abszessspaltung und Drainage\n- Entnahme von Lymphknoten (Lymphadenektomie)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bakterielle Auslöser: Haemophilus influenzae, Staphylo-/Streptokokken, Chlamydien, Tuberkulosebakterien, Yersinia (Lymphadenitis mesenterialis)",
+        "Symptome: tastbare Schwellung, Calor/Rubor, Fieber, Nachtschweiß",
+        "Gewichtsabnahme + derbe, nicht verschiebliche Lymphknoten > 2 cm = Hinweis auf Morbus Hodgkin",
+        "Komplikation: Fistelbildung",
+        "Operative Therapie: Abszessspaltung und Drainage, Lymphadenektomie"
+      ]
+    },
+    {
+      "gidx": 244,
+      "source": "skl-chirurgie p.244",
+      "slide_title": "Lymphangitis",
+      "type": "inhalt",
+      "notes_md": "## Lymphangitis\n\n### Lymphangitis:\n**Formen: akut**\nUrsachen:\n- Verletzungen\n- Insektenstich\n- Schlangenbiss\n- Lokalinfection (Follikulitis, Abszess)\n- paravenöse Injektion zytotoxischer Medikamente\n\n**chronisch:**\n- durch obliterierte Lymphgefäße, Ausbildung eines Lymphödems\n\nDie Erreger einer Lymphangitis:\n- sind am häufigsten Staphylokokken und Streptokokken\n\n### Allgemeinsymptome:\n- Krankheitsgefühl\n- Fieber\n- Schüttelfrost\n- Tachykardie\n- Tachypnoe\n- Schmerzen\n- Verwirrtheit\n- Benommenheit bis hin zum Koma\n\n### Lokale Symptome:\n- klinisch auffällig ist ein roter Streifen, der vom Sitz der Verletzung nach zentral fortschreitet\n- das Erythem kann schwächer oder stärker ausgeprägt sein\n- das Lymphgefäß palpiert sich leicht geschwollen und warm\n- es kann ein pochender Schmerz entlang der betroffenen Lymphbahn kann vorliegen\n- ggf. geschwollene Lymphknoten",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Akute Lymphangitis: Ursachen Verletzungen, Insektenstich, Schlangenbiss, Lokalinfection, paravenöse Injektion zytotoxischer Medikamente",
+        "Chronische Lymphangitis: durch obliterierte Lymphgefäße mit Ausbildung eines Lymphödems",
+        "Häufigste Erreger: Staphylokokken und Streptokokken",
+        "Leitsymptom: roter Streifen vom Verletzungssitz nach zentral fortschreitend",
+        "Allgemeinsymptome bis hin zu Verwirrtheit und Koma"
+      ]
+    },
+    {
+      "gidx": 245,
+      "source": "skl-chirurgie p.245",
+      "slide_title": "Lymphangitis",
+      "type": "inhalt",
+      "notes_md": "## Lymphangitis\n\n### Therapie:\n- bei leichter Lymphangitis ist oft die Lokalbehandlung mit Ruhigstellung Alkoholverband und antiphlogistischen Salben ausreichend\n- in ausgeprägteren Fällen kann eine Antibiotikatherapie. z.B. mit Amoxicillin oder einem Cephalosporin erforderlich sein",
+      "figures": [
+        {
+          "caption": "Lymphangitis am Arm",
+          "shows": "Klinisches Foto: roter Streifen entlang der Lymphbahn am Unterarm/Handgelenk mit Eintrittspforte",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Lymphangitis am Arm (schematisch/klinisch)",
+          "shows": "Darstellung eines ausgedehnten roten Streifens am Arm Richtung Axilla",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Lymphangitis am Fuß",
+          "shows": "Klinisches Foto: geröteter Fuß mit Lymphangitis, ausgehend von einer Zehenläsion",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Leichte Lymphangitis: Lokalbehandlung mit Ruhigstellung, Alkoholverband, antiphlogistische Salben",
+        "Ausgeprägte Fälle: Antibiotikatherapie z.B. mit Amoxicillin oder Cephalosporin"
+      ]
+    },
+    {
+      "gidx": 246,
+      "source": "skl-chirurgie p.246",
+      "slide_title": "Meniskuschäden/Rissformen",
+      "type": "inhalt",
+      "notes_md": "## Meniskuschäden/Rissformen\n\n**Der mediale Meniskus ist 3x häufiger betroffen als der laterale Meniskus.**\nGründe für seine geringere Flexibilität und Belastbarkeit sind:\n- ist mit dem Lig.collaterale mediale verwachsen\n- ungleiche Beschaffenheit der Hörner ( sein Hinterhorn ist breiter und seine C- Form)\n\n### Zonen:\n- Menisken sind nur an ihrer äußeren Zone vascularisiert/Red Zone\n- die innere Zone/ White Zone wird über Diffusion ernährt; daraus resultiert die geringere Reparationsfähigkeit in der White Zone\n\n### Ursachen:\n- indirekte Gewalteinwirkung durch plötzliche Drehbewegung im gebeugtem Knie\n- Stoßverletzung von lateral bei feststehendem Unterschenkel\n- abrupte Streckung\n- Arbeiten in jahrelanger Hockstellung\n- sportliche Dauerbelastung/Fußballspielen\n- Varusstress, Valgusstress\n- chronisch-degenerativ",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Medialer Meniskus 3x häufiger betroffen als lateraler (Verwachsung mit Lig. collaterale mediale, breiteres Hinterhorn, C-Form)",
+        "Red Zone (äußere Zone) vaskularisiert, White Zone (innere Zone) nur über Diffusion ernährt → geringere Reparationsfähigkeit",
+        "Ursachen: Drehbewegung im gebeugten Knie, Stoß von lateral, abrupte Streckung, Hockstellung, Sport, Varus-/Valgusstress, chronisch-degenerativ"
+      ]
+    },
+    {
+      "gidx": 247,
+      "source": "skl-chirurgie p.247",
+      "slide_title": "Anatomie Kniegelenk (Menisken und Bänder)",
+      "type": "inhalt",
+      "notes_md": "## Anatomische Abbildung: Kniegelenk von oben (Tibiaplateau mit Menisken und Bändern)\n\nBeschriftete Strukturen:\n- Lig. cruciatum anterius\n- Lig. cruciatum posterius\n- Lig. patellae\n- Lig. transversum genus\n- Meniscus medialis\n- Meniscus lateralis\n- Lig. collaterale tibiale\n- Lig. collaterale fibulare\n- Lig. meniscofemorale posterius\n- Art. tibiofibularis\n- Caput fibulae",
+      "figures": [
+        {
+          "caption": "Kniegelenk mit Menisken und Bänderapparat (Ansicht von oben)",
+          "shows": "Anatomische Zeichnung des Tibiaplateaus mit Meniscus medialis und lateralis, Kreuzbändern, Kollateralbändern, Lig. patellae, Lig. transversum genus, Lig. meniscofemorale posterius, Art. tibiofibularis und Caput fibulae",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Anatomie Kniegelenk: Meniscus medialis/lateralis, Lig. cruciatum anterius/posterius, Lig. collaterale tibiale/fibulare, Lig. patellae, Lig. transversum genus, Lig. meniscofemorale posterius"
+      ]
+    },
+    {
+      "gidx": 248,
+      "source": "skl-chirurgie p.248",
+      "slide_title": "Rissformen lernen",
+      "type": "inhalt",
+      "notes_md": "## Rissformen der Menisken\n\n(Abb. 16.56 Verschiedene Rissformen der Kniegelenksmenisken.)\n\n- a) Ablösung der Meniskusbasis am Kapselrand.\n- b) Längsriss im Meniskuskörper ohne Dislokation.\n- c) Längsriss mit Dislokation: Korbhenkelriss.\n- d) Querriss im Vorderhorn.\n- e) Lappenriss im Hinterhorn.",
+      "figures": [
+        {
+          "caption": "Abb. 16.56 Verschiedene Rissformen der Kniegelenksmenisken",
+          "shows": "Schematische Darstellung fünf Rissformen: a) Ablösung der Meniskusbasis am Kapselrand, b) Längsriss ohne Dislokation, c) Längsriss mit Dislokation (Korbhenkelriss), d) Querriss im Vorderhorn, e) Lappenriss im Hinterhorn",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "5 Rissformen: Basenablösung am Kapselrand, Längsriss ohne Dislokation, Korbhenkelriss (Längsriss mit Dislokation), Querriss im Vorderhorn, Lappenriss im Hinterhorn"
+      ]
+    },
+    {
+      "gidx": 249,
+      "source": "skl-chirurgie p.249",
+      "slide_title": "Arten von Meniskusrissen",
+      "type": "inhalt",
+      "notes_md": "## Arten von Meniskusrissen\n\nDargestellte Formen:\n- Normaler Meniskus\n- Radiärriss\n- Basisnaher Riss\n- Lappenriss\n- Korbhenkelriss\n- Verschleiß\n- Horizontalriss",
+      "figures": [
+        {
+          "caption": "Arten von Meniskusrissen",
+          "shows": "Schematische Übersicht der Meniskusrissarten im Vergleich zum normalen Meniskus: Radiärriss, basisnaher Riss, Lappenriss, Korbhenkelriss, Verschleiß, Horizontalriss",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Rissarten: Radiärriss, basisnaher Riss, Lappenriss, Korbhenkelriss, Verschleiß (degenerativ), Horizontalriss"
+      ]
+    },
+    {
+      "gidx": 250,
+      "source": "skl-chirurgie p.250",
+      "slide_title": "Meniskuschäden/Rissformen",
+      "type": "inhalt",
+      "notes_md": "## Meniskuschäden/Rissformen\n\n### Symptome:\n- Belastungsschmerz\n- Druckschmerz über dem Gelenkspalt\n- Streckhemmung\n- Fremdkörpergefühl\n- seröser Reizerguss\n- Hämarthros bei Läsion der Red Zone\n\n### Testverfahren:\n- Böhlerzeichen\n- Steinmann I und II Zeichen\n- Pyar-Zeichen\n- Mc. Murray- Test\n- Apley- Grinding-Test\n\n### apparative Diagnostik:\n- Sonographie\n- Röntgen, MRT\n- Arthroskopie\n\n### Therapie:\n**konservativ:**\n- Kühlung\n- Entlastung, Unterarmgehstützen für 6 Wochen\n- evtl. Ruhigstellung in Streckstellung bei kleinen Läsionen der Red-Zone\n- NSAR\n- Thromboseprophylaxe",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Symptome: Belastungsschmerz, Druckschmerz über Gelenkspalt, Streckhemmung, Fremdkörpergefühl, Reizerguss, Hämarthros bei Red-Zone-Läsion",
+        "Tests: Böhlerzeichen, Steinmann I/II, Pyar-Zeichen, McMurray-Test, Apley-Grinding-Test",
+        "Apparative Diagnostik: Sonographie, Röntgen, MRT, Arthroskopie",
+        "Konservative Therapie: Kühlung, Entlastung mit Unterarmgehstützen 6 Wochen, evtl. Ruhigstellung, NSAR, Thromboseprophylaxe"
+      ]
+    },
+    {
+      "gidx": 251,
+      "source": "skl-chirurgie p.251",
+      "slide_title": "Meniskuschäden/Rissformen",
+      "type": "inhalt",
+      "notes_md": "## Meniskuschäden/Rissformen\n\n### operative Therapie:\n- Meniskusresektion: Teilmenisektomie oder Totalmenisektomie\n- Meniskusnaht/ Meniskusrefixation\n- künstliches Meniskusimplantat\n- Meniskustransplantation/Leichenmeniskus/ Allokraft\n\n### Meniskusimplantat:\nVoraussetzung: eine stabile Restleiste muss vorhanden sein\n\nDas kollagene Meniskus Implantat ist ein biologisches und vollständig resorbierbares Implantat aus gereinigtem Kollagen. Es wird anstell des entfernten Meniskusgewebes in einer Kniearthroskopie eingenäht und nutzt die Fähigkeit des Körpers zur eigenen Geweberegeneration. Die Meniskusmatrix dient für den Beginn als eine Art Leitschiene für das Einwandern körpereigener Zellen und wird nach etwa einem Jahr abgebaut. Das Meniskusregenerat füllt den Meniskusdefekt auf und soll langfristig die volle Belastungsfähigkeit des Kniegelenkes sicherstellen.",
+      "figures": [
+        {
+          "caption": "Operative Therapie des Meniskusrisses",
+          "shows": "Schematische Darstellung des Kniegelenks mit Menisken: Meniskus-Teilresektion und Meniskusnaht",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Operative Optionen: Teil-/Totalmenisektomie, Meniskusnaht/Refixation, künstliches Meniskusimplantat, Meniskustransplantation (Leichenmeniskus/Allokraft)",
+        "Meniskusimplantat: Voraussetzung stabile Restleiste; kollagenes, vollständig resorbierbares Implantat, arthroskopisch eingenäht",
+        "Meniskusmatrix = Leitschiene für körpereigene Zellen, Abbau nach ca. einem Jahr, Regenerat füllt den Defekt"
+      ]
+    },
+    {
+      "gidx": 252,
+      "source": "skl-chirurgie p.252",
+      "slide_title": "Meniskusimplantat",
+      "type": "inhalt",
+      "notes_md": "## Meniskusimplantat:\nVoraussetzung: eine stabile Restleiste muss vorhanden sein\n\n- Das kollagene Meniskus Implantat ist ein biologisches und vollständig resorbierbares Implantat aus gereinigtem Kollagen. Es wird anstelle des entfernten Meniskusgewebes in einer Kniearthroskopie eingenäht und nutzt die Fähigkeit des Körpers zur eigenen Geweberegeneration. Die Meniskusmatrix dient für den Beginn als eine Art Leitschiene für das Einwandern körpereigener Zellen und wird nach etwa einem Jahr abgebaut. Das Meniskusregenerat füllt den Meniskusdefekt auf und soll langfristig die volle Belastungsfähigkeit des Kniegelenkes sicherstellen.",
+      "figures": [
+        {
+          "caption": "Meniskusimplantat",
+          "shows": "Foto des C-förmigen kollagenen Meniskusimplantats",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Meniskusimplantat eingenäht",
+          "shows": "Arthroskopisches Bild: eingenähtes Meniskusimplantat im Kniegelenk (Pfeile markieren das Implantat)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Meniskusimplantat: biologisches, vollständig resorbierbares Kollagenimplantat, arthroskopisch eingenäht",
+        "Voraussetzung: stabile Restleiste",
+        "Matrix dient als Leitschiene für körpereigene Zellen, Abbau nach ca. 1 Jahr, Ziel: volle Belastungsfähigkeit des Kniegelenks"
+      ]
+    }
+  ]
+}
