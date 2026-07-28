@@ -1,0 +1,219 @@
+{
+  "batch": "13",
+  "pages": [
+    {
+      "gidx": 145,
+      "source": "skl-onkologie p.145",
+      "slide_title": "Tumormarker",
+      "type": "inhalt",
+      "notes_md": "## Tumormarker\n\n- **Proteine**, die **im Blut** vorkommen und deren Werte bei bestimmten Tumorarten ansteigen\n- Die Werte steigen aber nicht nur bei Tumorerkrankungen an, sondern können auch **durch Infektionen** erhöht sein\n- Darum sind **sie nicht eindeutig genug**, um eine Krebserkrankung nachzuweisen",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Tumormarker sind Proteine im Blut, deren Werte bei bestimmten Tumorarten ansteigen",
+        "Werte können auch durch Infektionen erhöht sein",
+        "Nicht eindeutig genug zum Nachweis einer Krebserkrankung"
+      ]
+    },
+    {
+      "gidx": 146,
+      "source": "skl-onkologie p.146",
+      "slide_title": "Tumormarker",
+      "type": "inhalt",
+      "notes_md": "## Tumormarker — Übersichtstabelle\n\n| Tumormarker | Herkunft/Anzeichen |\n|---|---|\n| Alpha-1-Fetoprotein (AFP) | Leber, manche Keimzellentumore |\n| Ca 19-9 | Magen, Darm, Bauchspeicheldrüse |\n| CEA | Darm, Bauchspeicheldrüse, Lunge |\n| PSA – (Prostataspezifisches Antigen) | Prostata |\n| Tumor M2-PK | Magen-Darmtrakt, Genitalorgane |",
+      "figures": [],
+      "eingrenzung_hits": [1, 6],
+      "key_facts": [
+        "AFP: Leber, manche Keimzellentumore",
+        "Ca 19-9: Magen, Darm, Bauchspeicheldrüse",
+        "CEA: Darm, Bauchspeicheldrüse, Lunge",
+        "PSA (Prostataspezifisches Antigen): Prostata",
+        "Tumor M2-PK: Magen-Darmtrakt, Genitalorgane"
+      ]
+    },
+    {
+      "gidx": 147,
+      "source": "skl-onkologie p.147",
+      "slide_title": "Laborbefund (Beispiel)",
+      "type": "inhalt",
+      "notes_md": "## Beispiel: Laborbefund (Blutwerte)\n\nFoto eines realen Laborbefunds mit kleinem Blutbild und weiteren Serumwerten. Ablesbare Werte:\n\n- Kleines Blutbild: Leukozyten 17,4 /nl (erhöht, Referenz 4,0–10,0), Erythrozyten 5,5 /pl, Hämoglobin 18,3 g/dl (erhöht), Hämatokrit 49 %, MCV 90 fl, MCH 33 pg, MCHC 37 g/dl (erhöht), RDW (Ery-Verteilungsbreite) 12,2 %, Thrombozyten 279 /nl\n- Blutzucker nüchtern 83 mg/dl, Cholesterin 160 mg/dl, Triglyzeride 116 mg/dl, Kreatinin 1,1 mg/dl, GFR (MDRD-Formel) >90 ml/min\n- Harnstoff 27 mg/dl, Harnsäure 5,5 mg/dl, Gesamteiweiß 7,2 g/dl, Bilirubin gesamt 0,4 mg/dl\n- GOT (AST) 25 U/l, GPT (ALT) 28 U/l, GGT 17 U/l, AP alkalische Phosphatase 66 U/l, LDH (Laktatdehydrogenase) 202 U/l\n- Natrium 141 mmol/l, Kalium 4,1 mmol/l, Calcium 2,4 mmol/l, TSH-basal 3,17 µU/ml\n- Hinweis: GFR-Werte oberhalb von 60 ml/min sind mit Vorsicht zu interpretieren\n- Im Auftrag enthalten: Praxisprofil 2",
+      "figures": [
+        {
+          "caption": "Beispiel-Laborbefund mit Blutbild und Serumwerten",
+          "shows": "Foto eines Laborberichts (kleines Blutbild, Blutzucker, Leber-/Nierenwerte, Elektrolyte, TSH)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Beispiel eines Laborbefunds mit kleinem Blutbild und Serumchemie",
+        "Leukozyten 17,4 /nl erhöht (Referenz 4,0–10,0)",
+        "Auffällig: erhöhtes Hämoglobin 18,3 g/dl und MCHC 37 g/dl"
+      ]
+    },
+    {
+      "gidx": 148,
+      "source": "skl-onkologie p.148",
+      "slide_title": "Bildgebende Diagnostik",
+      "type": "inhalt",
+      "notes_md": "## Bildgebende Diagnostik\n\n- sind die wichtigsten Verfahren zur **Lokalisation und Größenabschätzung** von Tumoren\n\n1. **Röntgenaufnahme** und Computertomographie (**CT**)\n2. **Radionuklide**\n   - Szintigraphie\n   - Positronen-Emissions-Tomographie\n3. **Kernspinresonanz** (Magnetresonanztomographie **MRT**)\n4. **Ultraschall** (Sonographie)\n5. **Sichtbares Licht**\n   - Endoskopie\n   - Laparoskopie\n   - Bronchoskopie",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bildgebende Verfahren dienen der Lokalisation und Größenabschätzung von Tumoren",
+        "Fünf Gruppen: Röntgen/CT, Radionuklide (Szintigraphie, PET), MRT, Ultraschall, sichtbares Licht (Endoskopie, Laparoskopie, Bronchoskopie)"
+      ]
+    },
+    {
+      "gidx": 149,
+      "source": "skl-onkologie p.149",
+      "slide_title": "Röntgenaufnahme",
+      "type": "inhalt",
+      "notes_md": "## Röntgenaufnahme\n\n- Strahlung durchdringt das Gewebe und wird je nach Dichte des zu untersuchenden Gewebes unterschiedlich stark absorbiert\n- Die Reststrahlung, die auf den Röntgenfilm trifft, erzeugt das Graustufenbild\n- Bei Verdacht auf Knochenbrüche, Krebs, Fremdkörper oder Entzündungen kann ein Röntgenbild einen ersten Hinweis liefern oder bereits eine Diagnose ermöglichen",
+      "figures": [
+        {
+          "caption": "Röntgenbild einer Hand",
+          "shows": "Graustufen-Röntgenaufnahme des Handskeletts",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Röntgenstrahlung wird je nach Gewebedichte unterschiedlich absorbiert; Reststrahlung erzeugt Graustufenbild",
+        "Röntgenbild gibt ersten Hinweis bei Verdacht auf Knochenbrüche, Krebs, Fremdkörper oder Entzündungen"
+      ]
+    },
+    {
+      "gidx": 150,
+      "source": "skl-onkologie p.150",
+      "slide_title": "Röntgenaufnahme",
+      "type": "inhalt",
+      "notes_md": "## Röntgenaufnahme — digitale Bilder\n\n- Heute werden kaum noch Röntgenplatten verwendet, sondern die Bilder werden digital erzeugt\n  - Verringert die Strahlenbelastung für den Körper\n  - Kann gezielter eingesetzt werden\n  - Bilder können direkt digital nachbearbeitet werden",
+      "figures": [
+        {
+          "caption": "Modernes digitales Röntgengerät",
+          "shows": "Röntgenarbeitsplatz mit Liege und deckenmontiertem Röntgenstrahler",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Digitale Röntgenbilder ersetzen Röntgenplatten",
+        "Vorteile: geringere Strahlenbelastung, gezielterer Einsatz, digitale Nachbearbeitung"
+      ]
+    },
+    {
+      "gidx": 151,
+      "source": "skl-onkologie p.151",
+      "slide_title": "Röntgenaufnahmen",
+      "type": "inhalt",
+      "notes_md": "## Röntgenaufnahmen — Pro und Contra\n\n**Pro:**\n- Schnell und einfach\n- Kostengünstig\n- Vielseitig einsetzbar\n\n**Conta (Contra):**\n- Strahlenbelastung für den Körper (Krebsgefahr)\n- Kann Ei- und Samenzellen schädigen (Schutzmantel)\n- „Weiches“ Gewebe wird nicht gut dargestellt",
+      "figures": [
+        {
+          "caption": "Röntgenbild eines Hundes mit verschluckter Gabel",
+          "shows": "Tier-Röntgenaufnahme, Fremdkörper (Gabel) im Magen-Darm-Trakt sichtbar",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Pro: schnell und einfach, kostengünstig, vielseitig einsetzbar",
+        "Contra: Strahlenbelastung (Krebsgefahr), Schädigung von Ei- und Samenzellen möglich, Weichgewebe schlecht darstellbar"
+      ]
+    },
+    {
+      "gidx": 152,
+      "source": "skl-onkologie p.152",
+      "slide_title": "Computertomografie (CT)",
+      "type": "inhalt",
+      "notes_md": "## Computertomografie (CT)\n\n- Der Patient wird von einer beweglichen Röntgeneinrichtung umkreist\n- Es werden zunächst aus verschiedenen Richtungen Röntgenaufnahmen von einem schmalen Körpersegment angefertigt\n- Zum Schluss werden alle Bilder zu einem dreidimensionalen Modell zusammengesetzt\n- Diese werden dann als Schnittbild dargestellt",
+      "figures": [
+        {
+          "caption": "CT-Gerät",
+          "shows": "Computertomograph mit Untersuchungsliege im Untersuchungsraum",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "CT: bewegliche Röntgeneinrichtung umkreist den Patienten",
+        "Aufnahmen eines schmalen Körpersegments aus verschiedenen Richtungen",
+        "Bilder werden zu einem dreidimensionalen Modell zusammengesetzt und als Schnittbild dargestellt"
+      ]
+    },
+    {
+      "gidx": 153,
+      "source": "skl-onkologie p.153",
+      "slide_title": "CT Untersuchung",
+      "type": "inhalt",
+      "notes_md": "## CT Untersuchung\n\nNeue CT Methode aus der Praxis\n\nVerlinktes Video: „Lungenkrebs: Schonende Entfernung von Tumoren in der Lunge mit VATS - YouTube\"",
+      "figures": [
+        {
+          "caption": "Schnittbilddarstellung eines Gehirns am Monitor",
+          "shows": "Beispielhafte CT/MRT-Schnittbilder des Kopfes auf einem Bildschirm (Illustration)",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Verweis auf eine neue CT-Methode aus der Praxis (Video: schonende Entfernung von Lungentumoren mit VATS)"
+      ]
+    },
+    {
+      "gidx": 154,
+      "source": "skl-onkologie p.154",
+      "slide_title": "Computertomografie (CT)",
+      "type": "inhalt",
+      "notes_md": "## Computertomografie (CT) — Beispielbilder\n\n- Abb.: CT in Schädelmitte (axiales Schnittbild des Gehirns)\n- Abb.: CT Abdomen, mittleres Drittel. Der Tumor ist mit Pfeilen markiert",
+      "figures": [
+        {
+          "caption": "Abb. CT in Schädelmitte",
+          "shows": "Axiales CT-Schnittbild des Schädels/Gehirns",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Abb. CT Abdomen, mittleres Drittel — Tumor mit Pfeilen markiert",
+          "shows": "Axiales CT-Schnittbild des Abdomens mit durch Pfeile markiertem Tumor",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Beispiel-CTs: Schnittbild in Schädelmitte und Abdomen mit pfeilmarkiertem Tumor"
+      ]
+    },
+    {
+      "gidx": 155,
+      "source": "skl-onkologie p.155",
+      "slide_title": "Computertomografie (CT) — Anwendungsgebiete",
+      "type": "inhalt",
+      "notes_md": "## Computertomografie (CT) — Anwendungsgebiete\n\n- **Krebserkrankungen**\n  - zur Diagnose eines klinischen Befunds\n  - präoperativ zur genauen Lokalisation und Planung einer Operation\n  - postoperativ zur Verlaufskontrolle\n- Verdacht auf innere Verletzungen des Schädels sowie der Organe\n- Erkrankungen im Bauchraum\n- z.B. Entzündung der Bauchspeicheldrüse",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "CT bei Krebserkrankungen: Diagnose, präoperative Lokalisation/OP-Planung, postoperative Verlaufskontrolle",
+        "Weitere Anwendungen: Verdacht auf innere Verletzungen von Schädel und Organen, Erkrankungen im Bauchraum (z.B. Bauchspeicheldrüsenentzündung)"
+      ]
+    },
+    {
+      "gidx": 156,
+      "source": "skl-onkologie p.156",
+      "slide_title": "Computertomografie (CT) — Anwendungsgebiete",
+      "type": "inhalt",
+      "notes_md": "## Computertomografie (CT) — Anwendungsgebiete (Fortsetzung)\n\n- Schlaganfall\n- akuten und schweren sowie chronischen Kopfschmerzen\n- chronischem Husten\n- komplizierte Verletzungen des Bewegungsapparats, zum Beispiel bei Frakturen an Wirbelsäule, Becken, Knie- und Fußgelenk\n- Bandscheibenvorfall",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Weitere CT-Anwendungen: Schlaganfall, akute/schwere und chronische Kopfschmerzen, chronischer Husten, komplizierte Frakturen (Wirbelsäule, Becken, Knie-/Fußgelenk), Bandscheibenvorfall"
+      ]
+    }
+  ]
+}

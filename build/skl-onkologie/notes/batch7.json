@@ -1,0 +1,177 @@
+{
+  "batch": "7",
+  "pages": [
+    {
+      "gidx": 73,
+      "source": "skl-onkologie p.73",
+      "slide_title": "Die Bedeutung von Rezeptoren auf der Tumorzell-Oberfläche",
+      "type": "inhalt",
+      "notes_md": "## Die Bedeutung von Rezeptoren auf der Tumorzell-Oberfläche\n\nJede Zelle exprimiert an ihrer Oberfläche zahlreiche Rezeptoren. Dazu zählen vor allem Rezeptoren, die die sogenannten **Wachstumsfaktoren** erkennen. Wachstumsfaktoren kann man als Hormone im weiteren Sinne bezeichnen. Wenn solche Wachstumsfaktoren an den Rezeptoren andocken, so werden Signale ins Zellinnere weitergeleitet, die die Zellfunktionen ändern, z. B. das Wachstum beschleunigen.\n\nManche dieser Regulationsabläufe sind in der Krebszelle blockiert oder überaktiviert, woraus das schrankenlose Wachstum, die Metastasenbildung und andere Fehlfunktionen resultieren.\n\nEin Zuviel an Wachstumsrezeptoren auf der Zelloberfläche kann zu starkem Wachstum bzw. zu ständiger Zellteilung führen. Können diese Rezeptoren blockieret werden, so können die Wachstumsfaktoren (= Moleküle) unwirksam werden und das Wachstum der Krebszellen verlangsamt sich oder bleibt aus.\n\nAuch wenn die Rezeptoranzahl an der Zelloberfläche unverändert bleibt, kann die Blockierung der Signalweiterleitung in der Zelle Zellwachstum und -teilung verlangsamen oder sogar die Krebszelle zum Absterben bringen.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Wachstumsfaktoren docken an Oberflächenrezeptoren an und leiten Signale ins Zellinnere, die z. B. das Wachstum beschleunigen.",
+        "In Krebszellen sind Regulationsabläufe blockiert oder überaktiviert → schrankenloses Wachstum und Metastasenbildung.",
+        "Blockade von Wachstumsrezeptoren oder der intrazellulären Signalweiterleitung kann Tumorwachstum verlangsamen oder die Krebszelle abtöten."
+      ]
+    },
+    {
+      "gidx": 74,
+      "source": "skl-onkologie p.74",
+      "slide_title": "Hemmstoffe von Wachtumsrezeptoren",
+      "type": "inhalt",
+      "notes_md": "## Hemmstoffe von Wachtumsrezeptoren\n\n**Diese Behandlungsmethoden versuchen nicht mehr, die Krebszelle durch Zellgifte abzutöten, sondern selektiv diejenigen Regelvorgänge in der Krebszelle zu unterbrechen, die zu raschem Wachstum bzw. zur Teilung führen.**\n\nBeispiele von Medikamenten, die durch Einfluss auf die intrazelluläre Signalverarbeitung die Krebszelle beeinflussen = Hemmstoffe von Tumorsignalen.\n\n- **Imatinib** hemmt die Proliferation der Zelle und führt zu einem apoptotischen Zelluntergang.\n- **Sorafenib** stört die Signalweitergabe eines Wachstumsfaktors sowie die Zellproliferation über andere Signalwege (RAF-Kinaseweg). Betroffene Zellen können also nicht mehr wachsen oder sich vermehren.\n\nNicht nur Krebszellen sind rasch wachsende Zellen im Körper. Haut, sondern auch Schleimhäute sowie blutbildende Zellen unterliegen einem erhöhten Verschleiß und müssen ständig ersetzt werden.\n\n**Daher ist die Chemotherapie bei Krebs ein Balanceakt: Auf der einen Seite sollen die malignen Zellen möglichst vollständig zum Absterben gebracht, andererseits aber die normalen Körperzellen in denen Wachstumsvorgänge stattfinden, nicht zu stark geschädigt werden.**",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Imatinib: hemmt Proliferation, führt zu apoptotischem Zelluntergang.",
+        "Sorafenib: stört Signalweitergabe von Wachstumsfaktoren und Zellproliferation über den RAF-Kinaseweg.",
+        "Chemotherapie ist ein Balanceakt: maligne Zellen abtöten, aber rasch wachsende normale Zellen (Haut, Schleimhäute, Blutbildung) schonen."
+      ]
+    },
+    {
+      "gidx": 75,
+      "source": "skl-onkologie p.75",
+      "slide_title": "Alternativ werden noch weitere Therapieansätze erforscht: Immunmodulation",
+      "type": "inhalt",
+      "notes_md": "## Alternativ werden noch weitere Therapieansätze erforscht:\n\n### Immunmodulation\n\n**Die Zellen werden chemisch markiert (=verändert), so dass sie von der körpereigenen Abwehr als fremd oder defekt erkannt und angegriffen werden.**\n\n### Beispiele\n\n- Antitumor-Impfung\n- Tumor-Markierung als Ziel für die körpereigene Immunabwehr\n\nErste Behandlungsverfahren durch Immunmodulation existieren bereits für spezielle Tumorerkrankungen. Für viele Tumorarten ist dies aber noch Zukunftsvision. Therapiemöglichkeiten werden derzeit in experimentellen Studien getestet.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Immunmodulation: Tumorzellen werden chemisch markiert, damit die körpereigene Abwehr sie als fremd/defekt erkennt und angreift.",
+        "Beispiele: Antitumor-Impfung, Tumor-Markierung als Ziel der Immunabwehr.",
+        "Für spezielle Tumorerkrankungen bereits verfügbar, für viele Tumorarten noch Zukunftsvision (experimentelle Studien)."
+      ]
+    },
+    {
+      "gidx": 76,
+      "source": "skl-onkologie p.76",
+      "slide_title": "Chemotherapie von (Fern)Metastasen",
+      "type": "inhalt",
+      "notes_md": "## Chemotherapie von (Fern)Metastasen\n\nTreten Fernmetastasen auf, so gilt diese Krebserkrankung in aller Regel als unheilbar.\n\nDennoch hat die Chemotherapie bei Metastasen einen großen Stellenwert.\n\nZiel ist die Verlangsamung des Krankheitsfortschritts und dadurch ein späteres Auftreten von Funktionseinschränkungen und Schmerzen.\n\nKann eine Verlängerung der Überlebensdauer erreicht werden, so liegt diese, je nach Lage und Art des Tumors bzw. dessen Metastasen, meist bei einigen Monaten, es sind aber auch Lebensverlängerungen im Bereich von Jahren möglich.\n\nDie Verlangsamung des Krankheitsfortschritts ist nicht immer mit einer längeren Gesamtüberlebensdauer verknüpft, auf jeden Fall sind aber **verlängerte Intervalle** mit guter Lebensqualität ein Behandlungsziel.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bei Fernmetastasen gilt die Krebserkrankung in aller Regel als unheilbar.",
+        "Ziele der Chemotherapie bei Metastasen: Verlangsamung des Krankheitsfortschritts, späteres Auftreten von Funktionseinschränkungen und Schmerzen, verlängerte Intervalle mit guter Lebensqualität.",
+        "Überlebensverlängerung meist um Monate, je nach Tumor auch Jahre möglich."
+      ]
+    },
+    {
+      "gidx": 77,
+      "source": "skl-onkologie p.77",
+      "slide_title": "Nebenwirkungen der Tumor-Chemotherapie",
+      "type": "inhalt",
+      "notes_md": "## Nebenwirkungen der Tumor-Chemotherapie\n\nTumor-Chemotherapie wirkt auf alle rasch wachsenden Zellen im Körper toxisch.\n\nGezielt wird versucht, Medikamente zu entwickeln, die spezifisch an die Besonderheiten im Stoffwechsel bzw. der Signalübertragung der Tumorzellen angepasst sind um\n\nA) die Wirksamkeit zu maximieren und\n\nB) andere Zellen zu schonen und damit die Nebenwirkungen aus den toxischen Wirkungen der Chemotherapeutika auf Körperzellen zu minimieren.\n\nDennoch sind Nebenwirkungen der medikamentösen Krebstherapie häufig, oft schwer, manchmal irreversibel und limitieren ihren Einsatz.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Tumor-Chemotherapie wirkt toxisch auf alle rasch wachsenden Zellen.",
+        "Entwicklungsziel: Wirksamkeit maximieren (A) und andere Zellen schonen bzw. Nebenwirkungen minimieren (B).",
+        "Nebenwirkungen sind häufig, oft schwer, manchmal irreversibel und limitieren den Einsatz."
+      ]
+    },
+    {
+      "gidx": 78,
+      "source": "skl-onkologie p.78",
+      "slide_title": "Nebenwirkungen der Tumor-Chemotherapie (Fortsetzung)",
+      "type": "inhalt",
+      "notes_md": "## Nebenwirkungen der Tumor-Chemotherapie\n\nDie Nebenwirkungen erzwingen auch, dass eine Therapie nicht in einem Stück, sondern in Fraktionen verabreicht werden muss, damit sich die geschädigten Körperzellen ausreichend erholen können.\n\nDas Ausmaß mancher Nebenwirkungen, wie Übelkeit, Erbrechen oder Angstzuständen, lässt sich durch ein freundliches Ambiente, verständnisvolle Zuwendung, Ruhe und auch durch Ablenkung verringern. Bei depressive Verstimmungen, fortwährenden Angstzuständen, Anpassungsstörungen und anderen schweren oder bleibenden Beschwerden, ist eine Psychotherapeutische Intervention notwendig.\n\nDie Psychoonkologie ist eine an die Belastung durch die Tumortherapie und deren Folgen angepasste medizinisch-psychologische Therapie- und Beratungsoption. Sie sollte den Patienten, vor allem bei längerer Behandlungsdauer, angeboten werden.\n\nZur Vorbeugung, insbesondere von Übelkeit und Erbrechen und zur Minderung anhaltender Beschwerden, wurden eine Reihe von Medikamenten entwickelt.\n\nDie spezifische Toxizität, beispielweise gegen Nerven-, Herz-, Blut- oder auch Nierenzellen, lassen sich vermindern, aber meist nicht ganz vermeiden. Die Nebenwirkungen sind an verschiedenen Organen unterschiedlich ausgeprägt, sie begrenzen den weiteren Einsatz von Chemotherapeutika.\n\nAn neuen Ansätzen, die spezifische Toxizität zu verringern, wird intensiv geforscht, hier sind auch genetische Ansätze vielversprechend, aber die klinische Anwendung liegt noch in der Zukunft.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Therapie muss in Fraktionen verabreicht werden, damit sich geschädigte Körperzellen erholen können.",
+        "Psychoonkologie: medizinisch-psychologische Therapie- und Beratungsoption, sollte v. a. bei längerer Behandlungsdauer angeboten werden.",
+        "Spezifische Toxizität gegen Nerven-, Herz-, Blut- oder Nierenzellen lässt sich vermindern, aber meist nicht ganz vermeiden; sie begrenzt den Einsatz von Chemotherapeutika."
+      ]
+    },
+    {
+      "gidx": 79,
+      "source": "skl-onkologie p.79",
+      "slide_title": "Nebenwirkungen der Tumor-Chemotherapie: reversible und nichtreversible Nebenwirkungen",
+      "type": "inhalt",
+      "notes_md": "## Nebenwirkungen der Tumor-Chemotherapie\n\n### Reversible Nebenwirkungen\n\nDiese sind hauptsächlich von der Art des Medikamentes bestimmt\n\nDazu zählen unerwünschte Wirkungen auf\n- das blutbildende System (Neutro-, Thrombopenie, Anaemie\n- Schleimhäute Mund, Magen-Darmtrakt (Mucositis, Stomatitis, Erosionen im Magen-Darmbereich, Durchfälle).\n- Haare: Haarausfall\n- Schleimhäute (Magen- Darmtrakt): Übelkeit und Erbrechen\n\n### Teil- oder nichtreversible Nebenwirkungen\n\n- Neurotoxizität, meist peripher, aber auch zentral (Parästhesien, Muskelschwäche, Darmatonie)\n- Nephrotoxizität, oft limitierend f. d. gesamte Therapie\n- Kardiotoxizität (z. B. Rhythmusstörungen, Verlust von Herz-Muskelzellen, Herzinsuffizienz)\n- Sterilität\n- Mutagenität und Cancerogenität",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Reversible Nebenwirkungen: Blutbildung (Neutro-/Thrombopenie, Anämie), Schleimhäute (Mucositis, Stomatitis, Erosionen, Durchfälle), Haarausfall, Übelkeit/Erbrechen.",
+        "Teil-/nichtreversible Nebenwirkungen: Neurotoxizität (Parästhesien, Muskelschwäche, Darmatonie), Nephrotoxizität (oft therapielimitierend), Kardiotoxizität (Rhythmusstörungen, Herzinsuffizienz), Sterilität, Mutagenität und Cancerogenität."
+      ]
+    },
+    {
+      "gidx": 80,
+      "source": "skl-onkologie p.80",
+      "slide_title": "Bestrahlungsbehandlung — Behandlungsarten",
+      "type": "inhalt",
+      "notes_md": "## Bestrahlungsbehandlung\n\n### Behandlungsarten\n\n- Strahlentherapie mit ionisierender Strahlung\n- Strahlentherapie mit Partikeln (Partikeltherapie)\n- Therapie mit Radionukliden\n  - Implantationsverfahren\n  - Brachytherapie (Afterloading)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Drei Behandlungsarten der Bestrahlung: ionisierende Strahlung, Partikeltherapie, Therapie mit Radionukliden.",
+        "Radionuklidverfahren: Implantationsverfahren und Brachytherapie (Afterloading)."
+      ]
+    },
+    {
+      "gidx": 81,
+      "source": "skl-onkologie p.81",
+      "slide_title": "Bestrahlungsbehandlung — Voraussetzungen und Grenzen",
+      "type": "inhalt",
+      "notes_md": "## Bestrahlungsbehandlung\n\n### Voraussetzungen und Grenzen\n\nEine Bestrahlungsbehandlung macht nur Sinn, wenn der Tumor ausreichend strahlenempfindlich ist.\n\nEine Reihe von Tumorarten ist wenig strahlensensibel, daher spielt bei diesen eine Radiatio (=Strahlenbehandlung) keine Rolle.\n\nDie Strahlensensibilität von Tumoren hängt von der Art des Tumors ab. Da die Strahlenbehandlung bereits seit mehr als 100 Jahren Anwendung findet, ist viel Erfahrung zur Wirksamkeit vorhanden.\n\nNeuere Therapien wie z. B. Partikelbestrahlung versprechen weitere Fortschritte durch bessere Wirkung bei weniger Schädigung umliegenden Gewebes, sind aber noch in der klinischen Entwicklung.\n\nEine Bestrahlung, sei es Röntgen- oder Teilchenbestrahlung, ist häufig weniger mit systemischen Nebenwirkungen belastet, als eine Chemotherapie: Die Bestrahlungen erstrecken sich auf ein relativ begrenztes Körpervolumen.\n\nJe nach Lage des zu bestrahlenden Tumors, können dennoch behandlungsbedürftige Nebenwirkungen entstehen wie, Entzündungen, Narbenbildung, Schädigung des Knochenmarks, Durchfälle, Übelkeit und andere.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bestrahlung nur sinnvoll bei ausreichender Strahlenempfindlichkeit des Tumors; Strahlensensibilität hängt von der Tumorart ab.",
+        "Wenig strahlensensible Tumorarten: Radiatio spielt keine Rolle.",
+        "Bestrahlung ist meist weniger mit systemischen Nebenwirkungen belastet als Chemotherapie (begrenztes Körpervolumen); mögliche Nebenwirkungen: Entzündungen, Narbenbildung, Knochenmarksschädigung, Durchfälle, Übelkeit."
+      ]
+    },
+    {
+      "gidx": 82,
+      "source": "skl-onkologie p.82",
+      "slide_title": "Bestrahlungsbehandlung — Strahlentherapie mit ionisierender Strahlung",
+      "type": "inhalt",
+      "notes_md": "## Bestrahlungsbehandlung\n\n### Strahlentherapie mit ionisierender Strahlung\n\nStrahlentherapie (auch Radiotherapie) ist die medizinische Anwendung von ionisierenden Strahlen auf den Menschen um Krankheiten zu heilen oder deren Fortschreiten zu verzögern.\n\nDie Strahlung kann aus Geräten erzeugt werden (z. B. Röntgengeräten) oder aus radioaktiven Präparaten stammen.\n\nDie zur Therapie verwendete Röntgenstrahlung ist prinzipiell dieselbe Strahlung, die auch zur Röntgendiagnostik verwendet wird. Frequenz, Intensität und Dauer der zur Therapie genutzten Strahlung unterscheidet sich aber von der zur Diagnostik genutzten Strahlung.\n\nBei der zur Strahlenbehandlung verwendeten Gammastrahlung handelt es sich um kurzwellige Röntgenstrahlung.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Definition Strahlentherapie/Radiotherapie: medizinische Anwendung ionisierender Strahlen zum Heilen oder Verzögern des Krankheitsfortschreitens.",
+        "Strahlungsquellen: Geräte (z. B. Röntgengeräte) oder radioaktive Präparate.",
+        "Gammastrahlung in der Strahlenbehandlung = kurzwellige Röntgenstrahlung; Therapie- und Diagnostikstrahlung unterscheiden sich in Frequenz, Intensität und Dauer."
+      ]
+    },
+    {
+      "gidx": 83,
+      "source": "skl-onkologie p.83",
+      "slide_title": "Bestrahlungsbehandlung — Planung",
+      "type": "inhalt",
+      "notes_md": "## Bestrahlungsbehandlung\n\n### Planung\n\nEine Strahlentherapie soll tumorwirksam, aber nebenwirkungsarm für den Patienten sein.\n\nDaher muss das zu bestrahlende Gebiet zuvor genau bekannt und markiert sein.",
+      "figures": [
+        {
+          "caption": "Abb. Modernes Bestrahlungsgeräte",
+          "shows": "Foto eines modernen Bestrahlungsgeräts (Linearbeschleuniger) mit Patientenliege in einem Bestrahlungsraum",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Strahlentherapie soll tumorwirksam und nebenwirkungsarm sein.",
+        "Voraussetzung der Planung: Das zu bestrahlende Gebiet muss zuvor genau bekannt und markiert sein."
+      ]
+    },
+    {
+      "gidx": 84,
+      "source": "skl-onkologie p.84",
+      "slide_title": "Bestrahlungsbehandlung — Kombinationstherapie",
+      "type": "inhalt",
+      "notes_md": "## Bestrahlungsbehandlung\n\n### Kombinationstherapie\n\nStrahlentherapie und Chemotherapie verstärken sich gegenseitig in der Wirkung. Viele Tumoren bei Patienten in gutem Allgemeinzustand werden deshalb mit beiden Verfahren simultan (gleichzeitig) oder sequentiell (nacheinander) behandelt, was als Radio-Chemotherapie bezeichnet wird.\n\nFür Lungenkrebs, Darmkrebs, und Tumoren der Halsregion wurde nachgewiesen, dass die simultane Radiochemotherapie anderen Therapievarianten überlegen ist.\n\nAllerdings sind die kombinierten Schemata auch mit stärkeren Nebenwirkungen belastet.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Radio-Chemotherapie: simultane (gleichzeitige) oder sequentielle (nacheinander) Kombination von Strahlen- und Chemotherapie; beide verstärken sich gegenseitig.",
+        "Bei Lungenkrebs, Darmkrebs und Tumoren der Halsregion ist die simultane Radiochemotherapie anderen Therapievarianten überlegen.",
+        "Kombinierte Schemata sind mit stärkeren Nebenwirkungen belastet."
+      ]
+    }
+  ]
+}

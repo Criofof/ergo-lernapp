@@ -1,0 +1,210 @@
+{
+  "batch": "5",
+  "pages": [
+    {
+      "gidx": 49,
+      "source": "skl-onkologie p.49",
+      "slide_title": "Prävention",
+      "type": "inhalt",
+      "notes_md": "## Prävention\n\n**Faktoren/Substanzen, die die Entstehung von Krebserkrankungen begünstigen:**\n\n| Substanz | Kanzerogene Potenz |\n|---|---|\n| Ionisierende Strahlung (Sonne !) | + |\n| Alkoholische Getränke | (+) |\n| Tabak | + |\n| **Chemikalien** | |\n| Acrylamid | (??) |\n| Nitrit (Wurst, Fleisch) | (??) |\n| Blei, Nickel | (+) |\n| Formaldehyd (Beruf) | + |\n| Asbest | ++ |\n| Benzol (Lösungsmittel) | + |\n| 2-Naphtylamin (Beruf) | + |\n| Aflatoxin A1 | +++ |\n\n**Viren (bei bestimmten chronischen Infekten):**\n- HI-Viren (AIDS)\n- Hepatitis B oder C Viren (infektiöse Leberentzündung)\n- humane Papilloma Viren (HPV, Condylome = Warzen)\n- Epstein-Barr Viren (diverse E., auch Immunerkrankungen)\n\n**Bakterien**\n- Helicobacter pylori Bakterien (Magenulcus, Magen-Ca)",
+      "figures": [],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Kanzerogene Noxen: ionisierende Strahlung, Alkohol, Tabak, Chemikalien (u.a. Asbest ++, Aflatoxin A1 +++), Viren, Bakterien",
+        "Aflatoxin A1 hat die höchste kanzerogene Potenz (+++)",
+        "Helicobacter pylori ist mit Magenulcus und Magenkarzinom assoziiert",
+        "HPV, HBV/HCV, HI-Viren und Epstein-Barr-Viren können bei chronischen Infekten Krebs begünstigen"
+      ]
+    },
+    {
+      "gidx": 50,
+      "source": "skl-onkologie p.50",
+      "slide_title": "Prävention",
+      "type": "inhalt",
+      "notes_md": "## Prävention\n\n**Faktoren/Substanzen, die die Entstehung von Krebserkrankungen begünstigen**\n\nWie kann man, im Rahmen einer gesunden Lebensführung potentiell kanzerogene Belastungen vermeiden?\n\nWahrscheinlich sinnvoll und jedenfalls praktikabel ist es,\n\n- Lösungsmittel (außer Wasser)\n- den regelmäßigen Verzehr großer Mengen Fleisch\n- Verbrennungsabgase (Auto, Tabakwaren)\n- verdorbene Lebensmittel (schimmelhaltig)\n- Sonneneinstrahlung ohne Schutzmaßnahmen\n- einseitige, vitamin- und mineralstoffarme Ernährung\n- Alkohol überhaupt und besonders in großen Mengen\n\nzu meiden\n\n- Arztbesuche, insbesondere zur Krebsvorsorge, sind dagegen sehr empfehlenswert.",
+      "figures": [],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Zu meiden: Lösungsmittel, viel Fleisch, Verbrennungsabgase, schimmelhaltige Lebensmittel, ungeschützte Sonneneinstrahlung, einseitige Ernährung, Alkohol",
+        "Arztbesuche zur Krebsvorsorge sind sehr empfehlenswert"
+      ]
+    },
+    {
+      "gidx": 51,
+      "source": "skl-onkologie p.51",
+      "slide_title": "Früherkennung von Malignomen",
+      "type": "inhalt",
+      "notes_md": "## Früherkennung von Malignomen\n\nJede Krebserkrankung durchläuft zunächst eine frühe Phase, in der noch keine Krankheitssymptome bestehen und in welcher sie noch gut heilbar ist.\n\nDa eine Erkrankung erst behandelt werden kann, wenn sie diagnostiziert ist und da die Krebsbehandlung umso größere Erfolgsaussichten bietet je früher sie einsetzt, stellt der Zeitpunkt der Entdeckung in Relation zum Tumoralter den entscheidende prognostische Faktor dar.\n\n**Ovarialkarzinom**\n\n| Stadium | 5-Jahres-Überlebensrate |\n|---|---|\n| T 1 | > 75% |\n| T2 | 60 % |\n| T3 | 23 % |\n| T4 (M1) | 14 % |\n\n**Prostatakarzinom**\n\n| Stadium | 5-Jahres-Überlebensrate |\n|---|---|\n| T1 und T2 | 85-90% |\n| T3 | 70% |\n| T4 | <50% |\n| M1 | <30% |\n\n**Durch keine andere Maßnahme ist der Ausgang einer Krebserkrankung so entscheidend zu beeinflussen, wie durch eine frühe Erkennung.**",
+      "figures": [
+        {
+          "caption": "Ovarialkarzinom: 5-Jahres-Überlebensrate nach Stadium",
+          "shows": "Tabelle: T1 >75%, T2 60%, T3 23%, T4 (M1) 14%",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Prostatakarzinom: 5-Jahres-Überlebensrate nach Stadium",
+          "shows": "Tabelle: T1 und T2 85-90%, T3 70%, T4 <50%, M1 <30%",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1, 10],
+      "key_facts": [
+        "Der Zeitpunkt der Entdeckung in Relation zum Tumoralter ist der entscheidende prognostische Faktor",
+        "Prostatakarzinom: 5-Jahres-Überlebensrate T1/T2 85-90%, T3 70%, T4 <50%, M1 <30%",
+        "Ovarialkarzinom: 5-Jahres-Überlebensrate T1 >75%, T2 60%, T3 23%, T4 (M1) 14%",
+        "Frühe Erkennung beeinflusst den Ausgang einer Krebserkrankung am entscheidendsten"
+      ]
+    },
+    {
+      "gidx": 52,
+      "source": "skl-onkologie p.52",
+      "slide_title": "Früherkennung von Malignomen",
+      "type": "inhalt",
+      "notes_md": "## Früherkennung von Malignomen\n\n**Was führt zu einer frühen Erkennung bei Krebserkrankung?**\n\n- Aufmerksamkeit des/der Betroffenen (Patient(in))\n- Aufklärung der Menschen über (Krebs)Krankheiten\n- Aufmerksamkeit und zielgerichtetes Handeln des Arztes\n- Zufällige Entdeckung bei einer (ärztlichen) Untersuchung\n- Organisatorische Maßnahmen (= Früherkennung als Gesundheits Vorsorgeprogramm)\n\nAber es gilt auch:\nFür viele Tumorarten ist eine Früherkennung schwierig. Vorsorgeuntersuchungen sind, auch aus Gründen der Praktikabilität, daher (noch) nicht etabliert.\nDie Teilnahme an (gesetzlichen) Vorsorgeuntersuchungen lässt zu wünschen übrig, oft wird nur ein Bruchteil der definierten Bevölkerungsgruppen erreicht.\n\nZiel der **Früherkennung** ist es, Personen zu identifizieren, die eine Krebserkrankung im Frühstadium aufweisen.\n\nDie Kosten der Krebsfrüherkennungsmaßnahmen werden, soweit sie definiert sind, von den Gesetzlichen Krankenkassen getragen.\n\nKrebsfrüherkennungsmaßnahmen sind ein gesetzlich verankertes Angebot zur Gesundheitsvorsorge für alle Personen, ausgerichtet an Risiko-Gruppen und – Altersstufen.\n\nKrebsfrüherkennungsmaßnahmen, die altersabhängig, aber sonst ohne Vorbedingung einer Bevölkerungsgruppe angeboten werden, werden auch Screening genannt. Die Unterscheidung zwischen Screening und Vorsorge ist willkürlich).\n\nIm §25 des Fünften Sozialgesetzbuches (SGB V) ist explizit festgehalten, dass es sich bei der Früherkennung um Krankheiten handeln muss, die **wirksam behandelt** werden können, dass **Vor- oder Frühstadien** dieser Krankheiten **diagnostizierbar** sind und die **Krankheitszeichen** medizinisch-technisch ausreichend eindeutig **erkannt werden können**.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Früherkennung beruht auf Aufmerksamkeit von Patient und Arzt, Aufklärung, Zufallsbefunden und organisatorischen Vorsorgeprogrammen",
+        "Ziel: Identifikation von Personen mit Krebserkrankung im Frühstadium",
+        "Kosten definierte Krebsfrüherkennung wird von den Gesetzlichen Krankenkassen getragen",
+        "§25 SGB V: Früherkennung nur bei wirksam behandelbaren Krankheiten mit diagnostizierbaren Vor-/Frühstadien und eindeutig erkennbaren Krankheitszeichen",
+        "Screening = altersabhängige Früherkennungsmaßnahme ohne weitere Vorbedingung für eine Bevölkerungsgruppe"
+      ]
+    },
+    {
+      "gidx": 53,
+      "source": "skl-onkologie p.53",
+      "slide_title": "Früherkennung von Malignomen",
+      "type": "inhalt",
+      "notes_md": "## Früherkennung von Malignomen\n\n**Welche Krebs-Vorsorgeuntersuchungen existieren? (2019)**\n\n- Genitaluntersuchung (jährlich) auf Gebärmutterhalskrebs bei Frauen ab dem Alter von 20 Jahren\n- Brustuntersuchung (jährlich) bei Frauen ab dem Alter von 30 Jahren\n- Mammographie-Screening (alle zwei Jahre) bei Frauen ab 50 Jahren bis zum Ende des 69. Lebensjahres\n- Prostatauntersuchung, Genitaluntersuchung (jährlich), Tastuntersuchung der Lymphknoten bei Männern ab dem Alter von 45 Jahren\n- Ganzkörperuntersuchung der gesamten Haut bei Frauen und Männern ab 35 Jahren, bei Auffälligkeiten ab dem 17. Lebensjahr.\n- Dickdarm- und Rektumuntersuchung mit Test aufverborgenes Blut jährlich bei Frauen und Männern ab dem Alter von 50 Jahren, ab 55 Jahren alle 2 Jahre.\n- Zwei Darmspiegelungen (im Abstand von 10 Jahren) oder Test auf verborgenes Blut im Stuhl (alle zwei Jahre) bei Frauen und Männern ab dem Alter von 55 Jahren.\n\n(Ab dem 65. Lj ist jede Darmspiegelung für diegesetzliche Krankenkasse die zweite Spiegelung).",
+      "figures": [],
+      "eingrenzung_hits": [1, 6],
+      "key_facts": [
+        "Genitaluntersuchung auf Gebärmutterhalskrebs: jährlich, Frauen ab 20 Jahren",
+        "Brustuntersuchung jährlich ab 30 Jahren; Mammographie-Screening alle 2 Jahre von 50 bis 69 Jahre",
+        "Prostatauntersuchung, Genitaluntersuchung und Lymphknoten-Tastuntersuchung jährlich bei Männern ab 45 Jahren",
+        "Haut-Ganzkörperuntersuchung ab 35 Jahren (bei Auffälligkeiten ab 17. Lebensjahr)",
+        "Dickdarm-/Rektumuntersuchung mit Test auf verborgenes Blut jährlich ab 50 Jahren, ab 55 alle 2 Jahre",
+        "Zwei Darmspiegelungen im Abstand von 10 Jahren oder Stuhlblut-Test alle 2 Jahre ab 55 Jahren"
+      ]
+    },
+    {
+      "gidx": 54,
+      "source": "skl-onkologie p.54",
+      "slide_title": "Prävention und Früherkennung - Fazit",
+      "type": "inhalt",
+      "notes_md": "## Prävention und Früherkennung - Fazit\n\nErnährung, Bewegung und Körpergewicht weisen ein hohes Präventionspotenzial für Krebserkrankungen auf.\n\nDie deutsche Bevölkerung ist im Durchschnitt zu dick (ca. 60% Übergewichtige), isst zu wenig Obst und Gemüse, zu viel Fleisch und bewegt sich zu wenig.\nQuelle: Epidemiologisches Bulletin 5/2017 des RKI\n\nAuf der anderen Seite gibt es aber auch Verbesserungen:\n\nViel mehr Menschen als vor einer Generation treiben Sport und bewegen sich aktiv über die Erfordernisse des Alltags hinaus.\n\nDie Anzahl der Raucher hat in den letzten 20 Jahren in Europa deutlich abgenommen.\n\nzumindest der Gedanke einer gesunden Ernährung hat in breiten Schichten der Bevölkerung Fuß gefasst – auch wenn es an der praktischen Umsetzung noch mangelt.\n\nDurch Teilnahme an den Vorsorgeuntersuchungen kann jeder das Risiko verringern, an einem fortgeschrittenen häufigen Krebserkrankung zu leiden.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Ernährung, Bewegung und Körpergewicht haben hohes Präventionspotenzial für Krebserkrankungen",
+        "Ca. 60% der deutschen Bevölkerung sind übergewichtig (RKI, Epidemiologisches Bulletin 5/2017)",
+        "Raucherzahl in Europa in den letzten 20 Jahren deutlich gesunken",
+        "Vorsorgeuntersuchungen verringern das Risiko einer fortgeschrittenen Krebserkrankung"
+      ]
+    },
+    {
+      "gidx": 55,
+      "source": "skl-onkologie p.55",
+      "slide_title": "Scripta zum Themenbereich Spezielle Krankheitslehre Onkologie – Script 2",
+      "type": "titel",
+      "notes_md": "# Scripta zum Themenbereich Spezielle Krankheitslehre Onkologie\n\n**Lehrinhalt: Erkrankungen durch bösartige Tumoren, Therapie, und Nachsorge.**\n\n## Script 2\n\n- Früherkennung\n- Tumordiagnose und Untersuchungsmethoden\n- Operative Therapie\n- Medikamentöse Therapie\n- Strahlenbehandlung\n- Körperliche und psychische Folgen einer Krebserkrankung\n- Betreuung tumorkranker Patienten einschl. Nachsorge\n- Rehabilitation",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Script 2 behandelt: Früherkennung, Tumordiagnose, operative/medikamentöse Therapie, Strahlenbehandlung, Folgen, Betreuung/Nachsorge, Rehabilitation"
+      ]
+    },
+    {
+      "gidx": 56,
+      "source": "skl-onkologie p.56",
+      "slide_title": "Früherkennung von Krebs",
+      "type": "inhalt",
+      "notes_md": "## Früherkennung von Krebs\n\nJede Krebserkrankung durchläuft zunächst eine frühe Phase, in der noch keine Krankheitssymptome bestehen und in welcher sie noch gut heilbar ist.\n\nDa eine Erkrankung erst behandelt werden kann, wenn sie diagnostiziert ist und da die Krebsbehandlung umso größere Erfolgsaussichten bietet je früher sie einsetzt, stellt der Zeitpunkt der Entdeckung in Relation zum Tumoralter den entscheidende prognostische Faktor dar.\n\n**Ovarialkarzinom**\n\n| Stadium | 5-Jahres-Überlebensrate |\n|---|---|\n| T 1 | > 75% |\n| T2 | 60 % |\n| T3 | 23 % |\n| T4 (M1) | 14 % |\n\n**Prostatakarzinom**\n\n| Stadium | 5-Jahres-Überlebensrate |\n|---|---|\n| T1 und T2 | 85-90% |\n| T3 | 70% |\n| T4 | <50% |\n| M1 | <30% |\n\n**Durch keine andere Maßnahme ist der Ausgang einer Krebserkrankung so entscheidend zu beeinflussen, wie durch eine frühe Erkennung.**",
+      "figures": [
+        {
+          "caption": "Ovarialkarzinom: 5-Jahres-Überlebensrate nach Stadium",
+          "shows": "Tabelle: T1 >75%, T2 60%, T3 23%, T4 (M1) 14%",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Prostatakarzinom: 5-Jahres-Überlebensrate nach Stadium",
+          "shows": "Tabelle: T1 und T2 85-90%, T3 70%, T4 <50%, M1 <30%",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1, 10],
+      "key_facts": [
+        "Der Zeitpunkt der Entdeckung in Relation zum Tumoralter ist der entscheidende prognostische Faktor",
+        "Prostatakarzinom: 5-Jahres-Überlebensrate T1/T2 85-90%, T3 70%, T4 <50%, M1 <30%",
+        "Ovarialkarzinom: 5-Jahres-Überlebensrate T1 >75%, T2 60%, T3 23%, T4 (M1) 14%",
+        "Frühe Erkennung beeinflusst den Ausgang einer Krebserkrankung am entscheidendsten"
+      ]
+    },
+    {
+      "gidx": 57,
+      "source": "skl-onkologie p.57",
+      "slide_title": "Früherkennung von Krebs",
+      "type": "inhalt",
+      "notes_md": "## Früherkennung von Krebs\n\n**Was führt zu einer frühen Erkennung bei Krebserkrankung?**\n\n- Aufmerksamkeit des/der Betroffenen (Patient(in))\n- Aufklärung der Menschen über (Krebs)Krankheiten\n- Aufmerksamkeit und zielgerichtetes Handeln des Arztes\n- Zufällige Entdeckung bei einer (ärztlichen) Untersuchung\n- Organisatorische Maßnahmen (= Früherkennung als Gesundheits-Vorsorgeprogramm)\n\nAber es gilt auch:\n\nFür viele Tumorarten ist eine Früherkennung schwierig. Vorsorgeuntersuchungen sind, auch aus Gründen der Praktikabilität, daher (noch) nicht etabliert.\n\nDie Teilnahme an (gesetzlichen) Vorsorgeuntersuchungen lässt zu wünschen übrig, oft wird nur ein Bruchteil der definierten Bevölkerungsgruppen erreicht.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Früherkennung beruht auf Aufmerksamkeit von Patient und Arzt, Aufklärung, Zufallsbefunden und organisatorischen Vorsorgeprogrammen",
+        "Für viele Tumorarten ist Früherkennung schwierig; Vorsorgeuntersuchungen teilweise nicht etabliert",
+        "Teilnahme an gesetzlichen Vorsorgeuntersuchungen erreicht oft nur einen Bruchteil der Zielgruppen"
+      ]
+    },
+    {
+      "gidx": 58,
+      "source": "skl-onkologie p.58",
+      "slide_title": "Früherkennung von Krebs",
+      "type": "inhalt",
+      "notes_md": "## Früherkennung von Krebs\n\nZiel der Früherkennung ist es, Personen zu identifizieren, die eine Krebserkrankung im Frühstadium aufweisen.\n\nDie Kosten der Krebsfrüherkennungsmaßnahmen werden, soweit sie definiert sind, von den Gesetzlichen Krankenkassen getragen.\n\nKrebsfrüherkennungsmaßnahmen sind ein gesetzlich verankertes Angebot zur Gesundheitsvorsorge für alle Personen, ausgerichtet an Risiko-Gruppen und – Altersstufen.\n\nKrebsfrüherkennungsmaßnahmen, die altersabhängig, aber sonst ohne Vorbedingung einer Bevölkerungsgruppe angeboten werden, werden auch Screening genannt. Die Unterscheidung zwischen Screening und Vorsorge ist willkürlich).\n\nIm §25 des Fünften Sozialgesetzbuches (SGB V) ist explizit festgehalten, dass es sich bei der Früherkennung um Krankheiten handeln muss, die **wirksam behandelt** werden können, dass **Vor- oder Frühstadien** dieser Krankheiten **diagnostizierbar** sind und die **Krankheitszeichen** medizinisch-technisch ausreichend eindeutig **erkannt werden können**.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Ziel der Früherkennung: Identifikation von Personen mit Krebserkrankung im Frühstadium",
+        "Kosten definierter Krebsfrüherkennungsmaßnahmen tragen die Gesetzlichen Krankenkassen",
+        "Screening = altersabhängige Maßnahme ohne weitere Vorbedingung für eine Bevölkerungsgruppe",
+        "§25 SGB V: wirksame Behandelbarkeit, diagnostizierbare Vor-/Frühstadien und eindeutig erkennbare Krankheitszeichen sind Voraussetzung"
+      ]
+    },
+    {
+      "gidx": 59,
+      "source": "skl-onkologie p.59",
+      "slide_title": "Früherkennung von Krebs",
+      "type": "inhalt",
+      "notes_md": "## Früherkennung von Krebs\n\n**Welche Krebs-Vorsorgeuntersuchungen gibt es? (2019)**\n\n- Genitaluntersuchung (jährlich) auf Gebärmutterhalskrebs bei Frauen ab dem Alter von 20 Jahren\n- Brustuntersuchung (jährlich) bei Frauen ab dem Alter von 30 Jahren\n- Mammographie-Screening (alle zwei Jahre) bei Frauen ab 50 Jahren bis zum Ende des 69. Lebensjahres\n- Prostatauntersuchung, Genitaluntersuchung (jährlich), Tastuntersuchung der Lymphknoten bei Männern ab dem Alter von 45 Jahren\n- Ganzkörperuntersuchung der gesamten Haut bei Frauen und Männern ab 35 Jahren, bei Auffälligkeiten ab dem 17. Lebensjahr.\n- Dickdarm- und Rektumuntersuchung mit Test auf verborgenes Blut jährlich bei Frauen und Männern ab dem Alter von 50 Jahren, ab 55 Jahren alle 2 Jahre.\n- Zwei Darmspiegelungen (im Abstand von 10 Jahren) oder Test auf verborgenes Blut im Stuhl (alle zwei Jahre) bei Frauen und Männern ab dem Alter von 55 Jahren.\n\n(Ab dem 65. Lj ist jede Darmspiegelung für die gesetzliche Krankenkasse die zweite Spiegelung).",
+      "figures": [],
+      "eingrenzung_hits": [1, 6],
+      "key_facts": [
+        "Genitaluntersuchung auf Gebärmutterhalskrebs: jährlich, Frauen ab 20 Jahren",
+        "Brustuntersuchung jährlich ab 30 Jahren; Mammographie-Screening alle 2 Jahre von 50 bis 69 Jahre",
+        "Prostatauntersuchung, Genitaluntersuchung und Lymphknoten-Tastuntersuchung jährlich bei Männern ab 45 Jahren",
+        "Haut-Ganzkörperuntersuchung ab 35 Jahren (bei Auffälligkeiten ab 17. Lebensjahr)",
+        "Dickdarm-/Rektumuntersuchung mit Test auf verborgenes Blut jährlich ab 50 Jahren, ab 55 alle 2 Jahre",
+        "Zwei Darmspiegelungen im Abstand von 10 Jahren oder Stuhlblut-Test alle 2 Jahre ab 55 Jahren"
+      ]
+    },
+    {
+      "gidx": 60,
+      "source": "skl-onkologie p.60",
+      "slide_title": "Prävention und Früherkennung - Fazit",
+      "type": "inhalt",
+      "notes_md": "## Prävention und Früherkennung - Fazit\n\nErnährung, Bewegung und Körpergewicht weisen ein hohes Präventionspotenzial für Krebserkrankungen auf.\n\nDie deutsche Bevölkerung ist im Durchschnitt zu dick (ca. 60% Übergewichtige), isst zu wenig Obst und Gemüse, zu viel Fleisch und bewegt sich zu wenig.\nQuelle: Epidemiologisches Bulletin 5/2017 des RKI\n\nAuf der anderen Seite gibt es aber auch Verbesserungen:\n\nViel mehr Menschen als vor einer Generation treiben Sport und bewegen sich aktiv über die Erfordernisse des Alltags hinaus.\n\nDie Anzahl der Raucher hat in den letzten 20 Jahren in Europa deutlich abgenommen.\n\nZumindest der Gedanke einer gesunden Ernährung hat in breiten Schichten der Bevölkerung Fuß gefasst – auch wenn es an der praktischen Umsetzung noch mangelt.\n\nDurch Teilnahme an den Vorsorgeuntersuchungen kann jeder das Risiko verringern, an einem fortgeschrittenen häufigen Krebserkrankung zu leiden.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Ernährung, Bewegung und Körpergewicht haben hohes Präventionspotenzial für Krebserkrankungen",
+        "Ca. 60% der deutschen Bevölkerung sind übergewichtig (RKI, Epidemiologisches Bulletin 5/2017)",
+        "Raucherzahl in Europa in den letzten 20 Jahren deutlich gesunken",
+        "Vorsorgeuntersuchungen verringern das Risiko einer fortgeschrittenen Krebserkrankung"
+      ]
+    }
+  ]
+}
