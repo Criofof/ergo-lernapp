@@ -1,0 +1,99 @@
+{
+  "id": "skl-paediatrie-t3",
+  "title": "STIKO-Impfkalender fuer Saeuglinge und Kinder",
+  "eingrenzung": "Impfungen für Säuglinge und Kinder, die laut STIKO gut sind",
+  "prio": "high",
+  "body": "## Impfkalender der STIKO (Stand 2022, Robert Koch Institut, www.stiko.de)\n\n### Grundsaetze\n\n- Impfungen sollen zum **fruehestmoeglichen Zeitpunkt** erfolgen.\n- Die Ueberpruefung des **Impfstatus** ist in **jedem Lebensalter** sinnvoll.\n- Fehlende Impfungen sollten **sofort**, entsprechend den Empfehlungen fuer das jeweilige Lebensalter, **nachgeholt** werden.\n\n### Altersachsen und U-/J-Untersuchungen\n\nDer Impfkalender ist nach Altersachsen gegliedert: in Wochen (6), in Monaten (2, 3, 4, 5–10, 11*, 12, 13–14, 15, 16–23) und in Jahren (2–4, 5–6, 7–8, 9–14, 15–16, 17, ab 18, ab 60). Eingezeichnet sind die Frueherkennungs- bzw. Jugenduntersuchungen:\n\n- **U4** (2.–3. Monat), **U5** (4. Monat), **U6** (5.–7. Monat)\n- **U7** (10.–12. Monat), **U7a** (13–14 Monate), **U8** (16–23 Monate)\n- **U9** (2.–4. Jahre), **U10** (5.–6. Jahre), **U11** (7.–8. Jahre)\n- **J1** (12–14 Jahre), **J2** (15–17 Jahre)\n\n### Impfungen im Ueberblick\n\n- **Rotaviren:** G1 (2. Monatᵃ), G2 (3. Monat), (G3) (4. Monat) – orale Schluckimpfung, je nach Impfstoff 2 bzw. 3 Dosen\n- **Tetanus:** G1 (2. Monat), G2 (4. Monat), G3 (11. Monatᶜ), A1 (5–6 Jahre), A2 (9–14 Jahre), danach Auffrischung im Erwachsenenalterᵉ\n- **Diphtherie:** G1, G2, G3 wie Tetanus; A1 (5–6 J.), A2 (9–14 J.), Auffrischung alle 10 Jahreᵉ\n- **Keuchhusten (Pertussis):** G1, G2, G3; A1 (5–6 J.), A2 (9–14 J.), einmalige A3-Auffrischung im Erwachsenenalter\n- **Hib (Haemophilus influenzae Typ b):** G1 (2. Monat), G2 (4. Monat), G3 (11. Monat)\n- **Kinderlaehmung (Poliomyelitis):** G1, G2, G3; A1 (9–14 Jahre)\n- **Hepatitis B:** G1 (2. Monat), G2 (4. Monat), G3 (11. Monat); **Fruehgeborene:** insgesamt 4 Impfstoffdosenᵇ\n- **Pneumokokken:** G1 (2. Monat), G2 (4. Monat), G3 (11. Monat); Standardimpfung S ab 60 Jahreᵍ\n- **Meningokokken C:** G1 (12. Monat); Nachholimpfung N moeglich\n- **Masern:** G1 (11. Monat), G2 (15. Monat); S: einmalige MMR-Impfung fuer nach 1970 geborene Personen >= 18 Jahre mit unklarem Impfstatusᶠ\n- **Mumps, Roeteln:** G1 (11. Monat), G2 (15. Monat)\n- **Windpocken (Varizellen):** G1 (11. Monat), G2 (15. Monat)\n- **HPV (Humane Papillomviren):** G1/G2 im Alter von 9–14 Jahrenᵈ; Nachholimpfung bis 17 Jahre\n- **Herpes zoster:** G1/G2 ab 60 Jahre, zweimalige Impfung mit adjuvantiertem Totimpfstoffʰ\n- **Grippe (Influenza):** S jaehrlich ab 60 Jahre\n\n### Legende\n\n- **G** = Grundimmunisierung (in bis zu 3 Teilimpfungen G1–G3)\n- **S** = Standardimpfung\n- **A** = Auffrischimpfung\n- **N** = Nachholimpfung (Grundimmunisierung aller noch nicht Geimpften bzw. Komplettierung einer unvollstaendigen Impfserie)\n- **U** = Frueherkennungsuntersuchung\n- **J** = Jugenduntersuchung (J1 im Alter von 12–14 Jahren)\n\n### Wichtige Fussnoten\n\n- ᵃ **Rotaviren:** Erste Impfstoffdosis bereits ab dem Alter von **6 Wochen**, je nach Impfstoff 2 bzw. 3 Dosen im Abstand von mind. 4 Wochen.\n- ᵇ **Fruehgeborene (Hepatitis B):** zusaetzliche Impfstoffdosis im Alter von 3 Monaten, d. h. insgesamt **4 Impfstoffdosen**.\n- ᶜ **G3 (11. Monat):** Mindestabstand zur vorangegangenen Dosis **6 Monate**.\n- ᵈ **HPV:** Zwei Dosen im Abstand von mind. 5 Monaten; bei Nachholimpfung beginnend ab >= 15 Jahren oder bei Impfabstand < 5 Monaten ist eine **3. Dosis** erforderlich.\n- ᵉ **Td-Auffrischung alle 10 Jahre.** Die naechste faellige Td-Impfung wird **1-malig als Tdap-** bzw. bei entsprechender Indikation als **Tdap-IPV-Kombinationsimpfung** gegeben.\n- ᶠ **Masern/MMR:** Einmalige MMR-Impfung fuer alle **nach 1970** geborenen Personen >= 18 Jahre mit unklarem Impfstatus, ohne Impfung oder mit nur einer Impfung in der Kindheit.\n- ᵍ **Pneumokokken ab 60:** Impfung mit dem **23-valenten Polysaccharid-Impfstoff**.\n- ʰ **Herpes zoster:** Zweimalige Impfung mit dem adjuvantierten Herpes-zoster-Totimpfstoff im Abstand von mindestens 2 bis maximal 6 Monaten.\n- \\* Impfungen koennen auf mehrere Impftermine verteilt werden. **MMR und Varizellen** koennen am selben Termin oder in 4-woechigem Abstand gegeben werden.",
+  "facts": [
+    "Grundimmunisierung (G1–G3) fuer Tetanus, Diphtherie, Pertussis, Hib, Polio, Hepatitis B, Pneumokokken: 2., 4. und 11. Lebensmonat",
+    "Rotaviren: orale Schluckimpfung, erste Dosis ab 6 Wochen, je nach Impfstoff 2 bzw. 3 Dosen",
+    "Auffrischimpfungen A1 (5–6 Jahre) und A2 (9–14 Jahre); Td-Auffrischung alle 10 Jahre, einmalig als Tdap(-IPV)",
+    "Meningokokken C: G1 im 12. Monat; MMR und Varizellen: G1 im 11., G2 im 15. Monat",
+    "HPV-Impfung im Alter von 9–14 Jahren, Nachholimpfung bis 17 Jahre; bei Beginn >= 15 Jahre 3 Dosen noetig",
+    "Herpes zoster und Grippe (Influenza): Standardimpfung ab 60 Jahre",
+    "Fruehgeborene erhalten bei Hepatitis B insgesamt 4 Impfstoffdosen",
+    "Legende: G Grundimmunisierung, S Standardimpfung, A Auffrischimpfung, N Nachholimpfung, U Frueherkennungsuntersuchung, J Jugenduntersuchung (J1 mit 12–14 Jahren)"
+  ],
+  "figures": [
+    {
+      "src": "assets/skl-paediatrie/g224.png",
+      "caption": "Impfkalender – Empfehlungen der Ständigen Impfkommission (STIKO), 2022 (Robert Koch Institut, www.stiko.de)"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Wann erfolgt die Grundimmunisierung (G1–G3) gegen Tetanus, Diphtherie, Pertussis, Hib, Polio, Hepatitis B und Pneumokokken?",
+      "a": "Im 2., 4. und 11. Lebensmonat."
+    },
+    {
+      "q": "Wie wird gegen Rotaviren geimpft und ab wann?",
+      "a": "Als orale Schluckimpfung, erste Dosis bereits ab dem Alter von 6 Wochen; je nach Impfstoff 2 bzw. 3 Dosen im Abstand von mind. 4 Wochen."
+    },
+    {
+      "q": "Wann wird gegen Meningokokken C geimpft?",
+      "a": "G1 im 12. Lebensmonat; eine Nachholimpfung (N) ist möglich."
+    },
+    {
+      "q": "Wann erfolgen die Impfungen gegen Masern, Mumps, Röteln (MMR) und Varizellen?",
+      "a": "G1 im 11. Lebensmonat und G2 im 15. Lebensmonat. MMR und Varizellen können am selben Termin oder in 4-wöchigem Abstand gegeben werden."
+    },
+    {
+      "q": "Was bedeuten die Kürzel G, S, A, N im STIKO-Impfkalender?",
+      "a": "G = Grundimmunisierung, S = Standardimpfung, A = Auffrischimpfung, N = Nachholimpfung."
+    },
+    {
+      "q": "In welchem Alter wird die HPV-Impfung empfohlen und bis wann kann sie nachgeholt werden?",
+      "a": "G1/G2 im Alter von 9–14 Jahren; Nachholimpfung bis 17 Jahre. Bei Beginn ≥ 15 Jahren oder Impfabstand < 5 Monaten ist eine 3. Dosis erforderlich."
+    },
+    {
+      "q": "Wie oft wird die Td-Auffrischung im Erwachsenenalter empfohlen und was gilt einmalig?",
+      "a": "Alle 10 Jahre; die nächste fällige Td-Impfung wird einmalig als Tdap- bzw. bei Indikation als Tdap-IPV-Kombinationsimpfung gegeben."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Wann erfolgt die Grundimpfung (G1) gegen Meningokokken C?",
+      "choices": [
+        "Im 2. Lebensmonat",
+        "Im 11. Lebensmonat",
+        "Im 12. Lebensmonat",
+        "Im 15. Lebensmonat"
+      ],
+      "answer": 2,
+      "expl": "Die Meningokokken-C-Grundimpfung (G1) ist im 12. Lebensmonat vorgesehen; eine Nachholimpfung ist möglich."
+    },
+    {
+      "q": "Welche Aussage zur Rotavirus-Impfung ist richtig?",
+      "choices": [
+        "Sie wird intramuskulär injiziert",
+        "Die erste Dosis kann bereits ab 6 Wochen gegeben werden",
+        "Sie erfordert grundsätzlich 4 Dosen",
+        "Sie erfolgt erstmals im 11. Lebensmonat"
+      ],
+      "answer": 1,
+      "expl": "Die Rotavirus-Impfung ist eine orale Schluckimpfung; die erste Dosis ist ab 6 Wochen möglich, je nach Impfstoff sind 2 bzw. 3 Dosen nötig."
+    },
+    {
+      "q": "Was gilt für Frühgeborene bei der Hepatitis-B-Impfung?",
+      "choices": [
+        "Sie erhalten insgesamt 4 Impfstoffdosen",
+        "Sie erhalten keine Hepatitis-B-Impfung",
+        "Sie erhalten nur 2 Dosen",
+        "Sie werden erst ab dem 12. Monat geimpft"
+      ],
+      "answer": 0,
+      "expl": "Frühgeborene erhalten eine zusätzliche Dosis im Alter von 3 Monaten, also insgesamt 4 Impfstoffdosen."
+    },
+    {
+      "q": "Die nächste fällige Td-Auffrischimpfung im Erwachsenenalter soll einmalig wie erfolgen?",
+      "choices": [
+        "Als reine Tetanus-Impfung",
+        "Als MMR-Kombinationsimpfung",
+        "Als orale Schluckimpfung",
+        "Als Tdap- bzw. Tdap-IPV-Kombinationsimpfung"
+      ],
+      "answer": 3,
+      "expl": "Die Td-Auffrischung erfolgt alle 10 Jahre; die nächste fällige Impfung wird einmalig als Tdap- bzw. bei entsprechender Indikation als Tdap-IPV-Kombinationsimpfung gegeben."
+    }
+  ]
+}
