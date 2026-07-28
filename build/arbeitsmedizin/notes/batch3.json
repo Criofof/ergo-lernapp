@@ -1,0 +1,202 @@
+{
+  "batch": "3",
+  "pages": [
+    {
+      "gidx": 25,
+      "source": "arbeitsmedizin p.25",
+      "slide_title": "Die häufigsten Verletzungen durch Arbeitsunfälle im Jahr 2021",
+      "type": "inhalt",
+      "notes_md": "## Die häufigsten Verletzungen durch Arbeitsunfälle (Jahr 2021)\n\n### Verletztes Körperteil (Modifiziert nach DGUV-Statistik, 2021)\n\n| Verletztes Körperteil | Meldepflichtige Unfälle Anzahl | % | Tödliche Unfälle Anzahl | % |\n|---|---|---|---|---|\n| Hand, Finger | 236.681 | 32,4 | 1 | 0,4 |\n| Sprunggelenk, Fuß | 138.193 | 18,9 | 0 | 0,0 |\n| Kniegelenk, Unterschenkel | 86.660 | 11,9 | 4 | 1,5 |\n| Kopf | 54.629 | 7,5 | 89 | 33,1 |\n| Unterarm, Handgelenk | 52.042 | 7,1 | 1 | 0,4 |\n| Hals, Wirbelsäule | 31.474 | 4,3 | 6 | 2,2 |\n| Brustkorb, -organe, Rücken | 29.917 | 4,1 | 42 | 15,6 |\n| Hüftgelenk, Oberschenkel, Patella | 21.616 | 3,0 | 5 | 1,9 |\n| Ohne Angabe | 9.300 | 1,3 | 12 | 4,5 |\n| Polytraumata | 8.686 | 1,2 | 97 | 36,1 |\n| Bauch, -organe, Becken | 6.781 | 0,9 | 7 | 2,6 |\n\n### Art der Verletzung (Modifiziert nach DGUV-Statistik, 2021)\n\n| Art der Verletzung | Meldepflichtige Unfälle Anzahl | % | Tödliche Unfälle Anzahl | % |\n|---|---|---|---|---|\n| Wunde, Zerreißung | 233.064 | 31,9 | 47 | 17,5 |\n| Erschütterung, Oberflächenprellung | 185.900 | 25,4 | 5 | 1,9 |\n| (Dis-)Torsion | 138.653 | 19,0 | 1 | 0,4 |\n| Geschlossene Fraktur | 84.103 | 11,5 | 21 | 7,8 |\n| Quetschung (Contusio) | 34.503 | 4,7 | 130 | 48,3 |\n| Verbrennungen, Erfrierungen, Verätzungen, Strom etc. | 17.183 | 2,4 | 11 | 4,1 |\n| Infektion, Vergiftung, Schock etc. | 13.243 | 1,8 | 41 | 15,2 |\n| Nicht näher bezeichnete Verletzungsart | 12.896 | 1,8 | 0 | 0,0 |\n| Luxation | 5.688 | 0,8 | 1 | 0,4 |\n| Offene Fraktur | 5.284 | 0,7 | 12 | 4,5 |",
+      "figures": [
+        {
+          "caption": "Häufigkeit verletzter Körperteile (Modifiziert nach DGUV-Statistik, 2021)",
+          "shows": "Tabelle: meldepflichtige und tödliche Arbeitsunfälle nach verletztem Körperteil; häufigste Verletzungen an Hand/Fingern (32,4 %), tödliche Unfälle v.a. Polytraumata (36,1 %) und Kopf (33,1 %)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Art der Verletzung (Modifiziert nach DGUV-Statistik, 2021)",
+          "shows": "Tabelle: meldepflichtige und tödliche Arbeitsunfälle nach Verletzungsart; häufigste Wunden/Zerreißungen (31,9 %), tödlich v.a. Quetschungen (48,3 %)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Häufigste Verletzungen bei Arbeitsunfällen 2021: Hand und Finger (236.681 = 32,4 % der meldepflichtigen Unfälle)",
+        "Tödliche Unfälle: Polytraumata (36,1 %) und Kopfverletzungen (33,1 %) führend",
+        "Häufigste Verletzungsart: Wunde/Zerreißung (31,9 %); tödlichste: Quetschung/Contusio (48,3 %)",
+        "Quelle: DGUV-Statistik 2021"
+      ]
+    },
+    {
+      "gidx": 26,
+      "source": "arbeitsmedizin p.26",
+      "slide_title": "6.3. Durchgangsarztverfahren",
+      "type": "inhalt",
+      "notes_md": "## 6.3. Durchgangsarztverfahren\n\nDas Durchgangsarztverfahren (D-Arzt-Verfahren) ist ein Verfahren in Deutschland, das speziell für die Behandlung von Arbeitsunfällen und Wegeunfällen im Rahmen der gesetzlichen Unfallversicherung gilt.\n\n- **Definition:** Durchgangsärzte/-ärztinnen sind speziell qualifizierte Fachärzte/-ärztinnen für Chirurgie, Orthopädie oder Unfallchirurgie, die von der zuständigen Berufsgenossenschaft oder Unfallversicherungsträger für Arbeitsunfälle und Wegeunfälle zugelassen sind.\n\n- **Aufgaben:** Der/die Durchgangsarzt/-ärztin übernimmt die medizinische Behandlung von Arbeitsunfällen und Wegeunfällen und stellt die Weichen für die weitere Versorgung des/der Verunfallten. Er erstellt eine Unfallmeldung und dokumentiert den Verlauf der Behandlung.\n\n- **Auswahl des Durchgangsarztes:** Im Falle eines Arbeitsunfalls oder Wegeunfalls sollte der/die verletzte Arbeitnehmer:in bzw. Versicherte grundsätzlich einen/eine Durchgangsarzt/-ärztin aufsuchen. Die Auswahl des/der Durchgangsarztes/-ärztin kann durch den Unfallversicherungsträger, den/die Arbeitgeber:in oder den/die Hausarzt/-ärztin erfolgen.\n\n- **Durchführung der Behandlung:** Der/die Durchgangsarzt/-ärztin führt die Erstbehandlung durch und entscheidet über die weiteren Maßnahmen. Er/sie kann Verletzungen diagnostizieren, Wunden versorgen, Krankschreibungen ausstellen, therapeutische Maßnahmen (Physiotherapie, Ergotherapie, etc.) verordnen und Überweisungen an spezialisierte Fachärzte/-ärztinnen oder andere Fachdisziplinen vornehmen.\n\n- **Dokumentation und Berichterstattung:** Der/die Durchgangsarzt/-ärztin dokumentiert die durchgeführte Behandlung und erstellt einen Bericht, der an den Unfallversicherungsträger übermittelt wird. Dieser Bericht dient als Grundlage für die Entscheidung über die Anerkennung des Unfalls als Arbeitsunfall und die weitere Leistungsgewährung.\n\nDas Durchgangsarztverfahren dient der zügigen und koordinierten medizinischen Versorgung von Patient:innen mit Arbeitsunfällen und Wegeunfällen. Es gewährleistet eine enge Zusammenarbeit zwischen den Durchgangsärzten/-ärztinnen, den Unfallversicherungsträgern und anderen Behandelnden, um eine optimale Versorgung der Betroffenen zu gewährleisten.",
+      "figures": [],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "D-Arzt-Verfahren gilt für Behandlung von Arbeits- und Wegeunfällen im Rahmen der gesetzlichen Unfallversicherung",
+        "Durchgangsärzte sind zugelassene Fachärzte für Chirurgie, Orthopädie oder Unfallchirurgie",
+        "Aufgaben: Erstbehandlung, Unfallmeldung, Dokumentation, Verordnung therapeutischer Maßnahmen (u.a. Ergotherapie)",
+        "Arztbericht ist Grundlage für die Anerkennung als Arbeitsunfall und die Leistungsgewährung"
+      ]
+    },
+    {
+      "gidx": 27,
+      "source": "arbeitsmedizin p.27",
+      "slide_title": "7. Berufskrankheiten — Definition, Klassifikationen, Beispiele",
+      "type": "inhalt",
+      "notes_md": "## 7. Berufskrankheiten\n\n### 7.1. Definition\n\nEine Berufskrankheit ist eine Erkrankung, die direkt oder maßgeblich durch bestimmte berufliche Tätigkeiten oder den Kontakt mit bestimmten Arbeitsstoffen verursacht wird. Sie ist im Gegensatz zu einem Arbeitsunfall nicht auf einen konkreten Unfallzeitpunkt zurückzuführen, sondern entwickelt sich in der Regel über einen längeren Zeitraum hinweg aufgrund wiederholter oder langfristiger Exposition gegenüber schädlichen Arbeitsbedingungen.\n\n### 7.2. Klassifikationen von Berufserkrankungen\n\nIm deutschen Rechtssystem werden Berufskrankheiten gemäß der Berufskrankheiten-Verordnung (BKV) klassifiziert. Die BKV enthält eine Liste mit konkreten Krankheitsbildern, die als Berufskrankheiten anerkannt werden können.\n\nIn der aktuellen Fassung der BKV werden 6 Gruppen unterschieden:\n\n1. Durch chemische Einwirkungen verursachte Krankheiten\n2. Durch physikalische Einwirkungen verursachte Krankheiten\n3. Durch Infektionserreger oder Parasiten verursachte Krankheiten sowie Tropenkrankheiten\n4. Erkrankungen der Atemwege und der Lungen, des Rippenfells und Bauchfells und der Eierstöcke\n5. Hautkrankheiten\n6. Krankheiten sonstiger Ursache\n\n### 7.3. Beispiele für häufige Berufserkrankungen\n\nEs gibt eine Vielzahl von Berufskrankheiten, die je nach Berufsfeld und Tätigkeit auftreten können:\n\n- **Lärmschwerhörigkeit:** Diese tritt auf, wenn Arbeitnehmer:innen über einen längeren Zeitraum hohen Lärmpegeln ausgesetzt sind, wie z.B. in der Bau- oder Musikindustrie.\n\n- **Berufsdermatosen:** Dazu gehören verschiedene Arten von Dermatitis, die durch den Kontakt mit schädlichen Substanzen wie zum Beispiel Chemikalien, Lösungsmittel, Reinigungsmittel oder Pflanzen verursacht werden können. Sie sind besonders häufig in Berufen wie Friseur:in, Koch/Köchin oder Reinigungskraft.",
+      "figures": [],
+      "eingrenzung_hits": [5, 6],
+      "key_facts": [
+        "Berufskrankheit: durch berufliche Tätigkeit/Arbeitsstoffe verursacht, kein konkreter Unfallzeitpunkt, Entwicklung über längeren Zeitraum",
+        "Klassifikation gemäß Berufskrankheiten-Verordnung (BKV) mit 6 Gruppen",
+        "Beispiele: Lärmschwerhörigkeit (Bau-/Musikindustrie), Berufsdermatosen (Friseur:in, Koch/Köchin, Reinigungskraft)"
+      ]
+    },
+    {
+      "gidx": 28,
+      "source": "arbeitsmedizin p.28",
+      "slide_title": "7.3. Beispiele für häufige Berufserkrankungen (Fortsetzung)",
+      "type": "inhalt",
+      "notes_md": "## 7.3. Beispiele für häufige Berufserkrankungen (Fortsetzung)\n\n- **Asbestose:** Eine Lungenkrankheit, die durch das Einatmen von Asbestfasern verursacht wird. Sie tritt häufig bei Arbeitnehmer:innen auf, die in der Bauindustrie oder in Berufen, die mit der Entfernung von Asbest zu tun haben, tätig sind.\n\n- **Silikose:** Eine Lungenkrankheit, die durch Einatmen von Quarzstaub, der vor allem in Steinbrüchen, im Bergbau und in der Bauindustrie entsteht, verursacht wird.\n\n- **Berufliche Hautkrebserkrankungen:** Hautkrebsarten wie Plattenepithelkarzinom oder Basalzellkarzinom, die durch langfristige Exposition gegenüber UV-Strahlung, chemischen Substanzen oder Karzinogenen am Arbeitsplatz verursacht werden können.\n\n- **Karpaltunnelsyndrom:** Eine Erkrankung, bei der der Nerv im Handgelenk komprimiert wird, häufig bei Personen, die repetitive Handbewegungen ausführen, wie z.B. Büroarbeiter:innen oder Montagearbeiter:innen.\n\n- **Muskel-Skelett-Erkrankungen:** Dazu gehören Rückenschmerzen und Überlastungssyndrome wie das Repetitive-Strain-Injury-Syndrom (RSI), die durch wiederholte Bewegungen oder das Heben schwerer Lasten verursacht werden können. Sie sind besonders häufig in Berufen wie Lagerarbeiter:innen, Krankenpfleger:innen oder Bauarbeiter:innen.\n\n- **Berufsbedingte Atemwegserkrankungen:** Hierzu gehören verschiedene Erkrankungen wie berufsbedingtes Asthma, obstruktive Lungenerkrankungen und allergische Alveolitis, die durch die Exposition gegenüber Stäuben, Chemikalien, Dämpfen oder anderen schädlichen Substanzen am Arbeitsplatz verursacht werden können. Sie sind besonders häufig in Berufen wie Schweißer:innen, Bäcker:innen oder Landwirt:innen.\n\n- **Infektionserkrankungen:** Vor allem im Gesundheitswesen gehören Ansteckungen mit Hepatitis A-C, Tuberkulose und seit 2020 auch COVID-19 zu den häufigsten Berufskrankheiten.\n\n- **Psychische Erkrankungen:** Dazu gehören Stress, Depressionen und Angstzustände, die durch übermäßigen Druck am Arbeitsplatz verursacht werden können. Sie sind in allen Berufen häufig, insbesondere in solchen mit hohem Stresslevel wie Polizei, Feuerwehr oder im Gesundheitswesen.",
+      "figures": [],
+      "eingrenzung_hits": [6, 14],
+      "key_facts": [
+        "Asbestose (Asbestfasern) und Silikose (Quarzstaub): typische berufliche Lungenerkrankungen in Bau/Bergbau",
+        "Karpaltunnelsyndrom: Nervenkompression im Handgelenk bei repetitiven Handbewegungen",
+        "Muskel-Skelett-Erkrankungen inkl. RSI-Syndrom: Lagerarbeiter:innen, Krankenpfleger:innen, Bauarbeiter:innen",
+        "COVID-19 seit 2020 häufige Berufskrankheit, v.a. im Gesundheitswesen (neben Hepatitis A-C, Tuberkulose)",
+        "Psychische Erkrankungen (Stress, Depression, Angst) häufig bei Polizei, Feuerwehr, Gesundheitswesen"
+      ]
+    },
+    {
+      "gidx": 29,
+      "source": "arbeitsmedizin p.29",
+      "slide_title": "7.4. Erkennen und Melden von arbeitsbedingten Erkrankungen",
+      "type": "inhalt",
+      "notes_md": "## 7.4. Erkennen und Melden von arbeitsbedingten Erkrankungen\n\nIn Deutschland gibt es verschiedene Mechanismen zur Erkennung und Meldung von arbeitsbedingten Erkrankungen. Der Prozess beinhaltet in der Regel mehrere Akteure, darunter Ärzte und Ärztinnen, Arbeitgeber:innen, Arbeitnehmer:innen und die gesetzliche Unfallversicherung. Grober Überblick über den Ablauf:\n\n1. **Erkennung:** Die Erkennung einer arbeitsbedingten Erkrankung erfolgt in erster Linie durch den/die behandelnde/n Arzt/Ärztin. Der/die Arzt/Ärztin stellt die Diagnose und prüft, ob ein Zusammenhang zwischen der Erkrankung und der beruflichen Tätigkeit besteht.\n\n2. **Meldung an den/die Arbeitgeber:in:** Wenn der/die Arzt/Ärztin den Verdacht auf eine arbeitsbedingte Erkrankung hat, informiert er/sie den/die betroffene/n Arbeitnehmer:in und empfiehlt ihm/ihr, den/die Arbeitgeber:in über die Erkrankung zu informieren.\n\n3. **Meldung an die gesetzliche Unfallversicherung:** Arbeitgeber:innen sind gesetzlich verpflichtet, arbeitsbedingte Erkrankungen der zuständigen Berufsgenossenschaft oder Unfallversicherung zu melden. Dies erfolgt in der Regel durch Ausfüllen eines Meldeformulars und Einreichung der erforderlichen medizinischen Unterlagen.\n\n4. **Begutachtung und Entscheidung:** Die gemeldete arbeitsbedingte Erkrankung wird von der Berufsgenossenschaft oder Unfallversicherung geprüft und begutachtet. Hierbei werden die medizinischen Unterlagen und ggf. weitere Informationen, wie z.B. Arbeitsplatzbeschreibungen oder Expositionsdaten, berücksichtigt. Aufgrund dieser Bewertung wird entschieden, ob die Erkrankung als Berufskrankheit anerkannt wird.\n\n5. **Leistungen und Maßnahmen:** Bei Anerkennung der arbeitsbedingten Erkrankung als Berufskrankheit können dem/der betroffenen Arbeitnehmer:in verschiedene Leistungen und Maßnahmen zustehen, wie z.B. medizinische Behandlung, Rehabilitation, finanzielle Entschädigung oder berufliche Wiedereingliederung.\n\nEs ist wichtig, dass sowohl Arbeitgeber:innen als auch Arbeitnehmer:innen ihre Verantwortung wahrnehmen und arbeitsbedingte Erkrankungen frühzeitig erkennen und melden. Dies ermöglicht eine angemessene Behandlung und Unterstützung der betroffenen Arbeitnehmer:innen sowie eine Verbesserung der Arbeitsbedingungen, um zukünftige Erkrankungen zu verhindern.",
+      "figures": [],
+      "eingrenzung_hits": [6, 18],
+      "key_facts": [
+        "Ablauf in 5 Schritten: Erkennung (Arzt) → Meldung an Arbeitgeber → Meldung an Unfallversicherung → Begutachtung → Leistungen",
+        "Arbeitgeber sind gesetzlich zur Meldung an Berufsgenossenschaft/Unfallversicherung verpflichtet (Meldeformular + medizinische Unterlagen)",
+        "Begutachtung berücksichtigt medizinische Unterlagen, Arbeitsplatzbeschreibungen und Expositionsdaten",
+        "Bei Anerkennung: medizinische Behandlung, Rehabilitation, finanzielle Entschädigung, berufliche Wiedereingliederung"
+      ]
+    },
+    {
+      "gidx": 30,
+      "source": "arbeitsmedizin p.30",
+      "slide_title": "7.5.1. Krankheitssteckbrief: Lärmschwerhörigkeit",
+      "type": "inhalt",
+      "notes_md": "## 7.5. Krankheitssteckbriefe häufiger Berufskrankheiten\n\n### 7.5.1. Krankheitssteckbrief: Lärmschwerhörigkeit\n\n- **Definition:** Lärmschwerhörigkeit, auch als Lärm-induzierte Gehörschädigung bekannt, ist eine fortschreitende, irreversible Schädigung des Gehörs, die durch anhaltende Exposition gegenüber hohen Lärmpegeln verursacht wird. Sie ist eine der häufigsten Berufskrankheiten.\n\n- **Ursachen:** Die Hauptursache für Lärmschwerhörigkeit ist die langfristige Exposition gegenüber Lärmpegeln von 85 Dezibel (dB) oder höher. Berufe mit hohem Risiko sind unter anderem Bauberufe, Musiker:innen, Fabrikarbeiter:innen, Flug- und Militärpersonal.\n\n- **Symptome:** Die Symptome entwickeln sich in der Regel allmählich und können Folgendes umfassen:\n  - Schwierigkeiten beim Verstehen von Gesprächen, insbesondere in lauten Umgebungen\n  - Ein ständiges Summen oder Rauschen im Ohr (Tinnitus)\n  - Hörminderung\n  - Überempfindlichkeit gegenüber Geräuschen (Hyperakusis)\n\n- **Diagnose:** Die Diagnose erfolgt in der Regel durch eine Kombination aus einer Anamnese (einschließlich der Lärmexposition in der Vergangenheit) und einem Hörtest, der als Audiogramm bekannt ist.\n\n- **Behandlung:** Es gibt derzeit keine Heilung für Lärmschwerhörigkeit, daher konzentrieren sich die Behandlungen auf die Verhinderung einer weiteren Schädigung und die Verbesserung der Lebensqualität. Dazu können gehören:\n  - Verwendung von Hörgeräten\n  - Implementierung von Strategien zur Lärmreduzierung am Arbeitsplatz\n  - Verwendung von Gehörschutz\n\n- **Prävention:** Die Prävention ist der Schlüssel zur Vermeidung von Lärmschwerhörigkeit. Dazu gehören Maßnahmen wie:\n  - Verwendung von Gehörschutz in lauten Umgebungen\n  - Regelmäßige Pausen von der Lärmexposition\n  - Durchführung regelmäßiger Hörtests\n\n- **Rechtlicher Status in Deutschland:** In Deutschland ist Lärmschwerhörigkeit als Berufskrankheit anerkannt (BK 2301).",
+      "figures": [],
+      "eingrenzung_hits": [5, 10],
+      "key_facts": [
+        "Lärmschwerhörigkeit: fortschreitende, irreversible Gehörschädigung durch anhaltende Lärmexposition",
+        "Hauptrisiko: Lärmpegel ab 85 Dezibel (dB); Risikoberufe: Bau, Musik, Fabrik, Flug-/Militärpersonal",
+        "Symptome: Verständnisprobleme, Tinnitus, Hörminderung, Hyperakusis; Diagnose: Anamnese + Audiogramm",
+        "Keine Heilung — Fokus auf Gehörschutz, Hörgeräte, Lärmreduzierung; Prävention entscheidend",
+        "Anerkannte Berufskrankheit: BK 2301"
+      ]
+    },
+    {
+      "gidx": 31,
+      "source": "arbeitsmedizin p.31",
+      "slide_title": "7.5.2. Krankheitssteckbrief: Asbestose",
+      "type": "inhalt",
+      "notes_md": "## 7.5.2. Krankheitssteckbrief: Asbestose\n\n- **Definition:** Asbestose ist eine chronische Lungenerkrankung, die durch das Einatmen von Asbestfasern verursacht wird. Sie ist eine Form der Lungenfibrose und führt zu einer Vernarbung des Lungengewebes, was die Atmung erschwert.\n\n- **Ursachen:** Die Hauptursache für Asbestose ist die langfristige Exposition gegenüber Asbest, einem Mineral, das in der Vergangenheit häufig in der Bauindustrie verwendet wurde. Berufe mit hohem Risiko sind unter anderem Bauberufe, Isolierer:innen, Klempner:innen und Elektriker:innen.\n\n- **Symptome:** Die Symptome entwickeln sich in der Regel allmählich und können Folgendes umfassen:\n  - Atemnot\n  - Anhaltender trockener Husten\n  - Müdigkeit und Energieverlust\n  - Schmerzen in der Brust oder im Bauch\n  - Verlust des Appetits und Gewichtsverlust\n\n- **Diagnose:** Die Diagnose erfolgt in der Regel durch eine Kombination aus einer Anamnese (einschließlich der Asbestexposition in der Vergangenheit), einer körperlichen Untersuchung und bildgebenden Verfahren wie Röntgen oder CT der Lunge.\n\n- **Behandlung:** Es gibt derzeit keine Heilung für Asbestose, daher konzentrieren sich die Behandlungen auf die Linderung der Symptome und die Verbesserung der Lebensqualität. Dazu können gehören:\n  - Sauerstofftherapie\n  - Physiotherapie zur Verbesserung der Atemtechnik\n  - Medikamente zur Linderung von Symptomen wie Husten\n\n- **Prävention:** Zur Prävention der Asbestose gehören Maßnahmen wie:\n  - Vermeidung von Asbestexposition\n  - Verwendung von persönlicher Schutzausrüstung bei der Arbeit mit Asbest\n  - Regelmäßige Gesundheitsüberwachung für Personen, die Asbest ausgesetzt sind\n\n- **Rechtlicher Status in Deutschland:** In Deutschland ist Asbestose als Berufskrankheit anerkannt (BK 4103).",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Asbestose: chronische Lungenerkrankung (Lungenfibrose) durch Einatmen von Asbestfasern mit Vernarbung des Lungengewebes",
+        "Risikoberufe: Bau, Isolierer:innen, Klempner:innen, Elektriker:innen",
+        "Diagnose: Anamnese + körperliche Untersuchung + Röntgen/CT der Lunge",
+        "Keine Heilung — Symptomlinderung (Sauerstofftherapie, Physiotherapie, Medikamente)",
+        "Anerkannte Berufskrankheit: BK 4103"
+      ]
+    },
+    {
+      "gidx": 32,
+      "source": "arbeitsmedizin p.32",
+      "slide_title": "7.5.3. Krankheitssteckbrief: Kontaktdermatitis",
+      "type": "inhalt",
+      "notes_md": "## 7.5.3. Krankheitssteckbrief: Kontaktdermatitis\n\n- **Definition:** Kontaktdermatitis ist eine Entzündung der Haut, die durch direkten Kontakt mit bestimmten Substanzen verursacht wird. Sie kann allergisch sein, wenn das Immunsystem auf ein Allergen reagiert, oder irritativ, wenn die Haut durch eine schädliche Substanz gereizt wird.\n\n- **Ursachen:** Die Hauptursache für Kontaktdermatitis ist der Kontakt mit irritierenden oder allergenen Substanzen. Berufe mit hohem Risiko sind unter anderem Friseur:innen, Köch:innen, Reinigungskräfte, Bauberufe und Gesundheitsfachberufe.\n\n- **Symptome:** Die Symptome können je nach Schweregrad der Reaktion variieren und umfassen:\n  - Rötung und Reizung der Haut\n  - Juckreiz und Brennen\n  - Schwellung\n  - Blasenbildung und Nässen\n  - Trockene, rissige und schuppige Haut\n\n- **Diagnose:** Die Diagnose erfolgt in der Regel durch eine Kombination aus einer Anamnese (einschließlich der Exposition gegenüber potenziellen Allergenen oder Reizstoffen) und einer körperlichen Untersuchung. Ein Hauttest, bekannt als Patch-Test, kann durchgeführt werden, um spezifische Allergene zu identifizieren.\n\n- **Behandlung:** Die Behandlung konzentriert sich auf die Linderung der Symptome und die Vermeidung des Kontakts mit dem auslösenden Stoff. Dazu können gehören:\n  - Topische Steroide zur Reduzierung von Entzündungen und Juckreiz\n  - Feuchtigkeitscremes zur Linderung trockener und rissiger Haut\n  - Antihistaminika zur Kontrolle allergischer Reaktionen\n\n- **Prävention:** Die Prävention der Kontaktdermatitis umfasst Maßnahmen wie:\n  - Vermeidung des Kontakts mit bekannten Allergenen oder Reizstoffen\n  - Verwendung von Schutzhandschuhen und anderen Schutzmaßnahmen\n  - Regelmäßige Hautpflege zur Stärkung der Hautbarriere\n\n- **Rechtlicher Status in Deutschland:** In Deutschland ist Kontaktdermatitis als Berufskrankheit anerkannt (BK 5101).",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Kontaktdermatitis: Hautentzündung durch direkten Substanzkontakt — allergisch oder irritativ",
+        "Risikoberufe: Friseur:innen, Köch:innen, Reinigungskräfte, Bau, Gesundheitsfachberufe",
+        "Diagnose: Anamnese + körperliche Untersuchung + Patch-Test zur Allergenidentifikation",
+        "Therapie: topische Steroide, Feuchtigkeitscremes, Antihistaminika, Kontaktvermeidung",
+        "Anerkannte Berufskrankheit: BK 5101"
+      ]
+    },
+    {
+      "gidx": 33,
+      "source": "arbeitsmedizin p.33",
+      "slide_title": "7.5.4. Krankheitssteckbrief: Berufsbedingtes Asthma bronchiale",
+      "type": "inhalt",
+      "notes_md": "## 7.5.4. Krankheitssteckbrief: Berufsbedingtes Asthma bronchiale\n\n- **Definition:** Berufsbedingtes Asthma bronchiale ist eine chronische Entzündung der Atemwege, die durch Exposition gegenüber bestimmten Substanzen am Arbeitsplatz verursacht oder verschlimmert wird. Es ist eine der häufigsten Berufskrankheiten des Atmungssystems.\n\n- **Ursachen:** Berufsbedingtes Asthma kann durch Exposition gegenüber einer Vielzahl von Substanzen verursacht werden, darunter Chemikalien, Stäube, Metalle, Tierallergene und Pflanzen. Berufe mit hohem Risiko sind unter anderem Bäcker:innen, Landwirt:innen, Friseur:innen, Holzarbeiter:innen und Gesundheitsfachberufe.\n\n- **Symptome:** Die Symptome von berufsbedingtem Asthma umfassen meistens:\n  - Kurzatmigkeit\n  - Brustenge oder Schmerzen\n  - Husten, besonders nachts oder früh am Morgen\n  - Pfeifende Atmung oder Keuchen\n  - Übermäßige Schleimproduktion\n\n- **Diagnose:** Die Diagnose von berufsbedingtem Asthma erfolgt durch eine Anamnese (einschließlich der Exposition gegenüber potenziellen Allergenen oder Reizstoffen am Arbeitsplatz), einer körperlichen Untersuchung und Lungenfunktionstests.\n\n- **Behandlung:** Die Behandlung von berufsbedingtem Asthma konzentriert sich auf die Kontrolle der Symptome und die Vermeidung des Kontakts mit dem auslösenden Stoff. Dazu können gehören:\n  - Medikamente zur Kontrolle von Asthmasymptomen, wie Bronchodilatatoren und entzündungshemmende Medikamente\n  - Verwendung von Atemschutzgeräten am Arbeitsplatz\n  - Schulungen zur Selbstverwaltung von Asthma\n\n- **Prävention:** Die Prävention des berufsbedingten Asthmas beinhaltet Maßnahmen wie:\n  - Vermeidung des Kontakts mit bekannten Allergenen oder Reizstoffen\n  - Verwendung von Atemschutzgeräten\n  - Regelmäßige Gesundheitsüberwachung für Personen, die potenziellen Allergenen oder Reizstoffen ausgesetzt sind\n\n- **Rechtlicher Status in Deutschland:** In Deutschland ist berufsbedingtes Asthma als Berufskrankheit anerkannt (BK 4301).",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Berufsbedingtes Asthma bronchiale: chronische Atemwegsentzündung durch Arbeitsplatzexposition (Chemikalien, Stäube, Metalle, Tierallergene, Pflanzen)",
+        "Risikoberufe: Bäcker:innen, Landwirt:innen, Friseur:innen, Holzarbeiter:innen, Gesundheitsfachberufe",
+        "Diagnose: Anamnese + körperliche Untersuchung + Lungenfunktionstests",
+        "Therapie: Bronchodilatatoren, entzündungshemmende Medikamente, Atemschutz, Selbstmanagement-Schulung",
+        "Anerkannte Berufskrankheit: BK 4301"
+      ]
+    },
+    {
+      "gidx": 34,
+      "source": "arbeitsmedizin p.34",
+      "slide_title": "7.5.5. Krankheitssteckbrief: Hautkrebs durch UV-Strahlung",
+      "type": "inhalt",
+      "notes_md": "## 7.5.5. Krankheitssteckbrief: Hautkrebs durch UV-Strahlung\n\n- **Definition:** Hautkrebs durch UV-Strahlung bezieht sich auf Hautkrebsarten, die durch übermäßige Exposition gegenüber ultravioletter (UV) Strahlung verursacht werden. Dazu gehören vor allem das Basalzellkarzinom, das Plattenepithelkarzinom und das maligne Melanom.\n\n- **Ursachen:** Die Hauptursache für Hautkrebs durch UV-Strahlung ist die übermäßige Exposition gegenüber der Sonne oder künstlichen Quellen von UV-Strahlung, wie Solarien. Berufe mit hohem Risiko sind unter anderem Bauberufe, Landwirt:innen, Gärtner:innen und generell Berufe, die überwiegend im Freien ausgeübt werden.\n\n- **Symptome:** Die Symptome von Hautkrebs umfassen in der Regel:\n  - Eine neue Wucherung oder ein neuer Fleck auf der Haut\n  - Eine Veränderung in Größe, Form oder Farbe eines vorhandenen Muttermals oder Hautflecks\n  - Juckreiz, Schmerzen oder Blutungen in einem Muttermal oder Fleck\n\n- **Diagnose:** Die Diagnose von Hautkrebs erfolgt in der Regel durch eine Kombination aus einer Hautuntersuchung und einer Biopsie, bei der eine Probe von verdächtigem Hautgewebe zur Untersuchung unter einem Mikroskop entnommen wird.\n\n- **Behandlung:** Die Behandlung von Hautkrebs hängt von der Art und dem Stadium des Krebses ab und kann eine Kombination aus chirurgischer Entfernung, Strahlentherapie, Chemotherapie, Immuntherapie und zielgerichteter Therapie umfassen.\n\n- **Prävention:** Präventive Maßnahmen können die Vermeidung von übermäßiger Sonnenexposition, die Verwendung von Sonnenschutzmitteln, das Tragen von schützender Kleidung und regelmäßige Hautuntersuchungen umfassen.\n\n- **Rechtlicher Status in Deutschland:** In Deutschland ist Hautkrebs durch UV-Strahlung als Berufskrankheit anerkannt (BK 5103).",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Hautkrebs durch UV-Strahlung: Basalzellkarzinom, Plattenepithelkarzinom, malignes Melanom",
+        "Risikoberufe: überwiegend im Freien tätige Berufe (Bau, Landwirt:innen, Gärtner:innen)",
+        "Diagnose: Hautuntersuchung + Biopsie",
+        "Therapie je nach Art/Stadium: OP, Strahlen-, Chemo-, Immun-, zielgerichtete Therapie",
+        "Anerkannte Berufskrankheit: BK 5103"
+      ]
+    },
+    {
+      "gidx": 35,
+      "source": "arbeitsmedizin p.35",
+      "slide_title": "7.5.6. Krankheitssteckbrief: Depression",
+      "type": "inhalt",
+      "notes_md": "## 7.5.6. Krankheitssteckbrief: Depression\n\n- **Definition:** Depression ist eine ernsthafte psychische Erkrankung, die durch anhaltende Gefühle von Traurigkeit, Hoffnungslosigkeit und ein vermindertes Interesse an Aktivitäten gekennzeichnet ist. Sie kann die Fähigkeit einer Person, ihren Alltag zu bewältigen, erheblich beeinträchtigen.\n\n- **Ursachen:** Depression kann durch eine Kombination aus genetischen, biologischen, umweltbedingten und psychologischen Faktoren verursacht werden. Im Kontext der Arbeit können Faktoren wie übermäßiger Stress, Arbeitsüberlastung, Mobbing oder eine schlechte Work-Life-Balance zur Entwicklung einer Depression beitragen.\n\n- **Symptome:** Die Symptome einer Depression können variieren, umfassen aber oft:\n  - Anhaltende Gefühle von Traurigkeit, Angst oder \"Leere\"\n  - Gefühle von Hoffnungslosigkeit oder Pessimismus\n  - Reizbarkeit\n  - Gefühle von Schuld, Wertlosigkeit oder Hilflosigkeit\n  - Verlust des Interesses an Hobbys und Aktivitäten\n  - Energieverlust oder Müdigkeit\n  - Schwierigkeiten beim Konzentrieren, Erinnern oder Treffen von Entscheidungen\n  - Schlafstörungen\n  - Appetit- oder Gewichtsveränderungen\n  - Gedanken an Tod oder Selbstmord\n\n- **Diagnose:** Die Diagnose einer Depression erfolgt in der Regel durch eine psychologische Bewertung, bei der beispielsweise FachärztInnen für Psychiatrie die Symptome, Gedanken, Gefühle und Verhaltensmuster des Patienten bewerten.\n\n- **Behandlung:** Die Behandlung von Depressionen kann eine Kombination aus Psychotherapie (Gesprächstherapie), Medikamenten und Selbstpflege umfassen. In schweren Fällen kann eine stationäre Behandlung erforderlich sein.\n\n- **Prävention:** Präventive Maßnahmen können die Aufrechterhaltung eines gesunden Lebensstils, regelmäßige Bewegung, eine ausgewogene Ernährung, ausreichend Schlaf und der Aufbau starker Beziehungen umfassen. Am Arbeitsplatz können Maßnahmen zur Stressbewältigung, eine gesunde Work-Life-Balance und Unterstützung bei der Bewältigung von Arbeitsproblemen hilfreich sein.",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Depression: psychische Erkrankung mit anhaltender Traurigkeit, Hoffnungslosigkeit, Interessenverlust",
+        "Arbeitsbezogene Faktoren: übermäßiger Stress, Arbeitsüberlastung, Mobbing, schlechte Work-Life-Balance",
+        "Diagnose: psychologische Bewertung durch Fachärzt:innen für Psychiatrie",
+        "Therapie: Psychotherapie, Medikamente, Selbstpflege; ggf. stationär"
+      ]
+    },
+    {
+      "gidx": 36,
+      "source": "arbeitsmedizin p.36",
+      "slide_title": "7.5.6. Depression — Rechtlicher Status in Deutschland",
+      "type": "inhalt",
+      "notes_md": "## 7.5.6. Krankheitssteckbrief: Depression (Fortsetzung)\n\n- **Rechtlicher Status in Deutschland:** In Deutschland ist Depression nicht als Berufskrankheit anerkannt, kann aber unter bestimmten Umständen als arbeitsbedingte Erkrankung anerkannt werden. Wenn die Depression auf spezifische arbeitsbedingte Faktoren zurückzuführen ist und der/die Arbeitnehmer:in dadurch arbeitsunfähig wird, kann er/sie unter Umständen Anspruch auf Leistungen aus der gesetzlichen Unfallversicherung haben. Es ist jedoch wichtig, professionelle rechtliche Beratung in Anspruch zu nehmen, um die spezifischen Kriterien und Verfahren zu verstehen.",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Depression ist in Deutschland NICHT als Berufskrankheit anerkannt",
+        "Anerkennung als arbeitsbedingte Erkrankung unter bestimmten Umständen möglich (spezifische arbeitsbedingte Faktoren + Arbeitsunfähigkeit)",
+        "Dann ggf. Anspruch auf Leistungen der gesetzlichen Unfallversicherung; professionelle rechtliche Beratung empfohlen"
+      ]
+    }
+  ]
+}
