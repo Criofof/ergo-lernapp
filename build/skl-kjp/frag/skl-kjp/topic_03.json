@@ -1,0 +1,75 @@
+{
+  "id": "skl-kjp-t3",
+  "title": "Definition der Kinder- und Jugendpsychiatrie",
+  "eingrenzung": "Definition: KJP aus dem Kurzlehrbuch",
+  "prio": "high",
+  "body": "## Definition der Kinder- und Jugendpsychiatrie\n\nNach dem Kurzlehrbuch Psychiatrie und Psychotherapie (Bäuml, J., Förstl, H., Leucht, S., Brönner, M. & Kraemer, S., 2018, 2. Aufl., Thieme) lautet die Definition:\n\n> „Die Kinder- und Jugendpsychiatrie umfasst die Erkennung, nichtoperative Behandlung, Prävention und Rehabilitation bei psychischen, entwicklungsbedingten und neurologischen Erkrankungen oder Störungen. Sowie bei sozialen Verhaltensauffälligkeiten im Kindes- und Jugendalter.“\n\n### Die vier Aufgabenbereiche\n\n- **Erkennung**: Diagnostik psychischer, entwicklungsbedingter und neurologischer Störungen im Kindes- und Jugendalter\n- **Nichtoperative Behandlung**: Therapeutische Interventionen ohne operative Verfahren\n- **Prävention**: Vorbeugung psychischer Erkrankungen und Verhaltensauffälligkeiten\n- **Rehabilitation**: Wiederherstellung und Förderung der Teilhabe nach Erkrankung\n\n### Betroffene Störungsbereiche\n\n1. Psychische Erkrankungen oder Störungen\n2. Entwicklungsbedingte Erkrankungen oder Störungen\n3. Neurologische Erkrankungen oder Störungen\n4. Soziale Verhaltensauffälligkeiten\n\n**Altersgruppe:** Kindes- und Jugendalter.\n\n*Hinweis: Die Kursnotizen enthalten nur die Definition selbst; die Gliederung in Aufgaben- und Störungsbereiche wurde fachlich korrekt auf Kursniveau aus dem Zitat hergeleitet.*",
+  "facts": [
+    "KJP umfasst Erkennung, nichtoperative Behandlung, Prävention und Rehabilitation",
+    "Betrifft psychische, entwicklungsbedingte und neurologische Erkrankungen oder Störungen",
+    "Erfasst auch soziale Verhaltensauffälligkeiten im Kindes- und Jugendalter",
+    "Definition stammt aus dem Kurzlehrbuch Psychiatrie und Psychotherapie (Bäuml et al., 2018, Thieme)"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Wie lautet die Definition der Kinder- und Jugendpsychiatrie nach dem Kurzlehrbuch (Bäuml et al., 2018)?",
+      "a": "Die Kinder- und Jugendpsychiatrie umfasst die Erkennung, nichtoperative Behandlung, Prävention und Rehabilitation bei psychischen, entwicklungsbedingten und neurologischen Erkrankungen oder Störungen sowie bei sozialen Verhaltensauffälligkeiten im Kindes- und Jugendalter."
+    },
+    {
+      "q": "Welche vier Aufgabenbereiche umfasst die KJP laut Definition?",
+      "a": "Erkennung, nichtoperative Behandlung, Prävention und Rehabilitation."
+    },
+    {
+      "q": "Welche Störungsbereiche fallen in den Aufgabenbereich der KJP?",
+      "a": "Psychische, entwicklungsbedingte und neurologische Erkrankungen oder Störungen sowie soziale Verhaltensauffälligkeiten."
+    },
+    {
+      "q": "Auf welche Altersgruppe bezieht sich die Kinder- und Jugendpsychiatrie laut Definition?",
+      "a": "Auf das Kindes- und Jugendalter."
+    },
+    {
+      "q": "Aus welchem Lehrbuch stammt die im Kurs verwendete KJP-Definition?",
+      "a": "Aus dem Kurzlehrbuch Psychiatrie und Psychotherapie von Bäuml, Förstl, Leucht, Brönner und Kraemer (2018, 2. Aufl., Thieme)."
+    },
+    {
+      "q": "Was bedeutet „nichtoperative Behandlung“ im Kontext der KJP-Definition?",
+      "a": "Die KJP behandelt ohne operative Verfahren – also mit nichtoperativen (z. B. psychotherapeutischen, medikamentösen, ergotherapeutischen) Interventionen."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche der folgenden Bereiche gehört laut Definition NICHT zu den vier Aufgaben der Kinder- und Jugendpsychiatrie?",
+      "choices": [
+        "Erkennung",
+        "Prävention",
+        "Operative Behandlung",
+        "Rehabilitation"
+      ],
+      "answer": 2,
+      "expl": "Die Definition nennt Erkennung, nichtoperative Behandlung, Prävention und Rehabilitation – operative Behandlung ist ausdrücklich ausgeschlossen."
+    },
+    {
+      "q": "Welche Störungsgruppen umfasst die KJP laut Kurzlehrbuch-Definition?",
+      "choices": [
+        "Ausschließlich psychische Erkrankungen",
+        "Psychische, entwicklungsbedingte und neurologische Erkrankungen/Störungen sowie soziale Verhaltensauffälligkeiten",
+        "Nur neurologische Erkrankungen",
+        "Nur soziale Verhaltensauffälligkeiten"
+      ],
+      "answer": 1,
+      "expl": "Die Definition umfasst psychische, entwicklungsbedingte und neurologische Erkrankungen oder Störungen sowie soziale Verhaltensauffälligkeiten im Kindes- und Jugendalter."
+    },
+    {
+      "q": "Aus welchem Werk stammt die KJP-Definition im Kurs?",
+      "choices": [
+        "ICD-10 der WHO",
+        "Maudsley – Leitfaden der psychiatrischen Therapie",
+        "Pschyrembel Klinisches Wörterbuch",
+        "Kurzlehrbuch Psychiatrie und Psychotherapie (Bäuml et al., 2018)"
+      ],
+      "answer": 3,
+      "expl": "Die Definition stammt aus dem Kurzlehrbuch Psychiatrie und Psychotherapie von Bäuml, Förstl, Leucht, Brönner und Kraemer (2018, 2. Aufl., Thieme)."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "skl-kjp-t8",
+  "title": "Sozialisationsinstanzen in der Kinder- und Jugendpsychiatrie",
+  "eingrenzung": "Sozialisationsinstanzen, die in der KJP mehr zu beachten sind",
+  "prio": "high",
+  "body": "## Besonderheiten in der Kinder- und Jugendpsychiatrie (KJP)\n\nDie KJP behandelt die Altersgruppe **0–18 Jahre**, bei speziellen Klassifikationen teilweise bis zum **21. Lebensjahr**. Betreut werden Kinder und Jugendliche mit erheblichen Störungen und Defiziten in ihrer emotionalen, geistigen und körperlichen Entwicklung.\n\n### Zentrale Unterschiede zur Erwachsenenpsychiatrie\n\n- **Stärkere Einbindung der Sozialisationsinstanzen:** Familie, Schule und Jugendamt müssen in Diagnostik und Therapie deutlich stärker einbezogen werden.\n- **Kontaktaufnahme:** Sie erfolgt in der Regel durch das „Erwachsenensystem“ – also durch Eltern, Schule oder andere Bezugspersonen, nicht durch das Kind selbst.\n- **Interdisziplinäres Wissen:** Ergotherapeuten in der KJP müssen damit umgehen, dass Erkenntnisse aus **Pädiatrie, Neurologie, Soziologie und Psychologie** zusammenfließen müssen.\n\n### Die Schule als Sozialisationsinstanz: Klinikschule\n\nViele KJP-Kliniken verfügen über eine eigene **Klinikschule** (Beispiel: „Schule am Ortenberg“), die nur von den Kindern und Jugendlichen der Klinik besucht wird.\n\n- **Kleine Klassen:** Die Klassen haben wenig Schüler, sodass sich die Lehrer viel besser um die einzelnen Schüler kümmern können – besonders wichtig, da einige Kinder gerade wegen großer Schulprobleme in der Klinik sind.\n- **Angepasste Stundenpläne:** Die Kinder haben häufig nicht so viele Stunden am Stück, da sie zwischendurch immer wieder zu Therapiestunden gehen müssen. Der Wechsel zwischen Schulgebäude und Station ist kurz und unproblematisch.\n- **Anschluss an die Heimatschule:** Im Unterricht soll möglichst dasselbe gelernt werden wie an der Heimatschule. Gleichzeitig können die Lehrer stärker darauf eingehen, wie es dem einzelnen Kind geht.\n- **Austausch:** Die Lehrer der Klinikschule und die eigentlichen Klassenlehrer tauschen sich immer wieder aus – allerdings nur mit **Einverständnis der Eltern**.",
+  "facts": [
+    "Behandlungsalter in der KJP: 0–18 Jahre (teilweise bis 21. Lebensjahr)",
+    "Sozialisationsinstanzen Familie, Schule und Jugendamt werden stärker eingebunden",
+    "Kontaktaufnahme erfolgt in der Regel durch das Erwachsenensystem",
+    "Interdisziplinäres Wissen nötig: Pädiatrie, Neurologie, Soziologie, Psychologie",
+    "Klinikschule (z. B. „Schule am Ortenberg“): nur für Kinder und Jugendliche der Klinik, kleine Klassen, angepasste Stundenpläne wegen Therapiestunden",
+    "Unterricht möglichst wie an der Heimatschule; Austausch mit den Klassenlehrern nur mit Einverständnis der Eltern"
+  ],
+  "figures": [],
+  "flashcards": [
+    {
+      "q": "Welche Altersgruppe behandelt die Kinder- und Jugendpsychiatrie?",
+      "a": "0–18 Jahre; bei speziellen Klassifikationen teilweise bis zum 21. Lebensjahr."
+    },
+    {
+      "q": "Welche Sozialisationsinstanzen werden in der KJP stärker eingebunden?",
+      "a": "Familie, Schule und Jugendamt."
+    },
+    {
+      "q": "Durch wen erfolgt die Kontaktaufnahme mit der KJP in der Regel?",
+      "a": "Durch das „Erwachsenensystem“ (z. B. Eltern, Schule), nicht durch das Kind selbst."
+    },
+    {
+      "q": "Aus welchen Fachgebieten müssen in der KJP Erkenntnisse zusammenfließen?",
+      "a": "Pädiatrie, Neurologie, Soziologie und Psychologie."
+    },
+    {
+      "q": "Wer besucht eine Klinikschule und wie sind die Klassen beschaffen?",
+      "a": "Nur die Kinder und Jugendlichen der Klinik; die Klassen haben wenig Schüler, sodass die Lehrer sich besser um Einzelne kümmern können."
+    },
+    {
+      "q": "Warum sind die Stundenpläne an der Klinikschule angepasst?",
+      "a": "Die Kinder müssen zwischendurch immer wieder zu Therapiestunden gehen, daher haben sie häufig nicht so viele Stunden am Stück."
+    },
+    {
+      "q": "Unter welcher Bedingung tauschen sich Klinikschullehrer und Heimatschul-Klassenlehrer aus?",
+      "a": "Nur wenn die Eltern dafür ihr Einverständnis gegeben haben."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zur Altersgruppe in der KJP ist korrekt?",
+      "choices": [
+        "Behandelt werden ausschließlich Kinder von 6–12 Jahren",
+        "Behandelt werden 0–18 Jahre, teilweise bis zum 21. Lebensjahr",
+        "Behandelt werden Jugendliche ab dem 14. Lebensjahr",
+        "Behandelt werden alle Altersgruppen ohne Begrenzung"
+      ],
+      "answer": 1,
+      "expl": "Die KJP behandelt die Altersgruppe 0–18 Jahre; bei speziellen Klassifikationen teilweise bis zum 21. Lebensjahr."
+    },
+    {
+      "q": "Wie erfolgt die Kontaktaufnahme mit der KJP typischerweise?",
+      "choices": [
+        "Das Kind meldet sich selbständig bei der Klinik",
+        "Über eine gerichtliche Anordnung",
+        "Durch das „Erwachsenensystem“, z. B. Eltern oder Schule",
+        "Ausschließlich über den Hausarzt"
+      ],
+      "answer": 2,
+      "expl": "In der Regel erfolgt die Kontaktaufnahme durch das „Erwachsenensystem“, also über erwachsene Bezugspersonen."
+    },
+    {
+      "q": "Was trifft auf die Klinikschule zu?",
+      "choices": [
+        "Sie wird von Kindern aus dem gesamten Umkreis besucht",
+        "Nur Klinikpatienten besuchen sie; kleine Klassen und angepasste Stundenpläne ermöglichen Therapietermine",
+        "Der Unterricht hat keinen Bezug zur Heimatschule",
+        "Der Austausch mit der Heimatschule bedarf keiner elterlichen Zustimmung"
+      ],
+      "answer": 1,
+      "expl": "Die Klinikschule wird nur von den Kindern und Jugendlichen der Klinik besucht; kleine Klassen und angepasste Stundenpläne berücksichtigen die Therapiestunden. Der Unterricht orientiert sich möglichst an der Heimatschule, der Austausch erfolgt mit Einverständnis der Eltern."
+    }
+  ]
+}
