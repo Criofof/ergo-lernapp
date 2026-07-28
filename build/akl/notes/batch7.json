@@ -1,0 +1,246 @@
+{
+ "batch": "7",
+ "pages": [
+  {
+   "gidx": 73,
+   "source": "akl p.73",
+   "slide_title": "Bakteriologie — Die Einteilung und der Aufbau von Bakterien",
+   "type": "titel",
+   "notes_md": "# Bakteriologie\n\n## Die Einteilung und der Aufbau von Bakterien\n\nZwischentitel (Folie 26). Hochschule Fresenius.",
+   "figures": [],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Auftakt zum Abschnitt Bakteriologie: Einteilung und Aufbau von Bakterien"
+   ]
+  },
+  {
+   "gidx": 74,
+   "source": "akl p.74",
+   "slide_title": "Einteilung der Bakterien nach Form",
+   "type": "inhalt",
+   "notes_md": "# Einteilung der Bakterien nach Form (Folie 27)\n\n- **Kokken (Kugelbakterien)** — z.B. Staphylokokken, Streptokokken\n- **paarige Kugelbakterien (Diplokokken)** — z.B. Meningokokken\n- **gekapselte Diplokokken** — z.B. Pneumokokken\n- **Stäbchenbakterien** — z.B. E. coli\n- **Bakterien mit Sporen** — z.B. Clostridien\n- **Vibrionen mit Geißel** — z.B. Vibrio cholerae\n- **Spirochäten** — z.B. Borrelien\n\nQuelle: Kühn et al.: Rettungsdienst heute, 4.A. © Elsevier GmbH. www.studentconsult.de",
+   "figures": [
+    {
+     "caption": "Bakterienformen mit Beispielen",
+     "shows": "Zeichnungen der Bakterienformen: Kokken, Diplokokken, gekapselte Diplokokken, Stäbchenbakterien, Bakterien mit Sporen, Vibrionen mit Geißel, Spirochäten",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Kokken = Kugelbakterien (z.B. Staphylokokken, Streptokokken)",
+    "Diplokokken = paarige Kugelbakterien (z.B. Meningokokken); gekapselt z.B. Pneumokokken",
+    "Stäbchenbakterien z.B. E. coli; Sporenbildner z.B. Clostridien",
+    "Vibrionen mit Geißel z.B. Vibrio cholerae; Spirochäten z.B. Borrelien"
+   ]
+  },
+  {
+   "gidx": 75,
+   "source": "akl p.75",
+   "slide_title": "Virologie — Die Einteilung und der Aufbau von Viren",
+   "type": "titel",
+   "notes_md": "# Virologie\n\n## Die Einteilung und der Aufbau von Viren\n\nZwischentitel (Folie 28). Hochschule Fresenius.",
+   "figures": [],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Auftakt zum Abschnitt Virologie: Einteilung und Aufbau von Viren"
+   ]
+  },
+  {
+   "gidx": 76,
+   "source": "akl p.76",
+   "slide_title": "Größenvergleich von Viren",
+   "type": "inhalt",
+   "notes_md": "# Größenvergleich von Viren (Folie 29)\n\nAbbildung mit Maßstab 100 nm, Bakterium Escherichia coli als Größenvergleich:\n\n- **Poliovirus**\n- **Adenovirus** — kubisches Kapsid\n- **Influenzavirus**\n- **Herpesvirus** — helixförmiges Kapsid\n- **Pockenvirus**\n- **Bakterium Escherichia coli als Größenvergleich**\n\nQuelle: Kühn et al.: Rettungsdienst heute, 4.A. © Elsevier GmbH. www.studentconsult.de",
+   "figures": [
+    {
+     "caption": "Virusgrößen im Vergleich zu E. coli",
+     "shows": "Schematische Darstellung von Poliovirus, Adenovirus (kubisches Kapsid), Influenzavirus, Herpesvirus und Pockenvirus (helixförmiges Kapsid) neben E. coli, Maßstab 100 nm",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Viren sind deutlich kleiner als Bakterien (Maßstab 100 nm, E. coli als Größenvergleich)",
+    "Kubisches Kapsid: z.B. Adenovirus; helixförmiges Kapsid: z.B. Herpes-/Pockenvirus"
+   ]
+  },
+  {
+   "gidx": 77,
+   "source": "akl p.77",
+   "slide_title": "Virologie — Die Einteilung und der Aufbau von Viren",
+   "type": "inhalt",
+   "notes_md": "# Virologie — Die Einteilung und der Aufbau von Viren (Folie 30)\n\n## Klassifikationsschema DNA-Viren\n\n**DNA**\n- **Icosahedral**\n  - Naked: ss linear (+) or (−); ds circular; ds linear\n  - Enveloped: ds circle gapped; ds linear\n  - Naked/Env. (cytoplasmic): ds linear\n- **Helical**\n  - Enveloped: ds circular\n- **Complex**\n  - Enveloped (cytoplasmic): ds linear (× linked)\n\n## Virusfamilien (Tabelle unter den Schemazeichnungen)\n\n| Familie | | Größe (nm) | Genom |\n|---|---|---|---|\n| Parvo | (−) | 18–26 | 5 |\n| Papova | (−) | 45–55 | 5–8 |\n| Adeno | (−) | 70–90 | 36–38 |\n| Hepadna | (+) | 42 | 3.2 |\n| Herpes | (−) | 150–200 | 120–200 |\n| Irido | (−) | 125–300 | 150–350 |\n| Baculo | (−) | 60 × 300 | 100 |\n| Pox | (+) | 170–200 × 300–450 | 130–280 |\n\nQuelle: Elzavic, Hermann, Mikrobiolofie, Wien 2002, S. 145 (Schreibweise wie auf der Folie)",
+   "figures": [
+    {
+     "caption": "Einteilung der DNA-Viren",
+     "shows": "Klassifikationsbaum der DNA-Viren nach Kapsidform (Icosahedral, Helical, Complex) und Hülle (Naked/Enveloped) mit Genomtyp (ss/ds, linear/circular), darunter Viruszeichnungen und Tabelle der Familien Parvo, Papova, Adeno, Hepadna, Herpes, Irido, Baculo, Pox",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "DNA-Viren werden nach Kapsidform (icosahedral, helical, complex), Hülle (naked/enveloped) und Genomstruktur (ss/ds, linear/circular) eingeteilt",
+    "Virusfamilien-Beispiele: Parvo (18–26 nm), Adeno (70–90 nm), Herpes (150–200 nm), Pox (größte, 170–200 × 300–450 nm)"
+   ]
+  },
+  {
+   "gidx": 78,
+   "source": "akl p.78",
+   "slide_title": "Mikrobiologischer Befund: Keimdifferenzierung und Antibiogramm (Beispiel)",
+   "type": "inhalt",
+   "notes_md": "# Beispiel: Mikrobiologie-Befund aus einem Laborinformationssystem (Folie 31)\n\nScreenshot einer Befundtabelle (Dialysepatienten), Spalten: Normbereich und Befunddaten 04.08.2008, 02.06.2008, 06.02.2008, 30.10.2007, 10.10.2007.\n\n## Keimdiff + Antibiogramm (Texte) — Normbereich: negativ\n\n- **Nasen-Rachenabstrich, Kulturbefund:** Multiresistenter Staphylococcus aureus nicht nachgewiesen; ICD-10 Kodierungsvorschlag: Spezielles Screening auf MRSA: Z11\n- **Sputum-Proben:** Mikroskopischer Befund, Auraminfärbung negativ; direkter Antigennachweis (PCR) von Mycobacterium-tuberculosis-Komplex: negativ (Nachweisgrenze 1600 CFU/ml); Mykobakterien-Kultur negativ; ICD-10 Kodierungsvorschlag: Spezielles Screening auf Lungentuberkulose: Z11\n- **Urin, Gramfärbung:** aus unzentrifugiertem Urin: mäßig viel Leukozyten, mäßig viel gramnegative Stäbchen; Kulturbefund: 1. Escherichia coli (mäßig viel), 2. Enterokokken (vereinzelt)\n- **Antibiogramm (gelistete Antibiotika):** Ampicillin, Ampicillin + Sulbactam, Piperacillin, Piperacillin + Tazobactam, Cefazolin, Cefuroxim, Cefotaxim, Ceftazidim, Gentamicin, Tobramycin, TMP/SMZ, Doxycyclin, Ciprofloxacin, Levofloxacin, Vancomycin, Teicoplanin, Linezolid\n- **MRSA-Status:** neg.\n\n## Weitere Befundzeilen\n\n- Glucose im Punktat, mg/dl — abhängig von der Blutkonzentration\n- Gesamteiweiß im Punktat, g/dl — 1.1–2.2 normal; > 3.0 Entzündung\n- LDH im Punktat, U/l — < 200 Transudat; > 200 Exsudat",
+   "figures": [
+    {
+     "caption": "Laborinformationssystem: mikrobiologischer Befund",
+     "shows": "Screenshot einer Befundtabelle mit Keimdiff und Antibiogramm (MRSA-Screening, TBC-PCR, Urinkultur mit E. coli und Enterokokken, Antibiotika-Resistenztestung) bei einem Dialysepatienten",
+     "importance": "low",
+     "extract": false
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "MRSA-Screening (Nasen-Rachenabstrich): ICD-10 Z11, hier negativ",
+    "Antibiogramm listet Wirkstoffe zur Resistenztestung (z.B. Vancomycin, Linezolid, Ciprofloxacin)",
+    "Punktat-Beurteilung: Gesamteiweiß > 3.0 g/dl spricht für Entzündung; LDH < 200 U/l für Transudat"
+   ]
+  },
+  {
+   "gidx": 79,
+   "source": "akl p.79",
+   "slide_title": "Mykologie — Die Einteilung und der Aufbau von Pilzen",
+   "type": "titel",
+   "notes_md": "# Mykologie\n\n## Die Einteilung und der Aufbau von Pilzen\n\nZwischentitel (Folie 32). Hochschule Fresenius.",
+   "figures": [],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Auftakt zum Abschnitt Mykologie: Einteilung und Aufbau von Pilzen"
+   ]
+  },
+  {
+   "gidx": 80,
+   "source": "akl p.80",
+   "slide_title": "Mykologie — Die Einteilung und der Aufbau von Pilzen",
+   "type": "inhalt",
+   "notes_md": "# Mykologie — Die Einteilung und der Aufbau von Pilzen (Folie 33)\n\n## Aufbau: Röhrenpilz vs. Lamellenpilz (Beschriftung der Abbildung)\n\n- **Röhrenpilz:** Hutfleisch, Röhren, Röhrenmündung, genetzt\n- **Lamellenpilz:** Huthaut, Hut, Lamellen, Stiel, genattert, Scheide\n- **Gemeinsam:** Mycel\n\nQuelle (Bildunterschrift): nach „Welcher Pilz ist das?“, M. Flick, Kosmos Naturführer",
+   "figures": [
+    {
+     "caption": "Aufbau von Röhrenpilz und Lamellenpilz",
+     "shows": "Schemazeichnung im Vergleich: Röhrenpilz (Hutfleisch, Röhren, Röhrenmündung) und Lamellenpilz (Huthaut, Hut, Lamellen, Stiel, Scheide), darunter Mycel",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Fruchtkörper-Bauteile: Hut (mit Röhren oder Lamellen), Stiel, Scheide, Mycel",
+    "Unterscheidung Röhrenpilz (Röhrenschicht) vs. Lamellenpilz (Lamellen)"
+   ]
+  },
+  {
+   "gidx": 81,
+   "source": "akl p.81",
+   "slide_title": "Systematik der Pilze (Stammbaum)",
+   "type": "inhalt",
+   "notes_md": "# Systematik der Pilze — Stammbaum (Folie 34)\n\n## Legende (Lebensweise, farbige Dreiecke)\n\n- **Gruppen mit Mykobionten** (grün)\n- **Saprobe** (braun): Braunfäulepilze, Weißfäulepilze\n- **Pflanzenparasiten** (rot)\n- **Tier- und Pilzparasiten** (dunkelrot)\n\n## Verzweigung\n\n- **Dikarya**\n  - **Basidiomycota (Ständerpilze)**\n    - **Agaricomycotina (Fruchtkörper bildende Ständerpilze)** → Agaricomycetes:\n      - Agaricales (Blätterpilze)\n      - Boletales (Röhrlinge)\n      - Atheliales\n      - Russulales (Täublinge und Milchlinge)\n      - Polyporales (Porlinge, Baumschwämme)\n      - Thelephorales (Erdwarzenpilze, Filzgewebe)\n      - Hymenochaetales (Borstenscheiblinge)\n      - Phallomycetidae (Stinkmorcheln i. w. S.)\n      - Auriculariales (Ohrlappenpilze)\n      - Cantharellales (Pfifferlinge)\n      - Ceratobasidiaceae\n      - Tulasnellaceae (Violette Wachskrusten)\n      - Sebacinales (Wachskrusten)\n    - Dacrymycetes (Gallerttränen)\n    - Tremellomycetes (Zitterlinge)\n    - **Ustilaginomycotina (Brandpilze)**: Ustilaginomycetes, Exobasidiomycetes\n    - **Pucciniomycotina (Rostpilze)**: Atractiellomycetes, Microbotryomycetes, Pucciniomycetes\n  - **Ascomycota (Schlauchpilze)**: Pezizomycotina (Trüffel) und andere\n- **Mucoromycota**\n  - **Mucoromycotina (Köpfchenschimmel)**: Endogonales, Mucorales\n  - **Glomeromycotina (Knäuelpilze)**: Diversisporales, Glomerales, Archaeosporales, Paraglomerales\n  - Mortierellomycotina\n- **Chytridiomycota und andere basale Pilzgruppen ohne Mykobionten**",
+   "figures": [
+    {
+     "caption": "Stammbaum der Pilze",
+     "shows": "Phylogenetischer Baum der Pilze (Dikarya mit Basidiomycota und Ascomycota, Mucoromycota, basale Gruppen) mit farbcodierter Lebensweise: Mykobionten, Saproben, Pflanzenparasiten, Tier- und Pilzparasiten",
+     "importance": "mid",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Pilze werden u.a. nach Lebensweise unterschieden: Mykobionten, Saproben (Braun-/Weißfäule), Pflanzenparasiten, Tier- und Pilzparasiten",
+    "Großgruppen: Basidiomycota (Ständerpilze), Ascomycota (Schlauchpilze), Mucoromycota (Köpfchenschimmel, Knäuelpilze), Chytridiomycota"
+   ]
+  },
+  {
+   "gidx": 82,
+   "source": "akl p.82",
+   "slide_title": "Die Besonderheit der Sporenbildung",
+   "type": "inhalt",
+   "notes_md": "# Die Besonderheit der Sporenbildung (Folie 35)\n\nQuelle: Meyerman, Eric, Hygiene, S. 144\n\n## Abbildung: Fruchtkörper eines Ständerpilzes (Beschriftung)\n\n- Hut\n- Lamellen\n- Manschette\n- Stiel\n- Basidien und Sporen (Vergrößerung an den Lamellen)\n- Sporenpulver (abfällend aus den Lamellen)\n- keimende Sporen\n- Mycel\n- Hyphen",
+   "figures": [
+    {
+     "caption": "Fruchtkörper eines Ständerpilzes — Sporenbildung",
+     "shows": "Schemazeichnung eines Ständerpilzes mit Hut, Lamellen, Manschette, Stiel, Mycel und Hyphen; Detail: Basidien und Sporen, Sporenpulver und keimende Sporen",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Ständerpilze bilden Sporen an Basidien (an den Lamellen)",
+    "Sporenpulver wird freigesetzt; Sporen keimen im Substrat zu Hyphen/Mycel aus"
+   ]
+  },
+  {
+   "gidx": 83,
+   "source": "akl p.83",
+   "slide_title": "Nicht pathogene Pilze — Der freundliche Pilz im Wald",
+   "type": "inhalt",
+   "notes_md": "# Nicht pathogene Pilze (Folie 36)\n\n## Der freundliche Pilz im Wald\n\nQuelle: Meyerman, Eric, Hygiene, S. 146\n\nFoto eines Fliegenpilzes (roter Hut mit weißen Punkten) im Wald.",
+   "figures": [
+    {
+     "caption": "Fliegenpilz im Wald",
+     "shows": "Foto eines jungen Fliegenpilzes mit rotem Hut und weißen Flocken zwischen Laub",
+     "importance": "low",
+     "extract": false
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Beispiel nicht pathogener Pilze: Waldpilze (Foto Fliegenpilz)"
+   ]
+  },
+  {
+   "gidx": 84,
+   "source": "akl p.84",
+   "slide_title": "Pathogene Pilze — Aspergillus fumigatus",
+   "type": "inhalt",
+   "notes_md": "# Pathogene Pilze (Folie 37)\n\n## Aspergillus fumigatus\n\nQuelle: Meyerman, Eric, Hygiene, S. 147\n\nLichtmikroskopische Aufnahme von Aspergillus fumigatus: Hyphen mit typischem Konidienträger (fächerförmiger Sporenkopf).",
+   "figures": [
+    {
+     "caption": "Aspergillus fumigatus (Mikroskopie)",
+     "shows": "Mikroskopische Aufnahme der Hyphen und des Konidienträgers (Sporenkopf) von Aspergillus fumigatus",
+     "importance": "mid",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "Aspergillus fumigatus ist ein Beispiel für pathogene Pilze"
+   ]
+  }
+ ]
+}
