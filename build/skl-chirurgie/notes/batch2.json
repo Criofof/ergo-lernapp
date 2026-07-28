@@ -1,0 +1,231 @@
+{
+ "batch": "2",
+ "pages": [
+  {
+   "gidx": 13,
+   "source": "skl-chirurgie p.13",
+   "slide_title": "Achillodynie und Achillessehnenruptur – Lokalisation, Symptome, klinische Diagnostik",
+   "type": "inhalt",
+   "notes_md": "# Achillodynie und Achillessehnenruptur\n\n## Lokalisation:\n- am häufigsten reißt die Sehne 2-6 cm oberhalb ihres Ansatzes am Fersenbein im Bereich der Achillessehnentaille\n- dort liegt die \"Wasserscheide\" der arteriellen Versorgung, die von kranial und kaudal in die Sehne einstrahlt, d.h. die Ernährung des Sehnengewebes und damit die Regenerationsfähigkeit ist hier am schlechtesten.\n\n## Symptome:\n- Peitschenknallartiges Geräusch\n- Schmerzen in der Ferse oder Wade\n- Schwellung und Hämatom im Rupturbereich\n- eingeschränkte Bewegungsfähigkeit mit Hinken auf der betroffenen Seite\n- spürbare Delle oberhalb der Ferse\n- durch den Funktionsverlust der Wadenmuskulatur kann der Fuß nicht mehr aktiv gestreckt werden / Zehenstand nicht möglich\n\n## Klinische Diagnostik:\n- Inspektion und Palpation\n- Testung des Bewegungsumfang und Belastbarkeit, sowie die Muskelkraft (Einbeinzehenstand)\n- bei gerissener Sehne zeigt sich auf der betroffenen Seite eine stärkere Dorsalflexion bei passiver Streckung\n- und eine deutlich eingeschränkte Plantarflexion bei aktiver Beugung (Zehenstand nicht möglich)\n- spezielle klinische Tests z.B. der Thompson-Test",
+   "figures": [
+    {
+     "caption": "Thompson Test",
+     "shows": "Schematische Darstellung des Thompson-Tests: negativer Test (Plantarflexion bei Wadenkompression) vs. positiver Test (fehlende Plantarflexion bei Achillessehnenruptur)",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [],
+   "key_facts": [
+    "Achillessehne reißt am häufigsten 2–6 cm oberhalb des Ansatzes am Fersenbein (Wasserscheide der arteriellen Versorgung)",
+    "Leitsymptome: peitschenknallartiges Geräusch, Delle oberhalb der Ferse, Zehenstand nicht möglich",
+    "Thompson-Test als spezieller klinischer Test"
+   ]
+  },
+  {
+   "gidx": 14,
+   "source": "skl-chirurgie p.14",
+   "slide_title": "Achillodynie und Achillessehnenruptur – Diagnostik, konservative und operative Therapie",
+   "type": "inhalt",
+   "notes_md": "# Achillodynie und Achillessehnenruptur\n\n## Diagnostik:\nSonographie, Röntgen, MRT\n\n## Konservative Therapie:\n- lassen sich die Sehnenstümpfe in 20°-Plantarflexion vollständig oder partiell adaptieren, ist eine konservative Therapie möglich. Sie wird vor allem bei älteren Patienten und Patienten mit Begleiterkrankungen gewählt. Dabei wird der Fuß über 4-6 Wochen mit einem Gipsverband, einer Schiene oder einem Spezialschuh (Unterschenkel-Fuß-Orthese) in leichter Spitzfußstellung fixiert, um die getrennten Sehnenenden einander anzunähern und eine narbige Ausheilung zu erreichen. Danach bringt man den Fuß mit einer Orthese schrittweise in die Normalstellung zurück. Dieser Schuh sollte in den ersten drei Wochen Tag und Nacht getragen werden. Nach ca. vier Wochen wird die Absatzerhöhung um 1 cm reduziert und nach sechs Wochen nochmals um 1 cm. Der Schuh wird insgesamt sechs bis acht Wochen getragen. Die Sportfähigkeit ist in der Regel nach 13–16 Wochen wieder gegeben.\n\n## Operative Therapie:\nVerschiedene operative Möglichkeiten stehen zur Verfügung\n\nDie akute Ruptur der Achillessehne wird im Allgemeinen innerhalb der ersten 7 bis 10 Tage durch eine direkte Naht operiert. Bei den operativen Behandlungsmethoden wird grundsätzlich zwischen offener, geschlossener und halboffener Technik (minimal-invasive Technik) unterschieden.\n\nBei der offenen Technik muss die Achillessehne in ihrer Gesamtheit dargestellt werden, was einen relativ langen Hautschnitt erforderlich macht. Dies kann zum einen – auch aufgrund der ungünstigen Durchblutungssituation – zu Wundheilungsstörungen, zum anderen zu ungünstigen Narbenbildungen und Verklebungen im Bereich der Sehne führen.",
+   "figures": [],
+   "eingrenzung_hits": [],
+   "key_facts": [
+    "Konservative Therapie möglich, wenn Sehnenstümpfe in 20°-Plantarflexion adaptierbar; Fixation 4–6 Wochen in Spitzfußstellung, Sportfähigkeit nach 13–16 Wochen",
+    "Akute Ruptur wird in der Regel innerhalb von 7–10 Tagen durch direkte Naht operiert",
+    "Unterscheidung: offene, geschlossene und halboffene (minimal-invasive) Technik"
+   ]
+  },
+  {
+   "gidx": 15,
+   "source": "skl-chirurgie p.15",
+   "slide_title": "Achillessehnenruptur – operative Versorgung (Bildfolie)",
+   "type": "inhalt",
+   "notes_md": "# Achillessehnenruptur – operative Versorgung (Abbildungen)\n\nBeschriftete Schemazeichnung (minimal-invasive Nahttechnik):\n- chirurgisches Instrument\n- Suralis-Nerv\n- gerissene Achillessehne\n- Faden\n\nWeitere intraoperative Fotos:\n- Anlage des minimal-invasiven Nahtinstruments (Achillon) an der Ferse\n- A: Fadenführung/Naht der Achillessehne am Unterschenkel\n- B: Situation nach Naht / Wundverschluss\n\n(kein Fließtext auf der Folie)",
+   "figures": [
+    {
+     "caption": "Schemazeichnung minimal-invasive Achillessehnennaht",
+     "shows": "Chirurgisches Instrument, Suralis-Nerv, gerissene Achillessehne und Fadenführung an der Ferse",
+     "importance": "high",
+     "extract": true
+    },
+    {
+     "caption": "Intraoperative Fotos A/B",
+     "shows": "OP-Situs bei Achillessehnennaht: Fadenführung und Verschluss",
+     "importance": "mid",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [],
+   "key_facts": [
+    "Bei der Nahttechnik ist der Suralis-Nerv anatomisch gefährdet und eingezeichnet"
+   ]
+  },
+  {
+   "gidx": 16,
+   "source": "skl-chirurgie p.16",
+   "slide_title": "Achillessehnenruptur – Minimal-invasive Methode",
+   "type": "inhalt",
+   "notes_md": "# Achillessehnenruptur\n\n## Minimal-invasive Methode:\nBei der minimal-invasiven Methode wird\n- lediglich die Rupturstelle mit dem kleinstmöglichen Hautschnitt dargestellt. Um die Sehnenfasern aneinander nähen zu können, wird ein speziell entwickeltes Gerät, das sogenannte Achillon™, eingesetzt. Die Mehrzahl aller Risse eignet sich für diese Operationstechnik. Wenn das Verletzungsereignis länger zurückliegt oder bei vorbestehenden degenerativen Sehnenveränderungen ist eine aufwendigere Rekonstruktion notwendig.\n- Durch die Naht der Achillessehne unter Sicht, wird die Wahrscheinlichkeit eines erneuten Risses gesenkt und gleichzeitig eine optimale Ausgangslage für eine bestmögliche Kraftentwicklung des Muskel-Sehnen-Apparats geschaffen. Der Eingriff wird in Vollnarkose oder Spinalanästhesie durchgeführt, der Eintritt erfolgt am Operationstag.\n\n## Vorteile:\nDurch das Nähen der Achillessehne unter Sicht wird die Wahrscheinlichkeit eines erneuten Risses gesenkt und gleichzeitig eine optimale Ausgangslage für eine bestmögliche Kraftentwicklung des Muskel-Sehnen-Apparats geschaffen.",
+   "figures": [
+    {
+     "caption": "Achillon™-Instrument",
+     "shows": "Speziell entwickeltes goldenes Instrument (Achillon) mit Fadenführung zur minimal-invasiven Achillessehnennaht",
+     "importance": "mid",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [],
+   "key_facts": [
+    "Minimal-invasive Naht mit dem Achillon™-System über kleinstmöglichen Hautschnitt",
+    "Eingriff in Vollnarkose oder Spinalanästhesie, Eintritt am Operationstag",
+    "Bei länger zurückliegendem Riss oder degenerativen Veränderungen aufwendigere Rekonstruktion nötig"
+   ]
+  },
+  {
+   "gidx": 17,
+   "source": "skl-chirurgie p.17",
+   "slide_title": "Akutes Abdomen – Definition und Ursachen",
+   "type": "inhalt",
+   "notes_md": "# Akutes Abdomen\n\n## Akutes Abdomen\n- ist ein akut einsetzendes, lebensbedrohliches Krankheitsbild der Bauchhöhle mit verschiedenen Ursachen\n- es ist ein Leitsymptom für verschiedene schwere Grunderkrankungen, das einen sofortigen (meist operativen) Eingriff/Laparotomie erforderlich macht\n\n## Ursachen:\n- akute Pankreatitis\n- akute Appendizitis\n- Divertikulitis\n- akute Cholecystitis / Erkrankungen der Gallenwege oder Gallenblasenempyem\n- Abszessbildung / der inneren Organe\n- Peritonitis / Bauchfellentzündung\n- Harnverhalt; Nierensteine\n- Hernien / Nabelhernie, Leistenhernie\n- Briden / Verwachsungen nach Operationen\n\n## Perforationen:\n- Magen- und Darmulcera\n- Appendixperforation\n- Gallenblasenperforation\n- Eileiterperforation/Tubenperforation bei Eileiterschwangerschaft\n\n## Darmverschluss:\n- mechanischer Ileus\n- paralytischer Ileus",
+   "figures": [],
+   "eingrenzung_hits": [
+    10
+   ],
+   "key_facts": [
+    "Akutes Abdomen = akut einsetzendes, lebensbedrohliches Krankheitsbild der Bauchhöhle",
+    "Leitsymptom schwerer Grunderkrankungen; erfordert meist sofortigen operativen Eingriff (Laparotomie)",
+    "Ursachengruppen: Entzündungen, Perforationen, Darmverschluss (mechanischer/paralytischer Ileus)"
+   ]
+  },
+  {
+   "gidx": 18,
+   "source": "skl-chirurgie p.18",
+   "slide_title": "Akutes Abdomen – weitere Ursachen und primäre Symptome",
+   "type": "inhalt",
+   "notes_md": "# Akutes Abdomen\n\n## Blutungen:\n- Blutungen des Magen-Darm-Traktes\n- Aneurysmaruptur der Bauchaorta\n- perforierte Ulzerationen\n- Milzruptur\n- Anastomoseninsuffizienz\n\n## Akute Durchblutungsstörungen:\n- Mesenterialthrombose\n\n## Tumore und Karzinome:\n- durch Kompressionen\n- durch Infiltrationen\n\n**oder auch ausgelöst durch ein stumpfes Bauchtrauma**\n\n## primäre Symptome:\n- Druckschmerz (Erschütterungsschmerz)\n- Loslassschmerz\n- Abwehrspannung (bretthartes Abdomen) -> akute Peritonitis\n- Bauchschmerz kann wellen- (Kolik) oder krampfartig auftreten, aber auch permanent bestehen\n- Schocksymptomatik\n- flache thorakale Atmung, Herzsensationen\n- Erbrechen, evtl. Koterbrechen\n- Zunahme des Bauchumfangs/aufgetriebener Bauch",
+   "figures": [],
+   "eingrenzung_hits": [],
+   "key_facts": [
+    "Weitere Ursachen: Blutungen (z.B. Aneurysmaruptur der Bauchaorta, Milzruptur), Mesenterialthrombose, Tumore, stumpfes Bauchtrauma",
+    "Primäre Symptome: Druckschmerz, Loslassschmerz, Abwehrspannung (bretthartes Abdomen = Zeichen der akuten Peritonitis)",
+    "Schocksymptomatik und Zunahme des Bauchumfangs"
+   ]
+  },
+  {
+   "gidx": 19,
+   "source": "skl-chirurgie p.19",
+   "slide_title": "Akutes Abdomen – sekundäre Symptome und Diagnostik",
+   "type": "inhalt",
+   "notes_md": "# Akutes Abdomen\n\n## sekundäre Symptome:\n- Diarrhoe\n- Obstipation\n- Unruhe\n- Kaltschweißigkeit\n- facialis abdominalis: eingefallene Gesichtszüge; Blässe\n- Veränderung der Hautfarbe hin zur Marmorierung oder Blässe\n- Angstzustände\n- Stuhl- und Darmgasverhalt\n- Verschlechterung des Allgemeinzustandes\n- Fieber\n- Exsikkose\n- Herzrhythmusstörung mit einem Anstieg der Herzfrequenz auf über 100/min (Tachykardie)\n- sinkender Blutdruck / hypotone Kreislaufsituation\n\n## Diagnostik:\n- Auskultation\n- Palpation\n- Labor: BKS, Leukozytose, Leberenzyme, BZ/Lipase/Amylase (Ausschluss Pankreatitis), Gerinnung, Blutgruppe (Op-fähig?), U-Status (Eiweiß Leukos, Erys)\n- EKG: auch Ausschluss Herzinfarkt/vorgetäuschte Symptomatik vor allem bei Hinterwandinfarkt\n- Röntgen des Abdomens: Flüssigkeitsspiegel, Steine, freie Luft, evtl. Magen-Darm-Passage\n- Röntgen Thorax: Erguss, Verschattung\n- Sonographie: freie Luft, Steine, Stauungen\n- Endoskopie: bei Blutungen zur Therapiesicherung\n- CT, MRT\n- Angiographie",
+   "figures": [],
+   "eingrenzung_hits": [],
+   "key_facts": [
+    "Sekundäre Symptome: u.a. facialis abdominalis, Stuhl- und Darmgasverhalt, Tachykardie >100/min, hypotone Kreislaufsituation",
+    "Diagnostik: Labor (BKS, Leukozytose, Lipase/Amylase), EKG zum Infarktausschluss, Röntgen Abdomen (freie Luft, Flüssigkeitsspiegel), Sonographie, Endoskopie, CT/MRT, Angiographie"
+   ]
+  },
+  {
+   "gidx": 20,
+   "source": "skl-chirurgie p.20",
+   "slide_title": "Akutes Abdomen – Therapie und Topographie",
+   "type": "inhalt",
+   "notes_md": "# Akutes Abdomen\n\nSchnellstmögliche Diagnosefindung !!\nSchnelle Entscheidung ob OP oder konservativ!!\n\n## Therapie:\n### Konservativ:\n- Keine Schmerzmittel vor klarer Diagnose - die würde sonst bis zum letalen Ausgang verzögert! Nur auf ärztliche Anordnung!!\n- Nahrungskarenz\n- Infusionstherapie mit Bilanz\n- Magensonde, um eine Atonie festzustellen\n- evtl. Antibiose i.v.\n- Klistiere/Einläufe\n- evtl. Atemgymnastik, Inhalation als Pneumonieprophylaxe\n\n### Operativ: je nach Befundung\n\n## Abbildung: Akutes Abdomen – Topographie (Zuordnung der Erkrankungen zu Bauchregionen RO/LO/RU/LU):\n- Oberbauch mittig: Herzinfarkt, Ulcus duodeni, Ösophagitis/GERD, Ösophagus-/Magenperforation, Zwerchfellhernie\n- Rechter Oberbauch (RO): Cholezystitis/-lithiasis, Ulcus duodeni, Hepatitis, Pyelonephritis, Appendizitis, Kolonperforation, Pankreatitis, Pneumonie/Pleuritis\n- Linker Oberbauch (LO): Ulcus ventriculi, Milzruptur, Kolonperforation, Pankreatitis, Pneumonie/Pleuritis, Pyelonephritis\n- Periumbilikal/Mitte: Mechanischer Ileus, Pankreatitis, Frühe Appendizitis, Divertikulitis, Aortenaneurysma, Mesenteriale Ischämie\n- Rechter Unterbauch (RU): Appendizitis, Coecumperforation, Meckeldivertikulitis, Inkarzerierte Hernie, Psoasabszeß, Salpingitis, Extrauterine Gravidität, Niere/Harnleiterstein, Crohn/CU\n- Linker Unterbauch (LU): Sigmadivertikulitis / Sigmaperforation, Inkarzerierte Hernie, Psoasabszeß, Salpingitis, Extrauterine Gravidität, Niere/Harnleiterstein, Crohn/CU",
+   "figures": [
+    {
+     "caption": "Akutes Abdomen – Topographie",
+     "shows": "Bauchwand-Schema mit Quadranten RO/LO/RU/LU und Zuordnung typischer Erkrankungen je Region (MHH Hannover)",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    12
+   ],
+   "key_facts": [
+    "Keine Schmerzmittel vor klarer Diagnose – nur auf ärztliche Anordnung",
+    "Konservative Therapie: Nahrungskarenz, Infusionstherapie mit Bilanz, Magensonde, evtl. Antibiose i.v., Klistiere, Atemgymnastik als Pneumonieprophylaxe",
+    "Topographie ordnet Erkrankungen den Bauchregionen zu (z.B. Appendizitis rechter Unterbauch, Sigmadivertikulitis linker Unterbauch)"
+   ]
+  },
+  {
+   "gidx": 21,
+   "source": "skl-chirurgie p.21",
+   "slide_title": "Appendizitis – Definition, Ätiologie, Stadien, Symptome, Diagnostik",
+   "type": "inhalt",
+   "notes_md": "# Appendizitis\n\n## Definition:\n- Entzündung des Wurmfortsatzes durch Verschluss des Darmlumens\n\n## Ätiologie:\n### akut:\n- Sekretstau\n- Skyballa/Kotballen bei Obstipation\n- Kotsteine/Fekalome\n- Fremdkörper\n- Adhäsionen von außen durch z.B. Entzündungen benachbarter Darmschlingen\n- Tumore\n### entzündlich:\n- Erregerstreuung, auch physiologische Darmbakterien wie Enterokokken werden pathogen\n- durch Einwanderung von Erregern in die Lymphfollikel des Appendix: z.B. bei Tonsillitis, Scharlach\n\n## 4 Stadien:\n- katarrhalisch/serös: die Schleimhaut betreffend, mildeste Form, kann spontan abklingen\n- phlegmenös: eitrige diffuse Entzündung der Organwand\n- nekrotisierend, gangrös: absterbendes Gewebe\n- abzendierend: eitrige Entzündung\n\n## Symptome:\n- Schmerzen im rechten Unterbauch\n- epigastrische Schmerzen\n- Appetitlosigkeit, Übelkeit,\n- Erbrechen\n- Wind- und Stuhlverhalt\n- Temperaturdifferenz > 0,8° axillar-rektal\n- Fieber\n\n## Diagnostik:\n- Labor:\n  - Leukozytose > 10 000, erhöhtes CRP\n- Sonographie",
+   "figures": [],
+   "eingrenzung_hits": [],
+   "key_facts": [
+    "Definition: Entzündung des Wurmfortsatzes durch Verschluss des Darmlumens",
+    "4 Stadien: katarrhalisch/serös, phlegmenös, nekrotisierend/gangrös, abzendierend",
+    "Temperaturdifferenz > 0,8° axillar-rektal; Leukozytose > 10.000, erhöhtes CRP"
+   ]
+  },
+  {
+   "gidx": 22,
+   "source": "skl-chirurgie p.22",
+   "slide_title": "Appendizitis – Klinische Untersuchung auf schmerzhafte Druckpunkte",
+   "type": "inhalt",
+   "notes_md": "# Appendizitis\n\n## Klinische Untersuchung auf schmerzhafte Druckpunkte:\n- **McBurney-Punkt** (Mitte der Verbindungslinie zwischen Nabel und Spina iliaca anterior superior): Druck- und Loslassschmerz\n- **Blumberg**: Bei Druck auf den linken Unterbauch und raschem Loslassen treten Schmerzen im rechten Unterbauch auf (Loslass- und Kreuzungsschmerz).\n- **Lanz**: Druckschmerz zwischen äußerem und mittlerem Drittel rechts auf der Verbindungslinie zwischen den beiden Spinae anteriores superiores\n- **Rovsing**: Schmerzen im Bereich des Colon ascendens und der Appendix bei retrogradem Ausstreichen des Dickdarms\n- **Douglas-Schmerz**: bei der obligaten rektalen Untersuchung rechts angegeben\n- **Psoaszeichen**: Bei retrozökaler Lage der Appendix verstärkt sich die Druckempfindlichkeit im rechten Unterbauch, wenn der Patient am Bettrand liegt und das rechte Bein heraushängen lässt.\n\n## Abb. 28-23: Druck- (blau) und Schmerzpunkte (rot) zur Diagnose der akuten Appendizitis.\na) McBurney-Punkt. b) Blumberg-Zeichen. c) Lanz-Punkt. d) Rovsing-Zeichen. e) Douglas-Schmerz.",
+   "figures": [
+    {
+     "caption": "Abb. 28-23 Druck- (blau) und Schmerzpunkte (rot) zur Diagnose der akuten Appendizitis",
+     "shows": "Schematische Darstellung der Untersuchungstechniken: a) McBurney-Punkt, b) Blumberg-Zeichen, c) Lanz-Punkt, d) Rovsing-Zeichen, e) Douglas-Schmerz",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [],
+   "key_facts": [
+    "McBurney-Punkt: Mitte der Verbindungslinie Nabel–Spina iliaca anterior superior, Druck- und Loslassschmerz",
+    "Blumberg-Zeichen: Loslassschmerz rechts bei Druck auf linken Unterbauch (Kreuzungsschmerz)",
+    "Weitere Zeichen: Lanz, Rovsing, Douglas-Schmerz (rektale Untersuchung), Psoaszeichen bei retrozökaler Appendix"
+   ]
+  },
+  {
+   "gidx": 23,
+   "source": "skl-chirurgie p.23",
+   "slide_title": "Lagevarianten der Appendix",
+   "type": "inhalt",
+   "notes_md": "# Lagevarianten\n\n## Abb. 28-21 Lagevarianten der Appendix.\n\nBeschriftungen im Bild (Lagevarianten des Zökums/der Appendix am Körperschema):\n- Zökumhochstand\n- Regulär\n- Zökumtiefstand im kleinen Becken\n- In freier Bauchhöhle bei mobilem Zökum, inkompletter Drehung oder linksseitig bei Situs inversus (sehr selten)\n\nUntere Bildreihe (Appendixlage am Zökum):\n- Regulär\n- Parazökal\n- Retrozökal",
+   "figures": [
+    {
+     "caption": "Abb. 28-21 Lagevarianten der Appendix",
+     "shows": "Körperschema mit Zökumhochstand, regulärer Lage, Zökumtiefstand im kleinen Becken, Lage in freier Bauchhöhle/Situs inversus; unten Appendixlagen regulär, parazökal, retrozökal",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [],
+   "key_facts": [
+    "Lagevarianten: Zökumhochstand, regulär, Zökumtiefstand im kleinen Becken, freie Bauchhöhle/Situs inversus (sehr selten)",
+    "Appendixlagen am Zökum: regulär, parazökal, retrozökal"
+   ]
+  },
+  {
+   "gidx": 24,
+   "source": "skl-chirurgie p.24",
+   "slide_title": "Appendizitis – Lagevarianten und weitere Besonderheiten",
+   "type": "inhalt",
+   "notes_md": "# Appendizitis\n\nLagevarianten: 65% retrozökal gelegen; 30% in die freie Bauchhöhle ragend\n\n## weitere Besonderheiten:\n- die Altersappendizitis kann sehr symptomarm sein\n- Meckeldivertikel liegen ca. 30-100 cm vor der Iliozökalklappe und können bei Entzündung, Perforation oder Blutung eine Appendizitis vortäuschen.\n- bei Frauen immer eine extrauterine Schwangerschaft ausschließen\n\n(Abbildung: Abb. 28-21 Lagevarianten der Appendix – wie Folie zuvor: Zökumhochstand, regulär, Zökumtiefstand im kleinen Becken, freie Bauchhöhle/Situs inversus; regulär, parazökal, retrozökal)",
+   "figures": [
+    {
+     "caption": "Abb. 28-21 Lagevarianten der Appendix",
+     "shows": "Körperschema mit Lagevarianten der Appendix (Zökumhochstand, regulär, Zökumtiefstand, freie Bauchhöhle) sowie reguläre, parazökale und retrozökale Appendixlage",
+     "importance": "mid",
+     "extract": false
+    }
+   ],
+   "eingrenzung_hits": [
+    12
+   ],
+   "key_facts": [
+    "65% der Appendixe retrozökal gelegen, 30% in die freie Bauchhöhle ragend",
+    "Altersappendizitis kann sehr symptomarm sein",
+    "Meckeldivertikel 30–100 cm vor der Iliozökalklappe kann Appendizitis vortäuschen",
+    "Bei Frauen immer extrauterine Schwangerschaft ausschließen"
+   ]
+  }
+ ]
+}

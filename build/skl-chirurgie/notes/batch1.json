@@ -1,0 +1,288 @@
+{
+  "batch": "1",
+  "pages": [
+    {
+      "gidx": 1,
+      "source": "skl-chirurgie p.1",
+      "slide_title": "Abszess, Phlegmone, Empyem, Panaritium — Definition und Pathologie",
+      "type": "inhalt",
+      "notes_md": "## Definition:\n\n### Abszess:\n- ist eine abgekapselte Ansammlung von Eiter in einem nicht präformierten, durch Einschmelzung von Zellen neu gebildeten Gewebshohlraum\n\n### Empyem:\n- Erguss von Eiter in eine bestehende Körperhöhle; Gelenkempyem, Pleuraempyem, Gallenblasenempyem\n\n### Phlegmone:\n- diffuse Ausbreitung von Eiter im Bindegewebe und der Weichteile\n\n## Pathologie:\n- Ein Abszess entsteht durch eine entzündliche Gewebseinschmelzung, die in den meisten Fällen durch eine bakterielle Infektion ausgelöst wird. Es kommen jedoch auch abakterielle, so genannte sterile Abszesse vor.\n- Durch die Abstoßung nekrotischen Gewebes kommt es zur Demarkation und damit zur Bildung einer Abszesshöhle. Die Abszesshöhle ist mit Eiter (Pus) gefüllt, der sich im wesentlichen aus abgestorbenen Zellen, Bakterien und neutrophilen Granulozyten zusammensetzt. Sie kann durchgängig oder gekammert (septiert) sein. Der Randbereich des Abszesses besteht aus Granulationsgewebe, in dem zahlreiche Makrophagen und Fibroblasten anzutreffen sind.\n- Abszesse können sich entlang anatomischer Spalträume, den so genannten Logen, weiter ausbreiten und so eine erhebliche Dimension erreichen.\n- Bei längerem Verlauf bildet sich durch die Faserprodukton der Fibroblasten eine so genannte Abszessmembran, die den Abszess bindegewebig gegenüber dem gesunden Gewebe abkapselt. Kommt die Entzündung zum Stillstand, kann der eitrige Inhalt der Abszesshöhle teilweise resorbiert werden oder verkalken. Eine weitere Möglichkeit stellt die Bildung einer Fistel dar, welche die Abszesshöhle mit einer inneren oder äußeren Körperoberfläche verbindet, so dass sich der in der Abszesshöhle befindliche Eiter entleeren kann.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Abszess: abgekapselte Eiteransammlung in einem nicht präformierten, neu gebildeten Gewebshohlraum",
+        "Empyem: Eitererguss in eine bestehende Körperhöhle",
+        "Phlegmone: diffuse Eiterausbreitung im Bindegewebe und den Weichteilen",
+        "Abszesshöhle: Eiter aus abgestorbenen Zellen, Bakterien und neutrophilen Granulozyten; Randbereich aus Granulationsgewebe mit Makrophagen und Fibroblasten",
+        "Abszessmembran: bindegewebige Abkapselung durch Fibroblasten-Faserproduktion; mögliche Verläufe: Resorption, Verkalkung oder Fistelbildung"
+      ]
+    },
+    {
+      "gidx": 2,
+      "source": "skl-chirurgie p.2",
+      "slide_title": "Abszess, Furunkel, Karbunkel, Phlegmone, Empyem, Panaritium — Erreger, Lokalisationen, Therapie",
+      "type": "inhalt",
+      "notes_md": "## Erreger und Lokalisationen:\n- **Typische Erreger von Abszessen sind koagulase-positive Staphylokokken.**\n- Abszesse können in fast allen Organen vorkommen, zum Beispiel in:\n  - Haut bzw. Subkutangewebe: Furunkel, Karbunkel\n  - Leber: Leberabszess\n  - Milz: Milzabszess\n  - Gehirn: Hirnabszess\n  - Lunge: Lungenabszess\n  - Anus: Analabszess\n\n## Therapie:\n- chirurgische Eröffnung des Abszesses (Abszessspaltung)\n- in der Regel wird die Abszesshöhle nach der Eröffnung gespült und ein Drain eingelegt, um einen vorzeitigen Verschluss der Inzision zu verhindern und so den weiteren Sekretabfluss zu ermöglichen\n- das genaue technische Vorgehen ist von der Lokalisation des Abszesses abhängig\n- Ruhigstellung, ggf. Orthese\n- Antibiose\n\n## Sekretabfluss:\n- mittels Redondrainage oder Laschen",
+      "figures": [
+        {
+          "caption": "Redondrainage am Fuß/Unterschenkel",
+          "shows": "Verbundener Fuß mit Drainageschlauch, der in eine Redonflasche (Unterdruck-Sekretflasche) führt",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Drainagelaschen",
+          "shows": "Mehrere gelbe Gummi-/Silikonlaschen zur offenen Wunddrainage",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Intraoperative Abszessspaltung",
+          "shows": "Eröffnete Wundhöhle mit eitrigem Inhalt (Abszess) und eingelegter Drainage",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Hand mit Drainage",
+          "shows": "Handrücken mit genähter Inzision und durchgezogener Drainagelasche",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [3],
+      "key_facts": [
+        "Typische Erreger von Abszessen: koagulase-positive Staphylokokken",
+        "Abszesse in fast allen Organen möglich: Furunkel/Karbunkel (Haut), Leber-, Milz-, Hirn-, Lungen-, Analabszess",
+        "Therapie: chirurgische Eröffnung (Abszessspaltung), Spülung, Drainageeinlage, Ruhigstellung/Orthese, Antibiose",
+        "Sekretabfluss: mittels Redondrainage oder Laschen"
+      ]
+    },
+    {
+      "gidx": 3,
+      "source": "skl-chirurgie p.3",
+      "slide_title": "Furunkel und Karbunkel",
+      "type": "inhalt",
+      "notes_md": "## Furunkel:\n- Ein Furunkel (von lateinisch: furunculus = kleiner Dieb) ist eine tiefe, eitrige Hautentzündung, die sich in einem Haarfollikel bildet und sich in das umliegende Bindegewebe ausbreitet\n\n## Karbunkel:\n- Der Karbunkel (Eiterbeule, Kohlenbeule) ist eine tiefe und in der Regel sehr schmerzhafte Infektion mehrerer benachbarter Haarfollikel oder die Konfluenz mehrerer nebeneinander liegender Furunkel. Haut und Unterhaut sind oft bretthart infiltriert.",
+      "figures": [
+        {
+          "caption": "Hautschichten-Schema: Normal, Pickel, Furunkel mit Abszess, Karbunkel",
+          "shows": "Schematischer Querschnitt der Haut (Haar, Oberhaut/Epidermis, Talgdrüse, Haarwurzel, Lederhaut/Dermis, Haarbalg/Follikel, Unterhaut-Fettgewebe) mit zunehmender Eiterausbreitung vom normalen Follikel über Pickel und Furunkel mit Abszess bis zum Karbunkel",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Foto Furunkel",
+          "shows": "Klinisches Foto einer geröteten, eitrigen Hautentzündung (Furunkel) im Kopfbereich",
+          "importance": "low",
+          "extract": false
+        },
+        {
+          "caption": "Foto Karbunkel",
+          "shows": "Klinisches Foto einer ausgedehnten, schmerzhaften Eiteransammlung (Karbunkel) seitlich am Kopf/Ohrbereich",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Furunkel: tiefe, eitrige Hautentzündung, die sich in einem Haarfollikel bildet und ins umliegende Bindegewebe ausstreut",
+        "Karbunkel: tiefe, sehr schmerzhafte Infektion mehrerer benachbarter Haarfollikel bzw. Konfluenz mehrerer Furunkel; Haut und Unterhaut oft bretthart infiltriert"
+      ]
+    },
+    {
+      "gidx": 4,
+      "source": "skl-chirurgie p.4",
+      "slide_title": "Zustand nach Hammerzehenkorrektur: Wundheilungsstörungen/Phlegmone — Operation nach Hohmann",
+      "type": "inhalt",
+      "notes_md": "## Zustand nach Hammerzehenkorrektur: Wundheilungsstörungen/Phlegmone\n\n## Ablauf der Operation nach Hohmann:\n- Zunächst durchtrennt der Arzt die Strecksehne in Längsrichtung.\n- Nach Freilegung des Gelenkes entfernt er die Seitenbänder beidseits und entnimmt das Köpfchen des Mittelgliedes, wodurch sich der Knochen insgesamt verkürzt.\n- Die Beugesehnen werden dabei besonders geschützt.\n- Eine Sicherung mit einem Draht durch die Haut führt man nur dann durch, wenn eine sehr straffe Fehlstellung vorliegt.\n- Nach der Sehnennaht verschließt der Arzt das Operationsgebiet mit einer Hautnaht.",
+      "figures": [
+        {
+          "caption": "Schema Hammerzehenkorrektur nach Hohmann",
+          "shows": "Zeichnung eines Zehs mit skizziertem Eingriff am Mittelgelenk",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Klinische Bildserie: Wundheilungsstörung/Phlegmone nach Hammerzehenkorrektur",
+          "shows": "Mehrere Fotos von Füßen bzw. Zehen mit postoperativen Wundheilungsstörungen: genähte Wunden, Rötung, Schwellung, Nekrose und Entzündungszeichen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Operation nach Hohmann (Hammerzehenkorrektur): Strecksehne längs durchtrennen, Seitenbänder beidseits entfernen, Köpfchen des Mittelgliedes entnehmen (Knochenverkürzung)",
+        "Beugesehnen werden geschützt; Drahtsicherung nur bei sehr straffer Fehlstellung; Verschluss nach Sehnennaht mit Hautnaht",
+        "Mögliche Folge: Wundheilungsstörungen/Phlegmone"
+      ]
+    },
+    {
+      "gidx": 5,
+      "source": "skl-chirurgie p.5",
+      "slide_title": "Panaritium (Nagelbettentzündung): Ursachen, Symptome, Komplikationen, Formen",
+      "type": "inhalt",
+      "notes_md": "## Panaritium: Nagelbettentzündung\n- Das Panaritium wird am häufigsten durch eine Infektion mit Staphylokokken und Streptokokken, seltener durch eine Infektion mit anderen Bakterien verursacht.\n\n## Symptome:\n- pulsierende Schmerzen im Bereich des Fingers bzw. der Zehe\n- der Finger bzw. die Zehe ist gerötet und geschwollen und ist in seiner Funktion eingeschränkt\n- Fieber, Schüttelfrost sowie ein Anschwellen der benachbarten Lymphknoten wird erst bei einer Ausdehnung der Infektion beobachtet.\n\n## Komplikationen:\n- Nekrose der Sehnenscheiden\n- Phlegmone der Hohlhand oder des Unterarmes\n- Infektion von angrenzenden Gelenken, Kontrakturen und Bewegungseinschränkungen, falls die Entzündung zu einer Verklebung der Sehnen geführt hat.\n\n## Man unterscheidet oberflächliche von tiefen Formen:\n\n### Oberflächliche Formen:\n- **Paronychie:** Hierbei handelt es sich um eine Entzündung des Nagelwalls\n- **Panaritium per- und subunguale:** Diese entwickeln sich aus einer Paronychie. Hierbei ist das gesamte Nagelbett bzw. der gesamte Nagelwall entzündet.\n- **Panaritium subcutaneum:** Bei dieser Form ist das Unterhautgewebe eitrig entzündet.\n- **Panaritium cutaneum:** Diese Form imponiert durch eine Abhebung der Epidermis in Blasen.\n\n### Tiefe Formen:\n- **Panaritium ossale:** Bei dieser Form hat das Panaritium subcutaneum auf den Knochen übergegriffen.\n- **Panaritium tendinosum:** Man spricht von einem Panaritium tendinosum, wenn sich ein Panaritium subcutaneum auf die Sehnen ausgebreitet hat.\n- **Panaritium articulare:** Bei dieser Form ist das Panaritium subcutaneum auf Gelenke übergetreten.",
+      "figures": [
+        {
+          "caption": "Schema der Panaritium-Formen am Finger",
+          "shows": "Schematische Längsschnitte durch Finger/Nagel: a) P. periungualis (Paronychie), b) P. cutaneum, c) P. subcutaneum, d) P. articulare, e) P. ossale — jeweils mit eingezeichneter Eiterlokalisation",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Panaritium: Nagelbettentzündung, häufigste Erreger Staphylokokken und Streptokokken",
+        "Symptome: pulsierende Schmerzen, Rötung, Schwellung, Funktionseinschränkung; Fieber/Schüttelfrost/Lymphknotenschwellung erst bei Ausbreitung",
+        "Komplikationen: Sehnenscheidennekrose, Phlegmone der Hohlhand/des Unterarms, Gelenkinfektion, Kontrakturen",
+        "Oberflächliche Formen: Paronychie, Panaritium per-/subunguale, subcutaneum, cutaneum",
+        "Tiefe Formen: Panaritium ossale (Knochen), tendinosum (Sehnen), articulare (Gelenke)"
+      ]
+    },
+    {
+      "gidx": 6,
+      "source": "skl-chirurgie p.6",
+      "slide_title": "Paronychie, Panaritium cutaneum, Unguis incarnatus",
+      "type": "inhalt",
+      "notes_md": "## Paronychie:\n- Entzündung des Nagelwalls\n\n## Panaritium cutaneum:\n- Entzündung des gesamten Nagelbetts und Nagelwalls mit Blasenbildung der Epidermis\n\n## Unguis incarnatus (eingewachsener Nagel):\nDer Nagel wächst\n- in die seitliche Nagelfalz ein, wodurch schmerzhafte Entzündungen und Granulationsgewebe entstehen können. Betroffen ist meist der Großzehennagel.\n- ursächlich sind häufig zu enge Schuhe oder Rundschneiden der Fußnägel\n- bei erfolgloser konservativer Behandlung besteht die chirurgische Maßnahme in keilförmiger Ausschneidung des entzündeten Gewebes wobei der seitliche Nagelrand mit seiner Nagelmatrix mitentfernt werden. Anschließend erfolgt meist offene Wundbehandlung.",
+      "figures": [
+        {
+          "caption": "Foto Paronychie",
+          "shows": "Fingerzehe mit entzündetem, gerötetem Nagelwall",
+          "importance": "low",
+          "extract": false
+        },
+        {
+          "caption": "Foto Panaritium cutaneum",
+          "shows": "Zehe mit ausgedehnter Nagelbett-/Nagelwallentzündung und blasiger Epidermisabhebung",
+          "importance": "low",
+          "extract": false
+        },
+        {
+          "caption": "Fotos Unguis incarnatus",
+          "shows": "Drei Fotos von Großzehen mit eingewachsenem Nagel: entzündete Nagelfalz, Granulationsgewebe, Zustand nach keilförmiger Ausschneidung",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Paronychie: Entzündung des Nagelwalls",
+        "Panaritium cutaneum: Entzündung des gesamten Nagelbetts und Nagelwalls mit Blasenbildung der Epidermis",
+        "Unguis incarnatus: Nagel wächst in die seitliche Nagelfalz ein; Ursachen: zu enge Schuhe, Rundschneiden der Fußnägel",
+        "Chirurgische Therapie: keilförmige Ausschneidung des entzündeten Gewebes inkl. seitlichem Nagelrand und Nagelmatrix, dann meist offene Wundbehandlung"
+      ]
+    },
+    {
+      "gidx": 7,
+      "source": "skl-chirurgie p.7",
+      "slide_title": "Achillodynie: Anatomie, Definition, Ursachen",
+      "type": "inhalt",
+      "notes_md": "## Achillodynie:\n\n### Die Achillessehne:\n- kräftigste Sehne des menschlichen Körpers\n- verbindet den Calcaneus mit dem M. gastrocnemius\n- Paritendenium und die Bursa subachillea vermindern die Reibung\n  - (Als Peritendineum bezeichnet man das lockere fibröse Bindegewebe, das die Kollagenfasern einer Sehne außen umhüllt. Das Peritendineum bildet das innere Blatt der Sehnenscheiden.)\n- Zehenstand ist nur bei intakter Achillessehne möglich\n\n### Definition:\n- Schmerzen im distalen Drittel der Achillessehne\n- der Schmerz kann sowohl lokalisiert im Sinne einer Insertionstendopathie\n- als auch diffus auftreten\n\n### Ursachen:\n- plötzlicher Belastungswechsel (mit Laufen begonnen)\n- ungeeignete Laufschuhe\n- zu harter Untergrund / Unebenheiten / Gefälle\n- häufiges Tragen hoher Absätze\n- Fußdeformitäten / z. B. Senkfuß\n- instabiles Sprunggelenk / Bandschwäche\n- Übergewicht\n- kleine Faserbündelrisse führen zu Entzündungen\n- metabolische Ursachen wie Hyperlipidämie, Gicht",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Achillessehne: kräftigste Sehne des Körpers, verbindet Calcaneus mit M. gastrocnemius; Zehenstand nur bei intakter Achillessehne möglich",
+        "Peritendineum: lockeres fibröses Bindegewebe, das die Kollagenfasern der Sehne außen umhüllt; bildet das innere Blatt der Sehnenscheiden",
+        "Achillodynie: Schmerzen im distalen Drittel der Achillessehne, lokalisiert (Insertionstendopathie) oder diffus",
+        "Ursachen: Belastungswechsel, ungeeignete Schuhe/Untergrund, hohe Absätze, Fußdeformitäten, Sprunggelenkinstabilität, Übergewicht, Faserbündelrisse, metabolische Ursachen (Hyperlipidämie, Gicht)"
+      ]
+    },
+    {
+      "gidx": 8,
+      "source": "skl-chirurgie p.8",
+      "slide_title": "Achillodynie: Symptome, Diagnostik, konservative Therapie",
+      "type": "inhalt",
+      "notes_md": "## Symptome:\n- Schwellung ca. 2-3 cm über dem Calcaneus-Ansatz\n- Belastungsschmerz bei Dehnung der Achillessehne (Treppen steigen, Laufen); Druckschmerz / Schuhe werden nicht vertragen\n- reaktiv wird der Fuß in Spitzfußstellung gehalten, um die Sehne zu entlasten.\n- bei degenerativen Prozessen besteht ein Dauerschmerz\n- gerötete und überwärmte Haut\n- später auch Verhärtung und Verkürzung der Muskulatur\n- evtl. Krepitation / hörbares Knirschen der Sehne\n\n## Diagnostik:\n- Röntgen, Ultraschall, MRT\n\n## Therapie:\n\n### Konservativ:\n- sportliches Training reduzieren (Aquajogging)\n- Bindegewebsmassage oder Ultraschall lösen Verklebungen\n- extrakorporale Stoßwellentherapie\n- Taping\n- kurzfristige Fersenerhöhung\n- medikamentös: Analgetika, Antiphlogistika, Lokalanästhetika",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Symptome: Schwellung 2-3 cm über dem Calcaneusansatz, Belastungs- und Druckschmerz, reaktive Spitzfußstellung, Dauerschmerz bei Degeneration, gerötete/überwärmte Haut, später Verhärtung und Verkürzung der Muskulatur, evtl. Krepitation",
+        "Diagnostik: Röntgen, Ultraschall, MRT",
+        "Konservative Therapie: Trainingsreduktion (Aquajogging), Bindegewebsmassage/Ultraschall, extrakorporale Stoßwellentherapie, Taping, Fersenerhöhung, Analgetika/Antiphlogistika/Lokalanästhetika"
+      ]
+    },
+    {
+      "gidx": 9,
+      "source": "skl-chirurgie p.9",
+      "slide_title": "Achillodynie: operative Therapie und Differenzialdiagnosen",
+      "type": "inhalt",
+      "notes_md": "## Operativ:\n- Bei einer operativen Achillodynie-Behandlung wird entweder die Sehnenhaut (Peritendineum) gespalten oder es werden Teile des veränderten Gewebes entfernt (Debridement). Die Operation ist als Maßnahme nur sinnvoll, wenn die konservative Therapie über einen langen Zeitraum nicht angeschlagen hat.\n- Debridement: Achillessehnenrevision mit Exzision des betroffenen Bezirkes\n- Ruhigstellung für 4 Wochen in Achillessehnenorthese\n\n## Komplikationen:\n- Achillessehnenruptur\n\n## Schmerzen im Bereich der Achillessehne durch unterschiedliche Krankheitsbilder, oft in Kombination auftretend:\n- **Tendinitis:** entzündlicher Reizzustand der Sehne\n- **Tendinose:** Nekrose, Kalkablagerung, Verknöcherung, Teilruptur der Sehne im Rahmen einer chronischen Tendinitis\n- **Peritendinitis (Peritenonitis):** entzündlicher Reizzustand des Sehnengleitgewebes\n- **Peritendinose:** Verhärtung und Verdickung des Sehnengleitgewebes im Rahmen einer chronischen Tendinitis\n- **Insertionstendopathie:** Sehnenansatzerkrankung durch Schleimbeutelentzündung (Bursitis subachillae und subcutanea), Knochenausziehungen, dorsaler Fersensporn, Nekrose, Teilruptur des Sehnenansatzes im Rahmen einer chronischen Tendinitis",
+      "figures": [
+        {
+          "caption": "Lokalisation der Achillessehnen-Krankheitsbilder",
+          "shows": "Anatomische Zeichnung der Ferse/Achillessehne mit farbiger Markierung der Lokalisationen: Tendinitis (grün), Paratenonitis/Peritendinitis (rot), Bursitis achillaea (blau)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Operative Achillodynie-Behandlung: Spaltung des Peritendineums oder Debridement (Exzision des veränderten Gewebes); nur sinnvoll bei langfristig erfolgloser konservativer Therapie",
+        "Postoperativ: Ruhigstellung für 4 Wochen in Achillessehnenorthese",
+        "Komplikation: Achillessehnenruptur",
+        "Krankheitsbilder im Achillessehnenbereich: Tendinitis, Tendinose, Peritendinitis, Peritendinose, Insertionstendopathie — oft in Kombination"
+      ]
+    },
+    {
+      "gidx": 10,
+      "source": "skl-chirurgie p.10",
+      "slide_title": "Debridement bei Achillodynie (Bildserie)",
+      "type": "inhalt",
+      "notes_md": "## Debridement bei Achillodynie.\n- Das Bild oben zeigt eine massiv verdickte Achillessehne.\n- Die Achillessehne wird längs aufgeschnitten (Zweites Bild von oben)\n- degenerativ und/oder entzündlich veränderte und/oder nekrotische, d.h. abgestorbene Gewebe wird sorgfältig entfernt (drittes Bild von oben)\n- und die Sehne und das Paratenton (Sehnenscheide) wieder verschlossen (Bild unten).",
+      "figures": [
+        {
+          "caption": "Intraoperative Bildserie: Debridement bei Achillodynie",
+          "shows": "Vier intraoperative Fotos in Abfolge: massiv verdickte Achillessehne, Längsaufspaltung der Sehne, Exzision degenerativ/nekrotisch veränderten Gewebes, Verschluss von Sehne und Paratenton",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Debridement bei Achillodynie: massiv verdickte Achillessehne wird längs aufgeschnitten, degenerativ/entzündlich/nekrotisches Gewebe entfernt, Sehne und Paratenton (Sehnenscheide) wieder verschlossen"
+      ]
+    },
+    {
+      "gidx": 11,
+      "source": "skl-chirurgie p.11",
+      "slide_title": "Achillodynie Übungen",
+      "type": "inhalt",
+      "notes_md": "## Achillodynie Übungen:\n- Übungsfolge dargestellt in zwei Skizzen (A und B) mit Fußpositionen auf einer Stufe (Dehnungs-/Kräftigungsübung der Achillessehne am Treppenabsatz) sowie einem Foto der Ferse/Unterschenkel von hinten beim Zehenstand.",
+      "figures": [
+        {
+          "caption": "Übungsskizzen A und B",
+          "shows": "Zwei Strichskizzen einer Achillessehnen-Dehnübung an der Treppe/Stufe mit Bewegungspfeilen (Ferse heben bzw. senken)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Foto Zehenstand von hinten",
+          "shows": "Beide Unterschenkel/Fersen von dorsal im Zehenstand zur Demonstration der Übungsausführung",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Achillodynie-Übungen: Dehnungs-/Kräftigungsübung der Achillessehne an der Stufe (Ferse heben und senken), Zehenstand"
+      ]
+    },
+    {
+      "gidx": 12,
+      "source": "skl-chirurgie p.12",
+      "slide_title": "Achillessehnenruptur: Definition, Epidemiologie, Pathophysiologie, Risikofaktoren",
+      "type": "inhalt",
+      "notes_md": "## Achillessehnenruptur:\n\n### Definition:\n- Die Achillessehnenruptur ist ein Riss (Ruptur) der Achillessehne (Tendo calcanei).\n\n### Epidemiologie:\n- betrifft am häufigsten sportlich aktive Männer im Alter zwischen 30 und 50.\n\n### Pathophysiologie:\n- sie hat von Natur aus eine hohe Reißfestigkeit mit einer Tragkraft von fast einer Tonne\n- eine Ruptur tritt fast ausschließlich infolge einer Vorschädigung durch chronische Überbelastung\n- und/oder degenerative Veränderungen ein\n- durch wiederholte Mikrotraumen wird die Widerstandsfähigkeit des Sehnengewebe herabgesetzt und die Sehne verliert nach und nach ihre Festigkeit\n- auf dem Boden dieser Veränderungen wird die Achillessehnenruptur meist durch ein akutes Trauma mit Über- und Fehlbelastung der Sehne ausgelöst\n\n### Risikofaktoren:\n- Mangelnder Trainingszustand\n- Überanstrengung\n- höheres Lebensalter\n- vorangegangene lokale Glukokortikoidinjektionen\n- Diabetes mellitus\n- familiäre Hypercholesterinämie\n\n### Typischer Patient ist:\n- der so genannte \"Weekend Warrior\", der sich vornehmlich am Wochenende sportlich betätigt und sich dann gerne überlastet",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Achillessehnenruptur: Riss (Ruptur) der Achillessehne (Tendo calcanei)",
+        "Epidemiologie: am häufigsten sportlich aktive Männer zwischen 30 und 50 Jahren",
+        "Ruptur tritt fast ausschließlich bei Vorschädigung durch chronische Überbelastung/degenerative Veränderungen auf (Mikrotraumen mindern Festigkeit); Auslösung meist durch akutes Trauma mit Über-/Fehlbelastung",
+        "Risikofaktoren: mangelnder Trainingszustand, Überanstrengung, höheres Alter, lokale Glukokortikoidinjektionen, Diabetes mellitus, familiäre Hypercholesterinämie",
+        "Typischer Patient: \"Weekend Warrior\""
+      ]
+    }
+  ]
+}

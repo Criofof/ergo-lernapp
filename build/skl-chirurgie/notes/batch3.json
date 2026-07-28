@@ -1,0 +1,192 @@
+{
+  "batch": "3",
+  "pages": [
+    {
+      "gidx": 25,
+      "source": "skl-chirurgie p.25",
+      "slide_title": "Appendizitis – Therapie und Komplikationen",
+      "type": "inhalt",
+      "notes_md": "# Appendizitis\n\n## Therapie:\n\n**Operation: Appendektomie**\n- laparoskopisch oder konventioneller Bauchschnitt/Laparotomie\n\n**absolute Indikation: akute Appendizitis**\n**relative Indikation: chronische Appendizitis**\n\n**Konservativ: stationär**\n- Eisblase\n- Überwachung der Entzündungsparameter\n- Nahrungskarenz\n\n## Komplikationen:\n- Infektionen\n- Douglasabszess\n- Nahtinsuffizienz der Tabakbeutelnaht\n- Blutungen\n- **freie Perforation: Peritonitis mit massiver Abwehrspannung des Bauches**\n- septisch-toxischer Schock\n- gedeckte Perforation: perityphlitischer Abszess/Dünndarmschlingen decken die Perforation ab\n\n(Fußzeile: Krein-Nattrodt)",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Therapie der Appendizitis: Appendektomie (laparoskopisch oder Laparotomie)",
+        "Absolute Indikation: akute Appendizitis; relative Indikation: chronische Appendizitis",
+        "Konservativ stationär: Eisblase, Entzündungsparameter überwachen, Nahrungskarenz",
+        "Komplikationen: Infektionen, Douglasabszess, Nahtinsuffizienz der Tabakbeutelnaht, Blutungen, freie/gedeckte Perforation, septisch-toxischer Schock"
+      ]
+    },
+    {
+      "gidx": 26,
+      "source": "skl-chirurgie p.26",
+      "slide_title": "Appendizitis – Bildmaterial (Sonografie und laparoskopische OP-Bilder)",
+      "type": "inhalt",
+      "notes_md": "# Appendizitis – Bildfolie\n\nReine Bildfolie ohne begleitenden Text:\n- Sonografie der Appendix (Beschriftung im Bild: „APPENDIX“, „ABSZESS?“)\n- Drei intraoperative laparoskopische Aufnahmen der entzündeten Appendix / Appendektomie (u. a. mit Logo „Spital Thurgau“)",
+      "figures": [
+        {
+          "caption": "Sonografie der Appendix",
+          "shows": "Ultraschallbild der Appendix mit Beschriftung „APPENDIX“ und Verdacht „ABSZESS?“",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Laparoskopische OP-Bilder der Appendektomie",
+          "shows": "Drei intraoperative Aufnahmen der entzündeten Appendix und ihrer Resektion",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Sonografisch verdächtig: Appendix mit möglichem Abszess",
+        "Laparoskopische Appendektomie als bildlich dokumentiertes OP-Verfahren"
+      ]
+    },
+    {
+      "gidx": 27,
+      "source": "skl-chirurgie p.27",
+      "slide_title": "Erkrankungen der Hand Teil 1 – Kahnbeinfraktur",
+      "type": "inhalt",
+      "notes_md": "# Arbeitsauftrag - SKL Chirurgie / Ausarbeitung von Valeria Flaum - ETK18B - 05.12.2025\n\n## Erkrankungen der Hand Teil 1\n\n### Kahnbeinfraktur:\n\n**Nennt die Ursache:**\nDie Ursache einer Kahnbeinfraktur ist typischerweise **ein Sturz auf die ausgestreckte, dorsalflektierte Hand. Dabei wirkt die Kraft beim Abfangen des Sturzes direkt auf das Kahnbein**, wodurch es **häufig zu einem Bruch** kommt. Das erklärt auch, warum die Kahnbeinfraktur mit etwa 80 % die **häufigste Fraktur der Handwurzelknochen** ist.\n\n**Welcher Nerv kann geschädigt werden?**\nDer **Nervus medianus**.\n\n**Welche Risiken treten besonders auf?**\n- **Pseudarthroserisiko.**\n- **Nekroserisiko.**\n- **Risiko sehr hoch bei proximaler Fraktur.**\n- **Risiko geringer bei distaler Fraktur und Fraktur im mittleren Drittel.**\n\n**Nennt die 2 wichtigen Symptome:**\n- **Druckschmerz in der Tabatière (Speichengrübchen / Foveola radialis).**\n- **Schmerzhafte Radialabduktion.**\n\n**Erläutert die konservative und operative Therapie:**\n**Konservative Therapie:**\n- 2-3 Wochen Oberarmgips mit Handgelenk sowie Daumeneinschluss bis zum Endgelenk.\n- Danach Ruhigstellung im Unterarmgips bis zur knöchernen Durchbauung.\n- Bei ungestörter Heilung ist die Fraktur knöchern durchbaut:\n  - distales Drittel: nach ca. 6-8 Wochen.\n  - mittleres Drittel nach ca. 8-12 Wochen.\n  - proximales Drittel nach ca. 12-23 Wochen\n\n**Operative Therapie:**\n- bei Dislokation über 1 mm.",
+      "figures": [],
+      "eingrenzung_hits": [4, 11],
+      "key_facts": [
+        "Kahnbeinfraktur: Sturz auf ausgestreckte, dorsalflektierte Hand; ca. 80 % – häufigste Fraktur der Handwurzelknochen",
+        "Gefährdeter Nerv: Nervus medianus",
+        "Hauptrisiken: Pseudarthrose und Nekrose, v. a. bei proximaler Fraktur",
+        "Symptome: Druckschmerz in der Tabatière und schmerzhafte Radialabduktion",
+        "Konservativ: Oberarmgips mit Daumeneinschluss, danach Unterarmgips; Durchbauung je nach Drittel nach 6-23 Wochen",
+        "Operativ bei Dislokation über 1 mm"
+      ]
+    },
+    {
+      "gidx": 28,
+      "source": "skl-chirurgie p.28",
+      "slide_title": "Kahnbeinfraktur – operative Therapie (Forts.) und karpaler Kollaps",
+      "type": "inhalt",
+      "notes_md": "# Kahnbeinfraktur (Fortsetzung) und karpaler Kollaps\n\n- Bei offenen oder Luxationsfrakturen.\n- Fixation mit einer Spezialschraube: Herbert-Schraube.\n- Anschließende Ruhigstellung ca. 4 - 6 Wochen.\n- Danach passive und aktive Bewegungsübungen.\n\nZu den Komplikationen zählt neben der Pseudarthrose und Handgelenksarthrose **der karpale Kollaps**. Was versteht man unter diesem Begriff? Überlegt mal selbst:\nUnter einem karpalen Kollaps versteht man:\n- Das Zusammenbrechen der normalen anatomischen Anordnung der Handwurzelknochen.\n- Verursacht durch Instabilität im Karpus, z. B. infolge einer nicht verheilten Kahnbeinfraktur (Pseudarthrose).\n- Dadurch kommt es zu:\n  - Fehlstellung der Handwurzelknochen.\n  - Verlust der Stabilität und Höhe des Handgelenks.\n  - Eingeschränkter Beweglichkeit und Schmerzen.\n- Der karpale Kollaps ist eine **Vorstufe bzw. Ursache einer Handgelenksarthrose.**",
+      "figures": [],
+      "eingrenzung_hits": [8, 11],
+      "key_facts": [
+        "Operative Versorgung der Kahnbeinfraktur: Fixation mit Herbert-Schraube, Ruhigstellung 4-6 Wochen",
+        "Karpaler Kollaps = Zusammenbrechen der anatomischen Anordnung der Handwurzelknochen durch Karpusinstabilität",
+        "Karpaler Kollaps ist Vorstufe/Ursache einer Handgelenksarthrose"
+      ]
+    },
+    {
+      "gidx": 29,
+      "source": "skl-chirurgie p.29",
+      "slide_title": "Lymphangitis – Definition, Ursachen, lokale Symptome",
+      "type": "inhalt",
+      "notes_md": "# Arbeitsauftrag - SKL Chirurgie / Ausarbeitung von Valeria Flaum - ETK18B - 16.12.2025 - KW51\n\n## Thema: Lymphangitis\n- **Was versteht man darunter?**\nEine Lymphangitis ist eine **Entzündung der Lymphgefäße**. Sie kann **akut** auftreten oder **chronisch** sein. Die akute Form entsteht meist durch das **Eindringen von Erregern in die Lymphbahnen**, die chronische Form durch **obliterierte (verschlossene) Lymphgefäße mit Ausbildung eines Lymphödems**.\n\n- **Nennt die Ursachen und die lokalen Symptome:**\n**Ursachen (Akut):**\n  - Verletzungen.\n  - Insektenstich.\n  - Schlangenbiss.\n  - Lokalinfeektion (z. B. Follikulitis, Abszess).\n  - Paravenöse Injektion zytotoxischer Medikamente.\n\n**Ursachen (Chronisch):**\n  - Durch obliterierte Lymphgefäße und die Ausbildung eines Lymphödems.\n\nDie häufigsten Erreger einer Lymphangitis sind **Staphylokokken und Streptokokken**.\n\n**Lokale Symptome:**\n  - Klinisch auffällig ist ein **roter Streifen**, der vom Sitz der Verletzung nach **zentral fortschreitet**.\n  - Das Erythem kann schwächer oder stärker ausgeprägt sein.\n  - Das Lymphgefäß palpiert sich leicht geschwollen und warm.\n  - Es kann ein **pochender Schmerz** entlang der betroffenen Lymphbahn kann vorliegen.\n  - Ggf. geschwollene Lymphknoten.\n\n## Thema: Femurfrakturen\n- Zählt die 8 Frakturformen auf:",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Lymphangitis = Entzündung der Lymphgefäße, akut oder chronisch",
+        "Häufigste Erreger: Staphylokokken und Streptokokken",
+        "Leitsymptom: roter Streifen, der von der Verletzung nach zentral fortschreitet",
+        "Chronische Form durch obliterierte Lymphgefäße mit Lymphödem"
+      ]
+    },
+    {
+      "gidx": 30,
+      "source": "skl-chirurgie p.30",
+      "slide_title": "Femurfrakturen – 8 Frakturformen und 6 operative Möglichkeiten der Schenkelhalsfraktur",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen (Fortsetzung)\n\n## Die 8 Frakturformen:\n1. **Hüftkopffraktur** (*Bruch des Hüftkopfes, meist durch starke Gewalteinwirkung, z.B. Verkehrsunfall*).\n2. **Mediale Schenkelhalsfraktur** (*Bruch des Oberschenkelhalses gelenknah, innerhalb der Hüftgelenkkapsel*).\n3. **Laterale Schenkelhalsfraktur** (*Bruch des Oberschenkelhalses außerhalb der Gelenkkapsel, weiter vom Hüftkopf entfernt*).\n4. **pertrochantäre Oberschenkelhalsfraktur** (*Fraktur im Bereich der Rollhügel (Trochanter major und minor) des Oberschenkels*).\n5. **Subtrochantäre Oberschenkelhalsfraktur** (*Bruch unterhalb der Trochanteren, Übergang zum Oberschenkelschaft*).\n6. **Oberschenkelschaftfraktur** (*Bruch des mittleren Abschnitts des Oberschenkelknochens*).\n7. **Suprakondyläre Oberschenkelfraktur** (*Fraktur oberhalb der Kniegelenkrollen, im distalen Femur*).\n8. **Kondylenbruch** (*Bruch einer oder beider Kniegelenkrollen (Femurkondylen), meist gelenkbeteiligt*).\n\n## Nennt die 6 operativen Möglichkeiten einer Schenkelhalsfraktur:\n1. **Zugschraubenosteosynthese**: Operative Fixierung des Knochens mit Schrauben, die die Fraktur zusammenziehen und stabilisieren (**Vollbelastung meist nach 6–12 Wochen** möglich).\n2. **Hemiendoprothese (HEP) = Ersatz nur des Hüftkopfes** oder **Totalendoprothese (TEP) = Ersatz von Hüftkopf und Pfanne**. Meistens bei **älteren Patienten**.\n3. **Dynamische Hüftschraube (DHS)**: Gleitfähige Schrauben-Konstruktionsform zur Stabilisierung bei **sehr lateralen Schenkelhalsfrakturen**, erlaubt **kontrolliertes Zusammensintern.**\n4. **Gammanagelung: Intramedullärer Nagel** im Oberschenkelknochen zur Stabilisierung proximaler Femurfrakturen, besonders bei **instabilen Frakturen**.\n5. **Marknagelung nach Ender bei Kindern**: **Elastische Marknagelung** zur Frakturstabilisierung, vor allem bei **Kindern** eingesetzt.\n6. **DHS: Die Schraube kann unter Druck gleiten** und ermöglicht eine **zusätzliche Kompression der Fragmente**: Bei stabiler Fraktur sofortige **Vollbelastung**, bei instabiler Fraktur **6 Wochen Teilbelastung (20 kg)**.",
+      "figures": [],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "8 Femurfrakturformen: Hüftkopf-, mediale/laterale Schenkelhals-, pertrochantäre, subtrochantäre, Schaft-, suprakondyläre Fraktur, Kondylenbruch",
+        "Operative Verfahren der Schenkelhalsfraktur: Zugschraubenosteosynthese, HEP/TEP, DHS, Gammanagelung, Ender-Nagelung (Kinder)",
+        "DHS erlaubt kontrolliertes Zusammensintern und Kompression der Fragmente"
+      ]
+    },
+    {
+      "gidx": 31,
+      "source": "skl-chirurgie p.31",
+      "slide_title": "Oberschenkelschaftfraktur – 6 Frakturformen, Fettembolie, 2 operative Techniken",
+      "type": "inhalt",
+      "notes_md": "# Oberschenkelschaftfraktur\n\n- **Nennt die 6 möglichen Frakturformen einer Oberschenkelschaftfraktur und welche Embolie als Komplikation auftreten kann und 2 operative Techniken:**\n\n**Frakturformen:**\n1. **Querfraktur** (*Bruchlinie verläuft quer zur Längsachse des Knochens*).\n2. **Schrägfraktur** (*Bruchlinie verläuft schräg zur Knochenlängsachse*).\n3. **Biegungsfraktur** (*Entsteht durch Biegekraft, oft mit einer Zug- und Druckseite*).\n4. **Spiralfraktur** (*Schraubenförmiger Bruch durch Dreh- bzw. Torsionskräfte*).\n5. **Mehrfragmentfraktur** (*Knochen ist in mehr als zwei Fragmente gebrochen*).\n6. **Trümmerfraktur** (*Starke Zertrümmerung des Knochens in viele kleine Fragmente, meist durch hohe Gewalteinwirkung*).\n\n**Komplikation:**\n**Fettembolien:** Bei einer Oberschenkelschaftfraktur kann Fett aus dem Knochenmark in die Blutbahn gelangen. Diese Fetttröpfchen verstopfen kleine Blutgefäße, vor allem in Lunge, Gehirn und Haut.\n\n**Typische Folgen:**\n  - Atemnot und Sauerstoffmangel.\n  - Verwirrtheit oder Bewusstseinsstörungen.\n  - Hautblutungen (Petechien).\n\nDie Fettembolie tritt meist **24 - 72 Stunden nach der Fraktur** auf und ist eine ernste, potenziell lebensbedrohliche Komplikation.\n\n**2 operative Techniken:**\n1. **Marknagelung:** Ein **Metallnagel** wird in den **Markraum des Oberschenkelknochens** eingebracht und **stabilisiert die Fraktur von innen**. Das ermöglicht eine **frühe Mobilisation**, meist eine **Teilbelastung von 30–40 kg für 4–6 Wochen**.\n2. **Plattenosteosynthese**: Die Fraktur wird von **außen** mit einer **Metallplatte und Schrauben** fixiert. Das ist stabil, aber **weniger belastbar** als der Marknagel, daher **Teilbelastung mit ca. 20 kg für etwa 6 Wochen**.",
+      "figures": [],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "6 Frakturformen der Oberschenkelschaftfraktur: Quer-, Schräg-, Biegungs-, Spiral-, Mehrfragment-, Trümmerfraktur",
+        "Komplikation: Fettembolie (24-72 h nach Fraktur) mit Atemnot, Bewusstseinsstörungen, Petechien",
+        "Operativ: Marknagelung (Teilbelastung 30-40 kg, 4-6 Wochen) oder Plattenosteosynthese (Teilbelastung ca. 20 kg, 6 Wochen)"
+      ]
+    },
+    {
+      "gidx": 32,
+      "source": "skl-chirurgie p.32",
+      "slide_title": "Begleitverletzungen bei distaler Femurfraktur; Kreuzbandrupturen; Gingway-Syndrom",
+      "type": "inhalt",
+      "notes_md": "# Begleitverletzungen und Kreuzbandrupturen\n\n- **Nennt die Begleitverletzungen bei distaler Fraktur:**\n  - **Patella- und Tibiakopffraktur** (*Mitverletzung der Kniescheibe oder des Tibiakopfes, meist durch direkte Krafteinwirkung auf das Knie*).\n  - **Bandverletzungen des Kniegelenks** (*Verletzungen von Kreuz- oder Seitenbändern durch Instabilität und Verdrehung im Unfallmechanismus*).\n  - **Meniskusverletzungen** (*Risse der Menisken durch Rotations- oder Stauchungsbelastung des Kniegelenks*).\n  - **Gefäß- und Nervenverletzungen** (*Schädigung von Blutgefäßen oder Nerven im Kniebereich mit Gefahr von Durchblutungs- oder Sensibilitätsstörungen*).\n  - **evtl. Acetabulumfraktur, Schenkelhals- und Femurfrakturen (als Kettenverletzung)** (*Mehrere Frakturen entlang der Kraftübertragungskette der unteren Extremität bei Hochenergie-Trauma*).\n\n## Thema: Kreuzbandrupturen\n- **Nennt die Ursachen für die Ruptur des vorderen Kreuzbands:**\n  - **Hyperextension** (*Überstreckung des Kniegelenks → vorderes Kreuzband wird überdehnt und reißt*).\n  - **Forcierte Quadrizepskontraktion bei gebeugtem Kniegelenk** (*Starker Zug des Quadrizeps schiebt die Tibia nach vorne → Überlastung des vorderen Kreuzbands*).\n  - **Valgusrotationsstress** (*Kombination aus X-Stellung (Valgus) und Drehbewegung → typische Sportverletzung des vorderen Kreuzbands*).\n  - **Hyperflexion** (*Extremes Beugen des Knies → übermäßige Spannung auf das vordere Kreuzband*).\n  - **Reine Varusbelastung** (*O-Stellung des Knies → indirekte Überlastung des vorderen Kreuzbands*).\n  - **Reine Valgusbelastung** (*X-Stellung des Knies → häufige Begleitbelastung bei Kreuzbandriss*).\n  - **In 75% der Fälle sind weitere Kniebinnenverletzungen vorhanden** (*z.B. Meniskus- oder Bandverletzungen*).\n\n- **Was versteht man unter dem Gingway- Syndrom?**\n**Instabilitätsgefühl (Gingway-Syndrom):**\nDer Unterschenkel **gleitet beim Gehen oder Bewegen plötzlich weg**, was ein Gefühl von Instabilität im Knie verursacht.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Begleitverletzungen bei distaler Femurfraktur: Patella-/Tibiakopffraktur, Band-, Meniskus-, Gefäß-/Nervenverletzungen, Kettenverletzungen",
+        "Ursachen VKB-Ruptur: Hyperextension, forcierte Quadrizepskontraktion, Valgusrotationsstress, Hyperflexion, Varus-/Valgusbelastung",
+        "In 75 % der Fälle weitere Kniebinnenverletzungen",
+        "Gingway-Syndrom: Unterschenkel gleitet beim Gehen/Bewegen plötzlich weg (Instabilitätsgefühl)"
+      ]
+    },
+    {
+      "gidx": 33,
+      "source": "skl-chirurgie p.33",
+      "slide_title": "Autologe Ligamente für Kreuzbandersatz; Meniskusläsionen – Ursachen",
+      "type": "inhalt",
+      "notes_md": "# Kreuzbandersatz und Meniskusläsionen\n\n- **Nennt die 3 autologen Ligamente, die als Ersatz bei beiden Kreuzbandrupturen operativ eingebracht werden können:**\n1. **Lig. semitendinosus** (*Lange Sehne an der Rückseite des Oberschenkels, biegsam und kräftig, gut als Transplantat geeignet*).\n2. **Lig. gracilis** (*Sehne am inneren Oberschenkel, dünn und elastisch, häufig kombiniert mit semitendinosus*).\n3. **Lig. semimembranosus** (*Breite Sehne der Oberschenkelrückseite, stabil, kann ebenfalls für Kreuzbandersatz verwendet werden*).\n\n## Thema: Meniskusläsionen\n- **Warum ist der mediale Meniskus häufiger betroffen als der laterale?**\nDer **mediale Meniskus** ist **3 mal häufiger betroffen** als der laterale, weil er mit dem **Lig. collaterale mediale verwachsen** ist und dadurch eine **geringere Flexibilität** besitzt. Außerdem haben seine **Hörner eine ungleiche Beschaffenheit** – das **Hinterhorn ist breiter** und er hat eine **C-Form** – was seine **Belastbarkeit vermindert**.\n\n- **Nennt die Ursachen und die Rissformen/ blaue Folie**\n\n**Ursachen:**\n  - **Indirekte Gewalteinwirkung durch plötzliche Drehbewegung im gebeugtem Knie** (*Drehung des Knies unter Belastung → Meniskus wird eingeklemmt oder gerissen*).\n  - **Stoßverletzung von lateral bei feststehendem Unterschenkel** (*Seitlicher Aufprall auf das Knie → Meniskus wird gequetscht*).\n  - **Abrupte Streckung** (*Plötzliches Durchstrecken des Knies → Meniskus wird überdehnt oder verletzt*).\n  - **Arbeiten in jahrelanger Hockstellung** (*Dauerhafte Belastung im Knie → Verschleiß des Meniskus*).\n  - **Sportliche Dauerbelastung / Fußballspielen** (*Wiederholte Dreh- und Stoßbewegungen → Meniskus kann reißen oder degenerieren*).\n  - **Varusstress, Valgusstress** (*Belastung in X- oder O-Beinstellung → ungleichmäßige Druckverteilung auf Meniskus*).\n  - **Chronisch-degenerativ** (*Alters- oder verschleißbedingte Abnutzung → Meniskus wird brüchig und reißanfällig*).\n\n**Rissformen:**",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Autologe Kreuzbandersatz-Ligamente: Lig. semitendinosus, Lig. gracilis, Lig. semimembranosus",
+        "Medialer Meniskus 3-mal häufiger betroffen: verwachsen mit Lig. collaterale mediale, geringere Flexibilität, breiteres Hinterhorn, C-Form",
+        "Ursachen der Meniskusläsion: Drehung im gebeugten Knie, laterale Stoßverletzung, abrupte Streckung, Hockstellung, Sportbelastung, Varus-/Valgusstress, chronisch-degenerativ"
+      ]
+    },
+    {
+      "gidx": 34,
+      "source": "skl-chirurgie p.34",
+      "slide_title": "Meniskus-Rissformen; Kompartmentsyndrom; Pneumothorax – Definition",
+      "type": "inhalt",
+      "notes_md": "# Meniskus-Rissformen, Kompartmentsyndrom, Pneumothorax\n\n## Rissformen (Meniskus):\n  - **Ablösung der Meniskusbasis am Kapselrand** (*Basisnaher Riss*).\n  - **Längsriss im Meniskuskörper ohne Dislokation** (*Horizontalriss*).\n  - **Längsriss mit Dislokation** (*Korbhenkelriss*).\n  - **Querriss im Vorderhorn** (*Radiärriss*).\n  - **Lappenriss im Hinterhorn** (*Lappenriss*).\n\n## Thema: Kompartmentsyndrom\n- **Was versteht man unter diesem Syndrom und welche operative Maßnahme muss dringlich erfolgen?**\n**Das KompartmentSyndrom** beschreibt einen Zustand:\n  - In dem, bei geschlossenem Weichteilmantel und Faszien ein erhöhter **Gewebedruck** zu einer **verminderten Gewebeperfusion** führt.\n  - Mit **fortschreitender Zeit** resultieren hieraus zunehmende **Gewebe-, Muskel- oder Organschäden** sowie **neuromuskuläre Schäden.**\n  - Am häufigsten sind der **Unterarm** und der **Unterschenkel** vom Kompartmentsyndrom betroffen.\n  - **Therapie: Faszienspaltung** innerhalb der **ersten 4-6 Stunden**.\n\n**Beim Unterschenkel manifestiert sich dieses:**\n  - Am häufigsten im **Bereich der Tibialis-anterior-Loge**, weshalb es auch **Tibialis-anterior-Syndrom** genannt wird. Ferner ist ein **abdominelles Kompartmentsyndrom** bekannt.\n  - **Therapeutisch von großer Bedeutung** ist:\nEine **frühe Faszienspaltung (Fasziotomie) innerhalb der ersten sechs Stunden** nach **Manifestation**, um **schwerwiegende Nekrosen** abzuwenden.\n\n**Operative Maßnahme:**\n**Wiederherstellung der Perfusion durch Entlastung** mittels **konsequenter Gewebe- und Faszienspaltung (Dermatofasziotomie) innerhalb der ersten sechs Stunden** mit anschließend **offener Wundbehandlung**.\n\n## Thema: Pneumothorax\n- **Was versteht man darunter?**\n**Pneumothorax** ist das **Eintreten** von **Luft** in den **Pleuraspalt** zwischen **Pleura visceralis** und **parietalis**, wodurch der **negative Druck** aufgehoben wird und die Lunge auf der betroffenen Seite **teilweise** oder **vollständig kollabiert**.\n\n- **Erläutert die Formen:**",
+      "figures": [],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Meniskus-Rissformen: basisnaher Riss, Horizontalriss, Korbhenkelriss, Radiärriss, Lappenriss",
+        "Kompartmentsyndrom: erhöhter Gewebedruck bei geschlossenem Weichteilmantel → verminderte Gewebeperfusion; Therapie: Faszienspaltung innerhalb der ersten 4-6 Stunden",
+        "Am Unterschenkel meist Tibialis-anterior-Loge (Tibialis-anterior-Syndrom); Dermatofasziotomie mit offener Wundbehandlung",
+        "Pneumothorax = Luft im Pleuraspalt zwischen Pleura visceralis und parietalis, negativer Druck aufgehoben, Lunge kollabiert teilweise oder vollständig"
+      ]
+    },
+    {
+      "gidx": 35,
+      "source": "skl-chirurgie p.35",
+      "slide_title": "Pneumothorax – 6 Formen und Therapie; Schnellender Finger",
+      "type": "inhalt",
+      "notes_md": "# Pneumothorax – Formen und Therapie; Schnellender Finger\n\n## Formen des Pneumothorax:\n  - **Innerer Pneumothorax:** Lufteintritt aus der Lunge durch die Pleura visceralis, geschlossen.\n  - **Äußerer Pneumothorax:** Lufteintritt durch die Brustwand und die Pleura parietalis, offen.\n  - **Partieller Pneumothorax:** Teilweiser Kollaps der Lunge.\n  - **Totaler Pneumothorax:** Vollständiger Kollaps des Lungenflügels.\n  - **Bilateraler Pneumothorax:** Doppelseitiger Pneumothorax.\n  - **Spontanpneumothorax:** Spontaner Riss einzelner Alveolen.\n\n- **Nennt die Therapie bei einem ausgedehnten Pneumothorax:**\n  - **Thoraxdrainage/Bülau-Drainage:** Ein **Schlauch** wird in den **Pleuraspalt** eingelegt, um die **eingedrungene Luft abzusaugen**, sodass der **negative Druck wiederhergestellt** wird und die Lunge sich wieder entfalten kann.\n  - **Bei Rezidiv (wiederholtem Pneumothorax)**: Wird der blasenbefallene Teil der Lunge **entfernt (Resektion)**, um erneutes Zusammenfallen der Lunge zu verhindern.\n\n## Thema: Schnellender Finger und Überbein\n- **Nennt die Definition und die Klinik des schnellenden Fingers:**\n\n**Definition:**\n  - **Gestörter Gleitvorgang** einer **Fingerbeugesehne.**\n  - Die Beugesehne ist auf **Höhe des Grundgelenks knötchenartig verdickt.**\n  - Kann beim **Durchlauf** nicht mehr **unbehindert** durch die **Ringbänder A1** gleiten.\n  - **Betroffen** sind die am **meisten belasteten Finger**, also **Mittelfinger** und **Daumen („schnellender Daumen“)**, aber auch der **Ringfinger**.\n\n**Klinik:**\n  - Bei **Beugung schmerzhafte Bewegungssperre.**\n  - Wird der **betroffene Finger gebeugt, bleibt** er zunächst in der **gebeugten Stellung** hängen und kann nur mit **vermehrter Kraft** oder mit **Hilfe der anderen Hand** wieder **gestreckt** werden.\n  - Der betroffene Finger kann dadurch **oft nur noch ruckartig gebeugt oder gestreckt** werden (**Schnapp-Phänomen**).\n  - **Später** ist nur noch eine **passive Beweglichkeit** möglich.",
+      "figures": [],
+      "eingrenzung_hits": [2, 3],
+      "key_facts": [
+        "6 Pneumothorax-Formen: innerer, äußerer, partieller, totaler, bilateraler, Spontanpneumothorax",
+        "Therapie ausgedehnter Pneumothorax: Thoraxdrainage/Bülau-Drainage; bei Rezidiv Resektion des blasenbefallenen Lungenteils",
+        "Schnellender Finger: gestörter Gleitvorgang der Fingerbeugesehne, knötchenartige Verdickung auf Höhe des Grundgelenks, behindert am Ringband A1",
+        "Klinik: schmerzhafte Bewegungssperre, Schnapp-Phänomen, später nur passive Beweglichkeit"
+      ]
+    },
+    {
+      "gidx": 36,
+      "source": "skl-chirurgie p.36",
+      "slide_title": "Ganglion (Überbein) – Definition",
+      "type": "inhalt",
+      "notes_md": "# Ganglion\n\n- **Nennt die Definition eines Ganglions (Merke: kann als Sehnenscheiden oder auch als Gelenkskapselganglion vorliegen):**\nEin **Ganglion** ist eine **gutartige Geschwulstbildung (Zyste)** im Bereich einer **Gelenkkapsel oder** einer **Sehnenscheide**, die **prall-elastisch** ist, einen **gallertartigen Kern besitzt** und oft **durch einen Gang mit dem Gelenk verbunden sein kann**.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Ganglion = gutartige Geschwulstbildung (Zyste) an Gelenkkapsel oder Sehnenscheide",
+        "Prall-elastisch, gallertartiger Kern, oft durch einen Gang mit dem Gelenk verbunden"
+      ]
+    }
+  ]
+}

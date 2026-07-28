@@ -1,0 +1,243 @@
+{
+  "batch": "10",
+  "pages": [
+    {
+      "gidx": 109,
+      "source": "skl-chirurgie p.109",
+      "slide_title": "Femurfrakturen – DHS und Gammanagelung",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\nRöntgenbilder zweier Osteosyntheseverfahren am proximalen Femur:\n\n- **DHS** (Dynamische Hüftschraube)\n- **Gammanagelung**",
+      "figures": [
+        {
+          "caption": "DHS",
+          "shows": "Röntgenbild einer dynamischen Hüftschraube (DHS) am proximalen Femur mit Seitenplatte und Schrauben",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Gammanagelung",
+          "shows": "Röntgenbild einer Gammanagelung (Marknagel mit proximaler Hüftschraube und distaler Verriegelung) am proximalen Femur",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "DHS (dynamische Hüftschraube) und Gammanagelung sind Osteosyntheseverfahren am proximalen Femur"
+      ]
+    },
+    {
+      "gidx": 110,
+      "source": "skl-chirurgie p.110",
+      "slide_title": "Femurfrakturen – Mediale und laterale Schenkelhalsfraktur",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\nRöntgenbilder zweier Schenkelhalsfraktur-Formen:\n\n- **Mediale Schenkelhalsfraktur**\n- **Laterale Schenkelhalsfraktur**",
+      "figures": [
+        {
+          "caption": "Mediale Schenkelhalsfraktur",
+          "shows": "Röntgenbild einer medialen Schenkelhalsfraktur",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Laterale Schenkelhalsfraktur",
+          "shows": "Röntgenbild einer lateralen Schenkelhalsfraktur",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Unterscheidung der Schenkelhalsfraktur in mediale und laterale Form"
+      ]
+    },
+    {
+      "gidx": 111,
+      "source": "skl-chirurgie p.111",
+      "slide_title": "Femurfrakturen – Pertrochantäre Frakturen",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\n## Pertrochantäre Frakturen\n\nUnter einer pertrochantären Fraktur versteht man eine Fraktur zwischen dem Trochanter major und dem Trochanter minor.\n\n### Ätiopathogenese\n- betrifft vor allem ältere Menschen\n- entsteht in der Regel durch einen Sturz auf die Hüfte\n- nach ausgeprägter Krafteinwirkung (z.B. im Rahmen eines Verkehrsunfalls) wird sie auch bei jüngeren Menschen beobachtet\n\n### AO-Klassifikation\nNach der AO-Klassifikation erfolgt die Einteilung in die Typen A1 bis A3.\n- **A1:** einfache Fraktur der medialen Kortikalis bei intakter lateraler Kortikalis\n- **A2:** mehrfache Fraktur der medialen Kortikalis bei intakter lateraler Kortikalis\n- **A3:** Fraktur der medialen und lateralen Kortikalis\n\n### Klinik\n- führt zu starken Schmerzen, so dass das Bein in der Regel nicht mehr bewegt werden kann\n- bei dislozierter Fraktur kann häufig eine Verkürzung des Beines und/oder eine Außenrotation beobachtet werden. Diese sind jedoch in der Regel nicht so gut zu erkennen wie bei einer Schenkelhalsfraktur.\n\n### Operative Therapie\n- DHS\n- Gammanagelung\n- **Marknagelung nach Ender bei Kindern** (3-4 dünne, federnde Nägel, von distal medial in den Markraum des Femurs eingeschlagen, die sich dann am proximalen Ende auffächern)\n- TEP bei älteren Menschen",
+      "figures": [
+        {
+          "caption": "Röntgenbild (Ausschnitt rechts unten)",
+          "shows": "Röntgenbild eines Femurs mit eingebrachten Marknägeln (Marknagelung nach Ender)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Pertrochantäre Fraktur = Fraktur zwischen Trochanter major und Trochanter minor",
+        "AO-Klassifikation A1 bis A3 nach Beteiligung der medialen/lateralen Kortikalis",
+        "Operative Therapie: DHS, Gammanagelung, Marknagelung nach Ender (Kinder), TEP (ältere Menschen)",
+        "Klinik: starke Schmerzen, bei Dislokation Beinverkürzung und Außenrotation"
+      ]
+    },
+    {
+      "gidx": 112,
+      "source": "skl-chirurgie p.112",
+      "slide_title": "Femurfrakturen – Röntgenbild Marknagelung",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\nRöntgenbild (links, Seite L) eines Femurschafts mit mehreren eingebrachten dünnen, federnden Marknägeln (Marknagelung nach Ender).",
+      "figures": [
+        {
+          "caption": "Röntgenbild Femur mit Marknägeln",
+          "shows": "Röntgenbild des linken Femurs mit mehreren im Markraum eingebrachten federnden Nägeln (Marknagelung nach Ender)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Marknagelung nach Ender: mehrere dünne, federnde Nägel im Markraum des Femurs"
+      ]
+    },
+    {
+      "gidx": 113,
+      "source": "skl-chirurgie p.113",
+      "slide_title": "Femurfrakturen – Oberschenkelschaftfraktur",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\n## Oberschenkelschaftfraktur\n\n### Ursachen\n- große Krafteinwirkung durch Biegung, Drehung, Stauchung\n- häufig bei Motorradverletzungen\n- selten offene Weichteilverletzung wegen des großen Weichteilmantels\n\n### Einteilung nach Frakturformen\n- Querfraktur\n- Schrägfraktur\n- Biegungsfraktur\n- Spiralfraktur\n- Mehrfragmentfraktur\n- Trümmerfraktur\n\n### Symptome\n- Beinverkürzung\n- heftige Schmerzen\n\n### Dislokation durch Zug am proximalen Fragment\n- Flexion im Hüftgelenk (M. iliopsoas)\n- Adduktion im Hüftgelenk (Adduktorengruppe)\n\n### Dislokation am distalen Fragment\n- Zug nach dorsal (M. gastrocnemius)\n\n### Komplikationen\n- hoher Blutverlust (bis zu 3 l)\n- Fettembolien\n\n### Diagnostik\n- Röntgen in 2 Ebenen",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Oberschenkelschaftfraktur: große Krafteinwirkung, häufig Motorradverletzungen",
+        "Dislokation proximal: Flexion (M. iliopsoas) und Adduktion (Adduktorengruppe); distal: Zug nach dorsal (M. gastrocnemius)",
+        "Komplikationen: Blutverlust bis 3 l, Fettembolien",
+        "Diagnostik: Röntgen in 2 Ebenen"
+      ]
+    },
+    {
+      "gidx": 114,
+      "source": "skl-chirurgie p.114",
+      "slide_title": "Femurfrakturen – Operative Therapie der Oberschenkelschaftfraktur",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\n## Operative Therapie (Oberschenkelschaftfraktur)\n- **Marknagelung:** Teilbelastung mit 30-40 kg für 4-6 Wochen\n- **Plattenosteosynthese:** Teilbelastung mit 20 kg über 6 Wochen\n- **Fixateur externe** bei offenen Frakturen oder ausgedehnten Weichteilschäden\n\n**Nachbehandlung:** Lagerung in Schaumstoffschiene, zunehmende Mobilisierung\n\n## Postoperative Komplikationen\n- Nervenverletzung\n- Gefäßverletzung\n- Frakturheilungsstörungen\n- Rotationsfehlstellung\n- Längenfehlstellungen",
+      "figures": [
+        {
+          "caption": "Röntgenbilder a und b",
+          "shows": "Röntgenbilder einer Oberschenkelschaftfraktur (a.p. und seitlich) mit Frakturlinie am Femurschaft",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Marknagelung: Teilbelastung 30-40 kg für 4-6 Wochen",
+        "Plattenosteosynthese: Teilbelastung 20 kg über 6 Wochen",
+        "Fixateur externe bei offenen Frakturen oder ausgedehnten Weichteilschäden",
+        "Postoperative Komplikationen: Nerven-/Gefäßverletzung, Frakturheilungsstörungen, Rotations- und Längenfehlstellungen"
+      ]
+    },
+    {
+      "gidx": 115,
+      "source": "skl-chirurgie p.115",
+      "slide_title": "Femurfrakturen – Distale Femurfrakturen: Supra- und perkondyläre Frakturen",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\n## Distale Femurfrakturen: Supra- und perkondyläre Frakturen\n\n### Ursachen\n- Sturz aus hoher Höhe\n- Dashboard-Injury (Anpralltrauma am Armaturenbrett)\n- hochenergetische Gewalteinwirkung/Polytrauma\n- bei älteren Patienten: banaler Sturz bei Osteoporose\n\n### Klassifikation nach AO\n- **Typ A:** Fraktur oberhalb der Kondylen, Kniegelenk ist nicht betroffen\n- **Typ B:** Fraktur durch einen Kondylus (Condylus lateralis oder medialis), Gelenkfraktur\n- **Typ C:** Fraktur durch beide Kondylen, Gelenkfraktur\n\n### Symptome\n- Bewegungs- und Druckschmerz\n- Dislokation der Fragmente, Achsenabweichung\n- bei Gelenkfrakturen: Hämarthros\n- verstrichene Kniestruktur\n\n### Begleitverletzungen\n- Patella- und Tibiakopffraktur\n- Bandverletzungen des Kniegelenks\n- Meniskusverletzungen\n- Gefäß- und Nervenverletzungen\n- evtl. Acetabulumfraktur, Schenkelhals- und Femurfrakturen (als Kettenverletzung)",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "AO-Klassifikation distaler Femurfrakturen: Typ A extraartikulär, Typ B durch einen Kondylus, Typ C durch beide Kondylen",
+        "Typische Ursache: Dashboard-Injury (Anpralltrauma am Armaturenbrett)",
+        "Begleitverletzungen: Patella-/Tibiakopffraktur, Band- und Meniskusverletzungen, Gefäß-/Nervenverletzungen, Kettenverletzungen"
+      ]
+    },
+    {
+      "gidx": 116,
+      "source": "skl-chirurgie p.116",
+      "slide_title": "Femurfrakturen – Diagnostik und Therapie distaler Femurfrakturen",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\n## Diagnostik (distale Femurfrakturen)\n- Röntgen\n- MRT, CT\n- ggf. Angiographie und Dopplersonographie\n- neurologische Untersuchung\n\n## Therapie\nmeist operativ:\n- Kondylenplatte\n- Schrauben und Kirschnerdrähte\n- evtl. Spongiosaplastik zum Auffüllen von Trümmerfrakturen\n- bei Polytrauma temporäre Stabilisierung mit kniegelenksübergreifendem Fixateur externe für 1-2 Wochen\n\n## Postoperativ\n- Lagerung auf einer Schaumstoffschiene\n- später Therapie mit Motorschiene\n- Teilbelastung ab 2.-3. Tag\n- Vollbelastung bei Typ A und B: nach 6-8 Wochen\n- Vollbelastung bei Typ C: nach 12-16 Wochen\n\n**Kondylenplatte:** (Abbildung)",
+      "figures": [
+        {
+          "caption": "Kondylenplatte",
+          "shows": "Foto zweier distaler Femurmodelle mit eingebrachter Kondylenplatte und Schrauben",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Therapie distaler Femurfrakturen meist operativ: Kondylenplatte, Schrauben und Kirschnerdrähte",
+        "Spongiosaplastik zum Auffüllen von Trümmerfrakturen",
+        "Vollbelastung: Typ A/B nach 6-8 Wochen, Typ C nach 12-16 Wochen",
+        "Bei Polytrauma temporärer kniegelenksübergreifender Fixateur externe für 1-2 Wochen"
+      ]
+    },
+    {
+      "gidx": 117,
+      "source": "skl-chirurgie p.117",
+      "slide_title": "Femurfrakturen – Komplikationen",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\n## Komplikationen (distaler Femurfrakturen)\n- posttraumatische Arthrose\n- Achsenfehlstellung\n- Schrumpfung der Gelenkkapsel\n- Verklebungen mit bleibenden Bewegungseinschränkungen des Kniegelenks\n- Gelenkstufen\n- Pseudarthrose",
+      "figures": [],
+      "eingrenzung_hits": [4, 11],
+      "key_facts": [
+        "Komplikationen distaler Femurfrakturen: posttraumatische Arthrose, Achsenfehlstellung, Kapselschrumpfung, Verklebungen, Gelenkstufen, Pseudarthrose"
+      ]
+    },
+    {
+      "gidx": 118,
+      "source": "skl-chirurgie p.118",
+      "slide_title": "Femurkondylenfraktur (Abb. 2.29)",
+      "type": "inhalt",
+      "notes_md": "# Femurfrakturen\n\n**Abb. 2.29 Femurkondylenfraktur.**\n\n- **a** Klassifikation (Zeichnungen):\n  - extraartikulär\n  - intraartikulär\n  - intraartikuläre Mehrfragmentfraktur\n- **b** Röntgenbild vor Osteosynthese\n- **c** Röntgenbild nach Osteosynthese mit Platte mit winkelstabilen Schrauben",
+      "figures": [
+        {
+          "caption": "Abb. 2.29a Klassifikation der Femurkondylenfraktur",
+          "shows": "Schemazeichnungen der Frakturverläufe: extraartikulär, intraartikulär, intraartikuläre Mehrfragmentfraktur",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 2.29b Röntgenbild vor Osteosynthese",
+          "shows": "Röntgenbilder einer Femurkondylenfraktur vor operativer Versorgung (a.p. und seitlich)",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 2.29c Röntgenbild nach Osteosynthese",
+          "shows": "Röntgenbilder nach Osteosynthese mit Platte mit winkelstabilen Schrauben",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 8],
+      "key_facts": [
+        "Femurkondylenfraktur: Einteilung in extraartikulär, intraartikulär und intraartikuläre Mehrfragmentfraktur",
+        "Versorgung mit Plattenosteosynthese mit winkelstabilen Schrauben"
+      ]
+    },
+    {
+      "gidx": 119,
+      "source": "skl-chirurgie p.119",
+      "slide_title": "Frakturen und Pseudarthrose – Definition, Fragmente, Ursachen, Frakturzeichen",
+      "type": "inhalt",
+      "notes_md": "# Frakturen und Pseudarthrose\n\n## Fraktur – Definition\nEine Fraktur ist eine Kontinuitätsunterbrechung durch direkte oder indirekte Gewalteinwirkung, bei der die Elastizität und Festigkeit des Knochens überschritten wird.\n\n## Fragmente\n- **Fissur:** unvollständige Kontinuitätsunterbrechung\n- **Einfache Fraktur:** komplette Kontinuitätsunterbrechung, Bruchspalten mit 2 Fragmenten\n- **Mehrfragmentbrüche:** 2-6 Fragmente\n- **Trümmerfraktur:** > 6 Fragmente\n- **Defektfraktur:** nach Schussverletzungen\n\n## Ursachen\n- **direktes Trauma:** durch Schlag, Stoß, Tritt, Schuss\n- **indirektes Trauma:** durch Biegung, Stauchung, Drehung\n\n## Unsichere Frakturzeichen\n- Schmerz\n- Schwellung\n- Hämatom\n- Bewegungseinschränkung\n\n## Sichere Frakturzeichen\n- Fehlstellung\n- abnorme Beweglichkeit\n- Knochenreibung/Krepitation\n- sichtbare Knochenfragmente",
+      "figures": [],
+      "eingrenzung_hits": [4, 11],
+      "key_facts": [
+        "Fraktur = Kontinuitätsunterbrechung durch direkte/indirekte Gewalteinwirkung bei Überschreiten von Elastizität und Festigkeit des Knochens",
+        "Fragmenteinteilung: Fissur (unvollständig), einfache Fraktur (2 Fragmente), Mehrfragmentbruch (2-6), Trümmerfraktur (>6), Defektfraktur (Schuss)",
+        "Unsichere Frakturzeichen: Schmerz, Schwellung, Hämatom, Bewegungseinschränkung",
+        "Sichere Frakturzeichen: Fehlstellung, abnorme Beweglichkeit, Krepitation, sichtbare Knochenfragmente"
+      ]
+    },
+    {
+      "gidx": 120,
+      "source": "skl-chirurgie p.120",
+      "slide_title": "Frakturformen",
+      "type": "inhalt",
+      "notes_md": "# Frakturformen\n\n| Frakturform | Entstehung |\n|---|---|\n| **Querfraktur, Schrägfraktur** | durch direkte kurze, starke Krafteinwirkung |\n| **Biegungsfraktur** | durch direkte und indirekte Krafteinwirkung; Biegungskeil dort, wo die Kraft einwirkt |\n| **Spiralfraktur** | durch indirekte Krafteinwirkung durch gegenläufige Drehung des am Ende fixierten Knochens, z. B. bei Skiunfall |\n| **Abrissfraktur** | durch Zugkräfte, die über eine Sehne oder ein Band auf den Knochen wirken. Die Bruchlinie verläuft quer zur Zugrichtung |\n| **Kompressionsfraktur** | durch Stauchung im spongiösem Knochen, v.a. Metaphysen, Epiphysen, Hand- und Fußwurzelknochen, Wirbelkörper |",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Quer-/Schrägfraktur: direkte kurze, starke Krafteinwirkung",
+        "Spiralfraktur: gegenläufige Drehung des am Ende fixierten Knochens (z. B. Skiunfall)",
+        "Abrissfraktur: Zugkräfte über Sehne/Band, Bruchlinie quer zur Zugrichtung",
+        "Kompressionsfraktur: Stauchung in spongiösem Knochen (Metaphysen, Epiphysen, Hand-/Fußwurzelknochen, Wirbelkörper)"
+      ]
+    }
+  ]
+}

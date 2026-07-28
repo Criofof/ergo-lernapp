@@ -1,0 +1,232 @@
+{
+  "batch": "8",
+  "pages": [
+    {
+      "gidx": 85,
+      "source": "skl-chirurgie p.85",
+      "slide_title": "Neuner-Regel: Körperoberflächenanteile nach Alter",
+      "type": "inhalt",
+      "notes_md": "## Neuner-Regel (Körperoberflächenanteile)\n\nAbbildung mit drei Personen unterschiedlichen Alters:\n\n**a Kleinkind (ca. 1 Jahr):**\n- Kopf 19 %\n- Rumpf je 16 % vorn und hinten\n- Arme je 9,5 %\n- Beine je 15 %\n\n**b Kind (ca. 5 Jahre):**\n- Kopf 15 %\n- Arme je 9,5 %\n- Rumpf je 16 % vorn und hinten\n- Beine je 17 %\n\n**c Erwachsener (> ca. 15 Jahre):**\n- Kopf 9 %\n- Rumpf je 18 % vorn und hinten\n- Arme je 9 %\n- (Genitale 1 %)\n- Beine je 18 %",
+      "figures": [
+        {
+          "caption": "Neuner-Regel: Prozentuale Körperoberflächenanteile bei Kleinkind, Kind und Erwachsenem",
+          "shows": "Drei Ganzkörperfiguren (Kleinkind ca. 1 Jahr, Kind ca. 5 Jahre, Erwachsener > ca. 15 Jahre) mit beschrifteten Prozentanteilen für Kopf, Rumpf, Arme und Beine",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Neuner-Regel Erwachsener: Kopf 9 %, Arme je 9 %, Rumpf je 18 % vorn/hinten, Beine je 18 %, Genitale 1 %",
+        "Kleinkind (ca. 1 Jahr): Kopf 19 %, Beine je 15 %, Arme je 9,5 %, Rumpf je 16 %",
+        "Kind (ca. 5 Jahre): Kopf 15 %, Beine je 17 %"
+      ]
+    },
+    {
+      "gidx": 86,
+      "source": "skl-chirurgie p.86",
+      "slide_title": "Die Verbrennungskrankheit — Verbrennungsgrade",
+      "type": "inhalt",
+      "notes_md": "## Die Verbrennungskrankheit\n\n**Verbrennungsgrade:**\n\n- **Grad 1:** obere Epidermisschicht\n- **Grad 2a:** Epidermis + obere Dermis\n- **Grad 2b:** Epidermis + Dermis + Hautanhangsgebilde\n- **Grad 3:** Epidermis, Dermis u Subkutis irreversibel zerstört\n- **Grad 4:**\n  - alle Hautschichten\n  - darunter liegende Muskeln, Knochen und Faszien\n\nBegleitende Abbildung (Schweregrad Grad I–IV): Hornhaut und Oberhaut (Epidermis), Lederhaut (Dermis) mit Haarwurzeln, Schweiß- und Talgdrüsen sowie Blutgefäßen, Unterhaut (Subcutis), darunter Muskeln, Sehnen und Faszien.",
+      "figures": [
+        {
+          "caption": "Schweregrad der Verbrennung Grad I bis IV am Hautschichtenmodell",
+          "shows": "Hautquerschnitt mit den Schichten Epidermis, Dermis (mit Haarwurzeln, Drüsen, Gefäßen), Subcutis und darunter liegenden Muskeln/Sehnen/Faszien; eingezeichnete Schädigungstiefe für Grad I–IV",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Grad 1: nur obere Epidermisschicht",
+        "Grad 2a: Epidermis + obere Dermis; Grad 2b: zusätzlich Hautanhangsgebilde",
+        "Grad 3: Epidermis, Dermis und Subkutis irreversibel zerstört",
+        "Grad 4: alle Hautschichten plus Muskeln, Knochen und Faszien"
+      ]
+    },
+    {
+      "gidx": 87,
+      "source": "skl-chirurgie p.87",
+      "slide_title": "Schweregrad Grad I–IV (Hautschichten)",
+      "type": "inhalt",
+      "notes_md": "## Schweregrad der Verbrennung: Grad I–IV\n\nAbbildung eines Hautquerschnitts mit zunehmender Schädigungstiefe von Grad I bis Grad IV.\n\n**Hautschichten (Beschriftung):**\n- Hornhaut und Oberhaut (Epidermis)\n- Lederhaut (Dermis) mit Haarwurzeln, Schweiß- und Talgdrüsen sowie Blutgefäßen\n- Unterhaut (Subcutis), darunter Muskeln, Sehnen und Faszien",
+      "figures": [
+        {
+          "caption": "Schweregrad Grad I bis Grad IV im Hautschichtenmodell",
+          "shows": "Hautquerschnitt: Epidermis, Dermis mit Hautanhangsgebilden, Subcutis sowie Muskeln, Sehnen und Faszien; Schädigungstiefe je Verbrennungsgrad",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Verbrennungsgrade I–IV entsprechen zunehmender Schädigungstiefe der Hautschichten",
+        "Aufbau: Epidermis, Dermis (mit Haarwurzeln, Schweiß-/Talgdrüsen, Blutgefäßen), Subcutis, darunter Muskeln, Sehnen, Faszien"
+      ]
+    },
+    {
+      "gidx": 88,
+      "source": "skl-chirurgie p.88",
+      "slide_title": "Lokale Symptome und Schädigung je nach Verbrennungsgrad",
+      "type": "inhalt",
+      "notes_md": "## Lokale Symptome und Schädigung je nach Verbrennungsgrad\n\n| Verbrennungsgrad | Symptome | Schädigung |\n|---|---|---|\n| **Verbrennung 1. Grades** | Schmerz, Rötung, Schwellung | Oberste Epidermis; Restitutio ad integrum; Bsp.: Sonnenbrand |\n| **Verbrennung 2. Grades (2a)** | Schmerz, Rötung, Blasen | Epidermis und oberer Anteil der Dermis; Hautanhangsgebilde intakt; keine Narbenbildung |\n| **Verbrennung 2. Grades (2b)** | Kaum Schmerzen, Rötung, Blasen | Tiefe Schichten der Dermis mitbetroffen; Abheilung mit Narben |\n| **Verbrennung 3. Grades** | Keine Schmerzen (Verlust der Oberflächensensibilität), Nekrose, schwarze, weiße oder graue lederartige Haut | Epidermis + Dermis (= Kutis) und Subkutis verbrannt; Spontanheilung nicht möglich |\n| **Verbrennung 4. Grades** | Verkohlung | Tiefer liegende Schichten mitbetroffen (z.B. Muskeln, Fett, Faszien, Knochen) |",
+      "figures": [],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Grad 1: Schmerz, Rötung, Schwellung; Restitutio ad integrum (Bsp. Sonnenbrand)",
+        "Grad 2a: Blasen, Hautanhangsgebilde intakt, keine Narbenbildung",
+        "Grad 2b: kaum Schmerzen, tiefe Dermis betroffen, Abheilung mit Narben",
+        "Grad 3: keine Schmerzen, Nekrose, lederartige Haut; Spontanheilung nicht möglich",
+        "Grad 4: Verkohlung mit Beteiligung von Muskeln, Fett, Faszien, Knochen"
+      ]
+    },
+    {
+      "gidx": 89,
+      "source": "skl-chirurgie p.89",
+      "slide_title": "Die Verbrennungskrankheit — Verbrennung Grad 1, 2b und 3. Grad",
+      "type": "inhalt",
+      "notes_md": "## Die Verbrennungskrankheit\n\n**Verbrennung Grad 1 und Grad 2b** (Beispielfotos: Hautrötung/Sonnenbrand; blasige Verbrühung am Handrücken)\n\n**3. Grad:** schwarz-weiß-Nekrosen/Blasen, keine oder geringe Schmerzen, da Nervenendigungen zerstört. Oberhaut, Lederhaut und Unterhaut (bis auf Faszien und Knochen) betroffen, dauerhaft geschädigt.",
+      "figures": [
+        {
+          "caption": "Verbrennung Grad 1 (Sonnenbrand-ähnliche Rötung an Schulter/Rücken)",
+          "shows": "Klinisches Foto einer geröteten Hautoberfläche mit scharfer Abgrenzung",
+          "importance": "low",
+          "extract": false
+        },
+        {
+          "caption": "Verbrennung Grad 2b am Handrücken",
+          "shows": "Klinisches Foto einer blasigen Verbrühung/Verbrennung der Hand",
+          "importance": "mid",
+          "extract": false
+        },
+        {
+          "caption": "Verbrennung 3. Grades an der Hand",
+          "shows": "Klinisches Foto mit ausgedehnten schwarz-weißen Nekrosen am Handrücken",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Verbrennung 3. Grades: schwarz-weiß-Nekrosen/Blasen, kaum Schmerzen wegen zerstörter Nervenendigungen",
+        "Grad 3: Oberhaut, Lederhaut und Unterhaut (bis auf Faszien und Knochen) dauerhaft geschädigt"
+      ]
+    },
+    {
+      "gidx": 90,
+      "source": "skl-chirurgie p.90",
+      "slide_title": "Verkohlung",
+      "type": "inhalt",
+      "notes_md": "## Verkohlung\n\nKlinisches Foto: Verkohlte Finger einer Hand (Verbrennung 4. Grades) mit schwarz verkohlten, teils freiliegenden tiefen Gewebestrukturen.",
+      "figures": [
+        {
+          "caption": "Verkohlung der Finger (Verbrennung 4. Grades)",
+          "shows": "Klinisches Foto einer Hand mit verkohlten Fingern und zerstörten tiefen Gewebeschichten",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Verkohlung ist das Kennzeichen der Verbrennung 4. Grades"
+      ]
+    },
+    {
+      "gidx": 91,
+      "source": "skl-chirurgie p.91",
+      "slide_title": "Die Verbrennungskrankheit — Verlaufs- und Sonderformen",
+      "type": "inhalt",
+      "notes_md": "## Die Verbrennungskrankheit\n\n### Verlaufs- und Sonderformen\n\n**Verätzungen durch Säuren und Laugen:**\n\nGewebeschädigungen durch:\n- **Säuren erzeugen Koagulationsnekrosen:** trockene und brüchige Nekrose\n- **Laugen erzeugen Kolliquationsnekrosen:** sekundäre Verflüssigung des Gewebes\n\n### Inhalationstrauma:\n\nVerbrannte oder rußige Gesichtsbehaarung (inkl. Nasenbehaarung):\n- rußiges Sputum\n- Atemwegsobstruktionen wie bspw. Stridor\n- oropharyngeale Schleimhautläsionen\n- Gefahr der Ausbildung eines toxischen Ödems der Lunge und der oberen Atemwege\n\n**Einteilung nach endobronchialem Befund:**\n- **Grad 1:** gerötete und geschwollene Schleimhaut\n- **Grad 2:** Schleimhaut weist Blasen, Erosionen oder Kontaktblutungen auf\n- **Grad 3:** Schleimhaut weist Ulzerationen und Nekrosen auf\n\n**Therapie:** Frühzeitige Intubation und lungenschonende, kontrollierte Beatmung für 24–48 h",
+      "figures": [],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Säuren → Koagulationsnekrosen (trocken, brüchig); Laugen → Kolliquationsnekrosen (Verflüssigung)",
+        "Inhalationstrauma-Zeichen: verbrannte/rußige Gesichts- und Nasenbehaarung, rußiges Sputum, Stridor, oropharyngeale Läsionen",
+        "Gefahr: toxisches Ödem der Lunge und oberen Atemwege",
+        "Endobronchiale Grade 1–3: Rötung/Schwellung → Blasen/Erosionen/Kontaktblutungen → Ulzerationen/Nekrosen",
+        "Therapie Inhalationstrauma: frühzeitige Intubation, lungenschonende Beatmung 24–48 h"
+      ]
+    },
+    {
+      "gidx": 92,
+      "source": "skl-chirurgie p.92",
+      "slide_title": "Die Verbrennungskrankheit — weitere Diagnostik",
+      "type": "inhalt",
+      "notes_md": "## Die Verbrennungskrankheit\n\n### weitere Diagnostik:\n- Patienten komplett entkleiden und untersuchen\n- Nadelstichprobe: Ab Verbrennung Grad 2b verminderte Schmerzempfindung\n- Lungenauskultation\n- Vitalparameter: Blutdruck, Herzfrequenz, Atemfrequenz, Sauerstoffsättigung, Temperatur\n- EKG\n\n### Laboruntersuchungen\n\n**Bei schweren Verbrennungen: Gesamte intensivmedizinische Labordiagnostik:**\n- Blutbild, auch Gesamteiweiß\n- Entzündungsparameter\n- Kreuzblut/Anforderung von Blutprodukten (Plasmakonzentrate, Erythrozytenkonzentrate)\n\n**Bei Verdacht auf Inhalationstrauma:**\n- Arterielle BGA mit CO und Methämoglobin\n\n### Mikrobiologie:\n- Wundabstriche\n- Blutkulturen bei Superinfektion oder Sepsis\n- Biopsien\n- Röntgen bei Verdacht auf Frakturen, bei Superinfektion oder Sepsis\n- Laryngo-Bronchoskopie (und Entnahme von Trachealsekret) bei Inhalationstrauma",
+      "figures": [],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Nadelstichprobe: ab Grad 2b verminderte Schmerzempfindung",
+        "Schwere Verbrennungen: komplette intensivmedizinische Labordiagnostik inkl. Blutprodukte-Anforderung",
+        "Verdacht auf Inhalationstrauma: arterielle BGA mit CO und Methämoglobin, Laryngo-Bronchoskopie",
+        "Mikrobiologie: Wundabstriche, Blutkulturen, Biopsien"
+      ]
+    },
+    {
+      "gidx": 93,
+      "source": "skl-chirurgie p.93",
+      "slide_title": "Die Verbrennungskrankheit — Transplantation und Spalthaut",
+      "type": "inhalt",
+      "notes_md": "## Die Verbrennungskrankheit\n\nGrundsätzlich lässt sich eine Transplantation nach der Herkunft des Transplantats unterscheiden:\n\n- **Autologe Transplantation** als Vollhaut oder Spalthaut (Hauttransplantat von einer anderen Körperstelle des Patienten)\n- **Alloplastische Transplantation** (Kunststoffmaterial)\n- **Xenogene Transplantation** (zum Beispiel Schweinehaut)\n\nXenogene und alloplastische Transplantate:\n- dienen der vorübergehenden Abdeckung der Wunde\n- zur endgültigen Behandlung eignet sich nur das autologe Hauttransplantat\n\n### Hauttransplantation mit Spalthaut\n- Spalthaut ist ein etwa 0,2 bis 0,5 Millimeter dickes Transplantat, das nur aus den obersten Hautschichten besteht. Der Chirurg entnimmt die Spalthaut an einer nicht verletzten Körperregion (Spenderregion) des Patienten mit einem elektrischen Hautschneidemesser. Die Wunde, die an der Spenderregion entsteht, muss nicht genäht werden und verheilt weitgehend narbenfrei.\n\n### Eine Sonderform der Spalthaut ist das Meshgraft-Transplantat:\n- Der Arzt schneidet dabei die Spalthaut mit einem Dermatom netzartig und vergrößert sie dadurch auf die zwei- bis dreifache Fläche\n- Nachteil hierbei ist allerdings, dass die gitterartige Struktur des Meshgraft auch nach der Heilung noch sichtbar ist.",
+      "figures": [],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Transplantat-Arten nach Herkunft: autolog, alloplastisch (Kunststoff), xenogen (z.B. Schweinehaut)",
+        "Nur autologe Hauttransplantate eignen sich zur endgültigen Behandlung",
+        "Spalthaut: 0,2–0,5 mm dick, Entnahme mit elektrischem Hautschneidemesser, Spenderregion verheilt weitgehend narbenfrei",
+        "Meshgraft: netzartig inzidierte Spalthaut, Flächenvergrößerung auf das 2- bis 3-Fache, Nachteil: sichtbare Gitterstruktur"
+      ]
+    },
+    {
+      "gidx": 94,
+      "source": "skl-chirurgie p.94",
+      "slide_title": "Die Verbrennungskrankheit — Hauttransplantation mit Vollhaut",
+      "type": "inhalt",
+      "notes_md": "## Die Verbrennungskrankheit\n\n### Hauttransplantation mit Vollhaut\n\nEin Vollhauttransplantat besteht aus allen Hautschichten mit Ausnahme des Unterhautfetts. Es enthält auch Schweiß-, Talgdrüsen und Haarwurzeln. Der Chirurg schneidet die Vollhaut mit einem Skalpell aus der Spenderregion des Patienten und vernäht anschließend die dabei entstandene Wunde.\n\nDie Hauttransplantation mit Vollhaut wird vor allem für Wunden in besonders beanspruchten Körperregionen angewandt und kommt vor allem bei Wunden im Gesicht, an den Händen und im Bereich von Gelenken zum Einsatz.\n\nDas Transplantat heilt in der Regel innerhalb von zehn Tagen ein und nimmt nach etwa vierzehn Tagen wieder die normale Hautfarbe an.",
+      "figures": [],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Vollhauttransplantat: alle Hautschichten außer Unterhautfett, inkl. Schweiß-/Talgdrüsen und Haarwurzeln",
+        "Entnahme mit Skalpell, Spenderwunde wird vernäht",
+        "Indikation: besonders beanspruchte Regionen — Gesicht, Hände, Gelenkbereich",
+        "Einheilung ca. 10 Tage, normale Hautfarbe nach ca. 14 Tagen"
+      ]
+    },
+    {
+      "gidx": 95,
+      "source": "skl-chirurgie p.95",
+      "slide_title": "Die Verbrennungskrankheit — Operative Techniken ab Grad 2b",
+      "type": "inhalt",
+      "notes_md": "## Die Verbrennungskrankheit\n\n### Operative Techniken ab Grad 2b\n\ndrei operative Techniken:\n\n**Escheratomie:**\n- Bei zirkulären Verbrennungen Grad 2b und 3 werden mit der elektrischen Nadel Entlastungsschnitte gesetzt, um ein Kompartmentsyndrom zu verhindern. Der Schnitt wird temporär mit Schweinehaut gedeckt.\n\n**Tangentiale Nekrektomie:**\n- Bei Verbrennungen Grad 2b werden mit Versajet, Dermatom, Weck- oder Humby-Messer Epidermis und Corium entfernt. Ist eine definitive Deckung mit Eigenhaut nicht möglich, wird ein temporärer Hautersatz aufgebracht, z. B. mit Xenograft.\n\n**Epifasziale Nekrektomie:**\n- Bei Verbrennungen Grad 2b und 3 entfernt man mit dem elektrischen Messer Epidermis, Corium und subkutanes Fettgewebe. Auch hier wird der Defekt nach Möglichkeit definitiv mit Spalthaut versorgt oder temporär mit Xenograft gedeckt.\n\n**Xenograft:** (Foto eines netzartig strukturierten Transplantatmaterials)",
+      "figures": [
+        {
+          "caption": "Xenograft (netzartig strukturiertes Transplantatmaterial)",
+          "shows": "Foto eines gitter-/streifenförmig strukturierten Hautersatzmaterials auf der Haut",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Escheratomie: Entlastungsschnitte bei zirkulären Verbrennungen Grad 2b/3 gegen Kompartmentsyndrom, temporäre Deckung mit Schweinehaut",
+        "Tangentiale Nekrektomie (Grad 2b): Entfernung von Epidermis und Corium mit Versajet, Dermatom, Weck- oder Humby-Messer",
+        "Epifasziale Nekrektomie (Grad 2b/3): Entfernung von Epidermis, Corium und subkutanem Fettgewebe",
+        "Defektdeckung: definitiv mit Spalthaut/Eigenhaut oder temporär mit Xenograft"
+      ]
+    },
+    {
+      "gidx": 96,
+      "source": "skl-chirurgie p.96",
+      "slide_title": "Die Verbrennungskrankheit — Synthetische Materialien",
+      "type": "inhalt",
+      "notes_md": "## Die Verbrennungskrankheit\n\n### Synthetische Materialien\n\nNeben biologischen Materialien kommen aber immer mehr auch rein synthetische Materialien zum Einsatz. Im Fokus der Entwicklung und Anwendung stehen Materialien, die auch Bestandteil der extrazellulären Matrix sind (zum Beispiel Kollagen, Hyaluronsäure und ihre Derivate). Darüber hinaus kommen auch verschiedene Polymere/Polymerkomposite (unter anderem Polycaprolacton PCL, Polyurethan PU, Silikone, Polymilchsäureverbindungen PLA/PGLA) sowie „natürliche“ Materialien wie Seidenproteine und Bakterienzellulose zum Einsatz, die technisch und/oder rekombinant hergestellt werden.",
+      "figures": [],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Synthetische Hautersatzmaterialien: Bestandteile der extrazellulären Matrix (Kollagen, Hyaluronsäure und Derivate)",
+        "Polymere/Polymerkomposite: Polycaprolacton PCL, Polyurethan PU, Silikone, Polymilchsäureverbindungen PLA/PGLA",
+        "„Natürliche“ Materialien: Seidenproteine und Bakterienzellulose (technisch und/oder rekombinant hergestellt)"
+      ]
+    }
+  ]
+}
