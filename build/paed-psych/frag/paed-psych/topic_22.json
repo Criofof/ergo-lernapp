@@ -1,0 +1,104 @@
+{
+  "id": "paed-psych-t22",
+  "title": "Das Big-Five-Modell der Persönlichkeit",
+  "eingrenzung": "Big Five Modell (5 Faktoren benennen)",
+  "prio": "high",
+  "body": "## Definition\n\nDas **Big-Five-Modell** (Fünf-Faktoren-Modell der Persönlichkeit, nach **Costa & McCrae**) beschreibt fünf grundlegende, stabile Persönlichkeitsdimensionen, die **kulturübergreifend empirisch belegt** sind. Es dient der systematischen Erfassung **interindividueller Unterschiede** im Verhalten, Denken und Erleben.\n\nIm Prüfungskontext werden die fünf Faktoren oft als **„OCEAN“** abgekürzt (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism).\n\n## Die fünf Dimensionen (nach Costa & McCrae)\n\n| Dimension | Beschreibung | Berufsrelevanz |\n|---|---|---|\n| **Extraversion** | kontaktfreudig, gesellig, aktiv | Führung, Vertrieb, Teamarbeit |\n| **Verträglichkeit** | empathisch, rücksichtsvoll, kooperativ | Pflege, Pädagogik, interdisziplinäre Teams |\n| **Gewissenhaftigkeit** | organisiert, diszipliniert, leistungsorientiert | Buchhaltung, Management, Medizinalberufe |\n| **Neurotizismus** | emotional instabil, stressanfällig, ängstlich | hohes Burnout-Risiko, kritisch für Belastungsberufe |\n| **Offenheit für Neues** | ideenreich, kreativ, neugierig | Forschung, Beratung, kreative Industrien |\n\n## Die Dimensionen im Detail\n\n### 1. Offenheit für neue Erfahrungen (Aufgeschlossenheit)\nBeschreibt das **Interesse und das Ausmaß der Beschäftigung mit neuen Erfahrungen, Erlebnissen und Eindrücken** eines Menschen.\n\n- **Niedrige Werte:** konservative Haltungen, konventionelles Verhalten („das kenne ich, das soll so bleiben“); Gefühle und emotionale Reaktionen werden eher **gedämpft** wahrgenommen.\n- **Hohe Werte:** wissbegierig, neugierig, ständig auf der Suche nach etwas Neuem.\n\n### 2. Gewissenhaftigkeit (Rigidität/Perfektionismus)\n„Rigide“ steht für „sehr streng“. Menschen mit **hohen Werten** werden als **organisiert, genau, ordentlich, sorgfältig und gewissenhaft** bezeichnet. Das Gegenteil erleben wir meist als ungünstig – wichtig ist aber auch, mal „Fünfe gerade sein zu lassen“.\n\n### 3. Extraversion (Geselligkeit)\nGemeint sind **Aktivität und Begeisterungsfähigkeit**.\n\n- **Hohe Werte:** kontaktfreudig/sozial, herzlich, optimistisch, unterhalten sich gerne; lassen sich rasch begeistern und sind offen für aufregende Erlebnisse. Extreme Ausprägungen neigen zu **Dominanz** und übersteigerter **Abenteuerlust**.\n- **Gegenpol: Introversion** – still, sorgfältig, schüchtern, reflektierend; arbeiten eher alleine vor sich hin, sozial weniger engagiert (können aber durchaus aktiv sein, nur nicht so sehr in Gesellschaft).\n\n### 4. Verträglichkeit (Rücksichtnahme, Empathie)\nBeschreibt – ähnlich wie die Extraversion – ein **interpersonelles Verhalten**. Menschen mit hohen Werten begegnen ihren Mitmenschen mit **Verständnis, Wohlwollen und Empathie**.\n\n### 5. Neurotizismus (Labilität)\nKann am ehesten mit **„emotionaler Labilität“** übersetzt werden und beschreibt das **subjektive Reagieren auf negative Emotionen oder Erlebnisse**.\n\n- **Hohe Werte:** Ängstlichkeit, Nervosität, Launenhaftigkeit, Empfindlichkeit, Reizbarkeit.\n- **Niedrige Werte = emotionale Stabilität:** ruhig, zufrieden, gelöst – eine **robuste Persönlichkeit**.\n\n## Einordnung und Anwendung\n\n- Die Lerneinheit Persönlichkeit umfasst: Persönlichkeitsbegriff, Temperamentenlehre nach Galen, Menschentypen nach Tobias Beck, Persönlichkeitsteste und das Big-Five-Modell.\n- Als Testinstrument wird der **B5T – Big-Five-Persönlichkeitstest** verwendet (Bearbeitungszeit ca. 30 Min.).\n- Online-Angebot zum Modell: http://de.outofservice.com/bigfive/\n- Lernziele der Persönlichkeitstheorien: Bedeutung und Orientierungsfunktion von Persönlichkeitstheorien verstehen, Big Five und deren Einfluss auf die Forschung untersuchen, Theorien anhand definierter Kriterien vergleichen sowie Stärken und Schwächen analysieren.",
+  "facts": [
+    "Big-Five-Modell = Fünf-Faktoren-Modell der Persönlichkeit nach Costa & McCrae; stabil und kulturübergreifend empirisch belegt",
+    "Die 5 Faktoren: Offenheit, Gewissenhaftigkeit, Extraversion, Verträglichkeit, Neurotizismus (engl. OCEAN)",
+    "Offenheit: hohe Werte = wissbegierig, neugierig; niedrige Werte = konservativ, konventionell, gedämpfte Gefühlswahrnehmung",
+    "Gewissenhaftigkeit (Rigidität/Perfektionismus): organisiert, genau, ordentlich, sorgfältig, gewissenhaft",
+    "Extraversion = Aktivität und Begeisterungsfähigkeit; Gegenpol Introversion: still, schüchtern, reflektierend",
+    "Verträglichkeit = interpersonelles Verhalten mit Verständnis, Wohlwollen und Empathie",
+    "Neurotizismus = emotionale Labilität; niedrige Werte bedeuten emotionale Stabilität (ruhig, zufrieden, gelöst, robust)",
+    "Neurotizismus: hohes Burnout-Risiko, kritisch für Belastungsberufe",
+    "B5T = Big-Five-Persönlichkeitstest, Bearbeitungszeit ca. 30 Minuten"
+  ],
+  "figures": [
+    {
+      "src": "assets/paed-psych/g40.png",
+      "caption": "Tabelle: Die fünf Dimensionen des Big-Five-Modells (nach Costa & McCrae)"
+    },
+    {
+      "src": "assets/paed-psych/g893.png",
+      "caption": "Das Big Five Modell in der Psychologie – OCEAN-Model of Personality: fünf Faktoren kreisförmig um das Zentrum „Persönlichkeit“"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Nenne die fünf Dimensionen des Big-Five-Modells.",
+      "a": "Offenheit für neue Erfahrungen, Gewissenhaftigkeit, Extraversion, Verträglichkeit, Neurotizismus (engl. OCEAN) – nach Costa & McCrae."
+    },
+    {
+      "q": "Was beschreibt die Dimension „Offenheit für neue Erfahrungen“?",
+      "a": "Das Interesse und das Ausmaß der Beschäftigung mit neuen Erfahrungen, Erlebnissen und Eindrücken. Hohe Werte: wissbegierig, neugierig, auf der Suche nach Neuem; niedrige Werte: konservativ, konventionell, gedämpfte Gefühlswahrnehmung."
+    },
+    {
+      "q": "Welche Merkmale kennzeichnen eine hohe Gewissenhaftigkeit?",
+      "a": "Organisiert, genau, ordentlich, sorgfältig und gewissenhaft (Rigidität/Perfektionismus; „rigide“ = sehr streng)."
+    },
+    {
+      "q": "Wie unterscheiden sich Extraversion und Introversion?",
+      "a": "Extraversion: kontaktfreudig, herzlich, optimistisch, gesprächig, begeisterungsfähig; extrem: Dominanz und übersteigerte Abenteuerlust. Introversion: still, sorgfältig, schüchtern, reflektierend, arbeitet eher allein, sozial weniger engagiert."
+    },
+    {
+      "q": "Was bedeutet Neurotizismus und was gilt bei niedrigen Werten?",
+      "a": "Neurotizismus = emotionale Labilität, subjektives Reagieren auf negative Emotionen (Ängstlichkeit, Nervosität, Launenhaftigkeit, Empfindlichkeit, Reizbarkeit). Niedrige Werte = emotionale Stabilität: ruhig, zufrieden, gelöst, robuste Persönlichkeit."
+    },
+    {
+      "q": "Wie zeigt sich eine hohe Verträglichkeit im zwischenmenschlichen Bereich?",
+      "a": "Die Person begegnet Mitmenschen mit Verständnis, Wohlwollen und Empathie (interpersonelles Verhalten, Rücksichtnahme)."
+    },
+    {
+      "q": "Welche berufliche Relevanz hat der Faktor Neurotizismus?",
+      "a": "Hohe Werte bedeuten ein hohes Burnout-Risiko und sind kritisch für Belastungsberufe."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Wofür steht die Abkürzung „OCEAN“ im Big-Five-Modell?",
+      "choices": [
+        "Ein Modell der Motivationspsychologie",
+        "Die englischen Anfangsbuchstaben der fünf Persönlichkeitsdimensionen (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism)",
+        "Einen Persönlichkeitstest nach Galen",
+        "Die Stufen der Persönlichkeitsentwicklung nach Freud"
+      ],
+      "answer": 1,
+      "expl": "OCEAN fasst die englischen Namen der fünf Faktoren zusammen: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism – deutsch: Offenheit, Gewissenhaftigkeit, Extraversion, Verträglichkeit, Neurotizismus."
+    },
+    {
+      "q": "Eine Person gilt als still, sorgfältig, schüchtern und reflektierend, arbeitet gern allein. Welche Ausprägung liegt vor?",
+      "choices": [
+        "Hohe Extraversion",
+        "Hoher Neurotizismus",
+        "Introversion (Gegenpol der Extraversion)",
+        "Hohe Verträglichkeit"
+      ],
+      "answer": 2,
+      "expl": "Introvertierte Personen arbeiten eher alleine vor sich hin und sind sozial weniger engagiert; typische Eigenschaften sind still, sorgfältig, schüchtern, reflektierend."
+    },
+    {
+      "q": "Welche Dimension ist für Belastungsberufe besonders kritisch, weil hohe Werte mit einem erhöhten Burnout-Risiko einhergehen?",
+      "choices": [
+        "Neurotizismus",
+        "Gewissenhaftigkeit",
+        "Offenheit für neue Erfahrungen",
+        "Extraversion"
+      ],
+      "answer": 0,
+      "expl": "Neurotizismus (emotionale Labilität) beschreibt das subjektive Reagieren auf negative Emotionen; hohe Werte bedeuten Stressanfälligkeit und damit ein hohes Burnout-Risiko."
+    },
+    {
+      "q": "Welche Aussage zur Dimension „Gewissenhaftigkeit“ trifft zu?",
+      "choices": [
+        "Sie beschreibt das Interesse an neuen Erfahrungen und Eindrücken",
+        "Hohe Werte äußern sich in Ängstlichkeit, Nervosität und Reizbarkeit",
+        "Sie ist ein rein interpersonelles Verhaltensmerkmal",
+        "Hohe Werte werden als organisiert, genau, ordentlich, sorgfältig und gewissenhaft bezeichnet"
+      ],
+      "answer": 3,
+      "expl": "Gewissenhaftigkeit (Rigidität/Perfektionismus) umfasst die Merkmale organisiert, genau, ordentlich, sorgfältig und gewissenhaft; „rigide“ steht dabei für „sehr streng“."
+    }
+  ]
+}
