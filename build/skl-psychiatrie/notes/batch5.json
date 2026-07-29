@@ -1,0 +1,198 @@
+{
+  "batch": "5",
+  "pages": [
+    {
+      "gidx": 49,
+      "source": "skl-psychiatrie p.49",
+      "slide_title": "Physiologische Aspekte älterer Menschen:",
+      "type": "inhalt",
+      "notes_md": "## Physiologische Aspekte älterer Menschen:\n\n- Erkrankungen der inneren Organe, der Gefäße, des Stützapparates\n- Schilddrüsenerkrankungen (mit Verminderung oder Steigerung des Antriebes)\n- Altersdiabetes und die Folgen (z.B. Erblinden. Wundheilungsstörungen)\n- Neurologische Erkrankungen (z.B.: Morbus Parkinson, Insult, mit Einschränkungen der Mobilität & evtl. Pflegebedürftigkeit)\n- Krebserkrankungen\n- Operationen\n- Veränderungen des Stützapparates (z.B. Arthrose, Osteoporose, rheumatische Erkrankungen)\n- Arteriosklerotische Erkrankungen (Kreislaufschwäche, Herzinsuffizienz, arterielle Verschlusserkrankungen, vaskuläre Demenz)\n- Inkontinenz\n- Hirnorganische Veränderungen (Alzheimer Demenz)\n- Herzinfarkt und Asthma mit evtl. Angstgefühlen\n- Einschränkungen der Hör- und Sehfähigkeit",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Typische somatische Erkrankungen im Alter: innere Organe, Gefäße, Stützapparat, Schilddrüse, Altersdiabetes, neurologische Erkrankungen (Morbus Parkinson, Insult)",
+        "Arteriosklerotische Erkrankungen umfassen u.a. Kreislaufschwäche, Herzinsuffizienz und vaskuläre Demenz",
+        "Hirnorganische Veränderungen: Alzheimer Demenz"
+      ]
+    },
+    {
+      "gidx": 50,
+      "source": "skl-psychiatrie p.50",
+      "slide_title": "Soziologische Aspekte älterer Menschen:",
+      "type": "inhalt",
+      "notes_md": "## Soziologische Aspekte älterer Menschen:\n\n- Verlust des Arbeitsplatzes (altersbedingte Arbeitslosigkeit)\n  - Möglicher Verlust sozialer Kontakt & der Tagesstruktur\n- Neuorientierung und evtl. neue Sinnfindung mit dem Eintritt in die Rente\n- Veränderungen in der Partnerschaft durch mehr gemeinsame Zeit, aber auch körperliche Veränderungen (Sexuelle Funktionsstörungen)\n- Auszug des Kindes/der Kinder – mehr Selbstständigkeit dieser („Empty-Nest-Syndrom“)\n- Neue Rollen als Großeltern oder Ausbleiben dieser Rolle\n- Chronische Erkrankungen z.B. des/der Partner:in oder von Freunden & Bekannten\n- Tod von Freunden & Verwandten\n- Umzug in eine (kleinere) Wohnung, ein Heim, eine Wohngemeinschaft\n- Trennung oder Tod des/der Partner:in – Belastung durch neue Pertner:innen\n- Veränderte finanzielle Situation (niedriges Rentenniveau v.a. bei Frauen)\n- Veränderungen in der Mobilität (Überprüfung der Fahrtauglichkeit, evtl. Busfahren)\n- Große (freudige) Ereignisse – Erwartungshaltung, Rückblick auf´s Leben, Überprüfung eigener Ziele, Lebenssinn",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Empty-Nest-Syndrom: Auszug der Kinder mit mehr Selbstständigkeit dieser",
+        "Verlust des Arbeitsplatzes kann Verlust sozialer Kontakte und der Tagesstruktur bedeuten",
+        "Veränderte finanzielle Situation: niedriges Rentenniveau v.a. bei Frauen"
+      ]
+    },
+    {
+      "gidx": 51,
+      "source": "skl-psychiatrie p.51",
+      "slide_title": "Spezifische Krankheitsbilder",
+      "type": "titel",
+      "notes_md": "# Spezifische Krankheitsbilder\n\nZwischentitel-Folie (Kapitelanfang) mit Cartoon-Illustration (ältere Person im Rollstuhl mit Pflegeperson, Deko).",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 52,
+      "source": "skl-psychiatrie p.52",
+      "slide_title": "Häufigste ambulante Behandlungsdiagnosen (ab 65 Jahre, NRW, 2006–2015)",
+      "type": "inhalt",
+      "notes_md": "## Häufigste ambulante Behandlungsdiagnosen (altersstandardisiert, ICD-10 Kapitel Psychische und Verhaltensstörungen, ab 65 Jahren, nach Geschlecht, NRW, 2006–2015)\n\nQuelle: KV Nordrhein und Westfalen-Lippe, LZG NRW / Landeszentrum Gesundheit NRW\n\n### Frauen, 65 Jahre und älter (Veränderungen 2006–2015):\n\n| Diagnose (ICD-10) | Veränderung |\n|---|---|\n| Depression (F32) | + 16,9 % |\n| Demenz (F00-F03) | + 13,6 % |\n| Somatoforme Störungen (F45) | + 31,0 % |\n| Angststörungen, nicht-phobisch (F41) | + 68,4 % |\n| Depression, rezidivierend (F33) | + 22,9 % |\n| Schwere Belastungen, Anpassungsstörung (F43) | + 67,7 % |\n| Psych. und Verhaltensstörungen – Tabak (F17) | + 176,8 % |\n| Hirnorganisch- oder körperlichbedingte psych. Störungen (F06) | - 14,2 % |\n| Neurotische Störungen (F48) | + 25,6 % |\n| Schlafstörungen, nichtorganisch (F51) | + 10,0 % |\n\n### Männer, 65 Jahre und älter (Veränderungen 2006–2015):\n\n| Diagnose (ICD-10) | Veränderung |\n|---|---|\n| Demenz (F00-F03) | + 24,5 % |\n| Depression (F32) | + 30,7 % |\n| Somatoforme Störungen (F45) | + 37,3 % |\n| Sexuelle Funktionsstörungen, nicht-organisch (F52) | + 47,8 % |\n| Psych. und Verhaltensstörungen – Tabak (F17) | + 112,5 % |\n| Angststörungen, nicht-phobisch (F41) | + 80,8 % |\n| Hirnorganisch- oder körperlich-bedingte psych. Störungen (F06) | - 8,7 % |\n| Schwere Belastungen, Anpassungsstörungen (F43) | + 97,4 % |",
+      "figures": [
+        {
+          "caption": "Tabelle der häufigsten ambulanten Behandlungsdiagnosen (altersstandardisiert, ICD-10 Kapitel Psychische und Verhaltensstörungen, ab 65 Jahren, nach Geschlecht, NRW, 2006–2015, KV Nordrhein und Westfalen-Lippe, LZG NRW)",
+          "shows": "Zwei Tabellen (Frauen/Männer ab 65) mit Diagnosen nach ICD-10 und prozentualen Veränderungen 2006–2015",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bei Frauen ab 65: größter Anstieg bei Tabak-Störungen (F17, +176,8 %), gefolgt von Angststörungen (F41, +68,4 %)",
+        "Bei Männern ab 65: Demenz (F00-F03) +24,5 %, Depression (F32) +30,7 %, Anpassungsstörungen (F43) +97,4 %",
+        "Hirnorganisch-/körperlichbedingte psych. Störungen (F06) rückläufig bei beiden Geschlechtern"
+      ]
+    },
+    {
+      "gidx": 53,
+      "source": "skl-psychiatrie p.53",
+      "slide_title": "(Alters)depression",
+      "type": "inhalt",
+      "notes_md": "## (Alters)depression\n\n- Depressionen gehören neben der Demenz zu den häufigsten psychischen Krankheiten im Alter.\n- Diagnose regulär über ICD 10 oder 11 oder DSM-V (ohne spezifische Kennzeichnung; F32.- oder 06 Psychische Störungen, Affektive Störungen)\n- Diagnostik erfolgt regulär über ein/eine Ärzt:in oder eine/n (Geronto)psychiater:in\n- i.d.R. erfolgt bei älteren Menschen der Ausschluss einer Demenzerkrankung wie Morbus Alzheimer - ist es schwierig, ein typisches Krankheitsbild zu zeichnen.\n  - Neurologische Testverfahren oder spezielle Fragebögen\n    - „Geriatrische Depressionsscala“ GDS – erneuert 2010 „Depression-im-Alter-Skala“ DIA-S\n  - Möglich auch ein Computer- oder Magnetresonanztomogramm des Schädels und/oder ein EEG",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Depressionen gehören neben Demenz zu den häufigsten psychischen Krankheiten im Alter",
+        "Diagnose über ICD-10/11 (F32.- bzw. 06 Affektive Störungen) oder DSM-V ohne spezifische Kennzeichnung",
+        "Screening-Instrumente: Geriatrische Depressionsskala (GDS), seit 2010 Depression-im-Alter-Skala (DIA-S)",
+        "Demenzerkrankung (z.B. Morbus Alzheimer) muss ausgeschlossen werden"
+      ]
+    },
+    {
+      "gidx": 54,
+      "source": "skl-psychiatrie p.54",
+      "slide_title": "Geriatrische Depressionsskala (GDS) & Depression im Alter – Skala (DIA-S)",
+      "type": "inhalt",
+      "notes_md": "## Geriatrische Depressionsskala (GDS) – 15-Fragen-Kurzfassung nach Yesavage et al.\n\nAntwortformat je/nein:\n\n1. Sind Sie grundsätzlich mit Ihrem Leben zufrieden?\n2. Haben Sie viele Ihrer Aktivitäten und Interessen aufgegeben?\n3. Haben Sie das Gefühl, Ihr Leben sei unausgefüllt?\n4. Ist Ihnen oft langweilig?\n5. Sind Sie die meiste Zeit guter Laune?\n6. Haben Sie manchmal Angst, daß Ihnen etwas Schlimmes zustoßen wird?\n7. Fühlen Sie sich die meiste Zeit glücklich?\n8. Fühlen Sie sich oft hilflos?\n9. Bleiben Sie lieber zu Hause, anstatt auszugehen und Neues zu unternehmen?\n10. Glauben Sie, mehr Probleme mit dem Gedächtnis zu haben als die meisten anderen Menschen?\n11. Finden Sie, es sei schön jetzt zu leben?\n12. Kommen Sie sich in Ihrem jetzigen Zustand ziemlich wertlos vor?\n13. Fühlen Sie sich voller Energie?\n14. Finden Sie, daß Ihre Situation hoffnungslos ist?\n15. Glauben Sie, daß es den meisten Leuten besser geht als Ihnen?\n\nGesamtpunktzahl: ___ /15 Punkten\n\n## Die Depression im Alter – Skala (DIA-S)\n\nEmpfohlene Instruktion: Es geht um die Stimmung; Antwort mit Ja, wenn eine Aussage zutrifft, mit Nein, wenn nicht. Bezugszeitraum: die letzten 14 Tage überwiegend.\n\nItems (Auswahl):\n- 01 Ich fühle mich bedrückt\n- 02 Ich habe Angst, dass ich etwas falsches sagen oder tun könnte\n- 03 Ich kann mich gut entspannen\n- 04 Mein Leben kommt mir sinnlos vor\n- 05 Es fällt mir schwer, mich aufzuraffen\n- 06 Ich habe Angst vor der Zukunft\n- 07 Ich kann mein Leben genießen, auch wenn mir manches schwerer fällt\n- 08 Ich fühle mich durch Schwierigkeiten leicht überfordert\n- 09 Ich muss viel grübeln\n- 10 Ich bin grundsätzlich mit meinem Leben zufrieden\n\nSumme (Anzahl der Vierecke)\n\n### Auswertung:\n- 0–2 Punkte: unauffällige Stimmung\n- ab 3 Punkten: Depressionsverdacht\n- ab 4 Punkten: eine Depression von Krankheitswert ist wahrscheinlich",
+      "figures": [
+        {
+          "caption": "Geriatrische Depressionsskala (GDS), 15-Fragen-Kurzfassung nach Yesavage et al.",
+          "shows": "Fragebogen mit 15 ja/nein-Items zur depressiven Symptomatik im Alter, Gesamtpunktzahl aus 15",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Die Depression im Alter – Skala (DIA-S)",
+          "shows": "10-Item-Fragebogen (Ja/Nein) mit Instruktion (Bezugszeitraum 14 Tage) und Auswertung: 0–2 unauffällig, ab 3 Depressionsverdacht, ab 4 Depression wahrscheinlich",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "GDS: 15-Fragen-Kurzfassung nach Yesavage et al., Antwortformat ja/nein",
+        "DIA-S: 10 Items, Bezugszeitraum letzte 14 Tage",
+        "DIA-S Auswertung: 0–2 unauffällig, ab 3 Depressionsverdacht, ab 4 Depression von Krankheitswert wahrscheinlich"
+      ]
+    },
+    {
+      "gidx": 55,
+      "source": "skl-psychiatrie p.55",
+      "slide_title": "Symptomatik",
+      "type": "inhalt",
+      "notes_md": "## Symptomatik (Altersdepression)\n\n### Körperliche Symptome:\n- (Klagen über) somatische Beschwerden wie Kopfschmerzen, Herzbeschwerden, Magenbeschwerden (sogenannte lavierte Depression) – kann die Diagnostik des/der Hausärzt:in erschweren\n- Druck auf der Brust, Hitzewallungen, Gesichtsröte\n- Brennen im Gesicht, Brustbereich & Armen\n- (Klagen über) Schweregefühl in den Armen & Beinen\n- Schlafstörungen & Zerschlagenheit (Durchschlafstörungen, morgendliches Früherwachen)\n- Erstarrte Mimik, Mutismus\n\n### Soziale Aspekte\n- Sozialer Rückzug (im Haus, ins Zimmer, auf das Sofa, das Bett)\n- Rückgang persönlicher Interessen (Hobbys, Sport, Seniorennachmittage)\n- Rückzug aus der Familie, dem Freundeskreis, mangelndes Interesse an persönlichen Kontakten\n- Vernachlässigung von Alltagspflichten, wie Kochen, Putzen, Körperpflege, des eigenen Äußeren\n- Klagen und Jammern\n\n### Emotionale Aspekte\n- Innere Leere, Versteinern, „emotional tot sein“\n- Antriebslosigkeit, Schweregefühl des Körpers\n- „morgentief“, Angst vor dem Tag, eventuell leichte Besserung zum Abend hin\n- Verlust der emotionalen Schwingungsfähigkeit\n- Diffuse Angstgefühle: Angst vor dem Altwerden/Altsein, Abhängigkeit & Autonomieverlust, Angst vor dem Tod\n- Gefühl, eine Belastung zu sein\n- Regression",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Lavierte Depression: somatische Beschwerden (Kopf-, Herz-, Magenbeschwerden) können die Diagnostik erschweren",
+        "Typisch: „Morgentief“ mit leichter Besserung zum Abend hin",
+        "Sozialer Rückzug, Vernachlässigung von Alltagspflichten, Antriebslosigkeit und diffuse Angstgefühle (Altwerden, Abhängigkeit, Tod)"
+      ]
+    },
+    {
+      "gidx": 56,
+      "source": "skl-psychiatrie p.56",
+      "slide_title": "Demenzielle Erkrankungen",
+      "type": "inhalt",
+      "notes_md": "## Demenzielle Erkrankungen\n\n- Diagnose regulär über ICD-10 oder 11 oder DSM-V\n  - ICD-10: F00 – F04\n  - ICD-11: 06 Psychische Störungen – Neurokognitive Störungen (6D80-6D86, 6D8Y&6D8Z)\n  - DSM-V: neurokognitive Störung (leicht/schwer)\n- Diagnostik erfolgt regulär über ein/eine Ärzt:in oder eine/n (Geronto)psychiater:in\n- Wichtig ist die Unterscheidung Demenzieller Erkrankungen z.B. in:\n  - Primäre degenerative Demenz\n  - Sekundäre Demenz\n- Es gibt nicht „die Demenz“ – es ist keine eigene Krankheit, sondern ein Syndrom (Kombination bestimmter Symptome)",
+      "figures": [],
+      "eingrenzung_hits": [11, 12],
+      "key_facts": [
+        "ICD-10: F00–F04; ICD-11: 06 Neurokognitive Störungen (6D80-6D86, 6D8Y&6D8Z); DSM-V: neurokognitive Störung (leicht/schwer)",
+        "Unterscheidung: primäre degenerative Demenz vs. sekundäre Demenz",
+        "Demenz ist keine eigene Krankheit, sondern ein Syndrom (Kombination bestimmter Symptome)"
+      ]
+    },
+    {
+      "gidx": 57,
+      "source": "skl-psychiatrie p.57",
+      "slide_title": "Demenzarten & Demenzformen",
+      "type": "inhalt",
+      "notes_md": "## Demenzarten & Demenzformen\n\n### Primäre degenerative Demenz\n- Krankheitsprozess beginnt direkt im Gehirn – Verlust von Nervenzellen\n- Rund 91% aller Demenzerkrankungen\n  - Vaskuläre (gefäßbedingte) Demenz\n  - Morbus Alzheimer, Typ 1 (späte Form), Typ 2 (früher Beginn)\n  - Lewy-Körperchen-Demenz\n  - Morbus Pick (Frontaltemporale Demenz)\n- Nach heutigem Kenntnisstand nicht heilbar\n\n### Sekundäre Demenz\n- Krankheit entsteht auf Grund einer anderen Grunderkrankung\n- Rund 9% aller Demenzerkrankungen\n  - Lues, mit Befall der Hirngefäße (Syphilis)\n  - Morbus Parkinson\n  - Tumore\n  - Kopfverletzungen (z.B. bei Boxer:innen)\n  - Exsikkose (Austrockenen des Körpers durch Flüssigkeitsverlust)\n  - Internistische Grunderkrankungen\n  - Reversible Formen, z.B. bei Alkohol-, Drogen-, Medikamentenintoxikation\n- je nach zugrundeliegender Erkrankung & Stadium möglicherweise teilweise umkehrbar",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Primäre degenerative Demenz: rund 91% aller Demenzerkrankungen, beginnt direkt im Gehirn, nicht heilbar",
+        "Zur primären degenerativen Demenz zählen: vaskuläre Demenz, Morbus Alzheimer (Typ 1 spät/Typ 2 früh), Lewy-Körperchen-Demenz, Morbus Pick (frontaltemporale Demenz)",
+        "Sekundäre Demenz: rund 9%, Folge einer Grunderkrankung (u.a. Lues, Morbus Parkinson, Tumore, Exsikkose, Intoxikationen), teilweise umkehrbar"
+      ]
+    },
+    {
+      "gidx": 58,
+      "source": "skl-psychiatrie p.58",
+      "slide_title": "Demenzformen und -beschreibungen",
+      "type": "inhalt",
+      "notes_md": "## Demenzformen und -beschreibungen\n\n| Merkmal | Alzheimer Demenz | Frontotemporale Demenz | Vaskuläre Demenz | Lewy-Körperchen-Demenz |\n|---|---|---|---|---|\n| **Hauptmerkmale** | Störungen des Gedächtnisses und der Orientierung; Veränderungen der Wahrnehmung | Veränderungen der Persönlichkeit und des zwischenmenschlichen Verhaltens | Verlangsamung; Denkschwierigkeiten; Stimmungslabilität | optische Halluzinationen; leichte Parkinsonsymptomatik; starke Schwankungen der geistigen Leistungsfähigkeit und der Aufmerksamkeit |\n| **Beginn** | meist im späteren Lebensalter; Alter ist das größte Risiko | durchschnittliches Erkrankungsalter: 50–60 Jahre | meist im späteren Lebensalter; manchmal plötzlicher Beginn | meist nach dem 65. Lebensjahr |\n| **Ursache** | Nervenzelluntergang im gesamten Gehirn | Nervenzelluntergang in den Stirn- und Schläfenlappen | Durchblutungsstörungen im Gehirn; Bluthochdruck ist wichtigster Risikofaktor | Ablagerungen im Zellinneren (Lewy-Körperchen) |\n| **Häufigkeit** | häufigste Form, etwa zwei Drittel der an Demenz Erkrankten | 3–6 Prozent; bei den unter 65-Jährigen eine häufige Form | zweithäufigste Form | seltenere Form, etwa 5 Prozent der an Demenz Erkrankten |",
+      "figures": [
+        {
+          "caption": "Tabelle: Demenzformen und -beschreibungen",
+          "shows": "Vergleichstabelle der vier Demenzformen (Alzheimer, frontotemporal, vaskulär, Lewy-Körperchen) nach Hauptmerkmalen, Beginn, Ursache und Häufigkeit",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Alzheimer Demenz: häufigste Form (ca. zwei Drittel), Gedächtnis-/Orientierungsstörungen, Nervenzelluntergang im gesamten Gehirn",
+        "Frontotemporale Demenz: Erkrankungsalter 50–60 Jahre, Persönlichkeitsveränderungen, Nervenzelluntergang in Stirn- und Schläfenlappen",
+        "Vaskuläre Demenz: zweithäufigste Form, Durchblutungsstörungen, Bluthochdruck wichtigster Risikofaktor",
+        "Lewy-Körperchen-Demenz: ca. 5%, optische Halluzinationen, Parkinsonsymptomatik, Lewy-Körperchen-Ablagerungen"
+      ]
+    },
+    {
+      "gidx": 59,
+      "source": "skl-psychiatrie p.59",
+      "slide_title": "Diagnosekriterien",
+      "type": "inhalt",
+      "notes_md": "## Diagnosekriterien\n\nBei allen Formen liegt ein sogenanntes Demenzsyndrom vor:\n- der Betroffene ist bei klarem Bewusstsein,\n- das Syndrom besteht schon längere Zeit (mindestens sechs Monate) &\n- es treten spezifische Symptome auf.\n\n### Abnahme der Gedächtnisleistung\n- Beeinträchtigungen im alltäglichen Leben\n- Anfangs vor allem Beeinträchtigung des Kurzzeitgedächtnisses\n- Bei schweren Verläufen auch Störung des Langzeitgedächtnisses mit Beeinträchtigungen beim Sicherinnern an frühere Elemente\n\n### Abnahme der kognitiven Fähigkeiten\n- Verminderung der Urteilsfähigkeit & der Fähigkeit zu planen, zu handeln, zu organisieren\n- Zu Beginn Einschränkungen in der Ausführung von komplizierten Tätigkeiten\n- Im Verlauf mögliche Abhängigkeit von anderen Personen auch bei einfachen Tätigkeiten (Anziehen, Waschen, Essen, Körperhygiene...)\n\n### Verminderung der Affektkontrolle & des Antriebes oder Veränderungen des Sozialverhaltens\n- Emotionale Labilität\n- Reizbarkeit\n- Apathie\n- Vergröberung der Persönlichkeitszüge",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Demenzsyndrom: klares Bewusstsein, Dauer mindestens sechs Monate, spezifische Symptome",
+        "Drei Symptombereiche: Abnahme der Gedächtnisleistung, Abnahme der kognitiven Fähigkeiten, Verminderung der Affektkontrolle/Antrieb bzw. Veränderungen des Sozialverhaltens",
+        "Anfangs Kurzzeitgedächtnis beeinträchtigt, bei schweren Verläufen auch Langzeitgedächtnis"
+      ]
+    },
+    {
+      "gidx": 60,
+      "source": "skl-psychiatrie p.60",
+      "slide_title": "Weitere diagnostische Merkmale & Verlauf der Demenz",
+      "type": "inhalt",
+      "notes_md": "Ein weiteres Merkmal, welches die Diagnostik unterstützen kann ist die Abnahme weiterer höherer kortikaler Funktionen, die zu:\n- Aphasie (Sprachstörung),\n- Agnosie (Wahrnehmungsstörung [im weitesten Sinne])\n- und Apraxie (Beeinträchtigung der Fähigkeit motorische Aktivitäten auszuführen) führt.\n\n- Zum Teil sind auch wahnhafte, halluzinatorische oder depressive Symptome möglich.\n\nDemenz ist irreversibel; je nach Ursache kann der Verlauf variieren.\n\nBei fortschreitender Verschlechterung kommt es zu Beeinträchtigungen in sämtlichen Lebensbereichen bis hin zu sozialem Rückzug, Apathie und Persönlichkeitsveränderungen.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Abnahme höherer kortikaler Funktionen: Aphasie, Agnosie, Apraxie",
+        "Begleitend möglich: wahnhafte, halluzinatorische oder depressive Symptome",
+        "Demenz ist irreversibel; Verlauf variiert je nach Ursache, endet in Beeinträchtigungen sämtlicher Lebensbereiche"
+      ]
+    }
+  ]
+}

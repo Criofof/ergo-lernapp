@@ -1,0 +1,189 @@
+{
+  "batch": "8",
+  "pages": [
+    {
+      "gidx": 85,
+      "source": "skl-psychiatrie p.85",
+      "slide_title": "Psychopharmaka",
+      "type": "inhalt",
+      "notes_md": "## Psychopharmaka\n\n- Psychopharmaka sind natürliche oder synthetische Substanzen, die mehr oder weniger spezifisch die Wirkung der Neurotransmitter beeinflussen können.\n- Nach den Vorstellungen der biologischen Psychiatrie verändern sie das gestörte Gleichgewicht der Überträgerstoffe zwischen den Neuronen.\n- Als Wirkmechanismen sind z.B. die **Wiederaufnahmehemmung** in das präsynaptische Neuron, die **Blockade der Rezeptorbindungsstellen** am postsynaptischen Neuron oder die **Hemmung des Abbaus** im synaptischen Spalt bekannt.\n\n- Es gehört zu den Mythen, dass Psychopharmaka das Ziel haben, die Persönlichkeit zu verändern. Richtig eingesetzt, können sie krankheitsbedingt verändertes Verhalten, Empfinden, Wahrnehmen oder Denken günstig beeinflussen.\n- In aller Regel müssen sie jedoch Teil eines differenzierten Therapieplanes sein, der die nicht medikamentösen Therapieformen mit einbezieht.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Psychopharmaka beeinflussen die Wirkung der Neurotransmitter",
+        "Wirkmechanismen: Wiederaufnahmehemmung (präsynaptisch), Blockade der Rezeptorbindungsstellen (postsynaptisch), Hemmung des Abbaus im synaptischen Spalt",
+        "Mythos: Psychopharmaka verändern die Persönlichkeit",
+        "Psychopharmaka müssen Teil eines differenzierten Therapieplanes inkl. nicht-medikamentöser Therapieformen sein"
+      ]
+    },
+    {
+      "gidx": 86,
+      "source": "skl-psychiatrie p.86",
+      "slide_title": "Medikamente gegen Demenz",
+      "type": "inhalt",
+      "notes_md": "## Medikamente gegen Demenz\n\n- Mittel gegen Demenz oder Antidementiva verbessern die Hirnleistung.\n  - U.a. die Aufmerksamkeit, die Orientierung, die Gedächtnisfunktionen, das Konzentrations- und Auffassungsvermögen sowie das Urteils- und Denkvermögen\n- Generell sind die durch die Antidementiva erzielbaren Verbesserungen jedoch nicht sehr ausgeprägt und eher dazu geeignet, den Verlauf der Demenzerkrankung zu verzögern.\n\n- Die Behandlung ist symptomatisch; an der zugrunde liegenden Pathologie verändern sie nichts.\n  - Das bedeutet, dass sie auch nur eine zeitlich begrenzte Wirksamkeit zeigen.\n  - Diese Wirksamkeit ist zudem unterschiedlich stark belegt.\n  - Substanzen sind z.B. Acetylcholinesterasehemmer, Memantin und Ginkgo biloba.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Antidementiva verbessern die Hirnleistung (Aufmerksamkeit, Orientierung, Gedächtnis, Konzentration, Urteils- und Denkvermögen)",
+        "Wirkung eher gering; geeignet, den Verlauf der Demenzerkrankung zu verzögern",
+        "Behandlung ist symptomatisch, Pathologie bleibt unverändert; zeitlich begrenzte, unterschiedlich stark belegte Wirksamkeit",
+        "Substanzen: Acetylcholinesterasehemmer, Memantin, Ginkgo biloba"
+      ]
+    },
+    {
+      "gidx": 87,
+      "source": "skl-psychiatrie p.87",
+      "slide_title": "Antidementiva: Substanzen, Handelsnamen, Kontraindikationen und unerwünschte Wirkungen (Tabelle)",
+      "type": "inhalt",
+      "notes_md": "## Tabelle: Antidementiva\n\n| Substanz | Handelsnamen (Beispiele) | ausgewählte Kontraindikationen und Anwendungsbeschränkungen | ausgewählte unerwünschte Wirkungen |\n|---|---|---|---|\n| Acetylcholinesterasehemmer | Aricept, Exelon, Reminyl | Bradykardie, schwere Leberinsuffizienz, Magengeschwür, Asthma bronchiale | Übelkeit, Erbrechen, Diarrhö, Obstipation, abdominelle Schmerzen, Schwindel, Bradykardie, Muskelkrämpfe, Müdigkeit, Schlaflosigkeit, Unruhe, Zunahme der Verwirrtheit, Tremor, depressive Stimmungslage |\n| Glutamat-Modulator (Memantin) | Axura, Ebixa | schwere Störungen der Nierenfunktion, Epilepsie | Halluzinationen, Verwirrtheit, Kopfschmerzen, Schwindel, Müdigkeit, Angstzustände, Erbrechen, erhöhter Muskeltonus, Krampfanfälle, gesteigerte Libido |\n| Ginkgo Biloba | Gingium, Rökan, Tebonin | in Kombination mit blutgerinnungshemmenden Medikamenten | Magen-Darm-Beschwerden, allergische Hautreaktionen, Blutungen |",
+      "figures": [
+        {
+          "caption": "Tabelle: Antidementiva — Substanzen, Handelsnamen, Kontraindikationen und unerwünschte Wirkungen",
+          "shows": "Vier-Spalten-Tabelle zu Acetylcholinesterasehemmern, Glutamat-Modulator (Memantin) und Ginkgo Biloba mit Handelsnamen, Kontraindikationen und Nebenwirkungen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Acetylcholinesterasehemmer (Aricept, Exelon, Reminyl): Kontraindikationen u.a. Bradykardie, schwere Leberinsuffizienz, Magengeschwür, Asthma bronchiale",
+        "Glutamat-Modulator Memantin (Axura, Ebixa): Kontraindikationen schwere Nierenfunktionsstörungen, Epilepsie",
+        "Ginkgo Biloba (Gingium, Rökan, Tebonin): nicht in Kombination mit blutgerinnungshemmenden Medikamenten; UAW u.a. Blutungen"
+      ]
+    },
+    {
+      "gidx": 88,
+      "source": "skl-psychiatrie p.88",
+      "slide_title": "Medikamente gegen affektive Störungen",
+      "type": "inhalt",
+      "notes_md": "## Medikamente gegen affektive Störungen\n\n- Antidepressiva gelten als das Mittel der Wahl bei depressiven Episoden. Daneben beeinflussen sie auch Angst-, Zwangs- oder Schmerzsymptome günstig.\n- Antidepressiva werden zum einen nach ihrer chemischen Struktur, zum anderen nach ihrem Wirkmechanismus unterschieden.\n  - Zu den Ersteren zählen die tri- und tetrazyklischen Antidepressiva (TZA),\n  - zu den Letzteren die selektiven Serotoninwiederaufnahmehemmer (engl. SSRI)\n  - oder die Monoaminooxidasehemmer (MAO-H).\n\n- Für den alten Menschen gelten mittlerweile die neueren Antidepressiva\n  - wie die SSRI als Mittel der ersten Wahl.\n  - Dies ist v.a. durch das günstigere Nebenwirkungsprofil begründet.\n  - Das heißt aber nicht, dass in ausgewählten Einzelfällen nicht auf die zwar nebenwirkungsreicheren, aber gut erprobten TZA zurückgegriffen werden kann.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Antidepressiva = Mittel der Wahl bei depressiven Episoden; wirken auch günstig bei Angst-, Zwangs- und Schmerzsymptomen",
+        "Einteilung nach chemischer Struktur (tri-/tetrazyklische Antidepressiva, TZA) oder Wirkmechanismus (SSRI, MAO-Hemmer)",
+        "Beim alten Menschen sind neuere Antidepressiva wie SSRI Mittel der ersten Wahl (günstigeres Nebenwirkungsprofil)",
+        "In Einzelfällen Rückgriff auf nebenwirkungsreichere, aber gut erprobte TZA möglich"
+      ]
+    },
+    {
+      "gidx": 89,
+      "source": "skl-psychiatrie p.89",
+      "slide_title": "Nebenwirkungen: TZA, SSRI/SNRI und reversible MAO-H (Tabelle)",
+      "type": "inhalt",
+      "notes_md": "## Tabelle: Nebenwirkungen von Antidepressiva\n\n| Nebenwirkungen | TZA | SSRI/SNRI | reversible MAO-H |\n|---|---|---|---|\n| kardiovaskulär | QTc-Zeit-Verlängerung, Tachykardie, Verstärkung pektanginöser Beschwerden, Herzrhythmusstörungen, orthostatische Hypotonie | QTc-Zeit-Verlängerung | Hypertonie |\n| zentrales Nervensystem/Psyche | Konzentrationsstörungen, Unruhe, Sedierung, Verstärkung manischer Symptome, Verwirrtheit bis hin zum Delir (Bewusstseinslage!), Schwindel, Tremor, Myoklonien, generalisierte epileptische Anfälle, sexuelle Dysfunktion | Unruhe, Schlafstörungen, Kopfschmerzen, Tremor, sexuelle Dysfunktion, Hyponatriämie | Unruhe, Schlafstörungen, Kopfschmerzen, Ängste, Verstärkung psychotischer oder manischer Symptome |\n| Auge | verschwommenes Sehen, Glaukomanfall, reduzierte Tränenflüssigkeit | – | – |\n| Magen-Darm-Trakt | trockener Mund, in Folge: Schluckstörungen, Parotitis, Candidainfektion; reaktive, vermehrte Flüssigkeitsaufnahme; Gewichtszunahme; Verschlechterung einer diabetischen Stoffwechsellage; Obstipation bis hin zu paralytischem Ileus | Übelkeit, Erbrechen, Durchfälle, selten auch Obstipation, abdominelle Beschwerden, Gewichtsverlust, aber auch -zunahme, gastrointestinale Blutungen | Übelkeit, Erbrechen, Durchfälle, selten auch Obstipation, abdominelle Beschwerden |\n| ableitende Harnwege | Harnverhalt | – | – |\n| Haut | trockene Haut, allergisches Exanthem | – | – |",
+      "figures": [
+        {
+          "caption": "Tabelle: Nebenwirkungen von TZA, SSRI/SNRI und reversiblen MAO-Hemmern",
+          "shows": "Vergleichstabelle der Nebenwirkungen nach Organsystemen (kardiovaskulär, ZNS/Psyche, Auge, Magen-Darm-Trakt, ableitende Harnwege, Haut)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "TZA: u.a. QTc-Verlängerung, orthostatische Hypotonie, Sedierung, Delir, Glaukomanfall, trockener Mund, Harnverhalt, Gewichtszunahme",
+        "SSRI/SNRI: u.a. Unruhe, Schlafstörungen, sexuelle Dysfunktion, Hyponatriämie, gastrointestinale Blutungen",
+        "Reversible MAO-H: Hypertonie, Unruhe, Schlafstörungen, Verstärkung psychotischer/manischer Symptome"
+      ]
+    },
+    {
+      "gidx": 90,
+      "source": "skl-psychiatrie p.90",
+      "slide_title": "Medikamente gegen Angst",
+      "type": "inhalt",
+      "notes_md": "## Medikamente gegen Angst\n\n- Angstlösende (anxiolytische) Medikamente wirken überwiegend auf den Rezeptor der γ-Aminobuttersäure (engl. GABA).\n- Sie gehören zu den weit verbreiteten Substanzen und werden häufig verordnet.\n- Die größte Gruppe stellen die Benzodiazepine dar.\n  - ! Vorsicht erhöhte Abhängigkeitspotenzial\n    - Sie sollten deshalb nur kontrolliert und für eine begrenzte Zeit verschrieben werden.\n  - Alle Benzodiazepine wirken darüber hinaus mehr oder weniger stark muskelrelaxierend, was die Sturzgefahr beträchtlich erhöht.\n  - Im Alter besitzen sie nicht selten eine paradoxe Wirkung mit ausgeprägter Unruhe und Erregung.\n\n- Neben den Benzodiazepinen stehen Antidepressiva (v.a. die SSRI) sowie die Einzelsubstanzen Buspiron und das Trizyklikum Opipramol zur Behandlung von Angst im Alter zur Verfügung.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Anxiolytika wirken überwiegend am GABA-Rezeptor",
+        "Größte Gruppe: Benzodiazepine — erhöhtes Abhängigkeitspotenzial, nur kontrolliert und zeitlich begrenzt verordnen",
+        "Benzodiazepine: muskelrelaxierende Wirkung erhöht Sturzgefahr; im Alter paradoxe Wirkung (Unruhe, Erregung) möglich",
+        "Alternativen: Antidepressiva (v.a. SSRI), Buspiron, Trizyklikum Opipramol"
+      ]
+    },
+    {
+      "gidx": 91,
+      "source": "skl-psychiatrie p.91",
+      "slide_title": "Anxiolytika: Substanzen, Handelsnamen, Halbwertszeit und Dosierung (Tabelle)",
+      "type": "inhalt",
+      "notes_md": "## Tabelle: Medikamente gegen Angst\n\n| Substanzen | Handelsnamen (Beispiele) | Halbwertszeit | Dosierungsbereich (Tagesdosis) |\n|---|---|---|---|\n| **Benzodiazepine: bei akutem Angstzustand oder Panikattacke** ||||\n| Alprazolam | Tafil, Xanax | 12–20 h | 0,25–2 mg (–4 mg) |\n| Bromazepam | Bramazanil, Durazanil, Lexotanil, Normoc | 10–20 h | 1,5–6 mg |\n| Diazepam | Valium | 20–40 h | 2–15 mg |\n| Lorazepam | Tavor | 10–20 h | 0,5–3 mg (–4 mg) |\n| Oxazepam | Adumbran, Praxiten | 5–20 h | 10–30 mg |\n| **Antidepressiva: bei rezidivierenden Angst- oder Panikattacken** ||||\n| Escitalopram | Cipralex | | 5–10 mg (–20 mg) |\n| Citalopram | Cipramil | | 10–20 mg (–40 mg) |\n| Venlafaxin | Trevilor | | 75–300 mg |\n| **SSRI oder sonstige Anxiolytika: bei Angst- oder Panikstörung, generalisierter Angststörung und aktuell rezidivierenden Angstzuständen** ||||\n| Escitalopram | Cipralex | | 5–10 mg (–20 mg) |\n| Venlafaxin | Trevilor | | 75–300 mg |\n| Opipramol | Insidon | | 50–150 mg (–300 mg) |\n| Pregabalin | Lyrica | | 25–150 mg (–300 mg) |",
+      "figures": [
+        {
+          "caption": "Tabelle: Anxiolytika — Substanzen, Handelsnamen, Halbwertszeit und Tagesdosis",
+          "shows": "Übersicht der Benzodiazepine (bei akutem Angstzustand/Panikattacke), Antidepressiva (bei rezidivierenden Angst-/Panikattacken) sowie SSRI und sonstige Anxiolytika (bei Angst-/Panikstörung, generalisierter Angststörung) mit Dosierungsbereichen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Benzodiazepine (Alprazolam, Bromazepam, Diazepam, Lorazepam, Oxazepam): bei akutem Angstzustand oder Panikattacke",
+        "Antidepressiva (Escitalopram, Citalopram, Venlafaxin): bei rezidivierenden Angst- oder Panikattacken",
+        "SSRI/sonstige Anxiolytika (Escitalopram, Venlafaxin, Opipramol, Pregabalin): bei Angst-/Panikstörung und generalisierter Angststörung",
+        "Halbwertszeiten der Benzodiazepine: 5–40 h (Diazepam am längsten: 20–40 h)"
+      ]
+    },
+    {
+      "gidx": 92,
+      "source": "skl-psychiatrie p.92",
+      "slide_title": "Medikamente gegen Schlafstörungen",
+      "type": "inhalt",
+      "notes_md": "## Medikamente gegen Schlafstörungen\n\n- Störungen des Schlafes treten im Alter häufig auf.\n- Sie können hartnäckig anhalten oder periodisch verstärkt auftreten.\n- Neben der Therapie mit schlaffördernden Medikamenten (**Hypnotika**) bieten sich zahlreiche ergänzende Interventionen an.\n- Bevor Medikamente zum Einsatz kommen, sollten Versuche unternommen werden, ob der Schlaf nicht durch andere regulatorische Mittel gefördert werden kann.\n\n- Als schlaffördernde Medikamente stehen zur Verfügung:\n  - Nichtbenzodiazepinhypnotika\n  - Benzodiazepine\n  - niederpotente Antipsychotika\n  - sedierende Antidepressiva",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Schlafstörungen treten im Alter häufig auf; hartnäckig oder periodisch verstärkt",
+        "Hypnotika = schlaffördernde Medikamente; ergänzende Interventionen und nicht-medikamentöse regulatorische Mittel zuerst prüfen",
+        "Verfügbare Gruppen: Nichtbenzodiazepinhypnotika, Benzodiazepine, niederpotente Antipsychotika, sedierende Antidepressiva"
+      ]
+    },
+    {
+      "gidx": 93,
+      "source": "skl-psychiatrie p.93",
+      "slide_title": "Vielen Dank für die Aufmerksamkeit und Mitarbeit",
+      "type": "deko",
+      "notes_md": "## Vielen Dank für die Aufmerksamkeit und Mitarbeit\n\nAbschlussfolie ohne Fachinhalt (Ludwig Fresenius Schulen).",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 94,
+      "source": "skl-psychiatrie p.94",
+      "slide_title": "Quellen",
+      "type": "quelle",
+      "notes_md": "## Quellen\n\n- Altersdepression » Diagnostik ». (o. D.). https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/altersdepression/diagnostik/\n- betanet. (2019, 15. August). Gerontopsychiatrische Einrichtungen. https://www.betanet.de.\n- Depression im Alter - Stiftung Deutsche Depressionshilfe. (o. D.). https://www.deutsche-depressionshilfe.de/depression-infos-und-hilfe/depression-in-verschiedenen-facetten/depression-im-alter\n- Gerontopsychiatrie - GDA. (o. D.). https://www.gda.de/leben-im-alter/ratgeber/pflegelexikon/erklaerung/begriff/gerontopsychiatrie\n- Wortbedeutung.info Wörterbuch 2022. (2022). Gerontopsychiatrie. Wortbedeutung.info.\n- Flöer, C. (2022, 24. November). Demenzielle Krankheiten. pflege.de. https://www.pflege.de/krankheiten/demenz/frontotemporale-demenz/\n- Andere Demenzformen. (2021, 17. Februar). AlzheimerNRW. https://alzheimer-nrw.de/demenz/andere-demenzformen/\n- Die Alzheimer Krankheit. (2021, 15. Februar). AlzheimerNRW. https://alzheimer-nrw.de/demenz/die-alzheimer-krankheit/\n- Redaktion: BMBF LS5 Internetredaktion. (2021, 14. April). Demenz bei Parkinson-Erkrankten besser erkennen und verhindern - DLR Gesundheitsforschung. Deutsche Zentrum für Luft und Raumfahrt e.V. - DLR Gesundheitsforschung. https://www.gesundheitsforschung-bmbf.de/de/demenz-bei-parkinson-erkrankten-besser-erkennen-und-verhindern-13145.php\n- Kriterien und Diagnose der Demenz vom Alzheimer-Typ - Neurologie - Georg Thieme Verlag. (o. D.). Thieme. https://www.thieme.de/de/neurologie/kriterien-diagnose-demenz-vom-alzheimer-typ-141764.htm\n- Skript Kristina Nitsche",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 95,
+      "source": "skl-psychiatrie p.95",
+      "slide_title": "Ausbildungsorte Ludwig Fresenius Schulen",
+      "type": "deko",
+      "notes_md": "## Ausbildungsorte\n\nDeutschlandkarte mit Standorten. Ausbildungsorte: Bad Hersfeld, Berlin, Bochum, Celle, Chemnitz, Dortmund, Düsseldorf, Erfurt, Hamburg, Frankfurt, Hamburg, Handewitt, Hannover, Herten, Idstein, Koblenz, Köln, Landshut, Leer, Leipzig, Lippstadt, Lübeck, Marburg, Melle, Minden, Mühlhausen, München, Nürnberg, Oldenburg, Osnabrück, Schönebeck, Stadthagen, Weyhe, Wolfsburg, Zwickau.\n\nKontakt: Ludwig Fresenius Schulen, Stadt, Straße · PLZ Stadt, Telefon: XX XX / XX XXX XXX, Fax: XX XX / XX XXX XXX, xx@ludwig-fresenius.de, www.ludwig-fresenius.de",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 96,
+      "source": "skl-psychiatrie p.96",
+      "slide_title": "Was verstehen wir unter Sucht? (Fachartikel)",
+      "type": "quelle",
+      "notes_md": "## Was verstehen wir unter Sucht?\n\nFachartikel aus dem Bundesgesundheitsblatt 2010 · 53:267–270, DOI 10.1007/s00103-010-1034-y (online publiziert 26. Februar 2010, © Springer-Verlag 2010).\nAutoren: C. Haasen · A. Kutzer · I. Schäfer, Klinik für Psychiatrie und Psychotherapie, Universitätsklinikum Hamburg-Eppendorf, Hamburg. Leitthema: Sucht.\n\n### Suchtbegriff\n\n- Der Begriff „Sucht“, etymologisch abstammend vom gotischen Wort „suikan“, geht auf das Verb „siechen“ zurück. Gleichbedeutend mit dem lateinischen „morbus“ bedeutet es krank sein und war ursprünglich die generelle Bezeichnung für jede körperliche Krankheit, die nicht durch Unfälle oder Verletzungen herbeigeführt wurde.\n- Im 16. Jahrhundert wurde „Sucht“ zunehmend von den Begriffen „Krankheit“, „Seuche“ und „Siechtum“ verdrängt und nur noch im Zusammenhang mit Verhaltensweisen moralischer oder religiöser Art, einem übersteigerten Hang oder einer die Persönlichkeit dominierenden destruktiven Tendenz genutzt.\n- Im 19. Jahrhundert wandelte sich die Bedeutung des Suchtbegriffes erneut. Es wurde zunehmend eine Monomanie damit verbunden, die das Denken und Handeln auf das Erreichen bestimmter Ziele konzentrierte. Durch „eine krankhafte Verformung von Vernunft und Willen“ erhielt die durch Beständig- und Maßlosigkeit auffallende Verhaltensweise zunehmend eine begriffsimmanente negative Bedeutung und wurde als „Resultat oder Ausdruck moralischer Schwäche und antisozialen Lebenswandels gesehen“.\n- Ebenfalls im 19. Jahrhundert wurde die Trunksucht, die bis dahin lediglich als Laster galt, erstmals von Medizinern erforscht, beschrieben und behandelt. Zurückgehend auf die Forschungen Benjamin Rushs im Jahre 1784, wurde Alkoholismus als Krankheit definiert. Diese Entwicklung stellte einen wichtigen Wendepunkt dar. Der Begriff „Sucht“ setzte sich in der Medizin zunehmend als Fachterminus für unterschiedliche stoffgebundene Substanzabhängigkeiten durch. Es folgte die Isolierung und Synthetisierung weiterer psychotroper Substanzen durch Chemiker und Pharmakologen. Die Folge waren weitere Abhängigkeiten und die Notwendigkeit, die gemeinsamen Merkmale dieser Phänomene zu erforschen und einen beschreibenden Sammelbegriff zu finden. Bereits Ende des 19. Jahrhunderts wurde neben drei psychotropen Süchten (Trunk-, Morphium- und Kokainsucht) die nicht stoffgebundene Spielsucht als eine der „vier besonders relevante[n] Suchtarten unterschieden“.\n- 1950 definierte die Weltgesundheitsorganisation (WHO) schließlich den Suchtbegriff. Diese erste Definition schloss hauptsächlich stoffgebundene Süchte ein, bei denen das Vorliegen einer körperlichen Abhängigkeit vorausgesetzt wurde. Die Folge waren Widersprüche zwischen wissenschaftlichen Befunden und politischen Vorgaben, die auch durch die 1957 eingeführte/nachgebesserte Unterscheidung zwischen sucht- und gewöhnungserzeugenden Stoffen nicht aufgelöst werden konnte. Nach Definition der WHO ist Sucht ein Zustand periodischer oder chronischer Intoxikation, verursacht durch wiederholten Gebrauch einer natürlichen oder synthetischen Substanz, der für das Individuum und die Gemeinschaft schädlich ist. 1964 ersetzten die Bezeichnungen der Abhängigkeit und des schädlichen Gebrauchs beziehungsweise des Missbrauchs schließlich den Suchtbegriff in den diagnostischen Manualen. Seitdem werden laut WHO verschiedene Formen der Abhängigkeit unterschieden.\n- Die Definitionen der WHO (International Classification of Diseases, ICD-10) sowie der American Psychiatric Association (APA; Diagnostic and Statistical Manual of Mental Disorders, DSM-IV) stellen heute die gängigsten Begriffsbestimmungen dar.\n\n### Diagnostische Kriterien\n\n- Die internationalen Klassifikationssysteme ICD-10 beziehungsweise DSM-IV definieren substanzgebundene Abhängigkeit als Abhängigkeitssyndrom (ICD-10) beziehungsweise als Substanzabhängigkeit (DSM-IV). Besondere Eigenschaften einer Abhängigkeit sind vor allem das Verlangen nach dem Suchtmittel und eine eingeschränkte Kontrolle über das Suchtverhalten, das trotz negativer Konsequenzen fortgesetzt wird. Beide Klassifikationssysteme beschreiben Syndrome, die beim Konsum psychotroper Substanzen von der Intoxikation unmittelbar nach dem Konsum bis hin zum schädlichen Gebrauch beziehungsweise Missbrauch und zum Abhängigkeitssyndrom reichen.\n- Beim Abhängigkeitssyndrom (ICD-10) handelt es sich um eine neurobiologische Störung, die sich nach wiederholter Einnahme psychotroper Substanzen entwickeln kann und durch verschiedene körperliche, verhaltensbezogene (behaviorale) und kognitive Phänomene gekennzeichnet ist. Charakteristisch für das Abhängigkeitssyndrom sind die Entwicklung von Entzugssymptomen sowie eine Toleranzentwicklung bis hin zu erheblichen körperlichen und psychischen Beeinträchtigungen. In beiden Klassifikationssystemen gilt Gewohnheitsbildung, also … (Seite 267, Artikel fortgesetzt).",
+      "figures": [],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Begriff „Sucht“ stammt vom gotischen „suikan“ / Verb „siechen“ ab (lat. morbus = krank sein)",
+        "1784: Alkoholismus durch Benjamin Rush als Krankheit definiert — Wendepunkt",
+        "WHO-Definition 1950: Sucht = Zustand periodischer oder chronischer Intoxikation durch wiederholten Gebrauch einer Substanz, schädlich für Individuum und Gemeinschaft; 1964 Ersatz durch „Abhängigkeit“ und „schädlicher Gebrauch/Missbrauch“",
+        "ICD-10: Abhängigkeitssyndrom; DSM-IV: Substanzabhängigkeit — Kern: Verlangen nach dem Suchtmittel und eingeschränkte Kontrolle trotz negativer Konsequenzen",
+        "Abhängigkeitssyndrom (ICD-10): neurobiologische Störung mit Entzugssymptomen und Toleranzentwicklung"
+      ]
+    }
+  ]
+}
