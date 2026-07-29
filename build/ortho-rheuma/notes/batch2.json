@@ -1,0 +1,255 @@
+{
+  "batch": "2",
+  "pages": [
+    {
+      "gidx": 13,
+      "source": "ortho-rheuma p.13",
+      "slide_title": "Discusprolaps — Anatomie des Bandscheibenvorfalls",
+      "type": "inhalt",
+      "notes_md": "## Discusprolaps\n\nDer Bandscheibenvorfall drückt auf den Inhalt des Wirbelkanals und/oder die Nervenwurzel.\n\n**Beschriftung der anatomischen Abbildung:**\n- 1 Rückenmark\n- 2 Hinterwurzel/Radix posterior\n- 3 Spinalganglion\n- 4 Vorderwurzel/Radix anterior\n- 5 Spinalnerv\n- 6 Faserring\n- 7 Degenerierter Gallertkern\n- 8 Wirbelkörper\n\n**Rechte Abbildung „Bandscheibenvorfall“:** eingeklemmter Nerv, Rückenmark, Spinalnerv, Faserring, Gallertkern, Wirbelkörper, Bandscheibe.\n\nQuelle: Krein-Nattrodt",
+      "figures": [
+        {
+          "caption": "Anatomische Skizze: Bandscheibenvorfall mit Nervenwurzel (beschriftet 1–8)",
+          "shows": "Sagittale Darstellung der Wirbelsäule mit Rückenmark, Hinter-/Vorderwurzel, Spinalganglion, Spinalnerv, Faserring, degeneriertem Gallertkern und Wirbelkörper",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Bandscheibenvorfall — eingeklemmter Nerv",
+          "shows": "Schematische Darstellung eines lumbalen Bandscheibenvorfalls mit Kompression des Spinalnerven, Faserring, Gallertkern, Wirbelkörper, Bandscheibe",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Bandscheibenvorfall drückt auf Inhalt des Wirbelkanals und/oder Nervenwurzel",
+        "Anatomie: Rückenmark, Radix posterior/anterior, Spinalganglion, Spinalnerv, Faserring, degenerierter Gallertkern, Wirbelkörper"
+      ]
+    },
+    {
+      "gidx": 14,
+      "source": "ortho-rheuma p.14",
+      "slide_title": "Discusprolaps — Sequester und Prolapsformen",
+      "type": "inhalt",
+      "notes_md": "## Discusprolaps\n\n### Discusprolpas und Sequester\n\n**Sequester:**\n- Wird der Gallertkern mit Teilen aus dem Faserring abgestoßen, spricht man von einem sequestrierten Bandscheibenvorfall.\n- Bandscheibensequester können entweder unter dem hinteren Längsband liegen und dieses in den Wirbelkanal vortreiben,\n- das hintere Längsband durchbrechen und in den Wirbelkanal hineinragen\n- oder frei im Wirbelkanal liegen\n\n### Formen\n**Bandscheibenvorfall:**\n- Vorfall nach medial, lateral oder mediolateral\n\n**lateraler Prolaps: Radikuläre Symptomatik**\n- wenn der Gallertkern seitlich wegrutscht und in die Zwischenwirbellöcher austritt\n- die Nervenwurzel der betreffenden Seite kann dabei bedrängt werden, was einseitige Beschwerden/Parästhesien, Paresen, Plegien verursachen kann\n\n**medialer Prolaps:** Symptomatik eines inkompletten oder kompletten Querschnittssymptoms\n- der Gallertkern der Bandscheibe tritt hier mittig nach hinten in Richtung Spinalkanal aus und kann auf das Rückenmark drücken\n- mediale Bandscheibenvorfälle sind seltener als laterale\n\n**mediolateraler Prolaps:**\n- In den meisten Fällen lautet die Diagnose jedoch „mediolateraler Bandscheibenvorfall“.\n- das Gewebe des Gallertkerns tritt hier zwischen Zwischenwirbellöchern und Spinalkanal aus\n\nQuelle: Krein-Nattrodt",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Sequester = abgestoßener Gallertkern mit Faserringteilen; Lage subligamentär, nach Durchbruch des hinteren Längsbandes oder frei im Wirbelkanal",
+        "lateraler Prolaps → radikuläre Symptomatik (einseitige Parästhesien, Paresen, Plegien)",
+        "medialer Prolaps → Querschnittssymptomatik, seltener als lateral",
+        "häufigste Diagnose: mediolateraler Bandscheibenvorfall"
+      ]
+    },
+    {
+      "gidx": 15,
+      "source": "ortho-rheuma p.15",
+      "slide_title": "Discusprolaps — Lokalisation, Ursachen und Risikofaktoren",
+      "type": "inhalt",
+      "notes_md": "## Discusprolaps\n\n### Bandscheibenvorfälle können in allen drei Abschnitten der Wirbelsäule auftreten:\n- als zervikaler Bandscheibenvorfall\n- als thorakaler Bandscheibenvorfall, sehr selten\n- als lumbaler Bandscheibenvorfall findet sich in den meisten Fällen im unteren Lendenwirbelbereich, weil das Körpergewicht einen starken Druck auf die Wirbel und Bandscheiben ausübt\n\n### Ursachen und Risikofaktoren:\n- ist meist eine alters- und belastungsbedingte Schwäche des Bindegewebsrings der Bandscheibe: Bei großer Belastung reißt der Bindegewebsring ein. Der Gallertkern kann teilweise austreten und dabei auf eine Nervenwurzel oder das Rückenmark drücken.\n- Bewegungsmangel\n- Übergewicht/Adipositas\n- Insuffizienz der Bauch- und Rückenmuskeln — Dies fördert eine Fehlbelastung der Bandscheiben, da nur eine starke Rumpfmuskulatur die Wirbelsäule entlastet.\n- Rumpfverletzungen, beispielsweise durch einen Treppensturz oder Verkehrsunfall, sind nur selten die Ursache eines Bandscheibenvorfalls.\n- Fehl- oder Überbelastungen der Wirbelsäule, etwa beim Heben schwerer Gegenstände\n- Rotationsbelastungen der LWS\n- Schwangerschaft\n- Osteoporose\n\nQuelle: Krein-Nattrodt",
+      "figures": [
+        {
+          "caption": "MRT-Bilder der LWS mit Bandscheibenvorfall",
+          "shows": "Zwei sagittale MRT-Aufnahmen der Lendenwirbelsäule mit markiertem Bandscheibenvorfall",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [9, 11],
+      "key_facts": [
+        "Bandscheibenvorfall meist lumbal im unteren Lendenwirbelbereich (Körpergewichtsdruck), thorakal sehr selten",
+        "Hauptursache: alters- und belastungsbedingte Schwäche des Bindegewebsrings",
+        "Risikofaktoren: Bewegungsmangel, Adipositas, Insuffizienz der Bauch-/Rückenmuskeln, Fehl-/Überbelastung, Rotationsbelastung der LWS, Schwangerschaft, Osteoporose",
+        "Rumpfverletzungen (Treppensturz, Verkehrsunfall) nur selten Ursache"
+      ]
+    },
+    {
+      "gidx": 16,
+      "source": "ortho-rheuma p.16",
+      "slide_title": "Discusprolaps — Protrusion, Prolapsformen und Degenerationsstadien",
+      "type": "inhalt",
+      "notes_md": "## Discusprolaps — bildliche Darstellung der Formen\n\n**Obere Abbildungsreihe (axiale Schnitte):**\n- Diskusprotrusion\n- mediolateraler Diskusprolaps\n- medialer Diskusprolaps\n- Diskussequester\n\n**Untere Abbildungsreihe (Degenerationsstadien der Bandscheibe, beschriftet mit Faserring und Gallertkern):**\n1. intakte Bandscheibe\n2. beginnende Protrusion\n3. fortschreitende Protrusion\n4. Bandscheibenprolaps\n5. Sequestration\n\nQuelle: Krein-Nattrodt",
+      "figures": [
+        {
+          "caption": "Axiale Darstellung: Diskusprotrusion, mediolateraler/medialer Diskusprolaps, Diskussequester",
+          "shows": "Vier axiale Schnittbilder der Bandscheibe mit den verschiedenen Prolapsformen und deren Lagebeziehung zum Spinalkanal",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Stadien der Bandscheibendegeneration",
+          "shows": "Fünfstufige Reihe von intakter Bandscheibe über beginnende und fortschreitende Protrusion bis zum Prolaps und zur Sequestration (Faserring, Gallertkern)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Stadien: intakte Bandscheibe → beginnende Protrusion → fortschreitende Protrusion → Bandscheibenprolaps → Sequestration",
+        "Prolapsformen axial: Protrusion, mediolateraler, medialer Prolaps, Sequester"
+      ]
+    },
+    {
+      "gidx": 17,
+      "source": "ortho-rheuma p.17",
+      "slide_title": "Überblick Wirbelsäule",
+      "type": "inhalt",
+      "notes_md": "## Überblick Wirbelsäule\n\n**Aufbau der WS: 24 bewegliche Wirbel**\n- 7 HW — C1 – C7\n- 12 BW — Th1 – Th12\n- 5 LW — L1 – L5\n- Os sacrum = S1–S5 (verwachsene Wirbel)\n- Os coccygis = Co1–Co3-5 (verwachsene Wirbel)\n- 23 Disci intervertebrales — nicht zwischen C1 und C2, Kreuzbein und Steißbein\n\n**Abbildungsbeschriftung (Abschnitte der Wirbelsäule):**\n- Halswirbelsäule (HWS): 7 gegeneinander bewegliche Halswirbel (Vertebrae cervicales = C1 – C7)\n- Brustwirbelsäule (BWS): 12 gegeneinander bewegliche Brustwirbel (Vertebrae thoracicae = Th1 – Th12)\n- Lendenwirbelsäule (LWS): 5 gegeneinander bewegliche Lendenwirbel (Vertebrae lumbales = L1 – L5)\n- Kreuzbein: 5 miteinander verwachsene Kreuzwirbel (Os sacrum = S1 – S5)\n- Steißbein: 3 – 5 miteinander verwachsene Steißwirbel (Os coccygis = Co1 – Co3–5)\n- Lordose / Kyphose (Krümmungsrichtungen markiert)\n\nQuelle: Krein-Nattrodt",
+      "figures": [
+        {
+          "caption": "Übersicht der Wirbelsäule mit allen Abschnitten",
+          "shows": "Seitliche Darstellung der gesamten Wirbelsäule mit HWS, BWS, LWS, Kreuz- und Steißbein sowie Lordose- und Kyphose-Markierung",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "24 bewegliche Wirbel: 7 Halswirbel (C1–C7), 12 Brustwirbel (Th1–Th12), 5 Lendenwirbel (L1–L5)",
+        "Os sacrum S1–S5 und Os coccygis Co1–Co3-5 sind verwachsene Wirbel",
+        "23 Disci intervertebrales — nicht zwischen C1 und C2, Kreuzbein und Steißbein"
+      ]
+    },
+    {
+      "gidx": 18,
+      "source": "ortho-rheuma p.18",
+      "slide_title": "Diagnostik und Therapie — klinische Tests, Femoralisdehnungsschmerz",
+      "type": "inhalt",
+      "notes_md": "## Diagnostik und Therapie\n\n### Diagnostik\n**Klinische Tests auf Bewegungsschmerzen:**\n- Femoralis-Lasègue-Zeichen\n- Lasègue-Zeichen\n- Bragard-Zeichen\n- Valleix-Druckpunkte\n\n**Neurologische Untersuchung auf Motorik und Sensibilität:**\n- EMG: Elektromyographie\n- ENG: Elektroneurographie\n\n**Apparativ:**\n- CT, MRT, MRT mit Myelographie/Kontrastmittel\n- CT: Computertomographie\n- MRT: Magnetresonanztomographie\n\n### Tests: Femoralisdehnungsschmerz\n**Femoralis-Lasègue-Zeichen (umgekehrtes Lasègue-Zeichen)**\n\n- **Prüfung:** Patient in Bauchlage, bleibt passiv; Untersucher hebt den Unterschenkel des Patienten und führt dessen Ferse gegen dessen Gesäß (Beugung im Kniegelenk)\n- **Reaktion:** Manifestation von Schmerzen an der Vorderseite des Oberschenkels (Dehnung des N. femoralis bzw. der Wurzeln L3 und L4)\n- **Ursachen:**\n  - Läsion der ipsilateralen Wurzeln L3 und/oder L4 (fast immer)\n  - Femoralis-Neuropathie im Rahmen eines Diabetes mellitus\n  - Meralgia paraesthetica\n\nQuelle: Krein-Nattrodt",
+      "figures": [
+        {
+          "caption": "Durchführung des Femoralis-Lasègue-Zeichens",
+          "shows": "Foto: Patient in Bauchlage, Untersucher führt die Ferse des gebeugten Beins Richtung Gesäß",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Klinische Tests: Femoralis-Lasègue, Lasègue, Bragard, Valleix-Druckpunkte; neurologisch EMG/ENG; apparativ CT/MRT",
+        "Femoralis-Lasègue (umgekehrtes Lasègue): Bauchlage, Ferse zum Gesäß → Schmerz Oberschenkelvorderseite bei Dehnung N. femoralis/Wurzeln L3, L4",
+        "Ursachen positives Femoralis-Lasègue: Läsion Wurzeln L3/L4, Femoralis-Neuropathie bei Diabetes mellitus, Meralgia paraesthetica"
+      ]
+    },
+    {
+      "gidx": 19,
+      "source": "ortho-rheuma p.19",
+      "slide_title": "Diagnostik und Therapie — Meralgia paraesthetica, Lasègue-Zeichen",
+      "type": "inhalt",
+      "notes_md": "## Diagnostik und Therapie\n\n### Meralgia paraesthetica\n- ist eine Kompression des Nervus cutaneus femoris lateralis\n\n**Ursachen:**\n- Druck- oder Zugkräfte im Nervenverlauf, insbesondere unter dem Leistenband\n\n**Symptome:**\n- Parästhesien und brennende Schmerzen auf der Außenseite des Oberschenkels, die sich bei Beugung im Hüftgelenk bessern können\n- im Laufe der Zeit können eine Hypalgesie und eine Hypästhesie hinzukommen\n- bei zehn bis zwanzig Prozent der Patienten manifestiert sich die Erkrankung beidseits\n- manchmal wird die Haut so überempfindlich (Hyperästhesie), dass selbst das Tragen von Kleidung kaum ertragen wird.\n\n### Lasègue-Zeichen\n**positiv z. B. bei:**\n- Ischialgie\n- Discusprolaps\n- Meningitis/Hirnhautentzündung\n\n**Durchführung:**\n- der Patient liegt flach auf dem Rücken. Das gestreckte Bein wird passiv im Hüftgelenk um bis zu 70° gebeugt.\n- bei Schmerzen im Bein bis zu einem Winkel von etwa 45 Grad, die scharf sind, vom Rücken in das Bein einschießen und bis unter das Knie ausstrahlen, ist der Test positiv\n- als Schmerzursache wird hierbei die Dehnung des Ischiasnervs (N. ischiadicus) gesehen\n\nbei Schmerzangabe bei einem Winkel von 60–70° wird von einem Pseudolasègue oder von einem pseudopositiven Lasèguezeichen gesprochen; es kann sich hierbei auch um einen Dehnungsschmerz der ischiocruralen Muskulatur handeln\n\nQuelle: Krein-Nattrodt",
+      "figures": [
+        {
+          "caption": "Durchführung des Lasègue-Zeichens mit Winkelskala",
+          "shows": "Schemazeichnung: Patient in Rückenlage, passives Anheben des gestreckten Beins mit Gradskala 0–90°",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Meralgia paraesthetica = Kompression des N. cutaneus femoris lateralis (Druck-/Zugkräfte unter dem Leistenband); brennende Schmerzen Oberschenkelaußenseite, 10–20 % beidseits",
+        "Lasègue positiv bei Ischialgie, Discusprolaps, Meningitis",
+        "Lasègue-Durchführung: Rückenlage, gestrecktes Bein passiv bis 70° beugen; positiv bei einschießendem Schmerz bis ca. 45° (Dehnung N. ischiadicus)",
+        "Schmerz erst bei 60–70° = Pseudolasègue (ggf. Dehnungsschmerz der ischiocruralen Muskulatur)"
+      ]
+    },
+    {
+      "gidx": 20,
+      "source": "ortho-rheuma p.20",
+      "slide_title": "Diagnostik und Therapien — Bragard-Zeichen, Valleix-Druckpunkte, konservative Therapie",
+      "type": "inhalt",
+      "notes_md": "## Diagnostik und Therapien\n\n### Bragard-Zeichen\nbeim negativen Lasègue-Zeichen kann neben dem Anheben des gestreckten Beins durch Dorsalflexion des Fußes am gestreckten Bein durch Nervendehnung Schmerz ausgelöst werden\n\n### Valleix-Druckpunkte\nÜberprüfung druckempfindlicher Punkte im Verlauf des N. ischiadicus über:\n- LWK 5\n- ISG\n- direkt unterhalb der Gesäßfalte\n- Kniekehle\n- hinter dem Außenknöchel\n\n### Therapien\n**konservativ:**\n- medikamentöse Schmerztherapie: Analgetika, Antiphlogistika, Muskelrelaxantien, Lokalanästhetika\n- KG\n- Stufenbettlagerung bei lumbalem Prolaps\n- Massage, Kälte-Wärmetherapie, Fango\n- Elektrotherapie\n- Balneo-Therapie/Hydrotherapie\n- Gewichtsreduzierung\n\nQuelle: Krein-Nattrodt",
+      "figures": [
+        {
+          "caption": "Nervenwurzeldehnungstests — Bragard Test",
+          "shows": "Zeichnung der Durchführung des Bragard-Tests am liegenden Patienten",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Bragard-Zeichen: Dorsalflexion des Fußes am gestreckten angehobenen Bein löst Schmerz durch Nervendehnung aus",
+        "Valleix-Druckpunkte entlang N. ischiadicus: LWK 5, ISG, unterhalb Gesäßfalte, Kniekehle, hinter Außenknöchel",
+        "Konservative Therapie: Analgetika/Antiphlogistika/Muskelrelaxantien/Lokalanästhetika, KG, Stufenbettlagerung, Massage, Kälte-/Wärmetherapie, Fango, Elektrotherapie, Balneo-/Hydrotherapie, Gewichtsreduzierung"
+      ]
+    },
+    {
+      "gidx": 21,
+      "source": "ortho-rheuma p.21",
+      "slide_title": "Therapien — minimal-invasive und operative Verfahren",
+      "type": "inhalt",
+      "notes_md": "## Therapien\n\n### minimal-invasive Schmerztherapien\n- Chemonukleolyse: bei Protrusion\n- intradiskale Mikrotherapie mit Disco Gel\n- PRT: Periradikuläre Therapie\n- perkutane Laser-Discus-Dekompression\n- perkutane Nukleotomie\n- IDET: intradiskale Elektrothermale Therapie\n- Radikulolyse\n\n### operative Verfahren\n**Disektomien mit**\n- Einsetzen einer Bandscheibenprothese oder eines Peek-Cage/Platzhalter\n- Hybridversorgung: Peek-Cage und Bandscheibenprothese\n- Spondylodese: versteifende Bandscheibenoperation/Fixateur interne\n- Autologe Bandscheibenzelltransplantation (ADCT)\n\n### Chemonukleolyse und intradiskale Mikrotherapie mit Disco Gel\n- zur Volumen- und Druckminderung\n\n**Chemonukleolyse:**\n- Auflösung des Bandscheibenkerns mithilfe des Enzyms Chymopapain oder Ozon\n\n**intradiskale Mikrotherapie mit Disco Gel:**\n- markiertes Alkoholgel führt einem Verlust der Wasserbindungsfähigkeit\n\n**Periradikuläre Therapie:**\n- MRT/CT-gesteuerte Injektion von Cortison oder Lokalanästhetikum an die Spinalnerven im Foramen intervertebrale\n\n**perkutane Laser-Discus-Dekompression:**\n- mittels Laserenergie können Vorfälle und Vorwölbungen geschrumpft werden\n\n**perkutane Nukleotomie**\n- eine Kanüle wird durch die bis zum Gallertkern vorgeschoben und der Gallertkern wird teilweise abgesaugt\n\nQuelle: Krein-Nattrodt",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Minimal-invasiv: Chemonukleolyse (Chymopapain/Ozon), Disco-Gel-Mikrotherapie, PRT, Laser-Discus-Dekompression, perkutane Nukleotomie, IDET, Radikulolyse",
+        "Operativ: Disektomie mit Bandscheibenprothese/Peek-Cage, Hybridversorgung, Spondylodese (Fixateur interne), autologe Bandscheibenzelltransplantation (ADCT)",
+        "PRT = MRT/CT-gesteuerte Injektion von Cortison/Lokalanästhetikum an Spinalnerven im Foramen intervertebrale"
+      ]
+    },
+    {
+      "gidx": 22,
+      "source": "ortho-rheuma p.22",
+      "slide_title": "Therapien — IDET, Radikolyse, künstliche Bandscheibe",
+      "type": "inhalt",
+      "notes_md": "## Therapien\n\n### IDET: intradiskale Elektrothermale Therapie\n- eine Wärmesonde wird in den Anulus firbrosus vorgeschoben\n- verleiht dem Faserring eine gewisse Festigkeit\n\n### Radikolyse\n- Entfernung der Osteophyten, die die Nervenwurzel komprimieren\n- dadurch Erweiterung des Foramen intervertebrale\n\n### operative Verfahren\n**Disektomien mit**\n- Einsetzen einer Bandscheibenprothese/Peek-Cage/Platzhalter\n\n### Die künstliche Bandscheibe\n- ist hauptsächlich aus zwei Metallplatten aufgebaut\n- diese bestehen entweder aus Titan oder aus einem Kobalt-Chrom-Molybdän-Gemisch\n- die Oberfläche dieser Platten ist in den meisten Fällen mit einer Titanlegierung beschichtet, kann aber auch mit Hydroxylapatit behaftet sein\n- die durch diese Beschichtung erzeugte raue Oberflächenbeschaffenheit ermöglicht ein gutes Anwachsen der Prothese an den beiden angrenzenden Wirbelkörpern\n- um eine rasche Stabilität nach dem Einsetzen der Bandscheibenprothese zu gewährleisten, hat der künstliche Bandscheibenersatz auf den Endplatten oben und unten metallene Fortsätze, durch welche die Prothese an den angrenzenden Wirbeln befestigt wird\n- hierdurch wird ein Verschieben der Prothese bis zum endgültigen Anwachsen am Wirbelkörper verhindert\n\nQuelle: Krein-Nattrodt",
+      "figures": [
+        {
+          "caption": "Implantierte Bandscheibenprothese zwischen zwei Wirbelkörpern",
+          "shows": "Schematische Darstellung einer künstlichen Bandscheibe mit metallenen Endplatten und Bewegungspfeilen",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "IDET: Wärmesonde in den Anulus fibrosus → Festigung des Faserrings",
+        "Radikolyse: Entfernung nervenwurzelkomprimierender Osteophyten, Erweiterung des Foramen intervertebrale",
+        "Künstliche Bandscheibe: zwei Metallplatten (Titan oder Kobalt-Chrom-Molybdän), Beschichtung Titanlegierung/Hydroxylapatit für Anwachsen, metallene Fortsätze verhindern Verschieben"
+      ]
+    },
+    {
+      "gidx": 23,
+      "source": "ortho-rheuma p.23",
+      "slide_title": "Therapie — Aufbau einer Bandscheibenprothese",
+      "type": "inhalt",
+      "notes_md": "## Therapie\n\n### Damit eine Bandscheibenprothese aber auch die Beweglichkeit einer natürlichen Bandscheibe erzeugen kann:\n- besitzt sie zwischen den Metallplatten je nach Hersteller einen Kern aus Polyethylen (UHMWPE) oder Metall\n- über diesen künstlichen Bandscheibenkern, den man sich wie eine halbierte Kugel zwischen zwei Platten vorstellen kann, kann die Wirbelsäule vor, zurück und zur Seite bewegt und gedreht werden\n\n### Aufbau einer Bandscheibenprothese\n- **Künstlicher Nukleus:** besteht aus einem viskoelastischen Kunststoffpolymer und lässt eine gewisse Kompression zu\n- **Künstlicher Ring:** Außenverschalung des künstlichen Nukleus mit oberer und unterer Deckplatte, simuliert den natürlichen Faserring der Bandscheibe, ermöglicht eine kontrollierte Bewegung in alle Richtungen\n- **Hülle:** aus einem viskoelastischen Kunststoffpolymer, um das Einwachsen von natürlichem Gewebe in den Nukleus und den Ring zu verhindern, flexible Anpassung an alle Bewegungsrichtungen\n- **Fixierung: zementfrei**\n  - Endplatten aus Titan, die oben und unten auf dem künstlichen Ring befestigt werden\n  - mehrere Fortsätze aus Metall, die direkt in den Wirbelkörper eingebracht werden\n  - eine Titanium Plasma Legierung auf der Oberfläche unterstützt ein komplettes Anwachsen der Endplatten an den Wirbelkörper\n\nQuelle: Krein-Nattrodt",
+      "figures": [
+        {
+          "caption": "Bandscheibenprothese zwischen Wirbelkörpern (Funktionsdarstellung)",
+          "shows": "Schematische Darstellung der implantierten Prothese mit Bewegungspfeilen",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Aufbau der Bandscheibenprothese mit Beschriftung",
+          "shows": "Beschriftete Abbildung: Fixierung, Hülle, künstlicher Ring, künstlicher Nukleus",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Prothesenkern aus Polyethylen (UHMWPE) oder Metall ermöglicht Bewegung wie halbierte Kugel zwischen zwei Platten",
+        "Aufbau: künstlicher Nukleus (viskoelastisches Polymer), künstlicher Ring (simuliert Faserring), Hülle (verhindert Gewebe-Einwachsen), zementfreie Fixierung mit Titan-Endplatten und Metallfortsätzen",
+        "Titanium-Plasma-Legierung unterstützt komplettes Anwachsen der Endplatten an den Wirbelkörper"
+      ]
+    },
+    {
+      "gidx": 24,
+      "source": "ortho-rheuma p.24",
+      "slide_title": "Therapie — Verankerung der Bandscheibenprothese und OP-Ablauf",
+      "type": "inhalt",
+      "notes_md": "## Therapie\n\n### Vorteile der Verankerung einer künstlichen Bandscheibe als einwachsende Prothese\n- sowohl die Verankerungszähne als auch die Spezialbeschichtung garantieren eine Langzeitfixierung und einen stabilen Sitz der künstlichen Bandscheibe\n- die auf den Metallplatten aufsitzenden Verankerungszähne gewährleisten nach der Implantation eine rasche Stabilität\n- ein Verschieben der Metallplatten bis zum endgültigen Anwachsen an den Knochen der Wirbelkörper wird durch diese Zähne verhindert\n\n### Bandscheiben-OP zur Implantation einer Bandscheibenprothese\n- das Einsetzen geschieht fast immer von ventral, unabhängig davon, ob die Hals- oder die Lendenwirbelsäule betroffen ist\n- in der Regel dauert ein Eingriff zwischen 90 und 120 Minuten, je nach Lage der betroffenen Bandscheibe und Grad der Degeneration\n- in den ersten sechs Wochen nach der Operation sollte ein längeres Sitzen von über einer Stunde und das Heben und Tragen von schweren Lasten vermieden werden\n\nQuelle: Krein-Nattrodt",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Verankerungszähne + Spezialbeschichtung = Langzeitfixierung, rasche Stabilität, Verhinderung von Verschiebung bis zum Anwachsen",
+        "Implantation fast immer von ventral (HWS und LWS), OP-Dauer 90–120 Minuten",
+        "Postop: erste 6 Wochen kein Sitzen über 1 Stunde, kein Heben/Tragen schwerer Lasten"
+      ]
+    }
+  ]
+}

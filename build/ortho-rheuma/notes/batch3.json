@@ -1,0 +1,312 @@
+{
+  "batch": "3",
+  "pages": [
+    {
+      "gidx": 25,
+      "source": "ortho-rheuma p.25",
+      "slide_title": "Therapie — Peek-Cage",
+      "type": "inhalt",
+      "notes_md": "## Therapie\n\n### Peek-Cage:\n- Platzhalter für den Zwischenwirbelraum\n- er stellt die natürliche (physiologische) Höhe des Bandscheibensegments wieder her und erlaubt die gewünschte Verknöcherung der benachbarten Wirbelkörper\n- Cages können aus verschiedenen Materialien hergestellt sein, z.B. aus Titan, Keramik, Karbon oder Kunststoffen.\n- der PEEK-Cage besteht aus einer gut verträglichen Poly-Ether-Ether-Keton-Verbindung\n- um eine knöcherne Fusion zu ermöglichen, hat der Cage einen zentralen Hohlraum, der mit Kalziumphosphat oder eigenem Knochenmaterial/Knochenspänen gefüllt wird\n- nach wenigen Wochen erfolgt eine solide knöcherne Verbindung mit den benachbarten Wirbeln.",
+      "figures": [
+        {
+          "caption": "PEEK-Cages in verschiedenen Formen",
+          "shows": "Mehrere beige PEEK-Cage-Implantate (rechteckig/oval) für den Zwischenwirbelraum, teils mit gefülltem zentralem Hohlraum",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Cage mit Verschraubung",
+          "shows": "Cage-Implantate mit integrierten blauen Schrauben zur Fixierung an den Wirbelkörpern",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "PEEK-Cage = Platzhalter für den Zwischenwirbelraum",
+        "Stellt physiologische Höhe des Bandscheibensegments wieder her",
+        "Materialien: Titan, Keramik, Karbon, Kunststoffe (PEEK = Poly-Ether-Ether-Keton)",
+        "Zentraler Hohlraum wird mit Kalziumphosphat oder Eigenknochen gefüllt",
+        "Nach wenigen Wochen solide knöcherne Verbindung mit Nachbarwirbeln"
+      ]
+    },
+    {
+      "gidx": 26,
+      "source": "ortho-rheuma p.26",
+      "slide_title": "Hybridversorung",
+      "type": "inhalt",
+      "notes_md": "## Hybridversorung\n\n- Beispiel einer dynamischen Hybridversorgung mit visko-elastischen Bandscheibenprothesen und einem Cage der LWS (hier bei Skloliose)",
+      "figures": [
+        {
+          "caption": "Röntgenbilder einer dynamischen Hybridversorgung der LWS",
+          "shows": "Seitliche und a.p.-Röntgenaufnahme der Lendenwirbelsäule mit visko-elastischen Bandscheibenprothesen und einem Cage (bei Skoliose)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Dynamische Hybridversorgung = Kombination aus visko-elastischen Bandscheibenprothesen und einem Cage an der LWS",
+        "Beispiel hier bei Skoliose"
+      ]
+    },
+    {
+      "gidx": 27,
+      "source": "ortho-rheuma p.27",
+      "slide_title": "Therapien — Spondylodese (Wirbelkörperverblockung)",
+      "type": "inhalt",
+      "notes_md": "## Therapien\n\n### Spondylodese: (Wirbelkörperverblockung)\n- ist eine Operation zur Versteifung von zwei oder mehr Wirbelkörpern an der Hals-, Brust- und/oder Lendenwirbelsäule, um eine volle Belastbarkeit der Wirbelsäule zu erlauben, wenn konservative Behandlungen zu keiner Besserung führten oder ausgeschlossen werden konnten.\n- Auch dynamische Stabilisierung mit biegsamen Schrauben-Stab-System\n\n### Wann führt man eine Spondylodese durch?\nEine Instabilität der Wirbelsäule entsteht zum Beispiel\n- durch Verschleiß der Bandscheiben, Wirbelkörperbrüche und -tumoren, Wirbelgleiten oder Arthrose der Wirbelgelenke.\n- auch Patienten mit einer Skoliose können in manchen Fällen von der Wirbelsäulenversteifung profitieren",
+      "figures": [
+        {
+          "caption": "Fixierung mit Pedikelschrauben (Schema, MedizInfo)",
+          "shows": "Schematische Darstellung zweier Wirbelkörper mit Pedikelschrauben, Längsstange, Cage, Knochenspänen; beschriftet: Pedikel, Schrauben, Längsstange, Knochenspan, Cage, Dornfortsätze, Wirbelkörper",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Pedikelschrauben-Stab-System (Foto)",
+          "shows": "Foto eines Schrauben-Stab-Systems (Fixateur interne) mit Pedikelschrauben und Verbindungsstäben",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [7, 11],
+      "key_facts": [
+        "Spondylodese = operative Versteifung von zwei oder mehr Wirbelkörpern (HWS, BWS und/oder LWS)",
+        "Ziel: volle Belastbarkeit der Wirbelsäule bei ausgeschöpfter/ausgeschlossener konservativer Therapie",
+        "Indikation: Instabilität durch Bandscheibenverschleiß, Wirbelkörperbrüche/-tumoren, Wirbelgleiten, Arthrose der Wirbelgelenke, teils Skoliose",
+        "Auch dynamische Stabilisierung mit biegsamem Schrauben-Stab-System möglich"
+      ]
+    },
+    {
+      "gidx": 28,
+      "source": "ortho-rheuma p.28",
+      "slide_title": "Spondylodese — Röntgenbeispiele (Skoliose/Kyphose)",
+      "type": "inhalt",
+      "notes_md": "## Spondylodese — bildgebende Beispiele\n\nDie Folie zeigt ohne Begleittext vier Ganzwirbelsäulen-Röntgenaufnahmen (Vorher-Nachher-Vergleiche):\n- zwei a.p.-Aufnahmen: Skoliose vor und nach dorsaler Instrumentation mit Schrauben-Stab-System (Versteifung über viele Segmente)\n- zwei seitliche Aufnahmen: ausgeprägte Kyphose vor und nach Versteifungsoperation mit dorsalem Schrauben-Stab-System.",
+      "figures": [
+        {
+          "caption": "Ganzwirbelsäulen-Röntgen vor/nach Spondylodese",
+          "shows": "Vier Röntgenbilder der gesamten Wirbelsäule: Skoliose-Korrektur (a.p.) und Kyphose-Korrektur (seitlich) jeweils prä- und postoperativ mit dorsaler Instrumentation",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Röntgendokumentation von Skoliose- und Kyphose-Korrekturen mittels dorsaler Spondylodese (Schrauben-Stab-System)"
+      ]
+    },
+    {
+      "gidx": 29,
+      "source": "ortho-rheuma p.29",
+      "slide_title": "Spondylodese LWS — Röntgenbeispiele",
+      "type": "inhalt",
+      "notes_md": "## Spondylodese LWS — bildgebende Beispiele\n\nDie Folie zeigt ohne Begleittext vier Röntgenaufnahmen der Lendenwirbelsäule nach Spondylodese:\n- a.p.-Aufnahme mit Pedikelschrauben und Querverbindung über mehrere Segmente\n- drei seitliche Aufnahmen mit dorsaler Schrauben-Stab-Instrumentation der LWS (unterschiedliche Ausdehnung der Versteifung).",
+      "figures": [
+        {
+          "caption": "Röntgenbilder der LWS nach Spondylodese",
+          "shows": "Vier Röntgenaufnahmen der Lendenwirbelsäule (a.p. und seitlich) mit Pedikelschrauben-Stab-Systemen zur Wirbelkörperverblockung",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Röntgendokumentation lumbaler Spondylodesen mit Pedikelschrauben-Stab-Systemen"
+      ]
+    },
+    {
+      "gidx": 30,
+      "source": "ortho-rheuma p.30",
+      "slide_title": "Angeborene und erworbene Fußdeformitäten — Anatomie des Fußes",
+      "type": "inhalt",
+      "notes_md": "## Angeborene und erworbene Fußdeformitäten\n### Anatomie des Fußes\n\n**Knochen des Fußes (Beschriftung der Abbildung):**\n- Endphalanx / Endphalanx der Großzehe\n- Mittelphalanx\n- Grundphalanx\n- Mittelfußknochen (Ossa metatarsalia)\n- Würfelbein (Os Cuboideum)\n- Fersenbein (Calcaneus)\n- 1.–3. Keilbein (Os cuneiforme I–III)\n- Kahnbein (Os naviculare)\n- Rolle des Sprungbeins (Trochlea tali)\n- Sprungbein (Talus)\n\n**Die Fußgewölbe:**\n- Längsgewölbe\n- Quergewölbe\n\n**Strukturen des Längsgewölbes (schematische Darstellung, Weineck 1988):**\n- M. tibialis posterior\n- M. flexor hallucis longus\n- Achillessehne\n- M. tibialis anterior\n- Lig. calcaneonaviculare plantare\n- Plantaraponeurose\n- Lig. plantaris longum",
+      "figures": [
+        {
+          "caption": "Anatomie des Fußes — Knochen",
+          "shows": "Beschriftete Skelettdarstellung des Fußes von dorsal mit Phalanx, Metatarsalia, Fußwurzelknochen (Cuboideum, Calcaneus, Cuneiformia, Naviculare, Talus)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Die Fußgewölbe (Längs- und Quergewölbe)",
+          "shows": "Schematische Darstellung des Fußlängsgewölbes mit plantaren Strukturen (Plantaraponeurose, Lig. plantaris longum, Lig. calcaneonaviculare plantare) und zugehörigen Muskeln/Sehnen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Fußskelett: Phalanx (Grund-, Mittel-, Endphalanx), Ossa metatarsalia, Fußwurzelknochen (Cuboideum, Calcaneus, Os cuneiforme I–III, Os naviculare, Talus mit Trochlea tali)",
+        "Fußgewölbe: Längsgewölbe und Quergewölbe",
+        "Wichtige Stützstrukturen: Plantaraponeurose, Lig. plantaris longum, Lig. calcaneonaviculare plantare, M. tibialis anterior/posterior, Achillessehne"
+      ]
+    },
+    {
+      "gidx": 31,
+      "source": "ortho-rheuma p.31",
+      "slide_title": "Angeborene und erworbene Fußdeformitäten — Traglinie des Beines",
+      "type": "inhalt",
+      "notes_md": "## Angeborene und erworbene Fußdeformitäten\n\nDie sogenannte Traglinie des Beines verläuft beim gesunden Fuß in einer senkrechten Linie durch das Schienbein (Tibia), das Sprungbein (Talus) und das Fersenbein (Calcaneus) bis zum Boden.\n\n- beim normalen Fuß (Pes rectus): fällt die Linie auf die Mitte der Ferse\n- beim Klumpfuß (Pes varus): weicht die Linie nach innen ab\n- beim Knickfuß (Pes valgus): weicht die Linie nach außen ab\n\n**Beschriftung der Sprunggelenks-Abbildung:** Tibia (Schienbein), Fibula (Wadenbein), Oberes Sprunggelenk, Unteres Sprunggelenk, Sprungbein (Talus), Fersenbein (Calcaneus)\n\n**Fußabschnitte (Abbildung):** Rückfuß, Mittelfuß, Vorfuß; Fersenbein, Fußwurzelknochen, Mittelfußknochen, Zehen",
+      "figures": [
+        {
+          "caption": "Traglinie bei Pes rectus, Pes varus und Pes valgus",
+          "shows": "Drei schematische Fersendarstellungen von dorsal mit eingezeichneter Traglinie: mittig (Pes rectus), nach innen abweichend (Pes varus), nach außen abweichend (Pes valgus)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Sprunggelenk von dorsal",
+          "shows": "Beschriftetes Foto eines Sprunggelenk-Präparats mit Tibia, Fibula, oberem und unterem Sprunggelenk, Talus und Calcaneus",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Fußabschnitte",
+          "shows": "Schematische Einteilung des Fußes in Rückfuß, Mittelfuß und Vorfuß mit Fersenbein, Fußwurzel-, Mittelfußknochen und Zehen",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Traglinie verläuft senkrecht durch Tibia, Talus und Calcaneus bis zum Boden",
+        "Pes rectus: Linie trifft Mitte der Ferse",
+        "Pes varus (Klumpfuß): Linie weicht nach innen ab",
+        "Pes valgus (Knickfuß): Linie weicht nach außen ab"
+      ]
+    },
+    {
+      "gidx": 32,
+      "source": "ortho-rheuma p.32",
+      "slide_title": "Angeborene und erworbene Fußdeformitäten — Übersicht / Pes equinovarus: Klumpfuß",
+      "type": "inhalt",
+      "notes_md": "## Angeborene und erworbene Fußdeformitäten\n\n### Angeborene und erworbene Fußdeformitäten:\n- Pes equinovarus: Klumpfuß\n- Pes equinus: Spitzfuß\n- Pes calcaneus: Hackenfuß\n- Pes excavatus: Hohlfuß\n- Pes planus: Plattfuß\n- Senkfuß\n- Pes adductus: Sichelfuß\n- Pes valgus: Knickfuß\n- Pes transversus: Spreizfuß\n\n### Pes equinovarus: Klumpfuß\n\n**Übersicht 13.2 Komponenten des Klumpfußes:**\n- Spitzfuß – equinus\n- Hohlfuß – excavatus\n- Vorfußadduktion – adductus\n- Supinationsfuß mit Varusstellung der Ferse – varus\n\n**Abb. 13.9 Klumpfuß** (Pes equinovarus, eigentlich Pes equino-excav-adducto-varus): Darstellung von der Seite, von hinten und von vorn; Einzelkomponenten Spitzfuß (Pes equinus), Hohlfuß (Pes excavatus), Vorfußadduktion (Pes adductus), Supinationsfuß (Pes varus)",
+      "figures": [
+        {
+          "caption": "Abb. 13.9 Klumpfuß (Pes equinovarus)",
+          "shows": "Schematische Zeichnungen des Klumpfußes von der Seite, von hinten und von vorn sowie der Einzelkomponenten (Pes equinus, excavatus, adductus, varus)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Klumpfuß beim Säugling (Foto)",
+          "shows": "Klinisches Foto eines Säuglingsfußes mit Klumpfußfehlstellung (Spitzfuß, Hohlfuß, Adduktion, Varus)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Fußdeformitäten: Klumpfuß, Spitzfuß, Hackenfuß, Hohlfuß, Plattfuß, Senkfuß, Sichelfuß, Knickfuß, Spreizfuß",
+        "Klumpfuß = Pes equinovarus (eigentlich Pes equino-excav-adducto-varus)",
+        "Komponenten des Klumpfußes: Spitzfuß (equinus), Hohlfuß (excavatus), Vorfußadduktion (adductus), Supinationsfuß mit Varusstellung der Ferse (varus)"
+      ]
+    },
+    {
+      "gidx": 33,
+      "source": "ortho-rheuma p.33",
+      "slide_title": "Pes equinovarus: Klumpfuß — Ursachen und Therapie",
+      "type": "inhalt",
+      "notes_md": "## Pes equinovarus: Klumpfuß\n\n### Ursachen:\n**angeboren:**\n- Intrauterine Lageanomalie\n- Länger bestehender Fruchtwassermangel\n- Frühkindliche Hirnschädigung\n- Schlaffe und spastische Lähmungen (paralytischer Klumpfuß)\n- Myelomeningozele/Spina bifida aperta\n- Neurologische Erkrankungen\n- erbliche Ursache\n\n**erworben:**\n- Poliomyelitis (Kinderlähmung)\n- Verletzungen des Nervus peronaeus\n- Verletzungen\n- Talus-Kalkaneus-Fraktur\n- Narbe\n- Durchblutungsstörung der A. tibialis posterior\n\n### Therapie:\netappenweise Redressement mit Ruhigstellung in Gips und Achillotonotomie\n- in der ersten Lebenswoche, um die hohe Elastizität der Bänder und Gelenkkapseln bei Neugeborenen zu nutzen\n- hierbei wird der Fuß unter dem Sprungbein etappenweise manuell nach außen rotiert, und zwar fünf Wochen lang wöchentlich ein kleines Stück. Jeweils hinterher wird er mit einem Gips fixiert, der von den Zehen bis zum Oberschenkel reicht. So werden in der ersten Phase Hohlfuß und Sichelstellung korrigiert sowie der Rückfuß eingestellt.\n- Ganz zuletzt wird der Spitzfuß gerichtet. Allerdings gelingt dies selten vollständig, weshalb man meist einen kleinen Eingriff vornimmt: Die Achillessehne wird mit einer kleinen Stichinzision durchtrennt und für drei Wochen wiederum ein Gipsverband angelegt. Wenn sich die Sehne danach in der gewünschten Länge regeneriert hat, sollte der Fuß ein etwas überkorrigiertes Erscheinungsbild haben, damit bei einem Rückfall Spielraum besteht.\n- Um die Gefahr eines Rezidivs zu minimieren, beginnt ab der neunten Woche die Behandlung mit einer Dennis-Brown-Schiene, einer Querstange etwa so lang wie der Schulterabstand des Kindes, an deren Enden jeweils Schuhe montiert sind. Sie halten den Fuß in einem Winkel von 70 Grad nach außen.\n- Etwa drei Monate lang müssen sie die Schienen ständig tragen, danach, wenn sie zu krabbeln anfangen bis zum Alter von zwei bis vier Jahren, nur noch nachts.\n\n**weitere Therapie:** KG und orthopädische Schuhe",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Angeborene Ursachen: intrauterine Lageanomalie, Fruchtwassermangel, Hirnschädigung, Lähmungen, Myelomeningozele/Spina bifida aperta, neurologische Erkrankungen, erblich",
+        "Erworbene Ursachen: Poliomyelitis, N.-peronaeus-Verletzung, Talus-Kalkaneus-Fraktur, Narbe, Durchblutungsstörung der A. tibialis posterior",
+        "Therapie: etappenweises Redressement mit Gipsruhigstellung ab der ersten Lebenswoche + Achillotonotomie",
+        "Reihenfolge: zuerst Hohlfuß/Sichelstellung und Rückfuß, zuletzt Spitzfuß (meist Achillessehnendurchtrennung, 3 Wochen Gips)",
+        "Ab 9. Woche Dennis-Brown-Schiene (70° Außenrotation), 3 Monate ständig, danach bis 2.–4. Lebensjahr nur nachts",
+        "Weitere Therapie: Krankengymnastik und orthopädische Schuhe"
+      ]
+    },
+    {
+      "gidx": 34,
+      "source": "ortho-rheuma p.34",
+      "slide_title": "Pes equinovarus: Klumpfuß — Therapie (Bilder)",
+      "type": "inhalt",
+      "notes_md": "## Pes equinovarus: Klumpfuß — Therapiebeispiele (Bildfolge)\n\n- Beidseitiger Klumpfuß (klinisches Foto)\n- Gipstherapie nach Ponseti (Foto: beidseitige Bein-Fuß-Gipsverbände)\n- Dennis-Brown-Schiene an einem Säugling (Foto: Schuhe an roter Querstange)\n- Abb. 2: Orthesenversorgung des kongenitalen Klumpfußes mit Alfa-Flex-Orthese (Foto: zwei Schuhe auf verstellbarer Verbindungsschiene)",
+      "figures": [
+        {
+          "caption": "Beidseitiger Klumpfuß",
+          "shows": "Klinisches Foto eines Säuglings mit beidseitigem Klumpfuß",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Gipstherapie nach Ponseti",
+          "shows": "Beidseitige rote Bein-Fuß-Gipsverbände bei einem Säugling (Redressement nach Ponseti)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Dennis-Brown-Schiene",
+          "shows": "Säugling mit an einer roten Querstange montierten Schuhen zur Außenrotationshaltung der Füße",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Alfa-Flex-Orthese",
+          "shows": "Orthesenversorgung des kongenitalen Klumpfußes: zwei Sandalen auf einer verstellbaren Verbindungsschiene",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Klumpfußtherapie: Gipstherapie nach Ponseti, anschließend Dennis-Brown-Schiene oder Alfa-Flex-Orthese"
+      ]
+    },
+    {
+      "gidx": 35,
+      "source": "ortho-rheuma p.35",
+      "slide_title": "Pes equinus: Spitzfuß",
+      "type": "inhalt",
+      "notes_md": "## Pes equinus: Spitzfuß\n\n### Pes equinus:\n- Spitzfuß mit fixierter Plantarflexion im oberen Sprunggelenk\n\n### Ursachen:\n**angeboren**\n\n**erworben:**\n- Bettlägrigkeit\n- Immobilität\n- Schonhaltung bei z.B. chronische Schmerzen\n- therapiebedingt bei längeren Gipsbehandlung\n- großflächige Narben\n- Achillessehnenverkürzung\n- dauerhafte Tonuserhöhung der Wadenmuskulatur\n- neurologische Ursachen:\n- schlaffe Lähmungen der Extensorenmuskeln des Unterschenkels/Peroneuslähmung: Fußheberschwäche\n\n### Therapie:\n**bei Kindern:**\n- besonders bei Kindern kann man einen Spitzfuß durch Verlängerung der Achillessehne erfolgreich behandeln\n- im Anschluss an die Spitzfuß-Operation bekommen die Kinder in der Regel einen korrigierenden Gipsverband\n\n**im Erwachsenenalter:**\n- steht als weitere Möglichkeit eine operative Gelenkversteifung (sog. Arthrodese) zur Verfügung. Dabei versteift der Operateur das obere Sprunggelenk, während die Beweglichkeit des unteren erhalten bleibt. Eine Arthrodese ist notwendig, wenn bereits schwere Abnutzungserscheinungen am Gelenkknorpel des Sprunggelenks (Arthrose) aufgetreten sind\n- Alternativ ist eine operative Verfestigung des Sprunggelenks mit einem Knochenspan (sog. Arthrorise) geeignet: Der eingesetzte Knochenspan hemmt die Gelenkbeweglichkeit und hält den Fuß so in Normalstellung. Anschließend eine konservative Behandlung in Form von Dehnübungen.\n\n**Abb. 12.8.83:** Sowohl das Eigengewicht des Fußes als auch der Druck der Bettdecke fördern die Entstehung eines Spitzfußes.",
+      "figures": [
+        {
+          "caption": "Spitzfuß-Stellung (Schema)",
+          "shows": "Schematische Darstellung des Fußes in fixierter Plantarflexion (Spitzfußstellung)",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 12.8.83 Entstehung eines Spitzfußes bei Bettlägrigkeit",
+          "shows": "Zeichnung eines bettlägerigen Beins: Eigengewicht des Fußes und Druck der Bettdecke fördern die Spitzfußstellung",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [7],
+      "key_facts": [
+        "Pes equinus = Spitzfuß mit fixierter Plantarflexion im oberen Sprunggelenk",
+        "Erworbene Ursachen: Bettlägrigkeit, Immobilität, Schonhaltung, längere Gipsbehandlung, Narben, Achillessehnenverkürzung, Tonuserhöhung der Wadenmuskulatur, Peroneuslähmung (Fußheberschwäche)",
+        "Therapie Kinder: Achillessehnenverlängerung + korrigierender Gipsverband",
+        "Therapie Erwachsene: Arthrodese des oberen Sprunggelenks (bei Arthrose) oder Arthrorise mit Knochenspan, danach Dehnübungen"
+      ]
+    },
+    {
+      "gidx": 36,
+      "source": "ortho-rheuma p.36",
+      "slide_title": "Pes calcaneus: Hackenfuß",
+      "type": "inhalt",
+      "notes_md": "## Pes calcaneus: Hackenfuß\n\n### Pes calcaneus: Hackenfuß\n- ist eine Deformität des Fußes mit einer übermäßigen Dorsalextension und behinderten (unmöglichen) Plantarflexion\n\n### Ursachen:\n**angeboren:**\nentsteht aufgrund bereits im Mutterleib bestehender Fehlbildungen und Störungen:\n- Muskelungleichgewicht (genetisch bedingt, Wachstumsstörung)\n- Schädigungen des Gehirns bzw. Rückenmarks u.a. bei Meningomyelozele, Spina bifida, Hirnschädigung (Hypoxie, Embryopathien)\n\nEine bei Neugeborenen häufig in den ersten Lebenstagen zu beobachtende Hackenfußstellung bildet sich in der Regel binnen weniger Tage zurück.\n\n**erworben:**\nentsteht aufgrund von Schädigungen des M. gastrocnemius bzw. der Achillessehne:\n- Lähmungen\n- Verletzungen (z.B. Achillessehnenruptur)\n- entzündliche Erkrankungen\n- Poliomyelitis\n\n### Therapie:\n- Redressement\n\n**operativ:**\n- dabei wird eine Osteotomie mit Entnahme eines Knochenkeils aus dem Calcaneus durchgeführt.\n- dies führt zur Korrektur der Fehlstellung.",
+      "figures": [
+        {
+          "caption": "Hackenfuß (klinisches Foto)",
+          "shows": "Foto eines Fußes in Hackenfußstellung mit übermäßiger Dorsalextension",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Pes calcaneus = Hackenfuß: übermäßige Dorsalextension, behinderte/unmögliche Plantarflexion",
+        "Angeboren: Muskelungleichgewicht, Schädigungen von Gehirn/Rückenmark (Meningomyelozele, Spina bifida, Hypoxie, Embryopathien)",
+        "Erworben: Schädigung von M. gastrocnemius/Achillessehne (Lähmungen, Achillessehnenruptur, Entzündungen, Poliomyelitis)",
+        "Therapie: Redressement; operativ Osteotomie mit Knochenkeilentnahme aus dem Calcaneus"
+      ]
+    }
+  ]
+}

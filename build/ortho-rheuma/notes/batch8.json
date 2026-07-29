@@ -1,0 +1,221 @@
+{
+  "batch": "8",
+  "pages": [
+    {
+      "gidx": 85,
+      "source": "ortho-rheuma p.85",
+      "slide_title": "Lunatummalazie – Röntgenverlauf",
+      "type": "inhalt",
+      "notes_md": "# Lunatummalazie – Röntgenverlauf (Bildserie)\n\n- **Lunatummalazie – Bei Beginn der Beschwerden:** Das Röntgenbild ist ohne Befund\n- **2 Monate nach Beginn der Schmerzen:** Das Os Lunatum ist sichtbar verdichtet.\n- **Lunatummalazie: 9 Monate nach Beginn der Schmerzen:** Zunehmende Aufhellung und Strukturunterbrechungen\n- **Lunatummalazie: 12 Monate nach Beginn der Schmerzen:** Das Mondbein besteht nur noch aus Bruchstücken.\n- **Post-OP: Os Pisiforme Transposition:** Das Erbsenbein (blauer Pfeil) wurde anstelle des Mondbeines eingesetzt.",
+      "figures": [
+        {
+          "caption": "Röntgenserie Lunatummalazie",
+          "shows": "Fünf Handgelenks-Röntgenbilder: Verlauf der Lunatummalazie von unauffälligem Befund über Verdichtung des Os Lunatum, Aufhellung/Strukturunterbrechung bis zur Fragmentierung; postoperatives Bild nach Os-Pisiforme-Transposition",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Lunatummalazie: Röntgenbild zu Beginn der Beschwerden noch ohne Befund",
+        "Verlauf: Verdichtung (2 Monate) → Aufhellung/Strukturunterbrechung (9 Monate) → Fragmentierung des Mondbeins (12 Monate)",
+        "Therapieoption: Os-Pisiforme-Transposition (Erbsenbein ersetzt Mondbein)"
+      ]
+    },
+    {
+      "gidx": 86,
+      "source": "ortho-rheuma p.86",
+      "slide_title": "Bakerzyste",
+      "type": "inhalt",
+      "notes_md": "# Bakerzyste\n\nIn der Gelenkkapsel wird dann immer mehr Gelenkflüssigkeit produziert, um die Reibung abzudämpfen. Hat die Flüssigkeit nicht mehr genügend Platz, wird sie nach außen gedrückt und sammelt sich in einer Zyste in der Kniekehle. In seltenen Fällen reicht die Bakerzyste bis in die Wade oder in den Oberschenkel.\n\n## Ursachen\nBei Erwachsenen entsteht eine Bakerzyste häufig bei chronischen Erkrankungen des Knies oder nach Sportverletzungen. Ursachen sind zum Beispiel:\n- Meniskusschäden,\n- Verletzungen der Kreuzbänder,\n- entzündliches Rheuma (rheumatoide Arthritis) oder\n- Gelenkverschleiß (Arthrose)\n\n## Symptome\nDie Bakerzyste äußert sich als Schwellung in der Kniekehle, die selten auch bis in die Wade reichen kann. Je nach Größe ist sie sicht- und tastbar und kann zu Schmerzen oder Spannungsgefühlen in der Kniekehle und in der Wade führen.\n\nAm besten sieht man sie, wenn das Bein durchgestreckt ist. Die Zyste kann zudem die Beweglichkeit des Knies einschränken.\n\nMeist verursacht die Zyste jedoch erst Symptome oder wird überhaupt erst bemerkt, wenn sie größer als fünf Zentimeter ist, da sie dann stärker auf das umliegende Gewebe drückt.\n\n## Diagnose\nSonographie, MRT\n\n## Therapie\nPunktion, Bandagen, evtl. OP",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bakerzyste = Flüssigkeitsansammlung in einer Zyste in der Kniekehle",
+        "Ursachen: Meniskusschäden, Kreuzbandverletzungen, rheumatoide Arthritis, Arthrose",
+        "Symptome: Schwellung in der Kniekehle, Schmerzen/Spannungsgefühle, Bewegungseinschränkung",
+        "Diagnose: Sonographie, MRT; Therapie: Punktion, Bandagen, evtl. OP"
+      ]
+    },
+    {
+      "gidx": 87,
+      "source": "ortho-rheuma p.87",
+      "slide_title": "Bakerzyste – Abbildungen",
+      "type": "inhalt",
+      "notes_md": "# Bakerzyste – Abbildungen\n\nBildfolge zur Bakerzyste ohne Begleittext:\n- Klinisches Foto: Kniekehlen beidseits im Vergleich (Schwellung)\n- Schematische Darstellung des Kniegelenks (Sagittalschnitt) mit Zyste in der Kniekehle\n- Klinisches Foto: sichtbare/tastbare Schwellung in der Kniekehle (mit Pfeilen markiert)\n- MRT (Sagittalschnitt Kniegelenk): Darstellung der Bakerzyste als flüssigkeitsgefüllte Struktur in der Kniekehle",
+      "figures": [
+        {
+          "caption": "Bakerzyste: Klinik, Schema und MRT",
+          "shows": "Klinische Fotos der Kniekehlenschwellung, schematische Zeichnung des Kniegelenks mit Zyste sowie sagittales MRT mit flüssigkeitsgefüllter Bakerzyste",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bakerzyste klinisch als Schwellung in der Kniekehle sichtbar/tastbar",
+        "MRT zeigt die flüssigkeitsgefüllte Zyste in der Kniekehle"
+      ]
+    },
+    {
+      "gidx": 88,
+      "source": "ortho-rheuma p.88",
+      "slide_title": "Bandscheibenvorfälle/Wirbelsäulenabschnitte",
+      "type": "inhalt",
+      "notes_md": "# Bandscheibenvorfälle/Wirbelsäulenabschnitte\n\n## Zervikaler Bandscheibenvorfall\n- häufig betroffen: C4/C5, C5/C6\n\n### Ursachen\n- degenerativ, Traumata, als Begleiterkrankung anderer Wirbelsäulenerkrankungen\n\n### Symptome\n- Nacken- Hinterkopfschmerz, Schwindelgefühle, Ohrgeräusche, Muskelhartspann\n- schmerzhafte Bewegungseinschränkung der Halswirbelsäule\n- radikuläre Schmerzsymptomatik bei lateralen Vorfällen mit Parästhesien in den oberen Extremitäten, sensible Ausfälle im entsprechenden Dermatom\n- Armplexuslähmungen mit Insuffizienz der Schulter- und Armmuskulatur\n- bei kompletter Kompression des Rückenmarks drohende Querschnittslähmung: neurologische Ausfälle: Tetraparese\n- pseudoradikuläre Schmerzsymptomatik\n- Ausfälle von Muskeleigenreflexen in den Kennmuskeln\n\n## thorakaler Bandscheibenvorfall\n- sehr selten\n\n### Ursachen\n- degenerative Veränderungen\n- axiale Stauchungen des Rumpfes, z. B.: Sturz aufs Gesäß\n- das Anheben eines schweren Gegenstandes in vorne übergeneigter Haltung\n\n### Symptome\n- lokalisierter Schmerz, der sich beim Husten und Pressen verstärkt\n- starke Schmerzen, die einseitig im Brustkorb zu verspüren sind und in den Rippenverlauf und Rücken ausstrahlen\n- außerdem kann es zu Lähmungserscheinungen an einem Arm oder auch an beiden Armen kommen\n- Kraftverlust und Sensibilitätsausfälle in den Beinen, Störungen der Blasen- und Darmentleerung, Störungen des Sexualverhaltens",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Zervikaler BSV: häufig betroffen C4/C5, C5/C6",
+        "Zervikaler BSV: radikuläre Symptomatik mit Parästhesien der oberen Extremitäten; bei kompletter Rückenmarkskompression droht Tetraparese",
+        "Thorakaler BSV: sehr selten; Schmerz verstärkt bei Husten/Pressen, Ausstrahlung in Rippenverlauf"
+      ]
+    },
+    {
+      "gidx": 89,
+      "source": "ortho-rheuma p.89",
+      "slide_title": "Lumbaler Bandscheibenvorfall",
+      "type": "inhalt",
+      "notes_md": "# Lumbaler Bandscheibenvorfall\n\n## Lumbaler Bandscheibenvorfall: häufig betroffen\n- in absteigender Häufigkeit sind betroffen: L4/L5, L3/L4, L5/S1\n\n## Symptome (allgemein)\n- Nervenkompressionen führen zu Neuralgien/radikuläre und pseudoradikuläe Symptome und Paresen/Plegien\n\n## Ursachen\n- degenerative Wirbelsäulenerkrankungen\n- Wirbeldeformitäten\n- Spondylolisthesis/Wirbelgleiten\n- durch Bewegungen ohne starke Krafteinwirkung wie Rotation des Oberkörpers beim Aussteigen aus dem Auto\n- längere Autofahrten: Vibrationen üben Druck auf die Bandscheibe aus\n- schmerzbedingte Fehlhaltungen\n- Fehlhaltungen des Rückens beim Heben von schweren Gewichten\n- Adipositas\n- Schwangerschaft\n\n## oberes radikuläres Schmerzsyndrom L1–L4: Femoralisneuralgie\n- mit Hypästhesien und Schmerzen im Bereich Vorderinnenseite des Oberschenkels, Innenseite des Unterschenkels\n- abgeschwächter Patellarsehnenreflex\n- Insuffizienz des M. quadricpes femoris\n- L4: Insuffizienz des M. tibialis anterior/ Knick-Senkfuß\n\n### Überprüfung\n- Lasègue-Zeichen negativ oder positiv\n- Femoralisdehnungsschmerz ist auslösbar\n- Patellarsehnenreflex",
+      "figures": [
+        {
+          "caption": "Dermatome L1–S1 am Bein",
+          "shows": "Schematische Darstellung der sensiblen Dermatome (L1, L2, L3, L4, L5, S1) an Vorder- und Rückseite des Beins",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Lumbaler BSV: in absteigender Häufigkeit L4/L5, L3/L4, L5/S1 betroffen",
+        "Oberes radikuläres Syndrom (L1–L4) = Femoralisneuralgie: abgeschwächter Patellarsehnenreflex, Insuffizienz M. quadriceps femoris",
+        "L4: Insuffizienz M. tibialis anterior / Knick-Senkfuß",
+        "Überprüfung: Lasègue-Zeichen, Femoralisdehnungsschmerz, Patellarsehnenreflex"
+      ]
+    },
+    {
+      "gidx": 90,
+      "source": "ortho-rheuma p.90",
+      "slide_title": "Lumbaler Bandscheibenvorfall – unteres radikuläres Lumbalsyndrom",
+      "type": "inhalt",
+      "notes_md": "# Lumbaler Bandscheibenvorfall\n\n## unteres radikuläres Lumbalsyndrom (L4-S2): Ischialgie\nmit Hypästhesien und Schmerzen\n\n### L5 Ischialgie\n- ausstrahlend von der Lendenkreuzgegend über die Außenseite des Ober- und Unterschenkels in Richtung Außenknöchel, Fußrücken und Großzehe\n- Fuß-und Zehenheberschwäche: Kennmuskel: M. extensor digitorum longus\n- abgeschwächter Tibialis posterior-Reflex\n\n### S1-Ischialgie\n- ausstrahlend in die Hinterseite des Ober- und Unterschenkels zur Ferse und zum Fußaußenrand\n- abgeschwächter Achillessehnenreflex\n- teils Paresen der Glutealmuskulatur\n- Kennmuskel: M. peroneus mit Einschränkung der groben Kraft bei der Plantarflexion/Zehenspitzenstand\n\n## Überprüfung\n- Valleix-Druckpunkte\n- Lasègue-Zeichen\n- Bragard-Zeichen\n- Achillessehnenreflex",
+      "figures": [
+        {
+          "caption": "Schmerzausstrahlung bei L5-/S1-Ischialgie",
+          "shows": "Schematische Beinzeichnung (Vorder- und Rückseite) mit blau markierten Ausstrahlungsgebieten der Ischialgie",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "L5-Ischialgie: Ausstrahlung über Beinaußenseite zu Fußrücken/Großzehe; Kennmuskel M. extensor digitorum longus (Fuß-/Zehenheberschwäche)",
+        "S1-Ischialgie: Ausstrahlung zur Ferse/Fußaußenrand; abgeschwächter Achillessehnenreflex; Kennmuskel M. peroneus",
+        "Überprüfung: Valleix-Druckpunkte, Lasègue-Zeichen, Bragard-Zeichen, Achillessehnenreflex"
+      ]
+    },
+    {
+      "gidx": 91,
+      "source": "ortho-rheuma p.91",
+      "slide_title": "Kauda-Syndrom",
+      "type": "inhalt",
+      "notes_md": "# Kauda-Syndrom\n\n## Kauda-Syndrom\n**Synonym: Cauda equina-Kompressionssyndrom**\n\n### Ursachen\n- posterior-medialer Bandscheibenvorfall\n- intraspinale Tumoren\n- Spina bifida\n\nmedialer Prolaps führt zur Kompression der Cauda equina\n\n## apparative Diagnostik\n- Röntgen\n- CT, MRT, Myelographie (Kontrastmittel wird in den Wirbelkanal eingespritzt)\n- ENG/ Elektroneurographie\n- EMG: Elektromyelogaraphie\n\n## Symptome eines Cauda-equina-Syndroms\n- Rückenschmerzen, die bis über das Knie in einen oder beide Unterschenkel ausstrahlen (sogenannte radikuläre Schmerzen)\n- Reithosenanästhesie/-hypästhesie (Sensible Störungen im Gesäß- und Oberschenkelbereich)\n- fehlender Patellarsehnenreflex (L4) und/oder fehlender Achillessehnenreflex (S1)\n- motorische Ausfälle im Bein- und besonders im Fußbereich (z. B. Fußheberschwäche)\n- Impotenz\n- Harn- und Stuhlinkontinenz durch Schädigung des Nervus pudendus (S2-S4)\n- aber auch: Überlaufblase mit massiver Restharnbildung/ Herzrhythmusstörungen\n- reduzierter Sphinktertonus bei rektaler Untersuchung",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Kauda-Syndrom = Cauda-equina-Kompressionssyndrom; Ursache u. a. posterior-medialer Bandscheibenvorfall",
+        "Leitsymptome: Reithosenanästhesie, fehlende PSR/ASR, Fußheberschwäche, Harn-/Stuhlinkontinenz (N. pudendus S2–S4)",
+        "Diagnostik: Röntgen, CT, MRT, Myelographie, ENG, EMG"
+      ]
+    },
+    {
+      "gidx": 92,
+      "source": "ortho-rheuma p.92",
+      "slide_title": "Cauda equina – Anatomie (Abbildungen)",
+      "type": "inhalt",
+      "notes_md": "# Cauda equina – anatomische Abbildungen\n\nAnatomische Illustrationen (englisch beschriftet, ohne deutschen Begleittext):\n- Sagittalschnitt LWS/Sakrum: Cauda equina of spinal cord, Bandscheibenhernie auf Höhe L5–S1 mit Kompression der Cauda equina (\"disc herniation at L5-S1 compressing cauda equina of spinal cord\")\n- Übersicht: Blase, Geschlechtsorgane und Rektum werden von Nervenwurzeln versorgt, die unterhalb der Cauda-equina-Kompression austreten\n- Ventrale Ansicht Becken: Verlauf der Nervenwurzeln L2–S1, Rectum, Bladder\n- Sagittalschnitt weibliches/männliches Becken: Beziehung von Rückenmark/Cauda zu Blase und Rektum",
+      "figures": [
+        {
+          "caption": "Cauda-equina-Kompression bei Bandscheibenvorfall L5/S1",
+          "shows": "Anatomische Illustrationen: Bandscheibenhernie L5–S1 komprimiert die Cauda equina; Innervation von Blase, Geschlechtsorganen und Rektum durch die Nervenwurzeln",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Bandscheibenvorfall L5/S1 kann die Cauda equina komprimieren",
+        "Blase, Geschlechtsorgane und Rektum werden von Nervenwurzeln unterhalb des Kompressionslevels versorgt (erklärt Inkontinenz/Impotenz beim Kauda-Syndrom)"
+      ]
+    },
+    {
+      "gidx": 93,
+      "source": "ortho-rheuma p.93",
+      "slide_title": "Therapien (Bandscheibenvorfall)",
+      "type": "inhalt",
+      "notes_md": "# Therapien\n\n## Therapie für Protrusion und Prolaps\n\n### Konversativ (konservativ)\n- Wärmeapplikation\n- medikamentös: Analgetika, Antiphlogistika, Muskelrelaxantien\n- Elektrotherapie\n- Balneo-physikalische Anwendungen\n- Massage\n- KG\n- Stufenbettlagerung\n- Quaddeln/ Infiltration eines Lokalanästhetikums/Paravertebrale Muskulatur\n- Akupunktur\n\n### minimal-invasive Verfahren: CT/MRT gesteuert\n- Chemonukleolyse\n- PRT/Periradikuläre Therapie\n- intradiskale Mikrotherapie\n- Perkutane Laser-Discus-Dekompression\n- Perkutane Nukleotomie\n- IDET: intradiskale elektrodermale Therapie\n- Radikulolyse/ Entfernung der Osteophyten, die die Nervenwurzel komprimieren, dadurch Erweiterung des Foramen intervertebrale\n- Disektomie/ komplette Entfernung der Bandscheibe mit Einsetzen eines Cages und/ oder Bandscheibenprothese (Hybridtechnik)\n\n## Postnukleotomie-Syndrom\n- Schmerzen, Hypästhesien und evtl. Plegien durch Vernarbungen und Instabilität im operiertem Segment",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Konservative BSV-Therapie: Wärme, Analgetika/Antiphlogistika/Muskelrelaxantien, Elektrotherapie, KG, Stufenbettlagerung, Akupunktur",
+        "Minimal-invasive Verfahren (CT/MRT-gesteuert): Chemonukleolyse, PRT, perkutane Nukleotomie, IDET, Disektomie mit Cage/Bandscheibenprothese",
+        "Postnukleotomie-Syndrom: Schmerzen, Hypästhesien, evtl. Plegien durch Vernarbungen/Instabilität"
+      ]
+    },
+    {
+      "gidx": 94,
+      "source": "ortho-rheuma p.94",
+      "slide_title": "Coxarthrose – Definition und Ursachen",
+      "type": "inhalt",
+      "notes_md": "# Coxarthrose\n\n## Definition\n- degenerative Erkrankung des Hüftgelenks mit Verschleiß der Gelenkknorpel\n\n## beteiligte Strukturen\n- Caput femoris + Facies lunata/Acetabulum\n\n## Ursachen\n- Hüftdysplasie/angeborene Steilstellung des Acetabulums\n- Coxa valga, Coxa vara\n- Epihysiolysis capitis femoris (Abrutschen der Epiphyse des Femurkopfes nach medial und dorsal im Kindesalter)\n- Coxitis bei Systemerkrankungen/z.B.: Morbus Bechterew, PCP, Infektionen\n- Impingementsyndrom des Hüftgelenks\n- posttraumatisch nach Frakturen\n- Morbus Perthes/kindliche Hüftkopfnekrose\n- mechanisch: Fehl- und Überbelastung\n- Übergewicht\n- berufsbedingt, sportbedingt\n- Genu valgum, Genu varum",
+      "figures": [
+        {
+          "caption": "Coxarthrose im Röntgen und MRT",
+          "shows": "Beckenübersichts-Röntgen mit rot markiertem Hüftgelenk (Coxarthrose) sowie koronares MRT des Beckens/beider Hüftgelenke",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1, 5, 8, 10],
+      "key_facts": [
+        "Coxarthrose = degenerative Erkrankung des Hüftgelenks mit Knorpelverschleiß; beteiligt: Caput femoris + Facies lunata/Acetabulum",
+        "Ursachen u. a.: Hüftdysplasie, Coxa valga/vara, Epiphysiolysis capitis femoris, Impingement, Morbus Perthes, Genu valgum/varum"
+      ]
+    },
+    {
+      "gidx": 95,
+      "source": "ortho-rheuma p.95",
+      "slide_title": "Coxarthrose – Verlauf, Stadien und Symptome",
+      "type": "inhalt",
+      "notes_md": "# Coxarthrose\n\n## Verlauf und Stadien\n- **Grad 0:** die gesunde Knorpel-Oberfläche ist glatt und elastisch\n- **Grad 1:** angeraute Knorpeloberfläche, teilweise auch schon weich durch den beginnenden Verlust an hyalinem Knorpelgewebe\n- **Grad 2:** die Beschädigung des Knorpels ist sichtbar, aber der Knorpelüberzug über dem Oberschenkelkopf oder der Hüftpfanne (Acetabulum) ist noch intakt\n- **Grad 3:** Knorpelschäden betreffen bereits 50%–100% der Dicke der Knorpelschicht. Die Risse gehen also durch die ganze Dicke der Knorpelschicht.\n- **Grad 4:** \"Knorpelglatze\", d.h. der Knochen unter dem Knorpel ist sichtbar geworden, die Knochen reiben direkt aneinander, die Hüfte versteift nun vollständig und wird schmerzhaft\n\n## Symptome\n- je nach Stadium: belastungsabhängige Schmerzen. Anlaufschmerzen, Ruheschmerzen\n- dumpfe, bohrende stechende Schmerzen\n- ausstrahlend in Leiste, teils bis ins Knie\n- gestörtes Gangbild/Schonhinken\n- Versteifung: Bewegungseinschränkungen/ beim Schuhe zubinden, Strümpfe anziehen\n- schmerzhafte Drehung des Beines um die eigene Achse: Typischer Schmerz beim der Drehung des Beines um seine eigene Achse, Fußspitze bei gestrecktem Bein nach außen drehen\n- Gehbeschwerden bzw. verminderte Gehstrecke: Wenn die maximale Gehstrecke bis zum Auftreten von starken Hüftschmerzen oder sichtbarem Hinken stetig nachlässt\n- Knack- und Reibegeräusche\n- Kontrakte Muskelschmerzen, Lendenschmerzen",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Coxarthrose-Stadien Grad 0–4: von glatter Knorpeloberfläche bis \"Knorpelglatze\" mit direktem Knochenkontakt und Versteifung",
+        "Typische Symptome: Anlaufschmerz, belastungsabhängige Schmerzen, Ausstrahlung in Leiste bis ins Knie, Schonhinken",
+        "Typisch: schmerzhafte Drehung des Beines um die eigene Achse (Fußspitze bei gestrecktem Bein nach außen drehen)"
+      ]
+    },
+    {
+      "gidx": 96,
+      "source": "ortho-rheuma p.96",
+      "slide_title": "Hüftgelenk, Articulatio coxae – Anatomie",
+      "type": "inhalt",
+      "notes_md": "# Hüftgelenk, Articulatio coxae (Anatomie-Abbildung)\n\n**Abb. 4.54 und Abb. 4.55 Hüftgelenk, Articulatio coxae, rechts;** Ansicht von ventral; nach Kapseleröffnung und teilweiser (→ Abb. 4.54) bzw. vollständiger (→ Abb. 4.55) Exartikulation des Femurkopfes. Neben den Außenbändern (**Lig. iliofemorale, Lig. pubofemorale, Lig. ischiofemorale**) ist im Gelenkinneren das **Lig. capitis femoris** sichtbar, das keine Haltefunktion besitzt. Das **Lig. transversum acetabuli** ergänzt unten das Acetabulum zu einem Ring und dient zusammen mit dem ebenfalls aus straffem Bindegewebe bestehenden **Labrum acetabuli** der Führung des Femurkopfes.\n\n## Beschriftete Strukturen (Abb. 4.54)\n- Lig. iliofemorale\n- Labrum acetabuli\n- Lig. capitis femoris\n- M. rectus femoris, Tendo\n- Caput femoris\n- Lig. ischiofemorale\n- Trochanter minor\n- Canalis obturatorius\n- Lig. pubofemorale\n- Membrana obturatoria\n\n## Beschriftete Strukturen (Abb. 4.55)\n- Lig. iliofemorale; Capsula articularis\n- Labrum acetabuli\n- Facies lunata\n- Fossa acetabuli\n- Lig. capitis femoris\n- Lig. transversum acetabuli\n- Lig. ischiofemorale; Capsula articularis",
+      "figures": [
+        {
+          "caption": "Abb. 4.54 und 4.55: Hüftgelenk, Articulatio coxae, rechts",
+          "shows": "Anatomische Zeichnung des Hüftgelenks von ventral nach Kapseleröffnung mit teilweiser/vollständiger Exartikulation des Femurkopfes: Außenbänder, Lig. capitis femoris, Labrum acetabuli, Facies lunata, Lig. transversum acetabuli",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Außenbänder des Hüftgelenks: Lig. iliofemorale, Lig. pubofemorale, Lig. ischiofemorale",
+        "Lig. capitis femoris besitzt keine Haltefunktion",
+        "Lig. transversum acetabuli ergänzt das Acetabulum zu einem Ring; Labrum acetabuli dient der Führung des Femurkopfes"
+      ]
+    }
+  ]
+}

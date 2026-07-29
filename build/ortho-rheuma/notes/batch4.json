@@ -1,0 +1,274 @@
+{
+  "batch": "4",
+  "pages": [
+    {
+      "gidx": 37,
+      "source": "ortho-rheuma p.37",
+      "slide_title": "Pes cavus: Hohlfuß",
+      "type": "inhalt",
+      "notes_md": "## Pes cavus: Hohlfuß\n\n- ausgeprägtes Längsgewölbe, eine Abhebung des Fußinnenrandes um mehr als zwei Zentimeter vom Boden\n- kontrakte Plantarfaszie\n- Supination des Rückfußes\n- Pronation des Vorfußes\n- häufig Krallenzehen\n\n### Ursachen\n- Störungen des muskulären Gleichgewichts der Unterschenkel- und Fußmuskulatur\n- neurogene Störungen, z.B. Spastik/ Tonuserhöhung der Muskulatur\n- häufiges Tragen von Schuhen mit hohen Absätzen\n\n### Symptome\n- Belastungsschmerzen am Vorfuß\n- insbesondere unter dem ersten und fünften Mittelfußkopf\n- Schwielen\n\n### Therapie\n- Einlagen\n- orthopädische Schuhe\n- evtl. operative Korrektur\n\nPedobarografie/ Fußdruckmessung\n\n### Stark ausgeprägter Hohlfuß\n- Korrektur eines Hohlfußes mit Korrekturosteotomien des Calcaneus und des Metatarsale 1 (unteres Bild). Am Calcaneus Verwendung von Schrauben, die komplett im Knochen versenkt werden und deren Schraubenköpfe keine lokalen Irritationen auslösen können",
+      "figures": [
+        {
+          "caption": "Pedobarografie/ Fußdruckmessung",
+          "shows": "Schematische Darstellung des Fußlängsgewölbes mit Druckzonen (Pedobarografie) beim Hohlfuß",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Stark ausgeprägter Hohlfuß – Röntgenbilder mit Belastung",
+          "shows": "Röntgenbilder des Fußes (rechts, mit Belastung): oben präoperativ, unten nach Korrekturosteotomie des Calcaneus und Metatarsale 1 mit versenkten Schrauben",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Pes cavus = Hohlfuß: ausgeprägtes Längsgewölbe, Fußinnenrand > 2 cm vom Boden abgehoben",
+        "Supination des Rückfußes, Pronation des Vorfußes, häufig Krallenzehen",
+        "Symptome: Belastungsschmerzen am Vorfuß v. a. unter dem 1. und 5. Mittelfußkopf, Schwielen",
+        "Therapie: Einlagen, orthopädische Schuhe, evtl. operative Korrektur (Korrekturosteotomie des Calcaneus und Metatarsale 1)"
+      ]
+    },
+    {
+      "gidx": 38,
+      "source": "ortho-rheuma p.38",
+      "slide_title": "Pes valgus: Knick-Senkfuß",
+      "type": "inhalt",
+      "notes_md": "## Pes valgus: Knick-Senkfuß\n\n- Fußsohle liegt ganz auf dem Boden auf\n- X-Stellung der Ferse und des Unterschenkels\n- Innenknöchel tritt hervor\n- Füße zeigen beim Gehen nach außen\n\n### Kindlicher Knick-Senkfuß\n- als Störung oder Verzögerung der Fußreifung\n- wächst sich meist ohne Behandlung bis zum 6. Lebensjahr wieder aus\n\n### Operativ: Arthrorhise\n- dabei wird über einen kleinen Schnitt eine Kalkaneostoppschraube eingebracht\n- siehe auch unter Plattfuß\n\n### Therapie\n- ansonsten: Barfußlaufen oder KG",
+      "figures": [
+        {
+          "caption": "Abb. 2: Knick-Senk-Fuß-Stellung",
+          "shows": "Foto zweier Fersen von hinten: Der Innenknöchel ist stark nach innen vorgeschoben",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Achillessehne ohne Einlage / mit Einlage",
+          "shows": "Vergleich der Fersenstellung ohne und mit Einlage – Korrektur der Achillessehnenachse durch Einlage",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Kinderfüße (Barfußlaufen)",
+          "shows": "Foto barfüßiger Kinderfüße – Therapieempfehlung Barfußlaufen",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Pes valgus = Knick-Senkfuß: Fußsohle liegt ganz auf, X-Stellung von Ferse und Unterschenkel, Innenknöchel tritt hervor",
+        "Kindlicher Knick-Senkfuß wächst sich meist bis zum 6. Lebensjahr ohne Behandlung aus",
+        "Operativ: Arthrorhise mit Kalkaneostoppschraube über kleinen Schnitt",
+        "Therapie sonst: Barfußlaufen oder Krankengymnastik"
+      ]
+    },
+    {
+      "gidx": 39,
+      "source": "ortho-rheuma p.39",
+      "slide_title": "Pes valgus: Knick-Senkfuß (Erwachsene)",
+      "type": "inhalt",
+      "notes_md": "## Knick-Senkfuß des Erwachsenen\n\n### Ursachen\n- Adipositas\n- Diabetes mellitus\n- Traumata, Frakturen oder Sehnenabriss\n\n### Neurologische Veränderungen\n- Schwächung der Tibialis posterior-Sehne (Sehne, die vom Wadenbein auf die Innenseite des Fußes verläuft (Lig. posterior tibialis))\n- Steroidbedingte Sehnendegeneration\n- Rheumatische Erkrankungen\n\n### Symptome\n- Fußschmerzen treten vor allem am Fußinnenrand unter dem Innenknöchel auf. Oft ziehen diese Schmerzen bis in den Unterschenkel.\n- Schwellung am Innenknöchel, aber auch Schwellung am Außenknöchel gehört zu den häufig von Patienten berichteten Symptomen.\n- bei manchen Patienten ist der Schmerz in der äußeren Fußkante – kurz vor dem Außenknöchel lokalisiert.\n\n### Therapie\n- Fußgymnastik\n- Einlagen\n- Orthopädische Schuhe\n\n### Kräftigung des M. tibialis posterior\nZiehen Sie kräftig die Zehengrundgelenke zurück in Richtung Ferse. Sie können beobachten, wie sich das Fußlängsgewölbe hebt. Achten Sie darauf, dass Sie nicht mit den Zehen krallen und dass Groß- und Kleinzehenballen einen satten Kontakt zum Boden haben. Führen Sie 1 – 2 Minuten eine rhythmische, federnde Bewegung durch.",
+      "figures": [
+        {
+          "caption": "Übungen zur Kräftigung des M. tibialis posterior",
+          "shows": "Fotos von Übungen mit Theraband und Tapes zur Kräftigung des M. tibialis posterior (Zurückziehen der Zehengrundgelenke Richtung Ferse)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Ursachen des erworbenen Knick-Senkfußes: Adipositas, Diabetes mellitus, Traumata/Frakturen/Sehnenabriss",
+        "Schlüsselstruktur: Schwächung der Tibialis-posterior-Sehne; auch steroidbedingte Sehnendegeneration und rheumatische Erkrankungen",
+        "Symptome: Schmerzen am Fußinnenrand unter dem Innenknöchel, oft in den Unterschenkel ziehend; Schwellung am Innen- und Außenknöchel",
+        "Therapie: Fußgymnastik (Kräftigung M. tibialis posterior), Einlagen, orthopädische Schuhe"
+      ]
+    },
+    {
+      "gidx": 40,
+      "source": "ortho-rheuma p.40",
+      "slide_title": "Pes transversus: Spreizfuß",
+      "type": "inhalt",
+      "notes_md": "## Pes transversus: Spreizfuß\n\n- eingesunkenes Quergewölbe\n- Vorfuß verbreitert\n- Metatarsalköpfchen 2-4 abgesunken\n\n### Ursachen\n- angeborene Veranlagung\n- Muskel- und Bänderschwäche\n- langes Stehen oder Gehen ohne Training\n- Polyarthritis\n- bestimmte Berufe (Verkäufer, Köche)\n- Tragen und Heben schwerer Lasten\n- schnelle Gewichtszunahme (Schwangerschaft) oder Übergewicht\n- enge, hohe Schuhe\n- vor allem die zusätzlich zum Spreizfuß auftretenden Zehfehlbildungen (Hammerzehe, Überbein -> Hallux valgus) sind auf das Tragen von unphysiologischem Schuhwerk zurückzuführen.\n\n### Symptome\n- meist keine Beschwerden\n- sind belastungsabhängige Schmerzen im Ballen und Zehenschmerzen. Ursache sind Druckstellen und Hornhautschwielen, die sich an der Sohle über dem zweiten, dritten und vierten Mittelfußknochen bilden. Eine weitere Folge des verbreiterten Vorderfußes ist, dass die großen Zehen im Bereich des Großzehengrundgelenks nach außen drängen (Extremfall -> Hallux vagus oder Ballenzeh), während die kleinen Zehen nach innen wandern.\n- durch den stark verbreiteten Fuß werden auch die Beugesehnen zu kurz und die Zehen nehmen eine krallenartige Stellung ein. Man spricht von Hammer- oder Krallenzehen. Auf den Zehen können leicht Druckstellen und Hühneraugen entstehen.\n\n### Therapie\n- Einlagen\n- Fußgymnastik\n- evtl. operatives Entfernen der Mittelfußköpfchen, insbesondere bei chronischer Polyarthritis",
+      "figures": [
+        {
+          "caption": "Folgen des Spreizfußes",
+          "shows": "Drei Fotos: Schwielen im Bereich der Mittelfußköpfchen, Hallux valgus, Krallenzehen",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Wirksame Therapie des Spreizfußes",
+          "shows": "Spreizfußpelotte (Einlage mit Pelotte hinter den Mittelfußköpfchen) und Ballenrolle am Schuh",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Pes transversus = Spreizfuß: eingesunkenes Quergewölbe, verbreiterter Vorfuß, abgesunkene Metatarsalköpfchen 2-4",
+        "Ursachen u.a.: angeborene Veranlagung, Muskel-/Bänderschwäche, Polyarthritis, Übergewicht, enge hohe Schuhe",
+        "Folgen: Druckstellen/Hornhautschwielen über dem 2.-4. Mittelfußknochen, Hallux valgus (Ballenzeh), Hammer-/Krallenzehen, Hühneraugen",
+        "Therapie: Einlagen (Spreizfußpelotte), Fußgymnastik, evtl. operative Entfernung der Mittelfußköpfchen bei chronischer Polyarthritis"
+      ]
+    },
+    {
+      "gidx": 41,
+      "source": "ortho-rheuma p.41",
+      "slide_title": "Pes planus: Plattfuß",
+      "type": "inhalt",
+      "notes_md": "## Pes planus: Plattfuß\n\n- das Längsgewölbe ist meist nur leicht aufgehoben\n\n### Formen\n**Angeboren: selten**\n- im Kindesalter besteht ein Fettpolster in der Fußsohle, das den Eindruck eines Plattfußes erweckt, jedoch völlig physiologisch, also nicht krankhaft, ist.\n\naber:\n- diese auch als Tintenlöscherfuß oder Schaukelfuß bezeichnete Fußfehlbildung besteht von Geburt an und kann unbehandelt die spätere Gehfähigkeit beeinträchtigen.\n\n### Erworbener Plattfuß\n- entsteht durch eine ungenügende Funktion von Muskeln und Bändern, die zu einem Einsinken des Fußlängsgewölbes führen\n- Übergewicht\n- die Ferse steht in Valgus-Stellung, der Talus hingegen in Normalstellung\n\n### Kontrakter (entzündlicher) Plattfuß\n- er wird oft durch Dauerbelastung bei stehenden Tätigkeiten verursacht. Knorpeldegeneration und arthrotische Reizzustände führen zu Verkürzung von Bändern. In späteren Stadien sind auch die Fußknochen verformt. Die Patienten leiden unter Schmerzen und Bewegungseinschränkungen.\n\n### Posttraumatischer Plattfuß\n- der posttraumatische Plattfuß tritt z.B. nach Bruch des Fersenbeins auf\n\n### Therapie\n- Redressement\n- Gipsschale\n- Fußgymnastik\n- evtl. operative Korrektur",
+      "figures": [
+        {
+          "caption": "Plattfüße 3. Grades",
+          "shows": "Foto zweier Fersen von hinten: vollständiges Absacken der Fußwölbung bei Plattfuß 3. Grades",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Pes planus = Plattfuß: Längsgewölbe meist nur leicht aufgehoben",
+        "Formen: angeboren (selten; Tintenlöscherfuß/Schaukelfuß), erworben, kontrakter (entzündlicher), posttraumatischer Plattfuß",
+        "Kindliches Fettpolster in der Fußsohle wirkt wie ein Plattfuß, ist aber physiologisch",
+        "Erworbener Plattfuß: Ferse in Valgus-Stellung, Talus in Normalstellung",
+        "Therapie: Redressement, Gipsschale, Fußgymnastik, evtl. operative Korrektur"
+      ]
+    },
+    {
+      "gidx": 42,
+      "source": "ortho-rheuma p.42",
+      "slide_title": "Pes planus: Plattfuß – Operative Therapie (Arthrorhise)",
+      "type": "inhalt",
+      "notes_md": "## Operative Therapie des kindlichen Plattfußes\n\n### Arthrorhise (Griech.: Gelenkstützend)\nDie minimal-invasive subtalare Schrauben-Arthrorise hat für die Behandlung des kindlichen Knick-Senk-Fußes und Plattfußes an Bedeutung zugenommen:\n\n- bis zum Alter von 12 Jahren lassen sich diese Fußdeformitäten mit einer sog. Arthrorhise korrigieren\n- dabei wird über einen kleinen Schnitt eine sog. Kalkaneostoppschraube eingebracht, die die Fehlstellung sofort komplett korrigiert.\n- durch das weitere Wachstum wird dann die Deformität korrigiert\n- in etwa 10% der Fälle richtet sich die nicht andere Seite mit auf, weshalb wir auch erst nur eine Seite operieren\n- in den verbleibenden Fällen wird die andere Seite nach etwa 3 Monaten operiert werden\n- die einliegenden Schrauben verursachen keinerlei Probleme und auch Sport ist uneingeschränkt möglich\n- beide Schrauben werden dann nach Abschluss des Wachstums und nach Ablauf von 2 Jahre wieder entfernt.",
+      "figures": [
+        {
+          "caption": "Röntgenbilder subtalare Schrauben-Arthrorhise",
+          "shows": "Seitliche Röntgenaufnahmen des Fußes vor und nach Einbringen der Kalkaneostoppschraube (Arthrorhise) zur Korrektur des kindlichen Plattfußes",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Arthrorhise = minimal-invasive subtalare Schrauben-Arthrorise beim kindlichen Knick-Senk-Fuß und Plattfuß",
+        "Korrektur bis zum Alter von 12 Jahren möglich",
+        "Über kleinen Schnitt wird eine Kalkaneostoppschraube eingebracht, die die Fehlstellung sofort komplett korrigiert",
+        "In ca. 10% der Fälle richtet sich die andere Seite mit auf – daher zunächst nur einseitige OP",
+        "Schrauben werden nach Abschluss des Wachstums und nach Ablauf von 2 Jahren entfernt"
+      ]
+    },
+    {
+      "gidx": 43,
+      "source": "ortho-rheuma p.43",
+      "slide_title": "Pes adductus: Sichelfuß",
+      "type": "inhalt",
+      "notes_md": "## Pes adductus: Sichelfuß\n\n- Adduktion des Vorfußes\n- Valgusstellung des Rückfußes\n- häufigste Fußfehlstellung beim Baby: Hierbei ist der Vorderfuß nach innen gedreht – dadurch hat der Fuß die Form einer Sichel\n\n### Ursachen\n- ist meistens eine bereits im Mutterleib vorhandene Fehlstellung des Fußes beim Fetus\n- durch eine im Verhältnis zum Kind sehr kleine Gebärmutter wird der Fuß schon pränatal in die Adduktionsstellung gezwungen\n- aber auch: wenn der Säugling vermehrt auf den Bauch gelagert wird\n\n### Therapie (je nach Schweregrad)\n- Redressement: postnatal Gipsverband, dann korrigierende Schienen\n- bei leichten Fällen kommt eine Dehnungsgymnastik zum Einsatz. Therapeutisch wird hierbei der Babinski-Reflex ausgenutzt: Durch leichtes Bestreichen des seitlichen Fußrückens zieht der Säugling den Fuß reflexartig in die physiologische Position.\n- Fußgymnastik",
+      "figures": [
+        {
+          "caption": "Babyfüße mit Sichelfußstellung",
+          "shows": "Foto von Säuglingsfüßen mit nach innen gedrehtem Vorderfuß (Sichelform)",
+          "importance": "low",
+          "extract": true
+        },
+        {
+          "caption": "Babysichelfußschuh",
+          "shows": "Babysichelfußschuhe mit Korrektur (acht Größen von 80 bis 150 mm) und in Neutralstellung, mit Valgus-Schema der Fußstellung",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Pes adductus = Sichelfuß: Adduktion des Vorfußes, Valgusstellung des Rückfußes – häufigste Fußfehlstellung beim Baby",
+        "Ursache meist pränatal (kleine Gebärmutter drückt Fuß in Adduktionsstellung); begünstigt durch Bauchlagerung des Säuglings",
+        "Therapie: Redressement (postnatal Gipsverband, dann korrigierende Schienen), Dehnungsgymnastik unter Nutzung des Babinski-Reflexes, Fußgymnastik"
+      ]
+    },
+    {
+      "gidx": 44,
+      "source": "ortho-rheuma p.44",
+      "slide_title": "Arbeitsauftrag: Skoliose – Definition und Ursachen (1)",
+      "type": "inhalt",
+      "notes_md": "## Arbeitsauftrag vom 30.01.2026 – Orthopädie / Ausarbeitung von Valeria Flaum – ETK18B\n\nBitte gebt Euren vollständigen Namen an und sendet mir die Ausfertigung an meine Mail: Kreinnattrodt@yahoo.de\n\nAbgabetermin ist Montag, den 2.2.2026\n\n### Thema: Skoliose\nQuelle: PDF = Skoliose / Ilias = ETK18B\n\n### Definition\nEine fixierte seitliche Wirbelsäulenverbiegung, teils mit Rotation einzelner Wirbelkörper.\n\n### Ursachen – besonders auf die Wirbeldeformitäten achten\n**Zu 90% idiopathisch:**\n- keine primäre Wirbeldeformität.\n\n**sekundär möglich:**\n- Keilwirbel.\n- Rotationsdeformitäten.\n\n**Ursache:**\n- Entstehen erst im Verlauf durch asymmetrische Belastung).\n\n### Osteopathisch: angeboren\n**Primäre Wirbeldeformitäten:**\n- Keilwirbel.\n- Hemivertebra (Halbwirbel).\n- Spaltwirbel (z.B. bei Spina bifida).\n- Blockwirbel.\n- Rippendefekte (keine Wirbel, aber thorakale Fehlbildung).\n\n### Myopathisch\n**Sekundäre Wirbeldeformitäten:**\n- Keilwirbel (durch Muskelungleichgewicht).\n- Rotationsdeformitäten.\n- Sinterwirbel (bei langjähriger Fehlbelastung).\n\n**Ursachen Muskelerkrankungen wie z.B.:**\n- Progressive Muskeldystrophie.\n- Narbenskoliose nach Pleuraempyem.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Skoliose = fixierte seitliche Wirbelsäulenverbiegung, teils mit Rotation einzelner Wirbelkörper",
+        "Zu 90% idiopathisch – keine primäre Wirbeldeformität; sekundär Keilwirbel und Rotationsdeformitäten durch asymmetrische Belastung",
+        "Osteopathische (angeborene) primäre Wirbeldeformitäten: Keilwirbel, Hemivertebra, Spaltwirbel (Spina bifida), Blockwirbel, Rippendefekte",
+        "Myopathische Skoliose: sekundäre Deformitäten durch Muskelungleichgewicht, z.B. progressive Muskeldystrophie, Narbenskoliose nach Pleuraempyem"
+      ]
+    },
+    {
+      "gidx": 45,
+      "source": "ortho-rheuma p.45",
+      "slide_title": "Skoliose – Ursachen (2)",
+      "type": "inhalt",
+      "notes_md": "## Skoliose – Ursachen (Fortsetzung)\n\n### Neurogen\n**Sekundäre Wirbeldeformitäten:**\n- Keilwirbel.\n- Rotationsdeformitäten.\n- Plattwirbel (bei schwerer Belastungsstörung).\n\n**Ursachen z.B.:**\n- Infantile Zerebralparese.\n- Poliomyelitis.\n\n### Erworben nach Unfällen (posttraumatisch)\n**Primäre Wirbeldeformitäten:**\n- Keilwirbel.\n- Sinterwirbel.\n- Plattwirbel.\n\n**Ursache:**\n- Nach Wirbelfrakturen.\n\n### Säuglingsskoliose\n- Meist keine feste Wirbeldeformität.\n\n**Gegebenenfalls:**\n- Leichte Keilwirbel.\n- Rotationsdeformitäten.\n- Häufig reversibel.\n\n### Metabolische Skoliose\n**Primäre Wirbeldeformitäten:**\n- Keilwirbel.\n- Plattwirbel (Fischwirbel).\n- Sinterwirbel.\n\n**Ursachen:**\n- Rachitis.\n- Osteoporose.\n\n### Tumore\n**Primäre Wirbeldeformitäten:**\n- Destruktionswirbel.\n- Keilwirbel.\n- Plattwirbel.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Neurogene Skoliose: sekundäre Deformitäten (Keilwirbel, Rotationsdeformitäten, Plattwirbel), z.B. bei infantiler Zerebralparese, Poliomyelitis",
+        "Posttraumatische Skoliose: primäre Deformitäten (Keil-, Sinter-, Plattwirbel) nach Wirbelfrakturen",
+        "Säuglingsskoliose: meist keine feste Wirbeldeformität, häufig reversibel",
+        "Metabolische Skoliose: Keilwirbel, Plattwirbel (Fischwirbel), Sinterwirbel – Ursachen Rachitis und Osteoporose",
+        "Tumorbedingte Skoliose: Destruktionswirbel, Keilwirbel, Plattwirbel"
+      ]
+    },
+    {
+      "gidx": 46,
+      "source": "ortho-rheuma p.46",
+      "slide_title": "Skoliose – Zusammenfassung und C-förmige Skoliose",
+      "type": "inhalt",
+      "notes_md": "## Skoliose – Zusammenfassung und Formen\n\n**Ursache (Tumore):**\n- Durch Knochenzerstörung oder asymmetrisches Wachstum.\n\n### Grundsätzlich\n- Angeboren = Wirbel falsch gebaut.\n- Muskeln/Nerven = Wirbel werden verformt.\n- Trauma/Metabolik/Tumor = Wirbel brechen oder sinken ein.\n\n### Die 3 Formen der Skoliose (siehe Abbildung)\n\n**1. C-förmige Skoliose:**\n- Eine einzige seitliche Krümmung der Wirbelsäule.\n- Wirbelsäule erinnert an den Buchstaben „C“.\n- Häufig frühes Stadium oder funktionelle Skoliose.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Merksatz: Angeboren = Wirbel falsch gebaut; Muskeln/Nerven = Wirbel werden verformt; Trauma/Metabolik/Tumor = Wirbel brechen oder sinken ein",
+        "C-förmige Skoliose: einzige seitliche Krümmung, Form wie „C“, häufig frühes Stadium oder funktionelle Skoliose"
+      ]
+    },
+    {
+      "gidx": 47,
+      "source": "ortho-rheuma p.47",
+      "slide_title": "C-förmige und S-förmige Skoliose",
+      "type": "inhalt",
+      "notes_md": "## Formen der Skoliose (Fortsetzung)\n\nAbbildung: C-förmige Skoliose (Rechtskonvexe Skoliose)\n\n**2. S-förmige Skoliose:**\n- Zwei gegenläufige Krümmungen.\n- Wirbelsäule hat die Form eines „S“.\n- Eine Hauptkrümmung + eine Ausgleichskrümmung.\n- Meist strukturell und stabiler als die C-Form.",
+      "figures": [
+        {
+          "caption": "C-förmige Skoliose (Rechtskonvexe Skoliose)",
+          "shows": "Zeichnung eines Rückens mit Wirbelsäule und Becken: einzige seitliche Krümmung der Wirbelsäule in C-Form (rechtskonvex)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "S-förmige Skoliose: zwei gegenläufige Krümmungen (Hauptkrümmung + Ausgleichskrümmung), Form wie „S“",
+        "S-Form ist meist strukturell und stabiler als die C-Form"
+      ]
+    },
+    {
+      "gidx": 48,
+      "source": "ortho-rheuma p.48",
+      "slide_title": "S-förmige Skoliose und Wirbelsäulenüberhang",
+      "type": "inhalt",
+      "notes_md": "## Formen der Skoliose (Fortsetzung)\n\nAbbildung: S-förmige Skoliose\n\n**3. Skoliose mit Wirbelsäulenüberhang nach rechts:**\n- Der Rumpf bzw. die Wirbelsäulenachse ist insgesamt nach rechts verschoben.\n- Kopf steht nicht mehr über dem Becken.\n- Zeichen einer unausgeglichenen (dekompensierten) Skoliose.",
+      "figures": [
+        {
+          "caption": "S-förmige Skoliose",
+          "shows": "Zeichnung eines Rückens mit Wirbelsäule und Becken: zwei gegenläufige Krümmungen in S-Form",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Skoliose mit Wirbelsäulenüberhang nach rechts: Rumpf/Wirbelsäulenachse insgesamt nach rechts verschoben, Kopf steht nicht mehr über dem Becken",
+        "Wirbelsäulenüberhang = Zeichen einer unausgeglichenen (dekompensierten) Skoliose"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "batch": "7",
+  "pages": [
+    {
+      "gidx": 73,
+      "source": "ortho-rheuma p.73",
+      "slide_title": "Morbus Perthes — intertrochantäre Derotations-Varisationsosteotomie",
+      "type": "inhalt",
+      "notes_md": "## Morbus Perthes\n\n### intertrochantäre Derotations-Varisationsosteotomie\n- der Oberschenkelknochen wird am oberen Ende im Bereich des Trochanter major durchtrennt, indem ein Knochenkeil entfernt wird\n- erreicht man eine stärkere Kippung des Schenkelhalses, damit der Hüftkopf besser in der Pfanne steht",
+      "figures": [
+        {
+          "caption": "Schemazeichnung der Variationsosteotomie",
+          "shows": "Skizze des Hüftgelenks mit markiertem Knochenkeil am proximalen Femur (intertrochantär), der entfernt wird",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Röntgenbild nach intertrochantärer Derotations-Varisationsosteotomie",
+          "shows": "Postoperatives Röntgenbild der Hüfte mit Winkelplatten-Osteosynthese am proximalen Femur",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Intertrochantäre Derotations-Varisationsosteotomie: Durchtrennung des Oberschenkelknochens im Bereich des Trochanter major mit Entfernung eines Knochenkeils",
+        "Ziel: stärkere Kippung des Schenkelhalses, damit der Hüftkopf besser in der Pfanne steht"
+      ]
+    },
+    {
+      "gidx": 74,
+      "source": "ortho-rheuma p.74",
+      "slide_title": "Morbus Perthes — Salter-Osteotomie",
+      "type": "inhalt",
+      "notes_md": "## Morbus Perthes\n\n### Salter-Osteotomie:\n**Keilförmige Osteotomie des Os ilium**\n\nZiel:\n- Verbesserung der Hüftgelenküberdachung durch flacheres Pfannendach.",
+      "figures": [
+        {
+          "caption": "Schemazeichnung der Salter-Osteotomie",
+          "shows": "Beckenskizze mit keilförmiger Osteotomie des Os ilium oberhalb der Hüftpfanne (eingezeichneter Keil mit Pfeil)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Röntgenbild Becken nach Salter-Osteotomie",
+          "shows": "Postoperative Röntgenaufnahme des Kinderbeckens mit Draht-Fixierung im Bereich des Os ilium",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Salter-Osteotomie = keilförmige Osteotomie des Os ilium",
+        "Ziel: Verbesserung der Hüftgelenküberdachung durch flacheres Pfannendach"
+      ]
+    },
+    {
+      "gidx": 75,
+      "source": "ortho-rheuma p.75",
+      "slide_title": "Morbus Perthes — Triple-Osteotomie",
+      "type": "inhalt",
+      "notes_md": "## Morbus Perthes\n\n### Triple-Osteotomie (Dreifache Beckenosteotomie)\n\n**I. Ausgangslage:** Das Dach der Hüftgelenkspfanne kann den Hüftkopf nicht vollständig aufnehmen.\n\n**II. Knochenschnitte:** Die Durchtrennung der Beckenknochen erfolgt an Schambein, Sitzbein und Darmbein.\n\n**III. Aufbau der Gelenkpfanne:** Der Aufbau der Gelenkpfanne erfolgt durch die Drehung des Knochenteils.\n\n(Quelle der Schemazeichnungen: (c) Deutsches Arthrose Forum)",
+      "figures": [
+        {
+          "caption": "Dreifache Beckenosteotomie — Ausgangslage",
+          "shows": "Schema: Das Dach der Hüftgelenkspfanne kann den Hüftkopf nicht vollständig aufnehmen",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Dreifache Beckenosteotomie — Knochenschnitte",
+          "shows": "Schema: Durchtrennung der Beckenknochen an Schambein, Sitzbein und Darmbein (eingezeichnete Schnittlinien)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Dreifache Beckenosteotomie — Aufbau der Gelenkpfanne",
+          "shows": "Schema: Aufbau der Gelenkpfanne durch Drehung des Knochenteils (Rotationspfeil)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Röntgenbild nach Triple-Osteotomie",
+          "shows": "Postoperative Beckenübersicht mit Schraubenosteosynthese im Beckenbereich",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1],
+      "key_facts": [
+        "Triple-Osteotomie = dreifache Beckenosteotomie: Durchtrennung von Schambein, Sitzbein und Darmbein",
+        "Aufbau der Gelenkpfanne erfolgt durch Drehung des Knochenteils"
+      ]
+    },
+    {
+      "gidx": 76,
+      "source": "ortho-rheuma p.76",
+      "slide_title": "Morbus Köhler I und II — Morbus Köhler I",
+      "type": "inhalt",
+      "notes_md": "## Morbus Köhler I\n\n### Definition:\n- Osteonekrose des Os naviculare pedis\n- 3.-12. Lebensjahr\n- oft beidseitig\n- Jungen häufiger betroffen\n\n### Ursachen:\n- idiopathisch\n- zeitweise intraossäre Ischämie durch kleine Gefäßembolien\n- bei Sichelzellanämie\n- bei Traumata, die mit Gefäßverletzungen einhergehen\n- Infektionen oder Gefäßspasmen werden ebenfalls diskutiert\n\n### Klinik:\n- belastungsabhängige Schmerzen\n- Druckschmerz und Schwellung über dem Os naviculare\n- spontane Wiederherstellung nach Monaten möglich (Restitutio ad integrum)\n\n### Diagnostik:\nRöntgen: scheibenförmige Verschmälerung des Knochens, schollenförmiger Zerfall möglich\n\n### Therapie:\n**konservativ:**\n- Ruhigstellung Unterschenkelgips\n- Entlastung für 8-12 Wochen\n- Versorgung mit Einlagen\n- Massagen\n\n**operativ: Pridie-Bohrung**\n- das Anbohren des betroffenen Knochens kann in früheren Stadien helfen, eine Revaskularisation einzuleiten.\n- Arthrodese kann bei bereits fortgeschrittener Arthrose die Schmerzen der Patienten reduzieren.",
+      "figures": [
+        {
+          "caption": "Röntgenbild der Füße bei Morbus Köhler I",
+          "shows": "Röntgenaufnahme beider Vor-/Mittelfüße; roter Pfeil auf das veränderte Os naviculare",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Morbus Köhler I = Osteonekrose des Os naviculare pedis, 3.-12. Lebensjahr, oft beidseitig, Jungen häufiger betroffen",
+        "Spontane Wiederherstellung nach Monaten möglich (Restitutio ad integrum)",
+        "Röntgen: scheibenförmige Verschmälerung des Knochens, schollenförmiger Zerfall möglich",
+        "Konservativ: Unterschenkelgips, Entlastung 8-12 Wochen, Einlagen, Massagen; operativ: Pridie-Bohrung (Revaskularisation), Arthrodese bei fortgeschrittener Arthrose"
+      ]
+    },
+    {
+      "gidx": 77,
+      "source": "ortho-rheuma p.77",
+      "slide_title": "Morbus Köhler I und II — Morbus Köhler II",
+      "type": "inhalt",
+      "notes_md": "## Morbus Köhler II\n\n### Definition:\n- Osteonekrose der Metatarsalköpfchen II, seltener III, IV oder V\n- Alter 10.-16. Lebensjahr\n- Mädchen häufiger betroffen\n- Balletttänzerinnen\n\n### Ursachen:\n- idiopathisch\n- evtl. vaskulär\n- oder Mikrotraumen\n\n### Klinik:\n- Druckschmerzen\n- Schmerzen bei der Abrollbewegung\n\n### Röntgen:\n- stadienhafter Verlauf, aber keine Spontanheilung\n\nspäter:\n- becherförmige Deformierungen und Exostosen, sekundäre Arthrose\n\n### Radiologische Stadieneinteilung\n- Stadium I: Keine sichtbaren Veränderungen\n- Stadium II: Verdichtung des Mittelfußköpfchens\n- Stadium III: Fragmentation des Mittelfußköpfchens\n- Stadium IV: Arthrose des Zehengrundgelenks\n\n### Therapie:\n**konservativ:**\n- Entlastung durch Einlagen, evtl. Gehgips\n\n**operativ: bei sekundärer Arthrose**\n- Abtragung der Exostosen\n- Ausnahmefall: Exzision des proximalen Anteils des Zehengrundgliedes\n\n**dorsale Keilosteomie:**\nwenn nur die obere Hälfte des Metatarsalköpfchens degenerativ verändert ist, der plantare Kondylus aber noch Knorpel aufweist\n- mit anschließender Fixation (transossäre Nähte oder Kirschnerdraht)",
+      "figures": [
+        {
+          "caption": "Röntgenbild Zehengrundgelenke bei Morbus Köhler II",
+          "shows": "Röntgenaufnahme der Zehengrundgelenke mit rot eingekreistem, verändertem Metatarsalköpfchen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Morbus Köhler II = Osteonekrose der Metatarsalköpfchen II (seltener III-V), Alter 10.-16. Lebensjahr, Mädchen häufiger betroffen, typisch bei Balletttänzerinnen",
+        "Stadienhafter Verlauf ohne Spontanheilung; später becherförmige Deformierungen, Exostosen, sekundäre Arthrose",
+        "Stadien I-IV: keine Veränderungen / Verdichtung / Fragmentation des Mittelfußköpfchens / Arthrose des Zehengrundgelenks",
+        "Operativ: Exostosenabtragung, dorsale Keilosteomie mit Fixation (transossäre Nähte oder Kirschnerdraht)"
+      ]
+    },
+    {
+      "gidx": 78,
+      "source": "ortho-rheuma p.78",
+      "slide_title": "Morbus Köhler und Osgood Schlatter — Osteochondrosen des Fußes (Übersicht)",
+      "type": "inhalt",
+      "notes_md": "## Morbus Köhler und Osgood Schlatter\n\nÜbersicht der Osteochondrosen/Apophysitiden am Fuß (Beschriftungen der Abbildung):\n- **Osteochondrose Sesambeine 1. Strahl (Morbus Renander)**\n- **Osteochondrose Metatarsalia II-V (Morbus Köhler-Freiberg)**\n- **Apophysitis Metatarsale V Basis (Morbus Iselin)**\n- **Osteochondrose Os naviculare (Morbus Köhler)**\n- **Apophysitis calcanei (Severs-Haglund-Osteochondrose)**",
+      "figures": [
+        {
+          "caption": "Übersicht der Osteochondrosen am Fußskelett",
+          "shows": "Beschriftete Skelettzeichnung des Fußes mit Lokalisationen: Morbus Renander (Sesambeine 1. Strahl), Morbus Köhler-Freiberg (Metatarsalia II-V), Morbus Iselin (Metatarsale V Basis), Morbus Köhler (Os naviculare), Severs-Haglund-Osteochondrose (Apophysitis calcanei)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Röntgenbild Knie bei Morbus Osgood-Schlatter",
+          "shows": "Seitliche Röntgenaufnahme des Knies; Pfeil auf die Tibiaapophyse / Ansatz der Patellasehne mit abgelöstem Knochenkern",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Morbus Renander = Osteochondrose der Sesambeine des 1. Strahls",
+        "Morbus Köhler-Freiberg = Osteochondrose der Metatarsalia II-V",
+        "Morbus Iselin = Apophysitis an der Metatarsale-V-Basis",
+        "Morbus Köhler = Osteochondrose des Os naviculare",
+        "Severs-Haglund-Osteochondrose = Apophysitis calcanei"
+      ]
+    },
+    {
+      "gidx": 79,
+      "source": "ortho-rheuma p.79",
+      "slide_title": "Morbus Osgood-Schlatter",
+      "type": "inhalt",
+      "notes_md": "## Morbus Osgood-Schlatter\n\n### Definition:\n- Nekrose der Tibiaapophyse (kindlicher Knochenkern), ausgelöst durch verstärkten Zug des Ligamentum patellae im Bereich der Ansatzstelle — ist eine schmerzhafte Reizung am Ansatz der Patellasehne\n- es können sich Knochenstücke aus dem Schienbein lösen und absterben (Nekrose)\n\n### Ätiologie:\n- Ossifikationsstörung im Bereich der tibialen Patellarsehneninsertion\n- Alter 10-15 Jahre\n- Überbelastung/Sport\n\n### Klinik:\n- Spontan- und Ruheschmerz\n- Druckschmerz an der Tuberositas tibiae und am distalen Patellapol\n- Atrophie der Oberschenkelmuskulatur\n\n### Diagnostik:\nRöntgen, MRT:\n- isolierter Knochenkern, da der Ansatzberereich der Sehne nicht mit der Tibia verwächst\n\n### Therapie\n**konservativ:**\n- Unterarmgehstützen\n- Entlastung mit Schiene für 3 Wochen\n- Sportkarenz 6 Wochen\n- Ultraschallbehandlung\n- KG\n\n**operativ:**\n- Entfernung aller freien, intratendinösen Ossikel\n- wenn das Skelettwachstum abgeschlossen ist",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Morbus Osgood-Schlatter = Nekrose der Tibiaapophyse durch verstärkten Zug des Ligamentum patellae (Alter 10-15 Jahre, Überbelastung/Sport)",
+        "Klinik: Spontan- und Ruheschmerz, Druckschmerz an Tuberositas tibiae und distalem Patellapol, Atrophie der Oberschenkelmuskulatur",
+        "Konservativ: Entlastung mit Schiene 3 Wochen, Sportkarenz 6 Wochen; operativ: Entfernung freier intratendinöser Ossikel erst nach Abschluss des Skelettwachstums"
+      ]
+    },
+    {
+      "gidx": 80,
+      "source": "ortho-rheuma p.80",
+      "slide_title": "Morbus Kienböck: Lunatummalazie",
+      "type": "inhalt",
+      "notes_md": "## Morbus Kienböck: Lunatummalazie/Lunatumnekrose\n\n### Definition:\n- aseptische Knochennekrose des Os lunatum\n\nDas Os lunatum sitzt sowohl dem Radius wie der Ulna auf.\nMan unterscheidet zwischen:\n- **Nullvariante:** normalerweise sind beide Knochen gleich lang\n- **Plusvarianten:** zu langer Knochen\n- **Minusvarianten:** zu kurzer Knochen\n\nBei Längendifferenzen dieser beiden Knochen wird:\n- verstärkt eine Kompression auf das Mondbein ausgeübt,\n- was zu Nekrosen\n- bis zur vollständigen Auflösung des Mondbeins führen kann\n\n### Ätiologie\n- aufgrund von Durchblutungsstörungen mit ungenügender Ernährung des Mondbeins\n- angeborene Plus- und Minusvarianten von Radius und Ulna\n- erhöhte Muskelspannung\n- chronische Traumatisierung durch Arbeiten mit vibrierenden, rüttelnden, erschütternden Werkzeugen (Bauarbeiter)\n\n### Folge:\n- Minderperfusion, Mikrofrakturen des Os lunatum",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Morbus Kienböck = aseptische Knochennekrose des Os lunatum (Lunatummalazie/Lunatumnekrose)",
+        "Unterscheidung: Nullvariante (Radius und Ulna gleich lang), Plusvariante (zu langer Knochen), Minusvariante (zu kurzer Knochen)",
+        "Längendifferenzen führen zu Kompression des Mondbeins → Nekrose bis zur vollständigen Auflösung",
+        "Ätiologie: Durchblutungsstörungen, angeborene Plus-/Minusvarianten, erhöhte Muskelspannung, chronische Traumatisierung durch vibrierende Werkzeuge (Bauarbeiter)"
+      ]
+    },
+    {
+      "gidx": 81,
+      "source": "ortho-rheuma p.81",
+      "slide_title": "Morbus Kienböck: Lunatummalazie — Diagnose, Stadien, Symptome, Therapie",
+      "type": "inhalt",
+      "notes_md": "## Morbus Kienböck: Lunatummalazie\n\n### Diagnose: Röntgen, MRT\n- **Stadium I:** keine wesentlichen Veränderungen\n- **Stadium II:** deutliche Sklerosierung (Verdichtung der Knochenstruktur)\n- **Stadium III:** durch die Größenminderung verschieben sich die anderen Handwurzelknochen, insbesondere das Kahnbein\n- **Stadium IV:** völliger Zusammenbruch der Handwurzelknochen\n\n### Symptome\n- lokaler Druckschmerz\n- Bewegungsschmerz bei Druck- und Zugbelastung\n- teils vollkommener Kraftverlust der Hand\n\n### Therapie:\n**Konservativ:**\n- Ruhigstellung mittels einer Orthese oder eines Unterarm-Hand-Gipsverbandes für 3 Monate\n\n**operativ: Revaskulierung bei Durchblutungsstörungen:**\n- Wiederherstellung der Blutversorgung, wenn das Mondbein noch nicht kollabiert ist. Man entnimmt einen Knochenanteil aus der Ulna oder das Os pisiforme oder man transplantiert Knochenmark.\n\n**bei der Plusvariante der Ulna:**\n- wird eine Keilosteotomie der Ulna zur Verkürzung durchgeführt\n\n**bei der Minusvariante der Ulna:**\n- wird eine Osteotomie des Radius zum Längenausgleich durchgeführt\n\n**Transposition:**\n- Einsetzen des Os pisiforme an die Stelle des Os lunatum",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Stadien I-IV: keine wesentlichen Veränderungen / Sklerosierung / Verschiebung der Handwurzelknochen (v. a. Kahnbein) / völliger Zusammenbruch der Handwurzelknochen",
+        "Symptome: lokaler Druckschmerz, Bewegungsschmerz bei Druck- und Zugbelastung, teils vollkommener Kraftverlust der Hand",
+        "Konservativ: Ruhigstellung mit Orthese oder Unterarm-Hand-Gips für 3 Monate",
+        "Operativ: Revaskulierung (Knochenanteil aus Ulna/Os pisiforme oder Knochenmarktransplantation), Keilosteotomie der Ulna bei Plusvariante, Radiusosteotomie bei Minusvariante, Transposition des Os pisiforme"
+      ]
+    },
+    {
+      "gidx": 82,
+      "source": "ortho-rheuma p.82",
+      "slide_title": "Stadieneinteilung der Mondbeinnekrose nach Lichtman und Behandlung",
+      "type": "inhalt",
+      "notes_md": "Die heute gebräuchlichste Stadieneinteilung der Mondbeinnekrose wurde von Lichtman beschrieben:\n\n- **Stadium 1:** unauffälliger Röntgenbefund, Wassereinlagerung in das Knochenmark und fehlende Kontrastmittelanreicherung bei der Kernspintomographie\n- **Stadium 2:** Verdichten des Mondbeines im Röntgenbild ohne Höhenminderung oder Frakturierung. In der Kernspintomographie teilweise oder komplett das Absterben des Mondbeines\n- **Stadium 3:** Bruch des Mondbeines mit beginnender Höhenminderung\n- **Stadium 3 A:** ohne Zusammenbrechen der Handwurzel\n- **Stadium 3 B:** mit Zusammenbrechen der Handwurzel\n- **Stadium 4:** Zusammenbruch des Mondbeines mit Ausbildung einer Handgelenksarthrose.\n\n### Die Behandlung richtet sich nach der Stadieneinteilung\n- **Stadium 1:** Ruhigstellung mit Gipsschiene\n- **Stadium 2 und 3 A:**\n  - Revaskularisation\n  - Ulnarosteotomie; Radiusosteotomie\n\nHöhenminderung des Mondbeines mit beginnendem Zusammenbruch der Handwurzel. Durch Lösung der Verbindung zum Kahnbein kommt es zu einer zunehmenden Beugestellung des Mondbeines und einer Instabilität.\n\n### Stadium 3 C\nZiel der Operation ist eine Stabilisierung der Handwurzel durch Aufrichten des Kahnbeines. Dies kann relativ einfach durch eine Teilversteifung zwischen großem Vieleckbein, kleinem Vieleckbein und körperfernem Kahnbeinpol (sog. STT-Arthrodese) erfolgen. Der Eingriff kann zu einer Verringerung der Schmerzen und Verbesserung der Kraft führen. Andererseits wird durch den Eingriff die Beweglichkeit nur gering eingeschränkt. In der Regel wird für die Operation eine Knochenverpflanzung von der körperfernen Speiche durchgeführt. Die Ruhigstellung erfolgt mittels Drähte, die nach etwa 6-8 Wochen wieder entfernt werden.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Stadieneinteilung der Mondbeinnekrose nach Lichtman: Stadium 1 (unauffälliges Röntgen, Ödem im MRT), 2 (Verdichtung ohne Höhenminderung), 3 (Bruch mit Höhenminderung; 3A ohne / 3B mit Zusammenbruch der Handwurzel), 4 (Zusammenbruch mit Handgelenksarthrose)",
+        "Therapie Stadium 1: Gipsschiene; Stadium 2 und 3A: Revaskularisation, Ulnar-/Radiusosteotomie",
+        "Stadium 3C: STT-Arthrodese (Teilversteifung zwischen großem Vieleckbein, kleinem Vieleckbein und körperfernem Kahnbeinpol) zum Aufrichten des Kahnbeins; Ruhigstellung mit Drähten für ca. 6-8 Wochen"
+      ]
+    },
+    {
+      "gidx": 83,
+      "source": "ortho-rheuma p.83",
+      "slide_title": "Mondbeinnekrose — PRC und Stadium 4 (Endstadium)",
+      "type": "inhalt",
+      "notes_md": "Alternative kann eine Entfernung der körpernahen Handwurzelreihe (Mondbein, Kahnbein und Dreiecksbein, Proximal-Row-Carpektomie, PRC) durchgeführt werden. Welches Verfahren angewandt wird, hängt im Wesentlichen von den Erfahrungen der Klinik oder des Operateurs ab. Die bisherigen Untersuchungen zeigen eine Gleichwertigkeit.\n\n### Stadium 4\nIm fortgeschrittenen Stadium ist es durch den Zusammenbruch des Mondbeines bereits zu einer Arthrose gekommen.\n\nSofern die Speichengelenkfläche im Bereich des Mondbeines noch intakt ist, kann eine Entfernung der körpernahen Handwurzelreihe durchgeführt werden.\n\nEine weitere Möglichkeit der Schmerzlinderung ist die Durchtrennung von schmerzleitenden Nerven zum Handgelenk (Denervation).\n\nIm Endstadium wird in der Regel eine Versteifung des Handgelenkes notwendig. Dabei wird nach Entfernen der Knorpelüberzüge der Handwurzelknochen und Transplantation von Knochen in der Regel vom Beckenkamm das Handgelenk mit einer Metallplatte stabilisiert. Die Fingerbeweglichkeit und die Unterarmdrehbewegung bleiben dabei aber nicht behindert. Dadurch kann bei größerer Beanspruchung wieder eine gute Belastbarkeit erzielt werden.",
+      "figures": [
+        {
+          "caption": "Röntgenbild Handgelenk mit Drahtosteosynthese",
+          "shows": "Röntgenaufnahme des Handgelenks mit Kirschnerdrähten zur Fixation der Handwurzelknochen (Pfeil auf Fixierung)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "PRC (Proximal-Row-Carpektomie) = Entfernung der körpernahen Handwurzelreihe (Mondbein, Kahnbein, Dreiecksbein)",
+        "Stadium 4: Arthrose nach Zusammenbruch des Mondbeins; bei intakter Speichengelenkfläche PRC möglich",
+        "Denervation (Durchtrennung schmerzleitender Nerven) als weitere Möglichkeit der Schmerzlinderung",
+        "Endstadium: Handgelenksversteifung mit Metallplatte nach Knorpelentfernung und Knochentransplantation (meist vom Beckenkamm); Fingerbeweglichkeit und Unterarmdrehbewegung bleiben erhalten"
+      ]
+    },
+    {
+      "gidx": 84,
+      "source": "ortho-rheuma p.84",
+      "slide_title": "Lunatumnekrose mit Ulna-minus (Bildbeispiele)",
+      "type": "deko",
+      "notes_md": "Bildfolie ohne Fließtext: MRT und Röntgenbild des Handgelenks als Beispielbefunde einer Lunatumnekrose. Bildunterschrift: \"Lunatumnekrose mit Ulna-minus\".",
+      "figures": [
+        {
+          "caption": "Lunatumnekrose mit Ulna-minus (MRT)",
+          "shows": "Koronare MRT-Aufnahme des Handgelenks; Pfeil auf das nekrotische Mondbein bei Ulna-Minusvariante",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Röntgenbild Handgelenk bei Lunatumnekrose",
+          "shows": "Röntgenaufnahme des Handgelenks a. p. mit Verdichtung/Zerfall des Os lunatum",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bildbefund: Lunatumnekrose mit Ulna-minus (Minusvariante der Ulna als prädisponierender Faktor)"
+      ]
+    }
+  ]
+}

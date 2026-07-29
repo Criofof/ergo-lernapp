@@ -1,0 +1,263 @@
+{
+  "batch": "12",
+  "pages": [
+    {
+      "gidx": 133,
+      "source": "ortho-rheuma p.133",
+      "slide_title": "Klinische Bilder: Schleimbeutelentzündung am Ellenbogen (Bursitis olecrani)",
+      "type": "inhalt",
+      "notes_md": "Zwei klinische Fotos eines Ellenbogens mit deutlicher, umschriebener Schwellung über dem Olecranon (Typisches Erscheinungsbild einer Bursitis olecrani).\n\nLinks: Ellenbogen mit großer, geröteter, flüssigkeitsgefüllter Schwellung am Ellbogenspitze.\nRechts: Ellenbogen mit ausgeprägter Schwellung über dem Olecranon ohne starke Rötung.",
+      "figures": [
+        {
+          "caption": "Bursitis olecrani – klinisches Erscheinungsbild",
+          "shows": "Zwei Fotos von Ellenbogen mit umschriebener, teils geröteter Schwellung über dem Olecranon",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bursitis olecrani zeigt sich als umschriebene Schwellung über der Ellbogenspitze (Olecranon)"
+      ]
+    },
+    {
+      "gidx": 134,
+      "source": "ortho-rheuma p.134",
+      "slide_title": "Operative Versorgung / Weichteildefekt am Ellenbogen (Bildserie a–f)",
+      "type": "inhalt",
+      "notes_md": "Bildserie (a–f) zur operativen Versorgung eines Weichteildefekts am Ellenbogen:\n\n- a: Ellenbogen mit Weichteildefekt / ulzerierter, vorgeschädigter Haut über dem Olecranon\n- b: Intraoperatives Bild nach Exzision / Debridement des Defekts am Ellenbogen\n- c: Entnommenes Gewebe (Resektat, z. B. entzündeter Schleimbeutel)\n- d: Defektdeckung mit gestieltem Lappen / Rotationslappenplastik am Ellenbogen mit Drainage\n- e: Postoperatives Ergebnis: geheilter Ellenbogen in Streckung\n- f: Postoperatives Ergebnis: freie Beugefähigkeit des Ellenbogens",
+      "figures": [
+        {
+          "caption": "OP-Serie Weichteildefekt Ellenbogen (a–f)",
+          "shows": "Defekt am Olecranon, Exzision, Resektat, Lappenplastik mit Drainage und postoperatives Ergebnis in Streckung und Beugung",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Weichteildefekte am Ellenbogen nach Schleimbeutel-Operation können eine Lappenplastik zur Defektdeckung erfordern"
+      ]
+    },
+    {
+      "gidx": 135,
+      "source": "ortho-rheuma p.135",
+      "slide_title": "Bursitis olecrani",
+      "type": "inhalt",
+      "notes_md": "# Bursitis olecrani\n\n**Komplikationen: z. B.**\n- bei Infektion: Ausbreitung in die benachbarten Strukturen, z. B. Gelenkhöhle als Gelenkempyem/Eiter\n\n**postoperative Komplikationen:**\neine relativ häufige Komplikation ist die Infektion der Wunde.\n- beginnende Infektion mit Rötung und Schwellung\n- besonders ein klopfender Schmerz in der Nacht ist verdächtig auf eine beginnende Infektion der Operationsstelle\n- im Frühstadium genügt oft das Entfernen einzelner Hautfäden und die Gabe von Antibiotika.\n- nach Entfernen einzelner Hautfäden kann sich Wundsekret entleeren, ohne dass sich die gesamte Wunde wieder öffnet.",
+      "figures": [
+        {
+          "caption": "Beginnende Wundinfektion nach OP am Ellenbogen",
+          "shows": "Foto einer Ellenbogen-OP-Wunde mit Rötung und beginnender Infektion an einer Nahtstelle",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bei Infektion der Bursitis olecrani droht Ausbreitung in die Gelenkhöhle (Gelenkempyem/Eiter)",
+        "Häufigste postoperative Komplikation: Wundinfektion",
+        "Klopfender Nachtschmerz ist verdächtig auf beginnende Infektion der OP-Stelle",
+        "Frühstadium: Entfernen einzelner Hautfäden + Antibiotika; Wundsekret kann sich entleeren, ohne dass die ganze Wunde aufgeht"
+      ]
+    },
+    {
+      "gidx": 136,
+      "source": "ortho-rheuma p.136",
+      "slide_title": "Bursitis olecrani",
+      "type": "inhalt",
+      "notes_md": "# Bursitis olecrani\n\n**weitere postoperative Komplikationen:**\n\n**Hämatombildung:**\ngerade nach Entfernung größerer Schleimbeutel am Ellenbogen können auch ausgedehnte Blutergüsse (Hämatome) auftreten.\nEinige wenige Nachblutungen bedürfen einer Nach-Operation. Die meisten Blutergüsse bilden sich nach 2–4 Wochen weitgehend zurück.\n\n**Fistelbildung:**\nUnter einer Fistel versteht man eine lang dauernde Wundsekretion aus einer kleinen Öffnung in der Operationswunde.\n- nach einer Schleimbeutel-Operation am Ellenbogen können sich solche Fisteln für etliche Wochen oder gar Monate bilden. Aus einer kleinen Stelle der OP-Wunde tritt ständig etwas Flüssigkeit aus.\n- Viele Fisteln schließen sich ohne Nach-Operation nach einigen Monaten von selbst.",
+      "figures": [
+        {
+          "caption": "Hämatom nach Schleimbeutel-OP am Ellenbogen",
+          "shows": "Foto eines Ellenbogens mit ausgedehntem Bluterguss entlang der OP-Naht",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Fistel nach Schleimbeutel-OP am Ellenbogen",
+          "shows": "Foto einer OP-Narbe am Ellenbogen mit kleiner Fistelöffnung (Pfeile markieren Narbe und Fistelstelle)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Nach Entfernung größerer Schleimbeutel am Ellenbogen können ausgedehnte Hämatome auftreten",
+        "Wenige Nachblutungen erfordern eine Nach-OP; die meisten Blutergüsse bilden sich nach 2–4 Wochen weitgehend zurück",
+        "Fistel = lang dauernde Wundsekretion aus einer kleinen Öffnung der OP-Wunde",
+        "Fisteln können Wochen bis Monate bestehen, schließen sich oft nach einigen Monaten von selbst"
+      ]
+    },
+    {
+      "gidx": 137,
+      "source": "ortho-rheuma p.137",
+      "slide_title": "Bursitis olecrani",
+      "type": "inhalt",
+      "notes_md": "# Bursitis olecrani\n\n**weitere postoperative Komplikationen**\n\n**gestörte Wundheilung:**\n- durch Unfälle (hier genügt schon ein harter Stoß gegen die Operationswunde) kann die Haut der Operationswunde weit auseinanderweichen.\n\n**Weichteildefekt nach Schleimbeutel-Operation**\n- Die Abb. zeigt eine solche Störung der Wundheilung.\n- Nachdem die Wunde gesäubert ist, können die Wundränder erneut genäht werden. Dies bedeutet allerdings auch eine erneute Betäubung.\n\n**Gelenkübergreifende narbige Kontrakturen**",
+      "figures": [
+        {
+          "caption": "Weichteildefekt nach Operation eines Schleimbeutels am Ellenbogen",
+          "shows": "Foto eines offenen Weichteildefekts / auseinandergeweichter OP-Wunde am Ellenbogen",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Schon ein harter Stoß gegen die OP-Wunde kann die Wundheilung stören und die Wunde auseinanderweichen lassen",
+        "Therapie des Weichteildefekts: Wundreinigung, dann erneute Naht der Wundränder (erneute Betäubung nötig)",
+        "Weitere Spätfolge: gelenkübergreifende narbige Kontrakturen"
+      ]
+    },
+    {
+      "gidx": 138,
+      "source": "ortho-rheuma p.138",
+      "slide_title": "Erworbene Osteopathien: Rachitis, Osteomalazie, Osteoporose",
+      "type": "inhalt",
+      "notes_md": "# Erworbene Osteopathien: Rachitis, Osteomalazie, Osteoporose\n\n**Erworbene Osteopathien:**\n- Osteomalazie\n- Rachitis\n- Osteoporose (Siehe Skript)\n\n**Rachitis und Osteomalazie:**\n\n**Definition:**\n- ungenügende Mineralisation des Skeletts mit Überschuss von unverkalktem Osteoid aufgrund von Vitamin-D-Mangel. Der Knochen bleibt deshalb weich\n- Rachitis manifestiert sich im 2.–3. Lebensmonat bis in die Pubertät\n- Osteomalazie betrifft das Erwachsenenalter\n\n**Ätiologie:**\n- Vitamin-D-Mangel aufgrund von Malabsorption, Maldigestion\n- Nieren- und Leberinsuffizienz\n- gestörter Phosphatstoffwechsel\n\n**Allgemein:**\n- ungenügende Mineralisierung der Knochensubstanz aufgrund von Mangel an Vitamin-D / Vitamin-D-Hormon\n- neben dem Vitamin-D-Mangel kann auch eine Störung des Vitamin-D-Stoffwechsels eine Rachitis bedingen\n- ursächlich sind dann eine ungenügende Bildung von Calcifediol in der Leber oder von Calcitriol in der Niere\n- 90 % des Vitamin D stammen aus der körpereigenen Synthese mit Hilfe der Sonneneinstrahlung der Haut und nur 10 % werden über die Nahrung (Milch, Eigelb) zugeführt",
+      "figures": [],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Rachitis/Osteomalazie = ungenügende Mineralisation des Skeletts mit Überschuss an unverkalktem Osteoid bei Vitamin-D-Mangel; der Knochen bleibt weich",
+        "Rachitis: 2.–3. Lebensmonat bis Pubertät; Osteomalazie: Erwachsenenalter",
+        "Ätiologie: Vitamin-D-Mangel (Malabsorption, Maldigestion), Nieren-/Leberinsuffizienz, gestörter Phosphatstoffwechsel",
+        "90 % des Vitamin D aus körpereigener Synthese durch Sonneneinstrahlung, nur 10 % über Nahrung (Milch, Eigelb)"
+      ]
+    },
+    {
+      "gidx": 139,
+      "source": "ortho-rheuma p.139",
+      "slide_title": "Rachitis",
+      "type": "inhalt",
+      "notes_md": "# Rachitis\n\n**Klinik der Rachitis:**\n- gestörte enchondrale Ossifikation\n- Entwicklungsstörungen im Bereich der Epiphysen\n- rachitischer Rosenkranz: Verdickungen/Osteoidablagerungen am Knochen-Knorpelübergang der Rippen\n- Hemmung des Längenwachstums, säbelförmige Verbiegungen der langen Röhrenknochen\n- Haltungsschwäche, Muskelhypotonie\n- Skoliose\n- später Watschelgang\n- quadratischer Schädel\n- weiche Knochen",
+      "figures": [
+        {
+          "caption": "Röntgenbild O-Beine bei Rachitis",
+          "shows": "Röntgenaufnahme kindlicher Beine mit ausgeprägten säbelförmigen Verbiegungen (O-Bein-Stellung) der langen Röhrenknochen",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Rachitischer Rosenkranz",
+          "shows": "Klinisches Foto eines Kinderthorax mit sichtbaren Verdickungen am Knochen-Knorpelübergang der Rippen",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Schematischer Vergleich Normal vs. Rickets/Osteomalacia",
+          "shows": "Zeichnung des Beckens/Beinskeletts normal und bei Rachitis/Osteomalazie mit Vergleich der Knochenstruktur (Mineralisation)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Rachitis: gestörte enchondrale Ossifikation und Entwicklungsstörungen der Epiphysen",
+        "Rachitischer Rosenkranz = Osteoidablagerungen am Knochen-Knorpelübergang der Rippen",
+        "Folgen: gehemmtes Längenwachstum, säbelförmige Verbiegungen der Röhrenknochen, Muskelhypotonie, Skoliose, Watschelgang, quadratischer Schädel, weiche Knochen"
+      ]
+    },
+    {
+      "gidx": 140,
+      "source": "ortho-rheuma p.140",
+      "slide_title": "Osteomalacia",
+      "type": "inhalt",
+      "notes_md": "# Osteomalacia\n\n- **X-ray – Looser zone**\n\nRöntgenbilder der Hüfte/proximalen Femurregion mit rot markierten Looser-Umbauzonen (schmale, quer verlaufende Aufhellungszonen im Knochen).",
+      "figures": [
+        {
+          "caption": "Looser zone im Röntgenbild bei Osteomalacia",
+          "shows": "Zwei Röntgenaufnahmen des Hüftgelenks/Schenkelhalses mit roten Pfeilen auf quere Aufhellungslinien (Looser-Umbauzonen)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Röntgenzeichen der Osteomalazie: Looser zones (Looser-Umbauzonen)"
+      ]
+    },
+    {
+      "gidx": 141,
+      "source": "ortho-rheuma p.141",
+      "slide_title": "Röntgenbild Becken/Übersicht bei Osteopathie",
+      "type": "inhalt",
+      "notes_md": "Röntgen-Übersichtsaufnahme des Beckens mit beiden Hüftgelenken. Der Knochen zeigt eine diffus verminderte Mineralisation/unscharfe Trabekelstruktur (passend zu Osteomalazie); begutachtbar sind Beckenring, Hüftpfannen und proximale Femora. Ohne weiteren Folientext.",
+      "figures": [
+        {
+          "caption": "Röntgenübersicht Becken bei Osteomalazie",
+          "shows": "Beckenübersichtsaufnahme mit beidseitigen Hüftgelenken bei verminderter Knochenmineralisation",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Beckenübersichts-Röntgen zur Beurteilung der Knochenmineralisation bei erworbenen Osteopathien"
+      ]
+    },
+    {
+      "gidx": 142,
+      "source": "ortho-rheuma p.142",
+      "slide_title": "Erworbene Osteopathien: Rachitis, Osteomalazie, Osteoporose",
+      "type": "inhalt",
+      "notes_md": "# Erworbene Osteopathien: Rachitis, Osteomalazie, Osteoporose\n\n**Klinik der Osteomalazie:**\n- besonders betroffen sind der Thorax, die Wirbelsäule, die Beckensymphyse und die Oberschenkel\n- die Schmerzen haben einen dumpfen und kontinuierlichen Charakter\n- Skoliosen und Kyphosen\n- Kartenherzbecken (Einsinken des Os sacrum in das Becken), Protrusio acetabuli\n- Looser-Umbauzonen: besonders am Scham- und Sitzbein, Schenkelhals\n- Coxa vara\n- generalisierte Knochenschmerzen\n\n**Therapie:**\n- Substitution mit Vitamin D\n- Aktive Vitamin-D-Metaboliten (z. B. Calcitriol)\n- ansonsten symptomatisch nach Schweregrad der Deformität\n\n**Looser-Umbauzonen: Minimalfrakturen mit Kallusbildung**",
+      "figures": [
+        {
+          "caption": "Looser-Umbauzonen am Schenkelhals",
+          "shows": "Röntgenausschnitt des Schenkelhalses mit Pfeil auf eine Looser-Umbauzone (Minimalfraktur mit Kallusbildung)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [9],
+      "key_facts": [
+        "Osteomalazie betrifft besonders Thorax, Wirbelsäule, Beckensymphyse und Oberschenkel; Schmerzen dumpf und kontinuierlich",
+        "Folgedeformitäten: Skoliosen/Kyphosen, Kartenherzbecken, Protrusio acetabuli, Coxa vara",
+        "Looser-Umbauzonen = Minimalfrakturen mit Kallusbildung, besonders an Scham- und Sitzbein sowie Schenkelhals",
+        "Therapie: Vitamin-D-Substitution, aktive Vitamin-D-Metaboliten (z. B. Calcitriol), sonst symptomatisch"
+      ]
+    },
+    {
+      "gidx": 143,
+      "source": "ortho-rheuma p.143",
+      "slide_title": "Femoro-acetabuläres Impingement Syndrom",
+      "type": "inhalt",
+      "notes_md": "# Femoro-acetabuläres Impingement Syndrom\n\n**Impingement: Engpasssyndrom**\n- schmerzhafte Verengung des Hüftgelenksspalts\n\nJe nach Art der knöchernen Veränderungen unterscheidet man:\n- das Pincer-Impingement-Hüfte-Syndrom und\n- das Cam-Impingement-Hüfte-Syndrom\n\n## Pincer-Impingement-Hüfte-Syndrom: Pincer-FAI\nengl. Pincer: Greifzange\n- die Hüftgelenkspfanne greift zu weit um den Hüftgelenkskopf herum\n- der Hüftkopf erfährt ein Zuviel an Überdachung\n- durch diese vermehrte Überdachung des Gelenkkopfes innerhalb des Gelenkspaltes schlagen der Hüftgelenkskopf und das Pfannendach leicht aneinander\n- daraus resultieren Bewegungsblockaden und Gelenksverletzungen\n- das Pincer-Impingement-Hüfte-Syndrom tritt vermehrt bei Frauen zwischen dem 30. und 40. Lebensjahr auf\n\n## CAM-Impingement-Hüfte-Syndrom: CAM-FAI\nengl. CAM: Nockenwelle\n- beim Gesunden weist der Oberschenkelhals eine Taillierung unterhalb des Schenkelkopfes auf, wodurch der Hüftgelenkskopf mehr Bewegungsfreiheit in der Gelenkkapsel erhält\n- hierbei ist durch eine Wucherung des Schenkelhalsknochens die Taillierung verloren gegangen\n- der Knochenwulst verengt den Gelenkspalt, was das schmerzhafte Aneinanderreiben des Schenkelhalskopfes und des Labrums des Pfannendachs begünstigt\n- betrifft meist junge, sportlich aktive Männer, wobei Fußballspieler besonders häufig daran erkranken\n\n**Pincer-FAI und CAM-FAI treten selten isoliert auf, meist in Kombination**",
+      "figures": [],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Impingement = Engpasssyndrom: schmerzhafte Verengung des Hüftgelenksspalts",
+        "Pincer-FAI: Pfanne überdacht den Hüftkopf zu weit (Pincer = Greifzange); vermehrt bei Frauen 30.–40. Lebensjahr",
+        "CAM-FAI: Wucherung des Schenkelhalsknochens mit Verlust der Taillierung (CAM = Nockenwelle); Knochenwulst reibt an Labrum des Pfannendachs; meist junge, sportlich aktive Männer, besonders Fußballspieler",
+        "Pincer- und CAM-FAI treten selten isoliert auf, meist in Kombination"
+      ]
+    },
+    {
+      "gidx": 144,
+      "source": "ortho-rheuma p.144",
+      "slide_title": "CAM-FAI: Nockenwelle – post-OP nach Abtragen",
+      "type": "inhalt",
+      "notes_md": "**CAM-FAI: Nockenwelle** – Röntgenbild der Hüfte mit Pfeilen auf den Knochenwulst am Schenkelhals (verlorene Taillierung, Nockenwellen-Deformität).\n\n**post-OP nach Abtragen** – Röntgenbild derselben Hüfte nach operativem Abtragen des Knochenwulstes; die Taillierung des Schenkelhalses ist wiederhergestellt (Pfeile markieren die ehemalige Wucherungsstelle).",
+      "figures": [
+        {
+          "caption": "CAM-FAI: Nockenwelle (präoperativ)",
+          "shows": "Röntgenbild der Hüfte mit Knochenwulst am Schenkelhals (Pfeile), verlorene Taillierung",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Post-OP nach Abtragen des CAM-Wulstes",
+          "shows": "Röntgenbild der Hüfte nach Abtragung des Knochenwulstes mit wiederhergestellter Schenkelhals-Taillierung",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Röntgenmorphologie des CAM-FAI: Knochenwulst am Schenkelhals (Nockenwelle) mit verlorener Taillierung",
+        "Operative Therapie: Abtragen des Knochenwulstes mit Wiederherstellung der Schenkelhals-Taillierung"
+      ]
+    }
+  ]
+}

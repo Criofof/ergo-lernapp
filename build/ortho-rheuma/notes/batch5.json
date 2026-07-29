@@ -1,0 +1,241 @@
+{
+  "batch": "5",
+  "pages": [
+    {
+      "gidx": 49,
+      "source": "ortho-rheuma p.49",
+      "slide_title": "Skoliose mit Wirbels\u00e4ulen\u00fcberhang nach rechts \u2013 Klinik",
+      "type": "inhalt",
+      "notes_md": "## Skoliose mit Wirbels\u00e4ulen\u00fcberhang nach rechts\n\n**Klinik:**\n- Seitabweichung der Wirbels\u00e4ule.\n- In Vorneigung vorgew\u00f6lbte Rippen/Rippenbuckel.\n- Einseitiger Schulterhochstand.\n- Asymmetrische Taillendreiecke.\n- Rotation der Wirbelk\u00f6rper.",
+      "figures": [
+        {
+          "caption": "Skoliose mit Wirbels\u00e4ulen\u00fcberhang nach rechts",
+          "shows": "Zeichnung eines R\u00fcckens mit nach rechts abweichender Wirbels\u00e4ule (gestrichelte Lotlinie, Pfeil zur Seitabweichung)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Klinik der Skoliose: Seitabweichung, Rippenbuckel in Vorneigung, einseitiger Schulterhochstand, asymmetrische Taillendreiecke, Rotation der Wirbelk\u00f6rper"
+      ]
+    },
+    {
+      "gidx": 50,
+      "source": "ortho-rheuma p.50",
+      "slide_title": "Skoliose: weitere Symptomatik, Torsionsskoliose, Cobb-Winkel",
+      "type": "inhalt",
+      "notes_md": "- Einseitiger Beckenschiefstand.\n- In 80% rechts-konvexe BWS-Skoliose.\n\n## Weitere Symptomatik:\n- Insuffiziente R\u00fcckenschmerzen bei l\u00e4ngerem Stehen, Sitzen mit beidseitiger Ausstrahlung oder nach sakral.\n- Verspannte Muskulatur.\n- Schmerzhafte Tendomyosen \u00fcber den Dornforts\u00e4tzen, Darmbeinschaufeln\n- Neuralgische Schmerzen durch Druck auf die Foramina intervertebralia.\n\n**Bei schwerer Skoliose/Torsionsskoliose:**\n- Verlagerung der Thoraxorgane/Cor pulmonale und Verdauungsorgane.\n\n## Was versteht man unter einer Torsionsskoliose?\nUnter einer Torsionsskoliose versteht man eine **dreidimensionale Fehlform der Wirbels\u00e4ule**:\n- Die Wirbels\u00e4ule ist seitlich verbogen (Skoliose).\n- Gleichzeitig verdrehen sich die Wirbelk\u00f6rper um ihre L\u00e4ngsachse (Torsion/Rotation).\n- Dadurch entsteht z.B. ein Rippenbuckel (thorakal) oder Lendenwulst.\n\n**Entscheidend ist:**\nTorsionsskoliose ist nicht nur seitliche Kr\u00fcmmung, sondern Kr\u00fcmmung + Rotation der Wirbel.\n\n**Typisch bei:**\n- Struktureller (echter) Skoliose.\n- Vor allem idiopathischer Skoliose.\n\nSkoliose wird erst durch die Verdrehung zur Torsionsskoliose.\n\n## Nach welchem Schweregrad wird eine Skoliose eingeteilt?\nDie Einteilung des Schweregrades einer Skoliose erfolgt r\u00f6ntgenologisch nach dem **Cobb-Winkel**:\n- Im R\u00f6ntgenbild werden die Achsenabweichungen der Wirbels\u00e4ule gemessen.\n- Dazu werden zwei am st\u00e4rksten geneigte Wirbelk\u00f6rper festgelegt.\n- Durch diese Wirbel werden Achsen gezogen.\n- Der Winkel zwischen diesen Achsen ist der Cobb-Winkel.\n- Anhand dieses Winkels wird der Schweregrad der Skoliose bestimmt.\n- Je gr\u00f6\u00dfer der Cobb-Winkel, desto schwerer die Skoliose.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "In 80% rechts-konvexe BWS-Skoliose",
+        "Torsionsskoliose = dreidimensionale Fehlform: seitliche Kr\u00fcmmung + Rotation der Wirbelk\u00f6rper (Rippenbuckel/Lendenwulst)",
+        "Schweregrad der Skoliose wird r\u00f6ntgenologisch nach dem Cobb-Winkel eingeteilt",
+        "Bei schwerer Skoliose: Verlagerung der Thoraxorgane, Cor pulmonale"
+      ]
+    },
+    {
+      "gidx": 51,
+      "source": "ortho-rheuma p.51",
+      "slide_title": "Operative Therapien der Skoliose: Spondylodese und VEPTR",
+      "type": "inhalt",
+      "notes_md": "## Erl\u00e4utert die beiden operativen Therapien:\n\n### 1. Spondylodese (Wirbelk\u00f6rperverblockung):\n- Operative Versteifung mehrerer Wirbelk\u00f6rper.\n- **Ziel:** Korrektur und dauerhafte Stabilisierung der Skoliose.\n- **Indikation:** Thorakalkr\u00fcmmung > 50\u00b0 nach Cobb.\n- Wird meist nach abgeschlossenem oder weitgehendem Wachstum durchgef\u00fchrt.\n- Beweglichkeit im versteiften Abschnitt geht verloren, daf\u00fcr Progressionsstopp.\n\n### 2. VEPTR (Vertical Expandable Prosthetic Titanium Rib):\n- Einsatz in schwerwiegenden F\u00e4llen im Adoleszentenalter.\n- Implantation eines vertikal expandierbaren Titanstabes.\n- **Fixierung:** Zwischen zwei Rippen oder zwischen Rippe und Darmbeinkamm\n- Der Stab ist verl\u00e4ngerbar und wird schrittweise angepasst, um das Wachstum zu erm\u00f6glichen.",
+      "figures": [
+        {
+          "caption": "Cobb-Winkel-Messung an der Skoliose-Wirbels\u00e4ule",
+          "shows": "Wirbels\u00e4ulenzeichnung mit eingezeichneten Winkeln (40\u00b0 und 36\u00b0), Beschriftung Neutralwirbel und Skoliosewirbel (\u201eKr\u00fcmmung \u00e4ndert sich\u201c)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Spondylodese = operative Versteifung mehrerer Wirbelk\u00f6rper; Indikation: Thorakalkr\u00fcmmung > 50\u00b0 nach Cobb",
+        "Spondylodese meist nach abgeschlossenem Wachstum; Beweglichkeitsverlust, aber Progressionsstopp",
+        "VEPTR = vertikal expandierbarer Titanstab, Fixierung zwischen zwei Rippen oder Rippe und Darmbeinkamm, schrittweise verl\u00e4ngerbar"
+      ]
+    },
+    {
+      "gidx": 52,
+      "source": "ortho-rheuma p.52",
+      "slide_title": "Morbus Scheuermann: Definition, Pathogenese, Stadien",
+      "type": "inhalt",
+      "notes_md": "- **Ziel (VEPTR):** Korrektur der Skoliose und Verbesserung des Thoraxwachstums und der Lungenentwicklung.\n- Besonders geeignet bei wachstumsaktiven Kindern.\n\n**Spondylodese** = endg\u00fcltige Versteifung.\n**VEPTR** = wachstumslenkende, verl\u00e4ngerbare Therapie.\n\n---\n\n# Thema: Morbus Scheuermann\n\n*Quelle: PDF = Morbus Scheuermann / Ilias = ETK18B*\n\n## Wie wird diese Erkrankung auch genannt?\nAdolenszentenkyphose.\n\n## Nennt die Definition (bitte genau):\nEine juvenile Verkn\u00f6cherungsst\u00f6rung der Wirbels\u00e4ule mit Rundr\u00fcckenbildung, meist im mittleren und unteren thorakalen Abschnitt sowie im thorakolumbalen \u00dcbergang.\n\n## Pathogenese:\n- Die Wirbel zwischen den TH5-TH11 und L1-L3 wachsen in ihren vorderen Abschnitten langsamer: Keilwirbelbildung durch ventrale H\u00f6henminderung.\n- Bandscheibengewebe w\u00e4chst durch die weniger widerstandf\u00e4higen Wirbelendplatten in die Wirbelk\u00f6rper ein. Schmorl-Knorpelkn\u00f6tchen.\n\n## Die Stadien:\n\n### Stadium I:\n- Kyphotische Fehlhaltung mit erhaltener Beweglichkeit.\n- Zwischen dem 10.-14. Lebensjahr kommt es unter zunehmender muskul\u00e4ren Leistungsminderung zu einem zunehmendem Rundr\u00fccken.\n- Keine Schmerzen, keine Bewegungseinschr\u00e4nkung.\n\n### Stadium II:\n- Fixierte Fehlhaltung, kein Ausgleich mehr bei aktiver Bewegung oder passive Hypertension.\n- Druck- und stauchungsempfindliche Wirbels\u00e4ulenabschnitte, verspannte R\u00fcckenmuskulatur.\n- Schmerzhafte Insertionstendopathien.\n\n### Stadium III:\n- Progredienz der Fehlhaltung, Achsenkorretur nicht mehr m\u00f6glich.\n- Defektheilung: Schmorl-Knoten und keilf\u00f6rmige Deformierungen bleiben dauerhaft bestehen und f\u00fchren zu fortschreitenden osteochondrotischen Ver\u00e4nderungen.",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Morbus Scheuermann = Adoleszentenkyphose: juvenile Verkn\u00f6cherungsst\u00f6rung der Wirbels\u00e4ule mit Rundr\u00fcckenbildung",
+        "Pathogenese: Keilwirbelbildung durch ventrale H\u00f6henminderung (TH5-TH11, L1-L3), Schmorl-Knorpelkn\u00f6tchen",
+        "Stadium I: kyphotische Fehlhaltung mit erhaltener Beweglichkeit, keine Schmerzen",
+        "Stadium II: fixierte Fehlhaltung, schmerzhafte Insertionstendopathien",
+        "Stadium III: Progredienz, Defektheilung mit Schmorl-Knoten und osteochondrotischen Ver\u00e4nderungen"
+      ]
+    },
+    {
+      "gidx": 53,
+      "source": "ortho-rheuma p.53",
+      "slide_title": "Therapie Morbus Scheuermann; Tennisarm und Golferarm: Fachbegriffe, Definitionen, Ursachen",
+      "type": "inhalt",
+      "notes_md": "## Z\u00e4hlt die Therapien auf (Morbus Scheuermann):\n- KG.\n- Massagen.\n- Kr\u00e4ftigungs\u00fcbungen.\n- Schwimmen.\n- Orthetische Versorgung mit z.B. Boston-Korsett, Dreipunktkorsett nur Stad. I-II sinnvoll.\n- Titanrippenprothese nur w\u00e4hrend des Wachstums.\n- Evtl. Kyphosenoperation/ selten.\n\n---\n\n# Thema: Erkrankungen im Ellenbogenbereich (Betrifft den Tennisarm und Golferarm)\n\n*Quelle: PDF = Erkrankungen im Bereich des Ellebogengelenks / Ilias = ETK18B*\n\n## Fachbegriffe:\n- Epicondylitis humeri radialis (Tennisarm).\n- Epicondylitis humeri ulnaris (Golferarm).\n\n## Definition = Epicondylitis humeri radialis (Tennisarm):\nDurch die hohe Beanspruchung der Extensorenmuskulatur bei ung\u00fcnstiger Griffhaltung und Schlagtechnik im Tennissport hat sich die synonyme Bezeichnung des Tennisellenbogens etabliert.\nDiese Krankheit bezeichnet eine Insertionstendopathie am Epicondylus humeri radialis, am Ansatz der Hand- und Fingerstrecker, auch als Tennisellenbogen bezeichnet.\n\n## Definition = Epicondylitis humeri ulnaris (Golferarm):\nBeim Golfschwung (vor allem beim Abschlag) werden die Unterarmbeuger stark und wiederholt belastet, wodurch es typischerweise zu Reizungen am medialen Epicondylus kommt.\nDiese Krankheit bezeichnet eine Insertionstendopathie der am Epicondylus medialis humeri entspringenden Unterarmflexoren.\n\n## Ursachen = Epicondylitis humeri radialis (Tennisarm):\n**Ueberlastung der speichenseitigen Handstrecker:**\n- Die reaktive Verspannung f\u00fchrt zu einer mechanischen \u00dcberanspruchung mit Mikrol\u00e4sionen am Ansatz dieser Muskeln am Epicondylus lateralis.\n- Betroffen sind in aller Regel die Sehnenans\u00e4tze von M. extensor capri radialis brevis und M. extensor digitorum communis.\n- Tippen an einer Computertastatur, Wand streichen, intensives Schrauben drehen.\n\n**Konfusionen am Epicondylus humeri radialis.**\n\n## Ursachen = Epicondylitis humeri ulnaris (Golferarm):\n(Fortsetzung auf n\u00e4chster Folie)",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Therapie Morbus Scheuermann: KG, Massagen, Kr\u00e4ftigung, Schwimmen, Korsett (nur Stad. I-II), Titanrippenprothese nur w\u00e4hrend des Wachstums",
+        "Epicondylitis humeri radialis = Tennisarm: Insertionstendopathie am Epicondylus humeri radialis (Ansatz Hand-/Fingerstrecker)",
+        "Epicondylitis humeri ulnaris = Golferarm: Insertionstendopathie der Unterarmflexoren am Epicondylus medialis",
+        "Tennisarm betroffen: M. extensor carpi radialis brevis und M. extensor digitorum communis"
+      ]
+    },
+    {
+      "gidx": 54,
+      "source": "ortho-rheuma p.54",
+      "slide_title": "Golferarm-Ursachen; Symptome Tennisarm/Golferarm; konservative und operative Therapie",
+      "type": "inhalt",
+      "notes_md": "**Mechanische \u00dcberanspruchung mit einhergehenden Mikrol\u00e4sionen:**\n- Die Beschwerden treten nicht ausschlie\u00dflich bei Golfspielern auf, sondern auch bei Sportarten oder Berufen, die eine besondere oder monotone Anforderung an die Hand stellen (z.B. bei Sekret\u00e4rinnen, Handwerkern, Volleyballspielern).\n- In seltenen F\u00e4llen auch traumatisch bedingte Makrol\u00e4sion oder Ruptur der Sehnenans\u00e4tze der Unterarmflexoren, die ein lokales Entz\u00fcndungsgeschehen induzieren.\n\n## Symptome und Komplikationen = Epicondylitis humeri radialis (Tennisarm):\n**Schmerzen im Bereich des lateralen Ellebogens:**\n- Streckung der Mittelhand gegen\u00fcber dem Unterarm im Handgelenk.\n- Druckdolenz der Muskulatur und in der Folge auch des Epicondylus laterales bei ggf. geringgradiger Schwellung des betroffenen Areals.\n- Sensibilit\u00e4tsst\u00f6rungen kommen nur vor, wenn der M. supinatus ebenfalls verspannt ist und so den N. radialis einengt. Dies ist allerdings als eigenst\u00e4ndige Diagnose zu betrachten (Supinatortunnelsyndrom).\n\n## Symptome und Komplikationen = Epicondylitis humeri ulnaris (Golferarm):\n**Schmerzen im Bereich des medialen Ellebogens:**\n- Bei Beugung des Handgelenks.\n- Faustschluss und Heben.\n- Eine Druckdolenz des Epicondylus mediales bei ggf. geringgradiger Schwellung des betroffenen Areals.\n\nDurch Kompression im Bereich des Sulcus ulnaris kann es zu Sensibilit\u00e4tsst\u00f6rungen des sensiblen Versorgungsgebietes des N. ulnaris kommen (Ulnariskompressionssyndrom).\n\n## konservative und operative Therapie:\n**Konservative Therapie:**\n- Schmerzausl\u00f6sende Belastungen vermeiden.\n- NSAR.\n- Lokale Infiltration (Lokalan\u00e4sthetikum).\n- Sto\u00dfwellentherapie.\n- Lokale Salbenverb\u00e4nde.\n- Bandagen.\n- Physiotherapie.\n- Kryotherapie.\n- Friktionsmassagen.\n- Elektrotherapie.\n- Ultraschall, Softlasertherapie.\n- Tapen.\n- Akupunktur.\n\n**Operative Therapie:**\n(Fortsetzung auf n\u00e4chster Folie)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Tennisarm: Schmerzen lateraler Ellenbogen, Druckdolenz Epicondylus lateralis; Supinatortunnelsyndrom bei M.-supinatus-Verspannung",
+        "Golferarm: Schmerzen medialer Ellenbogen bei Handgelenksbeugung, Faustschluss, Heben; Ulnariskompressionssyndrom m\u00f6glich",
+        "Konservative Therapie: NSAR, lokale Infiltration, Sto\u00dfwellentherapie, Bandagen, Physio, Kryo, Friktionsmassagen, Elektrotherapie, Tapen, Akupunktur"
+      ]
+    },
+    {
+      "gidx": 55,
+      "source": "ortho-rheuma p.55",
+      "slide_title": "Operative Therapie Epicondylitis: Hohmann, Goldie, Wilhelm",
+      "type": "inhalt",
+      "notes_md": "- Bei Sehnenrupturen, therapierefrakt\u00e4rem oder chronischem Verlauf besteht die Indikation einer operativen Intervention\n- Wobei in der Regel durch Inzision der Sehne (Tendotomie) eine dauerhafte schmerzlindernde Entlastung des Muskels erreicht werden kann.\n\n**M\u00f6gliche operative Verfahren sind:**\n- Operation nach Hohmann: Querinzision der Sehne.\n- Operation nach Goldie: L\u00e4ngsinzision der Sehne.\n- Operation nach Wilhelm: Denervation des betroffenen Areals, meist in Kombination mit einem der oben genannten Verfahren.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "OP-Indikation: Sehnenrupturen, therapierefrakt\u00e4rer oder chronischer Verlauf",
+        "Tendotomie (Inzision der Sehne) = dauerhafte schmerzlindernde Entlastung",
+        "Hohmann = Querinzision, Goldie = L\u00e4ngsinzision, Wilhelm = Denervation (meist kombiniert)"
+      ]
+    },
+    {
+      "gidx": 56,
+      "source": "ortho-rheuma p.56",
+      "slide_title": "Arthrose der Fingergelenke: Rhizarthrose, Bouchard, Heberden",
+      "type": "inhalt",
+      "notes_md": "# Arthrose der Fingergelenke\n\n**Rhizarthrose:**\n- Arthrose des Daumensattelgelenks\n\n**Bouchard-Arthrose:**\n- Arthrose der Fingermittelgelenke (PIP = proximales Interphangealgelenk)\n\n**Heberden-Arthrose:**\n- Arthrose der Fingerendgelenke (DIP = distales Interphangealgelenk)\n\n## Rhizarthrose:\n**Definition:**\n- Arthrose des Daumensattelgelenks, zwischen Os metacarpale I und Os trapezium\n\n**\u00c4tiologie:**\n- meist im Rahmen einer prim\u00e4ren Arthrose\n- h\u00e4ufigste Arthrose der Hand\n- chronische \u00dcberbelastung\n- Frauen ab dem 40. Lebensjahr\n\n**Klinik:**\n- schmerzhafte Greif- und Drehbewegung des Daumens\n- Ruhe- und Belastungsschmerz\n- Adduktionsfehlstellung des Daumens mit Hyperextension im Daumengrundgelenk\n- typische Osteophytenbildung\n- bei starker Auspr\u00e4gung Gefahr der Luxation des 1. MHK/Mittelhandknochen\n\n*Krein-Nattrodt*",
+      "figures": [
+        {
+          "caption": "R\u00f6ntgenbild Hand mit Rhizarthrose",
+          "shows": "R\u00f6ntgenaufnahme der Hand mit markierter Rhizarthrose am Daumensattelgelenk (Os trapezium, Daumen beschriftet)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Rhizarthrose = Arthrose des Daumensattelgelenks (Os metacarpale I \u2013 Os trapezium), h\u00e4ufigste Arthrose der Hand",
+        "Bouchard = PIP, Heberden = DIP",
+        "Klinik Rhizarthrose: schmerzhafte Greif-/Drehbewegung, Adduktionsfehlstellung mit Hyperextension im Daumengrundgelenk, Osteophyten, Luxationsgefahr des 1. MHK",
+        "\u00c4tiologie: prim\u00e4re Arthrose, chronische \u00dcberbelastung, Frauen ab 40. Lebensjahr"
+      ]
+    },
+    {
+      "gidx": 57,
+      "source": "ortho-rheuma p.57",
+      "slide_title": "Rhizarthrose: Therapie und Epping-Plastik Nachbehandlung",
+      "type": "inhalt",
+      "notes_md": "# Rhizarthrose: Therapie\n\n**konservativ:**\n- spezielle Daumenschienen/Orthesen\n- manuelle Therapie, z.B. Bewegungs\u00fcbungen im Sand\n- NSAR, i.a. Injektion mit Cortison\n- R\u00f6ntgenreizbestrahlung\n- Radiosynoviorthese: RSO mit Erbium-169\n\n**operativ:**\n\"Epping-Plastik: Aufh\u00e4ngeplastik\n- Resektion der Os trapezium und Interposition eines Sehnenstreifens des M. flexor carpi radialis\n- dabei wird der erste Mittelhandknochen mit der Sehne fixiert, sodass er nicht in das entstandene Loch rutscht\n- Endoprothese\n- Arthrodese\n\n**In der Regel kann die Hand**\n- bei prothetischer Versorgung nach 6 Wochen wieder vollst\u00e4ndig eingesetzt werden\n- bei dem Verfahren der Aufh\u00e4ngeplastik kann die Rekonvaleszens 3 bis 6 Monate betragen\n\n## Epping-Plastik: Nach der Operation\n**1. Tag:**\nVerbandswechsel und ggf. Entfernung der Drainage. Sofort Beginn mit eigenst\u00e4ndigen Bewegungs\u00fcbungen zur freien Fingerstreckung und zum Faustschluss. Die Hand sollte durchgehend \u00fcber Herzniveau gehalten werden, um Schwellungen zu vermeiden.\n\n**3. - 14. Tag:**\nDie weitere postoperative Behandlung erfolgt beim Orthop\u00e4den oder Chirurgen. Nach 1 - 2 Verbandswechseln erfolgt nach 12 - 14 Tagen die Entfernung der F\u00e4den. Die Schiene wird weiterhin durchgehend angelegt.\n\n**5 Wochen:**\nEntfernung der Schiene und Beginn mit moderaten Bewegungs\u00fcbungen f\u00fcr das Sattelgelenk. Jetzt wird mit manueller Lymphdrainage begonnen. Und schrittweise das neue Daumensattelgelenk \"freigeturnt\".\n\n**3 - 4 Monate:**\nNach der Operation darf die Hand nicht belastet werden (kein Abst\u00fctzen, Tragen schwerer Gegenst\u00e4nde, konditionelle T\u00e4tigkeiten wie l\u00e4ngere Arbeiten am PC). Dann kann die Hand schrittweise wieder normale, allt\u00e4gliche Belastungen \u00fcbernehmen.\n\n*Krein-Nattrodt*",
+      "figures": [],
+      "eingrenzung_hits": [5, 7],
+      "key_facts": [
+        "Konservativ: Daumenschienen, manuelle Therapie, NSAR/Cortison, R\u00f6ntgenreizbestrahlung, RSO mit Erbium-169",
+        "Epping-Plastik = Aufh\u00e4ngeplastik: Resektion Os trapezium + Interposition Sehnenstreifen M. flexor carpi radialis",
+        "Weitere OP-Optionen: Endoprothese, Arthrodese",
+        "Nachbehandlung: Schiene bis 5 Wochen, Belastungsverbot 3-4 Monate, Rekonvaleszens 3-6 Monate"
+      ]
+    },
+    {
+      "gidx": 58,
+      "source": "ortho-rheuma p.58",
+      "slide_title": "K\u00f6rpereigene Flexor-carpi-radialis-Sehne bei Rhizarthrose OP (Bildfolie)",
+      "type": "inhalt",
+      "notes_md": "**K\u00f6rpereigene Flexor-carpi-radialis-Sehne bei Rhizarthrose OP**\n\nBildcollage zur operativen Versorgung der Rhizarthrose (Epping-Plastik/Aufh\u00e4ngeplastik):\n- Zeichnung: Resektion des Os trapezium und Verlauf der aufgerollten Sehne zur Aufh\u00e4ngung des 1. Mittelhandknochens\n- R\u00f6ntgenbild: postoperativer Zustand nach Trapeziumresektion\n- Intraoperatives Foto: aufgerollte k\u00f6rpereigene Flexor-carpi-radialis-Sehne als Interpositionsmaterial\n- R\u00f6ntgenbild und Modellfoto: Endoprothese des Daumensattelgelenks\n\n*Krein-Nattrodt*",
+      "figures": [
+        {
+          "caption": "Prinzip der Aufh\u00e4ngeplastik (Zeichnung)",
+          "shows": "Hand-Skizze mit Resektion des Os trapezium und aufgerollter Sehne zur Fixierung des 1. Mittelhandknochens",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Intraoperatives Foto: Flexor-carpi-radialis-Sehne",
+          "shows": "Aufgerollte k\u00f6rpereigene FCR-Sehne als Interposition bei Rhizarthrose-OP",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "R\u00f6ntgenbilder und Prothesenmodell",
+          "shows": "R\u00f6ntgenbild nach Trapeziumresektion, R\u00f6ntgen mit Daumensattelgelenk-Endoprothese und Prothesenmodell",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [7],
+      "key_facts": [
+        "Epping-Plastik nutzt die k\u00f6rpereigene Flexor-carpi-radialis-Sehne als Interposition nach Os-trapezium-Resektion",
+        "Alternative: endoprothetischer Ersatz des Daumensattelgelenks"
+      ]
+    },
+    {
+      "gidx": 59,
+      "source": "ortho-rheuma p.59",
+      "slide_title": "Bouchard-Arthrose",
+      "type": "inhalt",
+      "notes_md": "# Bouchard-Arthrose\n\n**Definition:**\n- Arthrose der Fingermittelgelenke (PIP = proximales Interphangealgelenk)\n\n**\u00c4tiologie:**\n- unbekannt\n- oft kombiniert mit Arthrosen anderer Fingergelenke: wie Rhizarthrose, Heberden-Arthrose und Polyarthrose\n- Frauen in der Postmenopause\n\n**Klinik:**\n- Steifigkeit der Finger, Spannungsgef\u00fchle\n- Erm\u00fcdungsschmerz, Belastungsschmerz\n- Dauerschmerz\n- knotige Verdickungen im Bereich der Mittelgelenke\n- schmerzhafte zunehmende Verformung durch Osteophytenbildung\n\n**Diagnose:** R\u00f6ntgen, MRT\n\n**Therapie:**\n- Traktionstherapie, kr\u00e4ftigende Hand\u00fcbungen\n- NSAR, i.a. Injektionen\n- Radiosynoyiorthese mit Erbium-169\n\n**Operativ:**\n- Arthrodese\n- im Gegensatz zu der Erkrankung der DIP-Gelenke kommt auch eine endoprothetischer Gelenkersatz in Frage\n\n*Krein-Nattrodt*",
+      "figures": [
+        {
+          "caption": "Hand mit Bouchard-Arthrose",
+          "shows": "Foto einer Hand mit knotigen Verdickungen der Fingermittelgelenke (Pfeil)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5, 7],
+      "key_facts": [
+        "Bouchard-Arthrose = Arthrose der Fingermittelgelenke (PIP)",
+        "\u00c4tiologie unbekannt; oft kombiniert mit Rhizarthrose/Heberden; Frauen in der Postmenopause",
+        "Klinik: Steifigkeit, Erm\u00fcdungs-/Belastungsschmerz, knotige Verdickungen, Osteophyten",
+        "Therapie: Traktion, NSAR, RSO mit Erbium-169; operativ Arthrodese oder endoprothetischer Gelenkersatz (im Gegensatz zu DIP)"
+      ]
+    },
+    {
+      "gidx": 60,
+      "source": "ortho-rheuma p.60",
+      "slide_title": "Bildfolie: Traktionstherapie, Injektion, R\u00f6ntgenbefunde Fingergelenksarthrosen",
+      "type": "inhalt",
+      "notes_md": "Bildfolie ohne Text (nur Quellenangabe *Krein-Nattrodt*):\n- Foto: Traktionstherapie/kr\u00e4ftigende Hand\u00fcbung mit Ball (Hand umfasst einen Ball)\n- Foto: intraartikul\u00e4re Injektion in ein Fingergelenk (Spritze am PIP-Gelenk)\n- R\u00f6ntgenbilder: Fingerend- und Mittelgelenke mit arthrotischen Ver\u00e4nderungen (Osteophyten, Gelenkspaltverschm\u00e4lerung), einzelnes Gelenk rot markiert",
+      "figures": [
+        {
+          "caption": "Traktionstherapie / kr\u00e4ftigende Hand\u00fcbung",
+          "shows": "Hand, die einen Trainingsball umfasst",
+          "importance": "low",
+          "extract": false
+        },
+        {
+          "caption": "Injektion ins Fingergelenk",
+          "shows": "Intraartikul\u00e4re Injektion am Fingermittelgelenk",
+          "importance": "low",
+          "extract": false
+        },
+        {
+          "caption": "R\u00f6ntgenbilder Fingerarthrosen",
+          "shows": "R\u00f6ntgenaufnahmen der Finger mit arthrotischen Gelenkver\u00e4nderungen (Heberden-/Bouchard-Arthrose)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "R\u00f6ntgenzeichen der Fingerarthrose: Osteophytenbildung und Gelenkverformung an End- und Mittelgelenken"
+      ]
+    }
+  ]
+}

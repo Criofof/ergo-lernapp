@@ -1,0 +1,275 @@
+{
+  "batch": "9",
+  "pages": [
+    {
+      "gidx": 97,
+      "source": "ortho-rheuma p.97",
+      "slide_title": "Coxarthrose – Diagnostik und Trendelenburg-Test",
+      "type": "inhalt",
+      "notes_md": "## Diagnostik\n\n### körperliche Untersuchung\n\n**Inspektion:**\n- Gangbild: Entlastungshinken mit verkürzter Standphase auf dem erkranktem Bein\n- vermehrte Außenrotation des erkrankten Beines\n\n**Palpation:**\n- Druckschmerzhaftigkeit: Lateralseite des Trochanter major und im Bereich des Leistenbandes\n\n**Funktionsprüfung auf Beweglichkeit:**\n- anfangs eingeschränkte Innenrotation mit Ausbildung einer Außendrehkontraktur\n\nim weiteren Verlauf:\n- Neutralnullstellung wird nicht mehr erreicht\n- eingeschränkte Abduktion, die zu einer Adduktionskontraktur führen kann\n- Beugekontraktion der Hüfte\n- positives Trendelenburg-Zeichen\n\n### Trendelenburg-Test:\n- ist das Abkippen des Beckens zur gesunden Seite beim Stehen auf dem erkrankten Bein im Einbeinstand\n- Insuffizienz des M. gluteus medius und des M. gluteus minimus\n- diese Muskeln setzen am Becken an und ziehen zum Trochanter major des Oberschenkelknochens\n- hierdurch halten sie das Becken beim Stand auf dem gleichseitigen Bein waagerecht\n- bei einer Schwäche dieser Muskulatur kommt es zu einem Absinken des Beckens zur Gegenseite, dem Trendelenburg-Zeichen",
+      "figures": [
+        {
+          "caption": "Trendelenburg-Zeichen: Normal vs. Trendelenburg Sign",
+          "shows": "Schematische Darstellung des Beckens im Einbeinstand: normal (Becken waagerecht durch M. gluteus medius/minimus) und bei Trendelenburg-Zeichen (Abkippen des Beckens zur Gegenseite)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Entlastungshinken mit verkürzter Standphase auf dem erkrankten Bein",
+        "anfangs eingeschränkte Innenrotation mit Außendrehkontraktur; später Adduktionskontraktur und Beugekontraktion",
+        "Trendelenburg-Test: Abkippen des Beckens zur gesunden Seite im Einbeinstand bei Insuffizienz von M. gluteus medius und minimus"
+      ]
+    },
+    {
+      "gidx": 98,
+      "source": "ortho-rheuma p.98",
+      "slide_title": "Coxarthrose – apparative Diagnostik und konservative Therapie",
+      "type": "inhalt",
+      "notes_md": "## apparative Diagnostik:\nSonographie, Röntgen, Arthroskopie/Gelenkspiegelung, MRT, CT\n\n**Röntgenbefund:**\n- Verschmälerung des Gelenksspaltes\n- Osteophyten, meist am Acetabulum\n- subchondrale Zysten als Geröllzysten\n- subchondrale Sklerosierung besonders der Gelenkpfanne\n- evtl. Corpora libra\n\n## Therapie:\n\n### konservativ:\n**allgemein:**\n- Vermeiden mechanischer Überbelastungen: z.B. langes Stehen, schweres Heben, belastende Sportarten\n- Abbau von Übergewicht\n- Orthesen: Gehstock, Schuhe mit Pufferabsätzen\n- Toilettensitzerhöhung\n- Strumpf- und Schuhanziehhilfe\n\n**Physikalische Therapie:**\n- Bewegungstherapie\n- Gangschulung\n- Massagen\n- Thermo-, Kryotherapie\n- Elektrotherapie\n- Hydrotherapie\n\n**medikamentöse Therapie:**\n- Analgetika\n- Antiphlogistika\n- Salben\n- i.a. Injektionen/Lokalanästhetika, Hyaluronsäure, Cortison\n\n**minimal-invasiv:** Gelenktoilette/Arthroskopie",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Röntgenzeichen der Coxarthrose: Gelenksspaltverschmälerung, Osteophyten (meist am Acetabulum), subchondrale Geröllzysten, subchondrale Sklerosierung, evtl. Corpora libra",
+        "Konservative Therapie: Überbelastung vermeiden, Gewichtsabbau, Orthesen/Hilfsmittel, physikalische und medikamentöse Therapie",
+        "Minimal-invasiv: Gelenktoilette/Arthroskopie"
+      ]
+    },
+    {
+      "gidx": 99,
+      "source": "ortho-rheuma p.99",
+      "slide_title": "Coxarthrose – Operative Therapie, Endoprothesen und CCD-Winkel",
+      "type": "inhalt",
+      "notes_md": "## Operative Therapie:\n- Hüft- oder Femurkorrekturosteotomien und Beckenosteotomien: je nach vorliegender Grunderkrankung\n- bei Coxa valga: Varisierung\n- bei Coxa vara: Valgisierung\n\n## Endoprothesen\n- Mac Minn: Oberflächenersatz des Hüftkopfes, meist nur bei Jugendlichen\n- Hemiendoprothese/ HEP zementiert, unzementiert (nur 1 Gelenkpartner wird ersetzt)\n- Totalendoprothese/ TEP zementiert, unzementiert (beide Gelenkpartner werden ersetzt)\n- Zementierte Endoprothesen sind sofort belastbar\n- Unzementierte Endoprothesen:\n- Teilbelastung für ca. 6 Wochen, dann Vollbelastung\n- teils auch Vollbelastung nach OP\n\n## CCD-Winkel:\nAbkürzung für Centrum-Collum-Diaphysen-Winkel) beschreibt den Winkel zwischen dem Hals und dem Schaft des Oberschenkelknochen\n\nCoxa vara: Auswärtsgebogen\nCoxa valga: Einwärtsgebogen",
+      "figures": [
+        {
+          "caption": "CCD-Winkel: Normal (125°), Coxa vara (115°), Coxa valga (140°)",
+          "shows": "Drei Hüftgelenksschemata mit eingezeichnetem Centrum-Collum-Diaphysen-Winkel: A Normal 125°, B Coxa vara 115°, C Coxa valga 140°",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1, 5, 7],
+      "key_facts": [
+        "Korrekturosteotomie: bei Coxa valga Varisierung, bei Coxa vara Valgisierung",
+        "CCD-Winkel = Winkel zwischen Hals und Schaft des Oberschenkelknochens; Normal ca. 125°, Coxa vara verkleinert (115°), Coxa valga vergrößert (140°)",
+        "Mac Minn: Oberflächenersatz des Hüftkopfes, meist nur bei Jugendlichen; HEP ersetzt nur 1 Gelenkpartner, TEP beide",
+        "Zementierte Endoprothesen sofort belastbar; unzementierte ca. 6 Wochen Teilbelastung"
+      ]
+    },
+    {
+      "gidx": 100,
+      "source": "ortho-rheuma p.100",
+      "slide_title": "CCD-Winkel – Normal, Coxa vara, Coxa valga (Abbildung)",
+      "type": "inhalt",
+      "notes_md": "Abbildungsfolie zum CCD-Winkel (Centrum-Collum-Diaphysen-Winkel) am proximalen Femur:\n\n- **A Normal:** CCD-Winkel 125°\n- **B Coxa vara:** CCD-Winkel 115° (verkleinert)\n- **C Coxa valga:** CCD-Winkel 140° (vergrößert)\n\nQuelle der Abbildung: Mark Dutton: Dutton's Orthopaedic Examination, Evaluation, and Intervention, 4th Edition; Copyright © McGraw-Hill Education. All rights reserved.",
+      "figures": [
+        {
+          "caption": "A Normal (125°), B Coxa vara (115°), C Coxa valga (140°)",
+          "shows": "Drei Zeichnungen des proximalen Femurs mit Hüftpfanne und eingezeichnetem CCD-Winkel zum Vergleich von Normalstellung, Coxa vara und Coxa valga",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [1, 5],
+      "key_facts": [
+        "Normaler CCD-Winkel: 125°",
+        "Coxa vara: CCD-Winkel verkleinert (115°)",
+        "Coxa valga: CCD-Winkel vergrößert (140°)"
+      ]
+    },
+    {
+      "gidx": 101,
+      "source": "ortho-rheuma p.101",
+      "slide_title": "Röntgenfoto von Hüftarthrose (Bildfolie)",
+      "type": "inhalt",
+      "notes_md": "Bildfolie mit bildgebenden Befunden und Präparaten zur Hüftarthrose:\n\n- **Röntgenfoto von Hüftarthrose:** verengter Gelenkspalt, Osteophyten am Ende des Oberschenkels, Osteophyten\n- Arthroskopisches Bild des Hüftgelenks\n- MRT mit Kontrastmittel im Gelenk: Hüftpfanne, Hüftkopf, Gelenklippenriss (Labrumriss)\n- Weiteres Röntgenbild der Hüfte\n- Zwei Präparatefotos eines resezierten, arthrotisch veränderten Hüftkopfes",
+      "figures": [
+        {
+          "caption": "Röntgenfoto von Hüftarthrose",
+          "shows": "Röntgenbild der Hüfte mit verengtem Gelenkspalt und Osteophyten am Ende des Oberschenkels",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "MRT Hüftgelenk mit Kontrastmittel",
+          "shows": "MRT-Darstellung von Hüftpfanne und Hüftkopf mit Kontrastmittel im Gelenk und Gelenklippenriss (Labrumriss)",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Resezierter arthrotischer Hüftkopf",
+          "shows": "Präparatefotos eines operativ entfernten, arthrotisch deformierten Femurkopfes",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Röntgen der Hüftarthrose: verengter Gelenkspalt und Osteophyten am Oberschenkelende",
+        "MRT kann einen Gelenklippenriss (Labrumriss) zeigen"
+      ]
+    },
+    {
+      "gidx": 102,
+      "source": "ortho-rheuma p.102",
+      "slide_title": "Coxarthrose – Mc. Minn, Hüft-TEP und luxierte Hüft-TEP (Bildfolie)",
+      "type": "inhalt",
+      "notes_md": "Bildfolie zu Endoprothesen bei Coxarthrose:\n\n- **Mc. Minn:** Röntgenbild eines Oberflächenersatzes des Hüftkopfes\n- Röntgenbild einer Hüft-Totalendoprothese (im Beckenübersichtsbild)\n- **luxierte Hüft-TEP:** Röntgenbild einer aus der Pfanne ausgerenkten Hüft-Totalendoprothese\n- Schema einer Hüft-TEP mit den Bestandteilen: Gelenkpfanne, Gelenkkopf, Gelenkschaft",
+      "figures": [
+        {
+          "caption": "Mc. Minn (Oberflächenersatz) im Röntgenbild",
+          "shows": "Röntgenbild einer Mc.-Minn-Oberflächenersatzprothese des Hüftkopfes",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Luxierte Hüft-TEP",
+          "shows": "Röntgenbilder einer Hüft-Totalendoprothese und einer luxierten Hüft-TEP (Prothesenkopf außerhalb der Pfanne)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Aufbau einer Hüft-TEP",
+          "shows": "Schematische Darstellung der Prothesenbestandteile: Gelenkpfanne, Gelenkkopf, Gelenkschaft",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5, 7],
+      "key_facts": [
+        "Mc. Minn = Oberflächenersatz des Hüftkopfes",
+        "Hüft-TEP besteht aus Gelenkpfanne, Gelenkkopf und Gelenkschaft",
+        "Komplikation: Luxation der Hüft-TEP"
+      ]
+    },
+    {
+      "gidx": 103,
+      "source": "ortho-rheuma p.103",
+      "slide_title": "Arthroskopie: gesundes Hüftgelenk",
+      "type": "inhalt",
+      "notes_md": "## Arthroskopie: gesundes Hüftgelenk\n\nLegende zum arthroskopischen Bild:\n- **SH:** Oberschenkelhals\n- **OK:** Femurkopf\n- **L:** Labrum\n- **K:** Gelenkkapsel\n\n(Bildquelle: O. Steimer)",
+      "figures": [
+        {
+          "caption": "Arthroskopie: gesundes Hüftgelenk",
+          "shows": "Arthroskopische Aufnahme eines gesunden Hüftgelenks mit markierten Strukturen: Oberschenkelhals (SH), Femurkopf (OK), Labrum (L), Gelenkkapsel (K)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Arthroskopisch sichtbare Strukturen des gesunden Hüftgelenks: Oberschenkelhals, Femurkopf, Labrum, Gelenkkapsel"
+      ]
+    },
+    {
+      "gidx": 104,
+      "source": "ortho-rheuma p.104",
+      "slide_title": "CTS: Karpaltunnelsyndrom – Definition und Ursachen",
+      "type": "inhalt",
+      "notes_md": "## CTS:\n\n### Definition:\n- ist ein Engpasssyndrom (Nervenkompressionssyndrom) des N. medianus im Bereich der Handwurzel\n- der Nerv wird unterhalb des Lig. carpi transversum abgedrückt\n\n### Ursachen für diese mechanische Kompression sind vielfältig\n- und können zu einer akuten (z.B. Trauma) oder chronisch progredienten Kompression führen (z.B. Ablagerungen bei Stoffwechselerkrankungen):\n- meist idiopathisch\n- Überanstrengung der Hand: alle Berufsgruppen, die Maschinen mit starker Vibration bedienen (zum Beispiel Presslufthammer), sowie solche, deren Handgelenk einer dauerhaft hohen Belastung durch Bewegung ausgesetzt ist wie Polsterer oder Landwirte.\n- Frakturen im Bereich des Handgelenks\n- Hämatom\n- Ödem\n- Tendosynovitis: Sehnenscheidenentzündung (Synonyma: Tendosynovitis, Tendovaginitis, Tendosynovialitis)\n- Arthritis/ rheumatoide Arthritis\n- Diabetes mellitus (mit diabetischer Neuropathie) (Zuckerkrankheit)\n- Akromegalie (Zunahme des Knochenwachstums: Nase, Kinn, Hände, Füße)\n- Hypothyreose (Unterfunktion der Schilddrüse)\n- Amyloidose/ intrazelluläre und extrazelluläre Ablagerungen von unlöslichen Protein-Fibrillen\n- Myositis (Muskelentzündung)\n- Tumoren (Fibrom, Lipom)\n- Adipositas\n- Schwangerschaft (Schwangerschaftsödeme)\n- nach langjähriger Hämodialyse/Blutwäsche",
+      "figures": [],
+      "eingrenzung_hits": [14],
+      "key_facts": [
+        "CTS = Engpasssyndrom (Nervenkompressionssyndrom) des N. medianus im Bereich der Handwurzel; Abdrücken unterhalb des Lig. carpi transversum",
+        "Ursachen meist idiopathisch; u.a. Überanstrengung der Hand, Frakturen, Ödem, Tendosynovitis, rheumatoide Arthritis, Diabetes mellitus, Akromegalie, Hypothyreose, Amyloidose, Schwangerschaft, Hämodialyse"
+      ]
+    },
+    {
+      "gidx": 105,
+      "source": "ortho-rheuma p.105",
+      "slide_title": "CTS: Karpaltunnelsyndrom – Symptome",
+      "type": "inhalt",
+      "notes_md": "## Symptome:\n- Schmerzen und Parästhesien im Versorgungsgebiet des N. medianus\n- typisch sind auch zur Nacht eintretende Schmerzen im Bereich der Hand und des Unterarms (\"Brachialgia nocturna\")\n- nach längerem Bestehen kommt es zur Atrophie der Thenarmuskulatur",
+      "figures": [
+        {
+          "caption": "Anatomie des Karpaltunnels",
+          "shows": "Schematische Darstellung der Hand mit Karpaltunnel, Band, Sehnenscheiden, Sehnen und Medianusnerv",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Operationssitus: durchtrenntes Retinaculum mit N. medianus",
+          "shows": "Intraoperative Fotos der Karpaltunneleröffnung: durchtrenntes Retinaculum, freiliegender N. medianus und Beugesehnen",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Schmerzen und Parästhesien im Versorgungsgebiet des N. medianus",
+        "Nächtliche Schmerzen in Hand und Unterarm: Brachialgia nocturna",
+        "Spätfolge: Atrophie der Thenarmuskulatur"
+      ]
+    },
+    {
+      "gidx": 106,
+      "source": "ortho-rheuma p.106",
+      "slide_title": "CTS: Karpaltunnelsyndrom – OP-Situs (Bildfolie)",
+      "type": "inhalt",
+      "notes_md": "Bildfolie ohne Text: Intraoperatives Foto des eröffneten Karpaltunnels mit beschrifteten Strukturen **N. medianus** und **Beugesehnen**.",
+      "figures": [
+        {
+          "caption": "Eröffneter Karpaltunnel",
+          "shows": "Intraoperative Aufnahme des Karpaltunnels mit freiliegender N. medianus und Beugesehnen",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Im eröffneten Karpaltunnel liegen N. medianus und Beugesehnen frei"
+      ]
+    },
+    {
+      "gidx": 107,
+      "source": "ortho-rheuma p.107",
+      "slide_title": "CTS: Karpaltunnelsyndrom – Diagnostik / Provokationstests",
+      "type": "inhalt",
+      "notes_md": "## Diagnostik:\nProvokationstests durch:\n\n### Hoffman-Tinel-Test:\n- bei diesem Test wird die Haut über dem Karpaltunnel abgeklopft. Löst dies beim Patienten Schmerzen und Missempfindungen aus, ist das Hoffman-Tinel-Zeichen positiv\n\n### Phalen-Zeichen:\n- für diesen Test muss der Patient die Hände mit den Handrücken aneinander legen. So wird das Handgelenk verstärkt gebeugt. Verstärken sich dabei die Schmerzen, ist dies ein positives Phalen-Zeichen\n\n### Karpalkompressionstest: Durkan-Test\n- Untersucher legt seinen Daumen auf die Haut über dem Karpaltunnel und übt etwa 30 Sekunden lang einen betonten Druck aus. Wenn es zu Schmerzen oder Parästhesien im Mittel- und Zeigefinger kommt, ist der Test positiv.\n- die Sensitivität und Spezifität des Karpalkompressionstests liegt bei rund 90%.",
+      "figures": [
+        {
+          "caption": "Hoffman-Tinel-Test und Phalen-Test",
+          "shows": "Abbildungen zur Durchführung: Abklopfen über dem Karpaltunnel (Hoffmann-Tinel-Test) und Aneinanderlegen der Handrücken mit gebeugtem Handgelenk (Phalen-Test)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Hoffman-Tinel-Test: Abklopfen über dem Karpaltunnel; Schmerzen/Missempfindungen = positiv",
+        "Phalen-Zeichen: Handrücken aneinanderlegen, verstärkte Beugung; Schmerzverstärkung = positiv",
+        "Durkan-Test (Karpalkompressionstest): 30 Sekunden Druck über dem Karpaltunnel; Schmerzen/Parästhesien in Mittel- und Zeigefinger = positiv; Sensitivität/Spezifität rund 90%"
+      ]
+    },
+    {
+      "gidx": 108,
+      "source": "ortho-rheuma p.108",
+      "slide_title": "CTS: Karpaltunnelsyndrom – weitere Untersuchung, ENG, Sonographie",
+      "type": "inhalt",
+      "notes_md": "## weitere Untersuchung:\n- bei einer atrophierten Daumenmuskulatur kann der Betroffene den Daumen nicht mehr gut oder gar nicht mehr abspreizen.\n- der Daumen kann nicht mehr opponiert werden; Umgreifen einer Flasche: durch die Muskelatrophie gelingt dies entweder kaum oder gar nicht mehr (positives Flaschenzeichen).\n- der Empfindungssinn wird getestet, indem der Arzt mit einem Wattebausch über die Handinnenfläche streicht. Nimmt der Patient diese Berührung nicht wahr, ist die Oberflächensensibilität gestört.\n- der Tast- und Greifsinn wird getestet, indem der Patient Münzen oder Büroklammern aufheben soll. Gelingt dies nicht, ist der Tastsinn gestört.\n\n## Neurologisch:\n- mit der Elektroneurografie (ENG) wird gemessen, wie schnell der N. medianus empfangene Reize weiterleitet und auf einen Muskel überträgt.\n\nDabei gibt es zwei Methoden:\n\n### Oberflächen-ENG:\n- es werden Elektroden auf die Haut geklebt, und die Leitungsgeschwindigkeit des N. medianus mit der eines anderen gesunden Nerven verglichen. Diese Untersuchung ist in der Regel schmerzfrei.\n\n### Nadel-ENG:\n- in manchen Fällen ist eine exakte Messung mit einem Oberflächen-ENG nicht möglich, Zum Beispiel, wenn der Nerv anders verläuft, als es normal der Fall ist. Dann wird ein Nadel-ENG angewendet, bei dem kleine Nadeln direkt in die Nähe des Nerven gestochen werden.\n\n### Sonographie:",
+      "figures": [
+        {
+          "caption": "Sonographie Karpaltunnelsyndrom",
+          "shows": "Ultraschallbild (longitudinale Darstellung) mit hypoechoger Schwellung des N. medianus proximal der Kompressionsstelle, Kompression, Sehne des M. flexor digitorum superficialis",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Elektroneurografie (ENG) an der Hand",
+          "shows": "Foto der ENG-Untersuchung mit auf die Hand geklebten Elektroden zur Messung der Nervenleitgeschwindigkeit des N. medianus",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Positives Flaschenzeichen: Daumen kann wegen Thenaratrophie nicht mehr opponiert/abgespreizt werden",
+        "Testung von Oberflächensensibilität (Wattebausch) und Tastsinn (Münzen/Büroklammern aufheben)",
+        "ENG misst die Leitungsgeschwindigkeit des N. medianus: Oberflächen-ENG (schmerzfrei) oder Nadel-ENG bei atypischem Nervenverlauf",
+        "Sonographie zeigt hypoechoge Schwellung des Nerven proximal der Kompressionsstelle"
+      ]
+    }
+  ]
+}
