@@ -1,0 +1,206 @@
+{
+  "batch": "18",
+  "pages": [
+    {
+      "gidx": 205,
+      "source": "skl-innere p.205",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n**Prävalenz >40 J:** 13% (sehr hohe Dunkelziffer, m>w)\n\n### Definition Chronische Bronchitis\nEine chronische Bronchitis ist dann anzunehmen, wenn bei einem Patienten in 2 aufeinander folgenden Jahren während mindestens 3 aufeinander folgender Monate pro Jahr Husten + Auswurf (= produktiver Husten) bestanden.\n\n### Definition Lungenemphysem\nAls Lungenemphysem bezeichnet man die irreversible Überblähung der kleinsten luftgefüllten Strukturen (Alveolen, Lungenbläschen) der Lunge.\n\n*Quelle: Herold, Innere Medizin, 2012*",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Prävalenz der COPD >40 Jahre: 13%, sehr hohe Dunkelziffer, Männer häufiger als Frauen",
+        "Chronische Bronchitis: Husten + Auswurf (produktiver Husten) in 2 aufeinander folgenden Jahren während mindestens 3 aufeinander folgender Monate pro Jahr",
+        "Lungenemphysem: irreversible Überblähung der kleinsten luftgefüllten Strukturen (Alveolen) der Lunge"
+      ]
+    },
+    {
+      "gidx": 206,
+      "source": "skl-innere p.206",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD – Pathophysiologie",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n### Pathophysiologie (Schema)\n\nchronische nichtobstruktive Bronchitis\n⬇\n**chronisch-obstruktive Bronchitis = COPD** ⬅ { Rauchen; rezidivierende Infekte; endogene Faktoren, Veranlagung }\n⬇\nobstruktives Lungenemphysem\n⬇\nzunehmende Atemflussbehinderung (Obstruktion)\n⬇\n→ pulmonale Hypertonie + Cor pulmonale\n→ respiratorische Insuffizienz\n\n*Quelle: Herold, Innere Medizin, 2012*",
+      "figures": [
+        {
+          "caption": "Pathophysiologie der COPD (Flussschema)",
+          "shows": "Stufenfolge von chronischer nichtobstruktiver Bronchitis über COPD und obstruktives Lungenemphysem zur Atemflussbehinderung mit den Folgen pulmonale Hypertonie + Cor pulmonale bzw. respiratorische Insuffizienz; Einflussfaktoren Rauchen, rezidivierende Infekte, endogene Faktoren/Veranlagung",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Aus chronischer nichtobstruktiver Bronchitis entsteht durch Rauchen, rezidivierende Infekte und endogene Faktoren/Veranlagung die chronisch-obstruktive Bronchitis = COPD",
+        "COPD führt über obstruktives Lungenemphysem zu zunehmender Atemflussbehinderung (Obstruktion)",
+        "Folgen der Obstruktion: pulmonale Hypertonie + Cor pulmonale und respiratorische Insuffizienz"
+      ]
+    },
+    {
+      "gidx": 207,
+      "source": "skl-innere p.207",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD – Pathophysiologie",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n### Pathophysiologie\n\n> Die Begriffe \"Blue Bloater\" und \"Pink Puffer\" werden in den aktuellen Leitlinien nicht mehr verwendet, da die Mehrzahl der Fälle Mischbilder betrifft.\n\nBei COPD-Patienten liegen **Emphysem** und **Obstruktion** zu unterschiedlichen Anteilen und Schweregraden vor.\n\n- **Emphysem** = Verringerung der Gasaustauschfläche → O₂ ↓, führt zu erhöhter Arbeit bei dem Versuch, genug Sauerstoff zu bekommen, also Kalorien-zehrende schwere Arbeit (früher: Pink Puffer)\n- **Obstruktion** in den unteren Luftwegen = Behinderung der Exspiration, CO₂ ↑ und O₂ ↓ (früher: Blue Bloater)\n\n*Quelle: Herold, Innere Medizin, 2019*",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Begriffe \"Blue Bloater\" und \"Pink Puffer\" werden in aktuellen Leitlinien nicht mehr verwendet (meist Mischbilder)",
+        "Emphysem: Verringerung der Gasaustauschfläche, O₂ erniedrigt, erhöhte (Kalorien-zehrende) Atemarbeit – früher Pink Puffer",
+        "Obstruktion der unteren Luftwege: Behinderung der Exspiration, CO₂ erhöht und O₂ erniedrigt – früher Blue Bloater"
+      ]
+    },
+    {
+      "gidx": 208,
+      "source": "skl-innere p.208",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD – Typ \"Blue Bloater\"",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n### Typ „Blue Bloater“\n\n- Bronchitisch-adipöser Typ mit Zyanose\n- Husten und Auswurf (chronische Bronchitis)\n- Obstruktion führend, wenig Dyspnoe\n- respiratorische Globalinsuffizienz = Hypoxämie (pO₂ ⬇) + Hyperkapnie (pCO₂ ⬆)\n- Entwicklung eines Cor pulmonale mit Rechtsherzinsuffizienz\n- oft Überlagerung mit obstruktivem Schlafapnoesyndrom und/oder Adipositas-Hypoventilation\n\n*Quelle: Herold, Innere Medizin, 2012*",
+      "figures": [
+        {
+          "caption": "Patientenfoto: Typ \"Blue Bloater\"",
+          "shows": "Adipöser COPD-Patient mit Zyanose (bläuliche Verfärbung des Gesichts)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Blue Bloater: bronchitisch-adipöser Typ mit Zyanose, Husten und Auswurf, Obstruktion führend, wenig Dyspnoe",
+        "Respiratorische Globalinsuffizienz = Hypoxämie (pO₂ ↓) + Hyperkapnie (pCO₂ ↑)",
+        "Folge: Cor pulmonale mit Rechtsherzinsuffizienz; oft Überlagerung mit obstruktivem Schlafapnoesyndrom und/oder Adipositas-Hypoventilation"
+      ]
+    },
+    {
+      "gidx": 209,
+      "source": "skl-innere p.209",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD – Typ \"Pink Puffer\"",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n### Typ „Pink Puffer\"\n\n- Dyspnoisch-hagerer Typ ohne Zyanose\n- Emphysem führend, Fassthorax, Fläche zum Gasaustausch stark verringert\n- erhöhte Atemarbeit, ausgeprägte Dyspnoe, Tachypnoe, Presslippenatmung\n- evtl. trockener Reizhusten\n- respiratorische Partialinsuffizienz = nur Hypoxämie (pO₂ ⬇)\n\n*Quelle: Herold, Innere Medizin, 2012*",
+      "figures": [
+        {
+          "caption": "Patientenfoto: Typ \"Pink Puffer\" (Quelle: Medscape / ACP Medicine © 2004 WebMD Inc.)",
+          "shows": "Hagerer, kachektischer COPD-Patient mit Fassthorax und Sauerstoffbrille, ohne Zyanose",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Pink Puffer: dyspnoisch-hagerer Typ ohne Zyanose, Emphysem führend, Fassthorax, stark verringerte Gasaustauschfläche",
+        "Erhöhte Atemarbeit, ausgeprägte Dyspnoe, Tachypnoe, Presslippenatmung, evtl. trockener Reizhusten",
+        "Respiratorische Partialinsuffizienz = nur Hypoxämie (pO₂ ↓)"
+      ]
+    },
+    {
+      "gidx": 210,
+      "source": "skl-innere p.210",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD – Ursachen und Symptome",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n### Ursachen\n\n- Rauchen (Zigarette, Pfeife, Zigarre, Passivrauchen) ist mit fast 90% die häufigste Ursache\n- Luftverschmutzung, Feinstaub, Bergbau, Drittweltländer: Heizen und Kochen mit offenem Feuer\n- rezidivierende bronchopulmonale Infekte\n\nDer COPD geht meist eine mehrjährige **chronische (nicht-obstruktive) Bronchitis** voraus (einfache chronische Bronchitis mit Husten + Auswurf, **reversibel**)\n\n### Symptome\n\n- Meist morgendliches **Abhusten von Sputum**, das bei bakterieller Infektion eitrig (gelblich bis grün) aussieht\n- **im weiteren Verlauf:** Belastungsdyspnoe mit zunehmender Einschränkung der körperlichen Leistungsfähigkeit",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Rauchen (inkl. Passivrauchen) ist mit fast 90% die häufigste COPD-Ursache; weitere: Luftverschmutzung, Feinstaub, Bergbau, offenes Feuer, rezidivierende bronchopulmonale Infekte",
+        "Der COPD geht meist eine mehrjährige reversible chronische (nicht-obstruktive) Bronchitis voraus",
+        "Symptome: morgendliches Abhusten von Sputum (bei bakterieller Infektion eitrig, gelblich bis grün), später Belastungsdyspnoe mit zunehmender Einschränkung der Leistungsfähigkeit"
+      ]
+    },
+    {
+      "gidx": 211,
+      "source": "skl-innere p.211",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD – Schweregrade nach GOLD",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n### Schweregrade, nach GOLD (global initiative for chronic obstructive lung disease)\n\nEinteilung in COPD-Risikoklassen A–D nach drei Dimensionen:\n\n- **GOLD-Obstruktionsgrad** (FEV₁ in % des Sollwerts): FEV₁ <50% vs. FEV₁ 50–80%\n- **Ausmaß der Dyspnoe:** keine oder leichte Belastungsdyspnoe vs. mäßige bis schwere Belastungsdyspnoe oder Ruhedyspnoe\n- **Exazerbationen im Vorjahr:** 0 / 1 / ≥2\n\nKlassen: A (FEV₁ 50–80%, keine/leichte Dyspnoe), B (FEV₁ 50–80%, mäßige bis schwere Dyspnoe), C (FEV₁ <50%, keine/leichte Dyspnoe), D (FEV₁ <50%, mäßige bis schwere Dyspnoe oder Ruhedyspnoe, ≥2 Exazerbationen)\n\n*Abb. 3.15 COPD-Risikoklassen nach der GOLD-Klassifikation (aus Herdegen, T., KLB Pharmakologie, Thieme); Quelle: Innere Medizin, Thieme 2010*",
+      "figures": [
+        {
+          "caption": "Abb. 3.15 COPD-Risikoklassen nach der GOLD-Klassifikation",
+          "shows": "Matrix der GOLD-Risikoklassen A–D nach Obstruktionsgrad (FEV₁), Ausmaß der Dyspnoe und Zahl der Exazerbationen im Vorjahr",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "GOLD-Klassifikation teilt COPD in Risikoklassen A–D ein",
+        "Beurteilungsdimensionen: Obstruktionsgrad (FEV₁ in % des Sollwerts, <50% vs. 50–80%), Ausmaß der Dyspnoe und Exazerbationen im Vorjahr (0/1/≥2)"
+      ]
+    },
+    {
+      "gidx": 212,
+      "source": "skl-innere p.212",
+      "slide_title": "Lungenemphysem – Rö-Thorax",
+      "type": "inhalt",
+      "notes_md": "## Lungenemphysem – Rö-Thorax\n\nVergleich: Rö-Thorax normal vs. Röntgen-Thorax-Befunde beim Lungenemphysem.\n\n**Röntgen-Thorax-Befunde beim Lungenemphysem** (Abb. 3.16, aus Hahn, J.-M., Checkliste Innere Medizin, Thieme, 2013):\n\n- tiefstehende, flache Zwerchfelle\n- komplett entfalteter Sinus costophrenicus\n- waagerecht stehende dorsale Rippen\n- hohe Strahlentransparenz bei weitgehend fehlender Gefäßzeichnung\n- schlankes, mittelständiges Herz (Tropfenherz)",
+      "figures": [
+        {
+          "caption": "Rö-Thorax normal vs. Lungenemphysem (Abb. 3.16)",
+          "shows": "Gegenüberstellung eines normalen Röntgen-Thorax mit dem Emphysembefund: tiefstehende flache Zwerchfelle, entfalteter Sinus costophrenicus, waagerechte dorsale Rippen, hohe Strahlentransparenz bei fehlender Gefäßzeichnung, Tropfenherz",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Röntgenzeichen des Lungenemphysems: tiefstehende flache Zwerchfelle, komplett entfalteter Sinus costophrenicus, waagerecht stehende dorsale Rippen",
+        "Hohe Strahlentransparenz bei weitgehend fehlender Gefäßzeichnung; schlankes, mittelständiges Herz (Tropfenherz)"
+      ]
+    },
+    {
+      "gidx": 213,
+      "source": "skl-innere p.213",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD – Therapie: Basistherapie",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n### Therapie\n\n**Basistherapie (konsequent und langfristig anwenden)**\n\n- Noxen ausschalten (wichtigste Maßnahme: **Rauchen aufgeben**), inhalative Belastung am Arbeitsplatz prüfen und ggf. ausschalten\n- aktive Immunisierung gegen Pneumokokken und gegen Influenzavirus (jährlich)\n- Patientenschulung + Reha\n- Atemgymnastik, Training der Atemmuskulatur und körperliches Training („Lungensport“)\n- Osteoporoseprophylaxe\n- Sanierung vorhandener Infektquellen (z.B. chronische Sinusitis)\n\n*Quelle: Herold, Innere Medizin, 2012*",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Wichtigste Basistherapie-Maßnahme bei COPD: Noxen ausschalten – Rauchen aufgeben; inhalative Belastung am Arbeitsplatz prüfen/ausschalten",
+        "Aktive Immunisierung gegen Pneumokokken und jährlich gegen Influenzavirus",
+        "Weitere Basistherapie: Patientenschulung + Reha, Atemgymnastik/Lungensport, Osteoporoseprophylaxe, Sanierung von Infektquellen (z.B. chronische Sinusitis)"
+      ]
+    },
+    {
+      "gidx": 214,
+      "source": "skl-innere p.214",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD – Therapie: Medikation gemäß Schweregrad",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n### Therapie\n\n**Medikation gemäß Schweregrad**\n\n- **A (leichtgradig)** – bedarfsweise Inhalation kurzwirksamer Bronchodilatatoren (beta-2-Sympathomimetika und/oder Anticholinergika)\n- **B (mittelgradig)** – zusätzlich: inhalative Dauertherapie mit langwirksamen Bronchodilatatoren (beta-2-Sympathomimetika und/oder Anticholinergika)\n- **C (schwergradig)** – zusätzlich: bei rezidivierenden Exazerbationen Therapieversuch mit inhalativen Glukokortikosteroiden, evtl. Theophyllin\n- **D (sehr schwer)** – zusätzlich: bei respiratorischer Insuffizienz Langzeit-O₂-Therapie (>15 Std/Tag), bei Emphysem Lungenvolumenreduktions-OP erwägen\n\n*Quelle: Herold, Innere Medizin, 2012*",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "GOLD A: bedarfsweise kurzwirksame Bronchodilatatoren (Beta-2-Sympathomimetika und/oder Anticholinergika)",
+        "GOLD B: zusätzlich inhalative Dauertherapie mit langwirksamen Bronchodilatatoren",
+        "GOLD C: bei rezidivierenden Exazerbationen Therapieversuch mit inhalativen Glukokortikosteroiden, evtl. Theophyllin",
+        "GOLD D: bei respiratorischer Insuffizienz Langzeit-O₂-Therapie (>15 Std/Tag), bei Emphysem Lungenvolumenreduktions-OP erwägen"
+      ]
+    },
+    {
+      "gidx": 215,
+      "source": "skl-innere p.215",
+      "slide_title": "Chronisch-obstruktive Lungenkrankheit COPD – Prognose",
+      "type": "inhalt",
+      "notes_md": "## Chronisch-obstruktive Lungenkrankheit COPD\n\n### Prognose\n\n- die nichtobstruktive chronische Bronchitis ist nach Ausschaltung der Noxe (Rauchen, Staubexposition) oft noch reversibel\n- mit Auftreten einer obstruktiven Ventilationsstörung (COPD) verschlechtert sich die Prognose, und die Lebenserwartung ist vermindert\n- durch Rauchverzicht und O₂-Langzeittherapie ist Lebensverlängerung nachgewiesen\n- die Krankenhausletalität der schweren AECOPD (akute Exazerbation einer COPD) beträgt ca. 10%, bei intensivpflichtigen Patienten ca. 25%\n\n**Risikofaktoren für einen ungünstigen Verlauf:**\n\n- höheres Alter\n- Hyperkapnie (pCO₂ >45 mmHg)\n- vorbestehende Dauertherapie mit oralen Steroiden (Kortison)\n- Vorliegen anderer schwerer Begleiterkrankungen wie Herzinsuffizienz oder Diabetes mellitus\n\n*Quelle: Herold, Innere Medizin, 2012*",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Nichtobstruktive chronische Bronchitis ist nach Noxen-Ausschaltung (Rauchen, Staubexposition) oft noch reversibel",
+        "Mit obstruktiver Ventilationsstörung (COPD) verschlechtert sich die Prognose, Lebenserwartung vermindert; Rauchverzicht und O₂-Langzeittherapie verlängern nachweislich das Leben",
+        "Krankenhausletalität der schweren AECOPD ca. 10%, bei intensivpflichtigen Patienten ca. 25%",
+        "Risikofaktoren für ungünstigen Verlauf: höheres Alter, Hyperkapnie (pCO₂ >45 mmHg), orale Steroid-Dauertherapie, schwere Begleiterkrankungen (Herzinsuffizienz, Diabetes mellitus)"
+      ]
+    },
+    {
+      "gidx": 216,
+      "source": "skl-innere p.216",
+      "slide_title": "FILME",
+      "type": "quelle",
+      "notes_md": "## FILME\n\n- Understanding COPD\n- COPD erkennen und behandeln\n- COPD Wie Lungentraining helfen kann",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Verweis auf drei Filme zu COPD: Understanding COPD; COPD erkennen und behandeln; COPD – Wie Lungentraining helfen kann"
+      ]
+    }
+  ]
+}

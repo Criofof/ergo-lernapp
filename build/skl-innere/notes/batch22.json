@@ -1,0 +1,199 @@
+{
+  "batch": "22",
+  "pages": [
+    {
+      "gidx": 253,
+      "source": "skl-innere p.253",
+      "slide_title": "Körperliche Untersuchung Bauch – Palpation",
+      "type": "inhalt",
+      "notes_md": "## Körperliche Untersuchung Bauch\n\n### Palpation\n\n**Durchführung**\n\nPat. liegt flach auf dem Rücken (möglichst in warmem Raum), beide Arme neben dem Körper. Zunächst oberflächliche Palpation des gesamten Abdomens, dann Untersuchung der einzelnen Organe. ACHTUNG: Palpationsbeginn nie im angegebenen Schmerzbereich.\n\n**Allgemeine pathologische Befunde**\n\n- Lokale Abwehrspannung: Reizung des parietalen Peritoneums\n- Generalisierte Abwehrspannung, bretthartes Abdomen: diffuse Peritonitis\n- Druckschmerz: z.B. über Ulzera\n- Loslassschmerz nach leichtem Eindrücken der Bauchwand: z.B. bei Appendizitis\n- Resistenzen: z.B. bei Tumoren.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Palpationsbeginn nie im angegebenen Schmerzbereich",
+        "Lokale Abwehrspannung = Reizung des parietalen Peritoneums",
+        "Bretthartes Abdomen mit generalisierter Abwehrspannung = diffuse Peritonitis",
+        "Loslassschmerz z.B. bei Appendizitis"
+      ]
+    },
+    {
+      "gidx": 254,
+      "source": "skl-innere p.254",
+      "slide_title": "Körperliche Untersuchung Bauch – Schmerzlokalisation bei akutem Abdomen",
+      "type": "quelle",
+      "notes_md": "## Körperliche Untersuchung Bauch\n\nAbbildung: Schmerzlokalisation bei Erkrankungen, die ein akutes Abdomen verursachen können (Quelle: Baenkler, Thieme 2015).\n\n**Rechter Oberbauch (Rippenbogen rechts):** Pleuritis, Leberzystenruptur/-einblutung, Raumforderungen der Leber, Cholezystitis, Gallenkolik, Ulcus duodeni, Lungenembolie\n\n**Epigastrium (Mitte oben):** Aneurysma dissecans, Hinterwandinfarkt, funktionelle Beschwerden, Ulcus ventriculi, Gastritis, Reflux, Ösophagus-, Magenkarzinom, Pankreatitis (Caput), Pankreaskarzinom, Lungenembolie\n\n**Linker Oberbauch (Rippenbogen links):** Pleuritis, Milzruptur/-einblutung, Lungenembolie\n\n**Rechter Mittelbauch:** Appendizitis, Kolonkarzinom, Harnleiterstein\n\n**Periumbilikal (Nabel):** Appendizitis, entzündliche Darmerkrankung; Mesenterialinfarkt, funktionelle Beschwerden\n\n**Linker Mittelbauch:** Divertikulitis, Kolonkarzinom, Harnleitersteine, Appendizitis\n\n**Rechter Unterbauch (Leistenband rechts):** Adnexitis, Appendizitis, Kolonkarzinom\n\n**Hypogastrium (Mitte unten):** Zystitis, Divertikulitis, Prostatitis, Appendizitis\n\n**Linker Unterbauch (Leistenband links):** Adnexitis, Divertikulitis, Kolonkarzinom",
+      "figures": [
+        {
+          "caption": "Schmerzlokalisation bei Erkrankungen, die ein akutes Abdomen verursachen können (Quelle: Baenkler, Thieme 2015)",
+          "shows": "Schematische Bauchraumeinteilung in 9 Regionen (jeweils rechts/Mitte/links in Ober-, Mittel- und Unterbauch) mit Zuordnung typischer Erkrankungen pro Region",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Schmerzlokalisation gibt Hinweis auf die auslösende Erkrankung beim akuten Abdomen",
+        "Lungenembolie kann Oberbauchschmerzen verursachen",
+        "Appendizitis kann in mehreren Regionen (rechter Mittelbauch, periumbilikal, rechter Unterbauch) Schmerzen auslösen",
+        "Mesenterialinfarkt: periumbilikaler Schmerz"
+      ]
+    },
+    {
+      "gidx": 255,
+      "source": "skl-innere p.255",
+      "slide_title": "Körperliche Untersuchung Bauch – Perkussion",
+      "type": "inhalt",
+      "notes_md": "## Körperliche Untersuchung Bauch\n\n### Perkussion\n\n**Normalbefund**\n\nLuft in Magenfundus und Darm\n\n**Verdacht auf Ascites**\n\nRückenlage, Perkussion der lateralen Flüssigkeitsdämpfung\nKnie-Ellenbogen-Lage, Perkussion der ventral gesammelten Flüssigkeitsmenge\n\n**Leberperkussion**\n\nPerkussion in der MCL von kranial nach kaudal. Normalgröße ca. 12 cm",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Normalbefund Perkussion: Luft in Magenfundus und Darm",
+        "Ascites-Verdacht: laterale Flüssigkeitsdämpfung in Rückenlage, ventrale Dämpfung in Knie-Ellenbogen-Lage",
+        "Leberperkussion in der MCL, Normalgröße ca. 12 cm"
+      ]
+    },
+    {
+      "gidx": 256,
+      "source": "skl-innere p.256",
+      "slide_title": "Körperliche Untersuchung Bauch – Auskultation",
+      "type": "inhalt",
+      "notes_md": "## Körperliche Untersuchung Bauch\n\n### Auskultation\n\n**Normalbefund:** 5-10 Darmgeräusche /min\n\n**Pathologische Befunde**\n\n- Laute, in schneller Folge wellenförmig ablaufende, hohe, spritzende, metallisch klingende Darmgeräusche: Mechanischer Ileus\n- Darmgeräusche auch durch Beklopfen der Bauchwand nicht auslösbar: Paralytischer Ileus\n- Reibegeräusche im rechten Oberbauch, z.B. bei Lebermetastasen, im linken Oberbauch, z.B. bei Milzinfarkt\n- Gefäßgeräusche: tiefes Systolikum z.B. bei Aortenaneurysma, hohes Systolikum bei Nierenarterienstenose (auch ventral auskultierbar)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Normal: 5-10 Darmgeräusche/min",
+        "Hohe, spritzende, metallisch klingende Darmgeräusche = mechanischer Ileus",
+        "Nicht auslösbare Darmgeräusche = paralytischer Ileus",
+        "Tiefes Systolikum bei Aortenaneurysma, hohes Systolikum bei Nierenarterienstenose"
+      ]
+    },
+    {
+      "gidx": 257,
+      "source": "skl-innere p.257",
+      "slide_title": "Körperliche Untersuchung Bauch – Digitale rektale Untersuchung (Lagerung, Inspektion, Durchführung)",
+      "type": "inhalt",
+      "notes_md": "## Körperliche Untersuchung Bauch\n\n### Digitale rektale Untersuchung\n\nPatient liegt in Linksseitenlage mit angewinkelten Beinen oder steht breitbeinig, wobei er/sie sich mit den Unterarmen auf der Untersuchungsliege abstützt\n\n**Inspektion**\n\nFissur, Fisteln, Perianalthrombose, prolabierte Hämorrhoiden, Marisken (Hautfalten, meist Restzustand nach Analvenenthrombose), Tumor, Ekzem\n\n**Durchführung**\n\nPatient pressen lassen, Zeigefinger mit Handschuh und Vaseline unter leichter Drehung einführen. ACHTUNG: Heftigste Schmerzen bei Analfissur, dann Lokalanästhesie erforderlich\n\nBeurteilung des Analkanals: Sphinktertonus, Schmerzen, Stenosen, Infiltrationen, Resistenz (Tumor)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Lagerung: Linksseitenlage mit angewinkelten Beinen oder breitbeinig stehend",
+        "Inspektion: Fissur, Fisteln, Perianalthrombose, prolabierte Hämorrhoiden, Marisken, Tumor, Ekzem",
+        "Bei Analfissur heftigste Schmerzen – Lokalanästhesie erforderlich",
+        "Beurteilung: Sphinktertonus, Schmerzen, Stenosen, Infiltrationen, Resistenz (Tumor)"
+      ]
+    },
+    {
+      "gidx": 258,
+      "source": "skl-innere p.258",
+      "slide_title": "Körperliche Untersuchung Bauch – Digitale rektale Untersuchung (Palpation der Ampulla recti)",
+      "type": "inhalt",
+      "notes_md": "## Körperliche Untersuchung Bauch\n\n### Digitale rektale Untersuchung\n\n**Palpation der Ampulla recti**\n\n- Normalbefund: weiche verschiebliche Darmwand, ventral Prostata oder Portio palpabel, durch Kotsteine, Pessare, Tampons, Blasenkatheter können pathologische Resistenzen vorgetäuscht werden\n- Pathologische Befunde: Fixation oder Resistenzen der Darmschleimhaut, druckdolenter oder fluktuierender Douglas-Raum (z.B. bei Appendizitis, Douglas-Abszess), pathologischer Prostatabefund\n- Inspektion des Handschuhs: Blut oder Teerstuhl?",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Normal: weiche verschiebliche Darmwand, ventral Prostata oder Portio palpabel",
+        "Kotsteine, Pessare, Tampons, Blasenkatheter können Resistenzen vortäuschen",
+        "Druckdolenter/fluktuierender Douglas-Raum z.B. bei Appendizitis oder Douglas-Abszess",
+        "Handschuh-Inspektion auf Blut oder Teerstuhl"
+      ]
+    },
+    {
+      "gidx": 259,
+      "source": "skl-innere p.259",
+      "slide_title": "Organe des Magendarmsystems – Übersicht",
+      "type": "quelle",
+      "notes_md": "## Organe des Magendarmsystems\n\nAbbildung: Übersicht über die Verdauungsorgane (Abb. 9.1, Quelle: Pflege konkret, Gustav Fischer 1996).\n\nBeschriftete Organe:\n\n- Leber\n- Gallenblase\n- Duodenum\n- Dünndarm\n- Colon ascendens\n- Zökum (Blinddarm)\n- Wurmfortsatz (Appendix vermiformis)\n- Magen\n- Pankreas\n- Colon transversum\n- Colon descendens\n- Colon sigmoideum\n- Rektum",
+      "figures": [
+        {
+          "caption": "Übersicht über die Verdauungsorgane (Abb. 9.1, Quelle: Pflege konkret, Gustav Fischer 1996)",
+          "shows": "Anatomische Übersichtszeichnung des Magendarmtrakts mit Leber, Gallenblase, Magen, Pankreas, Duodenum, Dünndarm, Colon (ascendens/transversum/descendens/sigmoideum), Zökum mit Appendix und Rektum",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Übersicht aller Verdauungsorgane: Leber, Gallenblase, Magen, Pankreas, Duodenum, Dünndarm, Colon-Abschnitte, Zökum, Appendix, Rektum"
+      ]
+    },
+    {
+      "gidx": 260,
+      "source": "skl-innere p.260",
+      "slide_title": "Organe des Magendarmsystems – Mundhöhle, Ösophagus, Magen, Duodenum",
+      "type": "inhalt",
+      "notes_md": "## Organe des Magendarmsystems\n\n**Mundhöhle:** Zerkleinern der Nahrung, mit Speichel aufweichen. Speichelamylase = Beginn der Zuckerverwertung\n\n**Ösophagus:** Muskel, Willkürmotorik, Schlucken, Weitertransport des Speisebreis, Magenpförtner (Cardia)\n\n**Magen:** Fundus – Corpus – Antrum – Pylorus, Salzsäure, pH 1,0-2,0, Beginn der Eiweißverwertung\n\n**Duodenum:** Papilla duodeni major (Vater-Papille), Gallensaft, Pankreassaft, Lipasen, Beginn der Fettverwertung",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Speichelamylase in der Mundhöhle = Beginn der Zuckerverwertung",
+        "Magenabschnitte: Fundus – Corpus – Antrum – Pylorus; Magensäure pH 1,0-2,0; Beginn der Eiweißverwertung",
+        "Duodenum: Vater-Papille, Gallen- und Pankreassaft, Lipasen = Beginn der Fettverwertung"
+      ]
+    },
+    {
+      "gidx": 261,
+      "source": "skl-innere p.261",
+      "slide_title": "Organe des Magendarmsystems – Leber, Galle, Pankreas, Jejunum/Ileum, Colon",
+      "type": "inhalt",
+      "notes_md": "## Organe des Magendarmsystems\n\n**Leber:** chemische Fabrik, Filterung des Portalblutes, zahlreiche Aufgaben, z.B. Entsorgung verbrauchter Erythrozyten, Bilirubin, Herstellung von Gallensaft, Herstellung von Albumin und Gerinnungsfaktoren\n\n**Galle:** Speicherung von Gallensaft\n\n**Pankreas:** Herstellung von Insulin und Glukagon, Herstellung von Verdauungsenzymen\n\n**Jejunum und Ileum:** Aufnahme von Glukose, Aminosäuren und Fetten ins Portalblut, Anlieferung in der Leber\n\n**Colon:** Entzug von Wasser aus dem Speisebrei, Eindickung und Ausscheidung des Stuhls",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Leber: Filterung des Portalblutes, Entsorgung verbrauchter Erythrozyten, Bilirubin, Herstellung von Gallensaft, Albumin und Gerinnungsfaktoren",
+        "Pankreas: Insulin, Glukagon und Verdauungsenzyme",
+        "Jejunum/Ileum: Aufnahme von Glukose, Aminosäuren und Fetten ins Portalblut",
+        "Colon: Wasserentzug, Eindickung und Ausscheidung des Stuhls"
+      ]
+    },
+    {
+      "gidx": 262,
+      "source": "skl-innere p.262",
+      "slide_title": "Organe des Magendarmsystems – Magen (Anatomie)",
+      "type": "quelle",
+      "notes_md": "## Organe des Magendarmsystems\n\n### Magen\n\nAbbildung: Der Magen im Längsschnitt (Abb. 9.81, Quelle: Pflege konkret, Gustav Fischer 1996).\n\nBeschriftete Strukturen:\n\n- Ösophagus\n- Kardia\n- Fundus\n- Korpus\n- Antrum\n- Pylorus\n- Duodenum\n- Kleine Kurvatur\n- Große Kurvatur",
+      "figures": [
+        {
+          "caption": "Der Magen im Längsschnitt (Abb. 9.81, Quelle: Pflege konkret, Gustav Fischer 1996)",
+          "shows": "Anatomischer Längsschnitt des Magens mit Ösophagus, Kardia, Fundus, Korpus, Antrum, Pylorus, Duodenum sowie kleiner und großer Kurvatur",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Magenabschnitte im Längsschnitt: Kardia, Fundus, Korpus, Antrum, Pylorus",
+        "Kleine und große Kurvatur begrenzen den Magen"
+      ]
+    },
+    {
+      "gidx": 263,
+      "source": "skl-innere p.263",
+      "slide_title": "Gastroduodenale Ulkuskrankheit – Symptome",
+      "type": "inhalt",
+      "notes_md": "## Gastroduodenale Ulkuskrankheit\n\n### Symptome\n\n- Sodbrennen ist das häufigste Symptom im oberen Magendarmtrakt und Hinweis auf gastroösophagealen Reflux, insbesondere nach dem Essen und im Liegen\n- Häufig auch retrosternale Schmerzen (DD: koronare Herzkrankheit)\n- Bei geringen Beschwerden und kurzer Anamnese: stopp Alkohol, stopp Rauchen, stopp den Magen belastende Medikamente, versuchsweise Therapie mit PPI (Protonenpumpenhemmer, z.B. Omeprazol®), ein promptes Ansprechen bestätigt die Verdachtsdiagnose\n- Bei gravierenden Beschwerden und längerer Anamnese: Ausschluss eines Ösophagus- /Magenkarzinoms",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Sodbrennen = häufigstes Symptom im oberen Magendarmtrakt, Hinweis auf gastroösophagealen Reflux",
+        "Retrosternale Schmerzen – DD: koronare Herzkrankheit",
+        "Bei geringen Beschwerden: Alkohol-/Rauchstopp, keine magenbelastenden Medikamente, PPI-Versuchstherapie (z.B. Omeprazol)",
+        "Bei gravierenden Beschwerden: Ausschluss Ösophagus-/Magenkarzinom"
+      ]
+    },
+    {
+      "gidx": 264,
+      "source": "skl-innere p.264",
+      "slide_title": "Gastroduodenale Ulkuskrankheit – Definition und Ursache",
+      "type": "inhalt",
+      "notes_md": "## Gastroduodenale Ulkuskrankheit\n\n### Definition\n\n- Ein peptisches Ulkus ist ein durch Verdauungssäfte entstandener Schleimhautdefekt\n- Am häufigsten im Magen und im Duodenum\n- Treten über Jahre immer wieder Ulcera auf, dann spricht man von einer gastroduodenalen Ulkuskrankheit\n\n### Ursache\n\n- Missverhältnis zwischen schützenden und aggressiven Faktoren\n- Die häufigsten Ursachen einer gastroduodenalen Ulkuskrankheit sind Helicobacter pylori und häufiger Gebrauch von NSAID",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Peptisches Ulkus = durch Verdauungssäfte entstandener Schleimhautdefekt",
+        "Am häufigsten im Magen und Duodenum",
+        "Rezidivierende Ulcera über Jahre = gastroduodenale Ulkuskrankheit",
+        "Häufigste Ursachen: Helicobacter pylori und häufiger NSAID-Gebrauch"
+      ]
+    }
+  ]
+}

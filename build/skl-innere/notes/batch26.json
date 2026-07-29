@@ -1,0 +1,182 @@
+{
+  "batch": "26",
+  "pages": [
+    {
+      "gidx": 301,
+      "source": "skl-innere p.301",
+      "slide_title": "Chronisch entzündliche Darmerkrankungen – Therapie",
+      "type": "inhalt",
+      "notes_md": "# Chronisch entzündliche Darmerkrankungen\n\n## Therapie\n\n### Stufentherapie des akuten Schubs\n\n| Schweregrad | Gering gradig | Mäßig gradig | Schwer/Fulminant |\n|---|---|---|---|\n| Blutige Durchfälle | < 4/d | 4 – 6/d | > 6/d |\n| Temperatur | < 37 °C | bis 38 °C | > 38 °C |\n| Krankheitsgefühl | Gering | Deutlich | Schwer, Puls > 100/min. |\n| Therapie | Mesalazin oral u./o. topisch | Zusätzlich Prednisolon, bei distalem Befall auch topisch (Budesonid) | Kortikosteroide i.v. Ev. Ciclosporin A i.v. Ev. Infliximab Ev. Ernährung über ZVK |\n\nWenn bei schwerem Schub die konservative Therapie nach 3 Tagen keine Besserung bewirkt, ist eine Kolektomie zu diskutieren.\n\n### Remissionserhaltung\n- **Langfristig 5-ASA** (reduziert auch das Risiko eines Kolonkarzinoms): 1 - 2 g/d oral; bei distalem Befall zusätzlich auch lokal (Suppositorien, Klysmen, Schäume).\n- **E. coli Nissle-Präparat (Mutaflor®)** – Ind: Falls 5-ASA unverträglich ist; keine dysplasieverhütende Wirkung.\n- **Azathioprin** – Ind: Nach fulminantem Schub und durch Cyclosporin A induzierte Remission, häufige Rezidive, Steroidabhängigkeit\n\n**Ev. psychosomatische Hilfe + Selbsthilfegruppen**\n\nbei Komplikationen /fulminanten Verläufen: Chirurgie\n\nQuelle: Herold, Innere Medizin 2019",
+      "figures": [
+        {
+          "caption": "Stufentherapie des akuten Schubs",
+          "shows": "Tabelle: Schweregrad (blutige Durchfälle, Temperatur, Krankheitsgefühl) und zugehörige Therapie bei gering gradigem, mäßig gradigem und schwerem/fulminantem Schub",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Stufentherapie des akuten Schubs nach Schweregrad: gering (Mesalazin oral u./o. topisch), mäßig (zusätzlich Prednisolon, bei distalem Befall topisch Budesonid), schwer/fulminant (Kortikosteroide i.v., ev. Ciclosporin A i.v., ev. Infliximab, ev. Ernährung über ZVK)",
+        "Schwerer Schub ohne Besserung nach 3 Tagen konservativer Therapie: Kolektomie diskutieren",
+        "Remissionserhaltung: langfristig 5-ASA 1–2 g/d oral (reduziert Kolonkarzinomrisiko), E. coli Nissle-Präparat (Mutaflor®) bei 5-ASA-Unverträglichkeit, Azathioprin nach fulminantem Schub/bei häufigen Rezidiven/Steroidabhängigkeit",
+        "Bei Komplikationen/fulminanten Verläufen: Chirurgie"
+      ]
+    },
+    {
+      "gidx": 302,
+      "source": "skl-innere p.302",
+      "slide_title": "SKL Innere – Herzklappenerkrankungen, Herzrhythmusstörungen (Kurs Ergotherapie)",
+      "type": "titel",
+      "notes_md": "# SKL Innere\n\n## Herzklappenerkrankungen\n## Herzrhythmusstörungen\n\nKurs Ergotherapie",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Titelfolie: Themenblock Herzklappenerkrankungen und Herzrhythmusstörungen im Kurs Ergotherapie"
+      ]
+    },
+    {
+      "gidx": 303,
+      "source": "skl-innere p.303",
+      "slide_title": "Herzklappenfehler – Definitionen",
+      "type": "inhalt",
+      "notes_md": "# Herzklappenfehler\n\n## Definitionen\n\n- Bei der **Klappenstenose** ist die Herzklappe bei Öffnung zu eng und behindert den Blutdurchfluss.\n- Der vorgeschaltete Herzabschnitt (bei einer stenosierten Aortenklappe ist das der linke Ventrikel) muss dann einen höheren Druck aufbringen, um das Blut durch die kleinere Öffnung zu pressen (**Druckbelastung**).\n- Bei einer **Klappeninsuffizienz** schließt die Herzklappe nicht mehr vollständig, und das gerade beförderte Blut fließt zum Teil wieder zurück (bei einer insuffizienten Aortenklappe aus der Aorta zurück in den linken Ventrikel).\n- Durch dieses sogenannte Pendelblut muss der vorgeschaltete Herzabschnitt vermehrt Blutvolumen auswerfen (**Volumenbelastung**).\n- Das Herz passt sich der Druck- oder Volumenbelastung zunächst durch Dickerwerden der Wandmuskulatur an (**Hypertrophie**). Durch die chronische Überforderung kommt es jedoch im Verlauf zu einer Herzleistungsschwäche (**Herzinsuffizienz**).\n\nQuelle: Kugler, Urban & Fischer 2012",
+      "figures": [],
+      "eingrenzung_hits": [3],
+      "key_facts": [
+        "Klappenstenose: Klappe bei Öffnung zu eng, behindert Blutdurchfluss → Druckbelastung des vorgeschalteten Herzabschnitts",
+        "Klappeninsuffizienz: Klappe schließt nicht vollständig, Pendelblut → Volumenbelastung",
+        "Anpassung durch Hypertrophie der Wandmuskulatur; chronische Überforderung führt zur Herzinsuffizienz"
+      ]
+    },
+    {
+      "gidx": 304,
+      "source": "skl-innere p.304",
+      "slide_title": "Herzklappenfehler – Pathophysiologie",
+      "type": "inhalt",
+      "notes_md": "# Herzklappenfehler\n\nEine Herzklappenerkrankung kann sich also grundsätzlich als **Stenose** und/oder als **Insuffizienz** manifestieren. Liegen eine Stenose und eine Insuffizienz gleichzeitig vor, dann spricht man von einem **kombinierten Klappenvitium**.\n\n## Pathophysiologie\n\n### Stenose\nBehinderung des vorwärts gerichteten Blutflusses durch **Verengung** im Klappenbereich.\n**Ursachen:** degenerative Prozesse oder narbige Adhäsionen und Schrumpfungen nach voraus gegangenen Entzündungen, z.B. rheumatisches Fieber.\n\n### Insuffizienz\n**Schlussunfähigkeit**, sowohl im akuten wie auch im chronischen Verlauf einer Erkrankung.\n**Ursachen:** Entzündliche oder degenerative Prozesse, im Rahmen einer KHK, einer Kardiomyopathie sowie bei angeborenen Anomalien. Bei einem Patienten können eine oder mehrere Klappen befallen sein.\n\nQuelle: Innere Medizin, Thieme 2010",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Kombiniertes Klappenvitium: Stenose und Insuffizienz gleichzeitig",
+        "Stenose: Verengung im Klappenbereich; Ursachen: degenerative Prozesse, narbige Adhäsionen/Schrumpfungen nach Entzündungen (z.B. rheumatisches Fieber)",
+        "Insuffizienz: Schlussunfähigkeit; Ursachen: entzündliche/degenerative Prozesse, KHK, Kardiomyopathie, angeborene Anomalien"
+      ]
+    },
+    {
+      "gidx": 305,
+      "source": "skl-innere p.305",
+      "slide_title": "Herzklappenfehler – Symptome",
+      "type": "inhalt",
+      "notes_md": "# Herzklappenfehler\n\n## Symptome\n\nEntscheidend für die Leistungsfähigkeit des Herzens ist die aus dem Klappenfehler resultierende Art der kardialen Belastung.\n\n- **Volumenbelastung bei Insuffizienz** mit Pendelblutvolumen: günstigere Prognose\n- **Druckbelastung bei Stenose**: ungünstigere Prognose\n\n| Stadium | Beschwerden |\n|---|---|\n| Stadium I | keine Beschwerden |\n| Stadium II | Beschwerden bei stärkerer körperlicher Belastung |\n| Stadium III | Beschwerden bereits bei leichter körperlicher Belastung |\n| Stadium IV | Beschwerden in Ruhe (kardiale Dekompensation und Bettlägerigkeit) |\n\nQuelle: Herold, Innere Medizin 2012",
+      "figures": [],
+      "eingrenzung_hits": [3],
+      "key_facts": [
+        "Volumenbelastung bei Insuffizienz (Pendelblutvolumen): günstigere Prognose; Druckbelastung bei Stenose: ungünstigere Prognose",
+        "Stadien I–IV: von beschwerdefrei bis Beschwerden in Ruhe mit kardialer Dekompensation und Bettlägerigkeit"
+      ]
+    },
+    {
+      "gidx": 306,
+      "source": "skl-innere p.306",
+      "slide_title": "Herzklappenfehler – Symptome (Auskultationsbefunde)",
+      "type": "inhalt",
+      "notes_md": "# Herzklappenfehler – Symptome\n\nAbb. 1.62 Auskultationsbefunde bei Herzklappenfehlern (HT = Herzton, EC = Ejektionsklick, TÖT = Trikuspidalöffnungston):\n- a Aortenstenose\n- b Aorteninsuffizienz\n- c Pulmonalstenose (EC, A2, P2 markiert)\n- d Trikuspidalstenose (seltene Diagnose, im Text nicht beschrieben) (TÖT markiert)\n- e Trikuspidalinsuffizienz\n- f Mitrastenose (MÖT = Mitralöffnungston)\n- g Mitralinsuffizienz\n\n(aus Block, B., POL – Leitsymptome Herz-Kreislauf-System, Thieme, 2006)\n\nQuelle: Innere Medizin, Thieme 2010",
+      "figures": [
+        {
+          "caption": "Abb. 1.62 Auskultationsbefunde bei Herzklappenfehlern",
+          "shows": "Schematische Darstellung der Herzgeräusche in Bezug zu den Herztönen bei Aortenstenose, Aorteninsuffizienz, Pulmonalstenose, Trikuspidalstenose, Trikuspidalinsuffizienz, Mitrastenose und Mitralinsuffizienz",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Auskultationsbefunde charakterisieren die Klappenfehler: Stenosen und Insuffizienzen der Aorten-, Pulmonal-, Trikuspidal- und Mitralklappe zeigen jeweils typische Geräuschmuster relativ zum 1. und 2. Herzton",
+        "Abkürzungen: HT = Herzton, EC = Ejektionsklick, TÖT = Trikuspidalöffnungston, MÖT = Mitralöffnungston"
+      ]
+    },
+    {
+      "gidx": 307,
+      "source": "skl-innere p.307",
+      "slide_title": "AUDIO – Herztöne physiologisch pathologisch",
+      "type": "deko",
+      "notes_md": "# AUDIO\n\nHerztöne physiologisch pathologisch\n\n(Audiofolie: Hörbeispiele zu physiologischen und pathologischen Herztönen)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Audiofolie mit Hörbeispielen: Herztöne physiologisch vs. pathologisch"
+      ]
+    },
+    {
+      "gidx": 308,
+      "source": "skl-innere p.308",
+      "slide_title": "Herzklappenfehler – Aortenstenose",
+      "type": "inhalt",
+      "notes_md": "# Herzklappenfehler\n\n## Aortenstenose\n\n**Leitsymptome**\n- Synkope, Leistungsabfall, Luftnot, Angina pectoris\n\n**Palpation**\n- langsamer Puls mit kleiner Amplitude\n\n**Auskultation**\n- systolisches Herzgeräusch mit Weiterleitung in die Karotiden\n\n**Echokardiographie**\n- Nachweis des Schweregrades\n\n**Therapie**\n- Am häufigsten mechanische Herzklappen, lebenslange Antikoagulation notwendig\n\nQuelle: Innere Medizin, Thieme 2010",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Aortenstenose – Leitsymptome: Synkope, Leistungsabfall, Luftnot, Angina pectoris",
+        "Palpation: langsamer Puls mit kleiner Amplitude; Auskultation: systolisches Herzgeräusch mit Weiterleitung in die Karotiden",
+        "Therapie: am häufigsten mechanische Herzklappen → lebenslange Antikoagulation notwendig"
+      ]
+    },
+    {
+      "gidx": 309,
+      "source": "skl-innere p.309",
+      "slide_title": "Herzklappenfehler – Aorteninsuffizienz",
+      "type": "inhalt",
+      "notes_md": "# Herzklappenfehler\n\n## Aorteninsuffizienz\n\n**Leitsymptome**\n- Zeichen der Linksherzinsuffizienz oder Thoraxschmerz, aber oft asymptomatisch\n\n**Palpation**\n- schneller Puls mit großer Amplitude\n\n**Auskultation**\n- diastolisches Herzgeräusch\n\n**Echokardiographie**\n- Nachweis des Schweregrades\n\n**Therapie**\n- spätestens bei Auftreten einer Linksherzinsuffizienz mit Herzvergrößerung: Herzklappenersatz\n\nQuelle: Innere Medizin, Thieme 2010",
+      "figures": [],
+      "eingrenzung_hits": [3],
+      "key_facts": [
+        "Aorteninsuffizienz – Leitsymptome: Zeichen der Linksherzinsuffizienz oder Thoraxschmerz, oft asymptomatisch",
+        "Palpation: schneller Puls mit großer Amplitude; Auskultation: diastolisches Herzgeräusch",
+        "Therapie: spätestens bei Linksherzinsuffizienz mit Herzvergrößerung Herzklappenersatz"
+      ]
+    },
+    {
+      "gidx": 310,
+      "source": "skl-innere p.310",
+      "slide_title": "Herzklappenfehler – Mitralstenose",
+      "type": "inhalt",
+      "notes_md": "# Herzklappenfehler\n\n## Mitralstenose\n\n**Leitsymptome**\n- (nächtliche) Dyspnoe und Orthopnoe, häufig auftretend mit Vorhofflimmern\n\n**Auskultation**\n- diastolisches Herzgeräusch mit p.m. (punctum maximum) über dem 4. ICR\n\n**Echokardiographie**\n- Nachweis des Schweregrades\n\n**Therapie**\n1. Mitralklappenvalvuloplastie: Sprengung der Mitralklappe mittels Ballon\n2. operative Rekonstruktion = offene Kommissurotomie\n3. Kunstklappe\n\nQuelle: Innere Medizin, Thieme 2010",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Mitralstenose – Leitsymptome: (nächtliche) Dyspnoe und Orthopnoe, häufig mit Vorhofflimmern",
+        "Auskultation: diastolisches Herzgeräusch mit punctum maximum über dem 4. ICR",
+        "Therapie: Mitralklappenvalvuloplastie (Ballon), offene Kommissurotomie, Kunstklappe"
+      ]
+    },
+    {
+      "gidx": 311,
+      "source": "skl-innere p.311",
+      "slide_title": "Herzklappenfehler – Mitralinsuffizienz",
+      "type": "inhalt",
+      "notes_md": "# Herzklappenfehler\n\n## Mitralinsuffizienz\n\n**Leitsymptome**\n- Leistungsabfall und Belastungsdyspnoe, häufig Vorhofflimmern\n\n**Auskultation**\n- holosystolisches Herzgeräusch\n\n**Echokardiographie**\n- Nachweis des Schweregrades\n\n**Therapie**\n1. Mitralklappenrekonstruktion: Klappe wird belassen, aber gerafft\n2. Klappenersatz\n\nQuelle: Innere Medizin, Thieme 2010",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Mitralinsuffizienz – Leitsymptome: Leistungsabfall und Belastungsdyspnoe, häufig Vorhofflimmern",
+        "Auskultation: holosystolisches Herzgeräusch",
+        "Therapie: Mitralklappenrekonstruktion (Klappe wird belassen, aber gerafft) oder Klappenersatz"
+      ]
+    },
+    {
+      "gidx": 312,
+      "source": "skl-innere p.312",
+      "slide_title": "Herzklappenfehler – Trikuspidalinsuffizienz",
+      "type": "inhalt",
+      "notes_md": "# Herzklappenfehler\n\n## Trikuspidalinsuffizienz\n\nErworbene organische Klappenfehler des rechten Herzens sind relativ selten, z.B. Folge einer bakteriellen Endokarditis bei i.v.-Drogenabhängigen\n\n**Leitsymptome**\n- Zeichen der Rechtsherzinsuffizienz mit Hepatosplenomegalie, Aszites und Beinödemen\n\n**Auskultation**\n- systolisches Herzgeräusch links parasternal\n\n**Echokardiographie**\n- Nachweis des Schweregrades\n\n**Therapie**\n- möglichst Behandlung der Grunderkrankung, falls OP notwendig: möglichst klappenerhaltend\n\nQuelle: Innere Medizin, Thieme 2010",
+      "figures": [],
+      "eingrenzung_hits": [3],
+      "key_facts": [
+        "Trikuspidalinsuffizienz: erworbene organische Klappenfehler des rechten Herzens sind relativ selten, z.B. nach bakterieller Endokarditis bei i.v.-Drogenabhängigen",
+        "Leitsymptome: Zeichen der Rechtsherzinsuffizienz mit Hepatosplenomegalie, Aszites und Beinödemen",
+        "Auskultation: systolisches Herzgeräusch links parasternal; Therapie: Behandlung der Grunderkrankung, OP möglichst klappenerhaltend"
+      ]
+    }
+  ]
+}

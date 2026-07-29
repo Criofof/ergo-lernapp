@@ -1,0 +1,203 @@
+{
+  "batch": "19",
+  "pages": [
+    {
+      "gidx": 217,
+      "source": "skl-innere p.217",
+      "slide_title": "SKL Innere – Diabetes mellitus, Schilddrüse (Kurs Ergotherapie)",
+      "type": "titel",
+      "notes_md": "# SKL Innere\n\nThemen: **Diabetes mellitus**, **Schilddrüse**\n\nKurs Ergotherapie",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": ["Titelfolie: Themen Diabetes mellitus und Schilddrüse"]
+    },
+    {
+      "gidx": 218,
+      "source": "skl-innere p.218",
+      "slide_title": "Pankreas, Anatomie",
+      "type": "inhalt",
+      "notes_md": "# Pankreas, Anatomie\n\nAbbildung (Abb. 10.59): Verlauf der Gallenwege und des Pankreasganges.\n\nBeschriftete Strukturen:\n- intrahepatische Gallenwege\n- Ductus hepaticus sinister und dexter (linker und rechter Lebergallengang)\n- Ductus hepaticus communis\n- Gallenblase (Vesica fellea)\n- Ductus cysticus\n- Ductus choledochus\n- Pankreasschwanz\n- Pankreaskörper\n- Pankreaskopf\n- Ductus pancreaticus\n- Ductus pancreaticus accessorius mit Papilla duodeni minor\n- Papilla vateri (Papilla duodeni maior)\n- Duodenum\n\nQuelle: Pflege konkret, Gustav Fischer 1996",
+      "figures": [
+        {
+          "caption": "Abb. 10.59: Verlauf der Gallenwege und des Pankreasganges",
+          "shows": "Anatomie von Leber, Gallenblase, Gallenwegen und Pankreas mit Ductus pancreaticus und Papilla vateri am Duodenum",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Pankreas gegliedert in Kopf, Körper und Schwanz",
+        "Ductus pancreaticus mündet über die Papilla vateri (Papilla duodeni maior) ins Duodenum",
+        "Gallenwege: Ductus hepaticus sinister/dexter → Ductus hepaticus communis → Ductus choledochus; Gallenblase über Ductus cysticus angeschlossen"
+      ]
+    },
+    {
+      "gidx": 219,
+      "source": "skl-innere p.219",
+      "slide_title": "Pankreas – Endokrine Pankreasfunktion (Ort der Insulinproduktion)",
+      "type": "inhalt",
+      "notes_md": "# Pankreas – Endokrine Pankreasfunktion\n\n**Ort der Insulinproduktion**\n\nAbbildung (Abb. 12.9): Histologischer Schnitt durch das Pankreas.\n\n- Hauptbestandteil des Pankreas sind die **exokrinen Drüsen**, in denen die Verdauungsenzyme **Amylase** und **Lipase** gebildet werden.\n- In den **Langerhans-Inseln** liegen die hormonproduzierenden Zellen:\n  - **A-Zellen** (Glukagon)\n  - **B-Zellen** (Insulin)\n  - **D-Zellen** (Somatostatin)\n\nQuelle: Pflege konkret, Gustav Fischer 1996",
+      "figures": [
+        {
+          "caption": "Abb. 12.9: Histologischer Schnitt durch das Pankreas",
+          "shows": "Langerhans-Insel mit A-, B- und D-Zellen neben exokriner Drüse (Verdauungsenzyme)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Exokrines Pankreas bildet Amylase und Lipase (Verdauungsenzyme)",
+        "Endokriner Anteil: Langerhans-Inseln mit A-Zellen (Glukagon), B-Zellen (Insulin), D-Zellen (Somatostatin)",
+        "Insulin wird in den B-Zellen der Langerhans-Inseln produziert"
+      ]
+    },
+    {
+      "gidx": 220,
+      "source": "skl-innere p.220",
+      "slide_title": "Pankreas – Insulin und Glukagon",
+      "type": "inhalt",
+      "notes_md": "# Pankreas\n\n## Insulin\n- anaboles Hormon (aufbauend)\n- Bildung in den **B-Zellen** des Pankreas\n- verstärkt den Einstrom von Glukose in die Zellen\n- steigert in der Zelle sowohl die Verbrennung der Glukose (Energieerzeugung) als auch die Glykogenbildung (Energiespeicherung)\n- fördert die Depotfettbildung (Triglyzeridbildung) und hemmt gleichzeitig die Lipolyse (Abbau von Depotfett und Abgabe von freien Fettsäuren ins Blut)\n- begünstigt den Aufbau der Körpereiweiße\n- ist das **einzige Hormon, das den Blutzuckerspiegel senken kann**\n\n## Glukagon\n- kataboles Hormon (abbauend), **Gegenspieler des Insulins**\n- Bildung in den **A-Zellen** des Pankreas\n- verstärkt den Abbau von Glykogen zu Glukose\n- verstärkt die Glukoseneubildung aus Laktat, Glyzerin und Aminosäuren in der Leber",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Insulin: anaboles Hormon aus den B-Zellen, einziges Hormon, das den Blutzucker senkt",
+        "Insulin fördert Glukoseeinstrom in Zellen, Glykogenbildung, Depotfettbildung und hemmt die Lipolyse",
+        "Glukagon: kataboles Hormon aus den A-Zellen, Gegenspieler des Insulins, baut Glykogen zu Glukose ab und steigert Glukoseneubildung in der Leber"
+      ]
+    },
+    {
+      "gidx": 221,
+      "source": "skl-innere p.221",
+      "slide_title": "Diabetes mellitus, DM – Definition, Epidemiologie, Pathophysiologie",
+      "type": "inhalt",
+      "notes_md": "# Diabetes mellitus, DM\n\n## Definition\nDer Diabetes mellitus ist eine Erkrankung mit dem Hauptmerkmal der **chronischen Hyperglykämie** (= dauerhaft erhöhter Blutzucker). Ursache ist entweder eine Störung der Insulinsekretion (DM Typ-1), der Insulinwirkung (DM Typ-2) oder einer Kombination von beiden.\n\n## Epidemiologie\n- Prävalenz: <50 J. 2–3%, >60 J. 15%, >70 J. bis 22%, **davon >90% Typ II**\n- Die Zahl der Typ-II-Diabetiker in einer Population steigt mit dem Ausmaß der Überernährung und dem Bewegungsmangel\n\n## Pathophysiologie\n- **DM Typ I:** B-Zell-Destruktion, die zum **absoluten Insulinmangel** führt; Zerstörung der B-Zellen durch Autoantikörper, genetische Veranlagung\n- **DM Typ II:** Überernährung und Übergewicht, sekretorischer Defekt der B-Zellen, **Insulinresistenz**, fortschreitendes Absterben der B-Zellen\n\nQuelle: Herold, Innere Medizin 2019",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "DM = chronische Hyperglykämie durch Störung der Insulinsekretion (Typ 1) oder Insulinwirkung (Typ 2)",
+        "Prävalenz steigt mit dem Alter (>70 J. bis 22%), >90% davon Typ II",
+        "Typ I: Autoantikörper zerstören B-Zellen → absoluter Insulinmangel; Typ II: Insulinresistenz und sekretorischer Defekt bei Überernährung/Übergewicht"
+      ]
+    },
+    {
+      "gidx": 222,
+      "source": "skl-innere p.222",
+      "slide_title": "Diabetes mellitus, DM – Pathophysiologie: Regulation des Glukosespiegels (Blutzuckerspiegel)",
+      "type": "inhalt",
+      "notes_md": "# Diabetes mellitus, DM – Pathophysiologie\n\n## Regulation des Glukosespiegels\n\nAbbildung (Abb. 12.26): Blutzuckerspiegel (alle Angaben in mg/dl).\n\n- Unterhalb eines Wertes von **50 mg/dl** liegt eine **Hypoglykämie** (Unterzuckerung) vor, oberhalb von **120–140 mg/dl** eine **Hyperglykämie** (Überzuckerung).\n- Ab einer Blutzuckerkonzentration von **180 mg/dl** ist die **Nierenschwelle** überschritten, d.h. die Niere schafft es nicht mehr, die filtrierte Glukose zu resorbieren und ins Blut zurückzuführen. Folglich findet man Glukose im Urin (**Glukosurie**). Durch einfache Streifentests kann die Glukosurie nachgewiesen werden.\n\nBereiche in der Abbildung:\n- Hypoglykämisches Koma (unter ~50 mg/dl)\n- Physiologischer Nüchtern-Bereich (~50–100 mg/dl)\n- Physiologischer Bereich nach dem Essen (~100–140 mg/dl)\n- Nierenschwelle bei 180 mg/dl\n- Diabetisches Koma (hohe Hyperglykämie)\n\nQuelle: Pflege konkret, Gustav Fischer 1996",
+      "figures": [
+        {
+          "caption": "Abb. 12.26: Blutzuckerspiegel (Angaben in mg/dl)",
+          "shows": "Skala des Blutzuckerspiegels mit physiologischem Nüchtern- und postprandialem Bereich, Nierenschwelle (180 mg/dl), hypo- und hyperglykämischem Koma",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Hypoglykämie unter 50 mg/dl, Hyperglykämie oberhalb 120–140 mg/dl",
+        "Nierenschwelle bei 180 mg/dl → Glukosurie, nachweisbar per Teststreifen",
+        "Physiologischer Nüchternbereich ca. 50–100 mg/dl, nach dem Essen bis ca. 140 mg/dl"
+      ]
+    },
+    {
+      "gidx": 223,
+      "source": "skl-innere p.223",
+      "slide_title": "Diabetes mellitus, DM – Pathophysiologie: Regulation des Glukosespiegels (Schema)",
+      "type": "inhalt",
+      "notes_md": "# Diabetes mellitus, DM – Pathophysiologie\n\n## Regulation des Glukosespiegels\n\nSchematische Darstellung des Regelkreises (nummerierte Schritte 1–6):\n1. **Nahrung** → Blutzuckerspiegel steigt\n2. regt **Insulinproduktion** an (Bauchspeicheldrüse)\n3. **INSULIN** wirkt auf Leber und Körperzellen → Glukoseaufnahme in die Körperzellen → Blutzuckerspiegel sinkt\n4. **Hunger** (niedriger Blutzucker)\n5. regt **Glukagonproduktion** an (Bauchspeicheldrüse)\n6. **GLUCAGON** wirkt auf die Leber → **Glukoseabgabe** der Leber → Blutzuckerspiegel steigt\n\nMarkierung der Defektstellen:\n- **TYP1-Diabetes:** Insulinproduktion der Bauchspeicheldrüse gestört (kein Insulin)\n- **TYP2-Diabetes:** Insulinwirkung an den Körperzellen gestört (Insulinresistenz)\n\nBeteiligte Organe: Leber und Bauchspeicheldrüse.\n\nQuelle: www.bpi.de 2016",
+      "figures": [
+        {
+          "caption": "Regulation des Glukosespiegels",
+          "shows": "Regelkreis aus Nahrung, Insulin- und Glukagonproduktion der Bauchspeicheldrüse, Glukoseaufnahme in Körperzellen und Glukoseabgabe der Leber; Defektstellen bei Typ-1- und Typ-2-Diabetes markiert",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Regelkreis: Nahrung → Blutzucker steigt → Insulin → Glukoseaufnahme in Zellen → Blutzucker sinkt → Glukagon → Glukoseabgabe der Leber",
+        "Typ-1-Diabetes: Defekt der Insulinproduktion; Typ-2-Diabetes: Defekt der Insulinwirkung (Insulinresistenz)"
+      ]
+    },
+    {
+      "gidx": 224,
+      "source": "skl-innere p.224",
+      "slide_title": "Diabetes mellitus, DM – Pathophysiologie: Regulation des Glukosespiegels, 40er-Regel der Insulindosierung",
+      "type": "inhalt",
+      "notes_md": "# Diabetes mellitus, DM – Pathophysiologie\n\n## Regulation des Glukosespiegels\nDie Aufrechterhaltung eines konstanten Glukosespiegels ist für den Körper lebensnotwendig.\n\n- Ein **Mangel an Glukose ist akut lebensbedrohlich**, da das Gehirn auf Glukose als Energieträger angewiesen ist (**hypoglykämischer Schock**).\n- Ein **erheblicher Überschuss** an Glukose ist **nicht** akut lebensbedrohlich, führt aber zum **hyperglykämischen Koma**.\n\n## 40er-Regel der Insulindosierung\n- Der Tagesbedarf an Insulin eines Standardmenschen beträgt **40 I.E.**, 20 I.E. für die Nahrungsaufnahme und 20 I.E. für den basalen Stoffwechsel\n- 1 I.E. Insulin senkt den Blutzucker um **40 mg/dl**\n- 1 KE (Kohlenhydrateinheit = Broteinheit, BE) = **10 g Kohlenhydrat**, erhöht den Blutzucker um **40 mg/dl**\n- **Fazit:** 1 I.E. Insulin neutralisiert 1 KE\n\n*I.E. = internationale Einheit*",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Glukosemangel (hypoglykämischer Schock) ist akut lebensbedrohlich, da das Gehirn auf Glukose angewiesen ist",
+        "Erheblicher Glukoseüberschuss ist nicht akut lebensbedrohlich, führt aber zum hyperglykämischen Koma",
+        "40er-Regel: Tagesbedarf 40 I.E. Insulin; 1 I.E. senkt BZ um 40 mg/dl; 1 KE (=10 g KH) erhöht BZ um 40 mg/dl → 1 I.E. neutralisiert 1 KE"
+      ]
+    },
+    {
+      "gidx": 225,
+      "source": "skl-innere p.225",
+      "slide_title": "Diabetes mellitus, DM – Symptome",
+      "type": "inhalt",
+      "notes_md": "# Diabetes mellitus, DM – Symptome\n\n**Hauptproblem:** chronische Hyperglykämie\n\nBeginn über Monate bis Jahre, **zunächst:**\n- genitaler Juckreiz\n- Harnwegsinfekte, genitale Pilzinfektionen (Candida)\n- allgemeine Schwäche, Leistungsknick\n- Polyurie, Durst, Polydipsie\n- anders nicht erklärbarer Gewichtsverlust\n\n**im weiteren Verlauf:**\n- Sehstörungen\n- Wundheilungsstörungen\n- Orthostase\n- Ruhetachykardie\n\nErstmanifestation eines DM durch hyperglykämisches Koma ist selten",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Hauptproblem beim DM: chronische Hyperglykämie",
+        "Frühe Symptome: genitaler Juckreiz, Harnwegsinfekte, Candida-Infektionen, Schwäche, Polyurie, Polydipsie, Gewichtsverlust",
+        "Später: Sehstörungen, Wundheilungsstörungen, Orthostase, Ruhetachykardie",
+        "Erstmanifestation durch hyperglykämisches Koma ist selten"
+      ]
+    },
+    {
+      "gidx": 226,
+      "source": "skl-innere p.226",
+      "slide_title": "Diabetes mellitus, DM – Diagnostik",
+      "type": "inhalt",
+      "notes_md": "# Diabetes mellitus, DM – Diagnostik\n\n- **Nüchternblutzucker** wiederholt **>126 mg/dl** (nüchtern = 8 Std ohne Nahrungsaufnahme)\n- **Gelegenheitsblutzucker** wiederholt **>200 mg/dl** plus DM-Symptome\n- wiederholt **Glukose im Urin** (Teststreifen, Nierenschwelle: 180 mg/dl)\n\n## In unklaren Fällen oraler Glukosetoleranztest (OGTT):\n10 Std nüchtern – dann Trinken von **75 g Glukose** – Blutzuckerbestimmung nach **120 min**\n- BZ <140 mg/dl = normal\n- BZ >200 mg/dl = DM\n- BZ 140–199 mg/dl = „gestörte Glukosetoleranz“\n\n## HbA1c-Wert\n= „**Blutzuckergedächtnis**“, Abbildung der Blutzuckerstoffwechsellage in den letzten **8 Wochen** (normal: <5,7%)",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Diagnose: Nüchternblutzucker wiederholt >126 mg/dl oder Gelegenheitsblutzucker >200 mg/dl plus Symptome",
+        "OGTT: 75 g Glukose nach 10 Std Nüchternheit, Messung nach 120 min; 140–199 mg/dl = gestörte Glukosetoleranz, >200 mg/dl = DM",
+        "HbA1c = Blutzuckergedächtnis der letzten 8 Wochen, normal <5,7%"
+      ]
+    },
+    {
+      "gidx": 227,
+      "source": "skl-innere p.227",
+      "slide_title": "Diabetes mellitus, DM – Grundbausteine der Therapie",
+      "type": "inhalt",
+      "notes_md": "# Diabetes mellitus, DM – Grundbausteine der Therapie\n\nAbbildung (Abb. 12.27): Übersicht der Grundbausteine der Diabetestherapie.\n\n## Typ-I-Diabetes\n- Ausgangspunkt: **Absoluter Insulinmangel**\n- Therapie: **Insulin** (möglichst Basis-Bolus) **+ Diät**\n\n## Typ-II-Diabetes\n- Ausgangspunkt: **Insulinresistenz**\n- 1. Schritt: **Diät**\n- wenn erfolglos: **+ Orale Antidiabetika**, z.B. **Biguanide**\n- wenn erfolglos: **+ Insulin** (konventionelle Therapie meist ausreichend)\n\nInsbesondere beim Typ-II-Diabetes spielt die **Diät** eine entscheidende Rolle, da sie zur meist erfolgreichen Gewichtsreduktion beiträgt und möglicherweise eine medikamentöse Therapie überflüssig macht.\n\nQuelle: Pflege konkret, Gustav Fischer 1996",
+      "figures": [
+        {
+          "caption": "Abb. 12.27: Übersicht der Grundbausteine der Diabetestherapie",
+          "shows": "Stufenschema: Typ I – Insulin (Basis-Bolus) + Diät; Typ II – Diät, bei Erfolglosigkeit orale Antidiabetika (z.B. Biguanide), dann Insulin",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Typ I: immer Insulin (möglichst Basis-Bolus) plus Diät wegen absolutem Insulinmangel",
+        "Typ II: Stufentherapie – Diät → orale Antidiabetika (z.B. Biguanide) → Insulin (konventionelle Therapie meist ausreichend)",
+        "Diät ist beim Typ-II-Diabetes entscheidend (Gewichtsreduktion, ggf. Vermeidung medikamentöser Therapie)"
+      ]
+    },
+    {
+      "gidx": 228,
+      "source": "skl-innere p.228",
+      "slide_title": "Diabetes mellitus Typ I – Pathophysiologie und Therapie",
+      "type": "inhalt",
+      "notes_md": "# Diabetes mellitus Typ I\n\n## Pathophysiologie\n- Genetische Veranlagung\n- Zerstörung der B-Zellen der Langerhans-Inseln durch **Autoantikörper**\n- Folge: **absoluter Insulinmangel**\n- wenn ca. **80%** aller B-Zellen zerstört sind, steigt der Blutzucker an\n\n## Therapie\n- Selbstbehandlung mit **Insulin** und **Diät**\n- Körperliche Aktivität\n- **Patientenschulung**",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "Typ I: Autoantikörper zerstören die B-Zellen → absoluter Insulinmangel; Blutzuckeranstieg ab ca. 80% zerstörten B-Zellen",
+        "Therapie: Selbstbehandlung mit Insulin und Diät, körperliche Aktivität, Patientenschulung"
+      ]
+    }
+  ]
+}

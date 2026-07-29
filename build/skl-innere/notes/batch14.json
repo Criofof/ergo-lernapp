@@ -1,0 +1,188 @@
+{
+  "batch": "14",
+  "pages": [
+    {
+      "gidx": 157,
+      "source": "skl-innere p.157",
+      "slide_title": "Blutdruck",
+      "type": "inhalt",
+      "notes_md": "## Blutdruck — Grundlagen\n\n- Zwar übt das Blut in allen Gefäßen Druck auf die Gefäßwände aus, unter Blutdruck im engeren Sinne versteht man aber den **arteriellen Blutdruck im Körperkreislauf**.\n- Der höhere **systolische Blutdruck** kommt durch den Blutauswurf in der **Systole** zustande, der niedrigere **diastolische Blutdruck** ist der Minimalwert in der **Diastole**. Die Differenz beider ist die **Blutdruckamplitude**.\n- Beim Erwachsenen normal sind **100–140 mmHg** für den systolischen und **60–90 mmHg** für den diastolischen Blutdruck.\n- Ein zu hoher Blutdruck wird als **(arterielle) Hypertonie** bezeichnet.\n- Bei der **Hypotonie** ist der Blutdruck zu niedrig (Extremform: **Schock**).",
+      "figures": [],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Blutdruck im engeren Sinne = arterieller Blutdruck im Körperkreislauf",
+        "Normalwerte Erwachsene: systolisch 100–140 mmHg, diastolisch 60–90 mmHg",
+        "Blutdruckamplitude = Differenz zwischen systolischem und diastolischem Wert",
+        "Hypertonie = zu hoher Blutdruck; Hypotonie = zu niedriger Blutdruck (Extremform: Schock)"
+      ]
+    },
+    {
+      "gidx": 158,
+      "source": "skl-innere p.158",
+      "slide_title": "Blutdruck — Windkesselfunktion und peripherer Widerstand",
+      "type": "inhalt",
+      "notes_md": "## Blutdruck — Windkesselfunktion der Arterien / peripherer Widerstand\n\n**Windkesselfunktion der Arterien:**\nEin Teil des Schlagvolumens wird während der Systole zunächst in der Aorta „aufbewahrt“ (A), wodurch sich die elastischen Fasern der Gefäßwand ausdehnen. Während der Diastole (B) geben sie die gespeicherte Energie wieder an das Blut ab, wodurch dieses weiterbewegt wird.\n\n**Peripherer Widerstand:**\nDurch Veränderungen des Gefäßdurchmessers zwischen weit (D) und eng (E) regeln die peripheren Arterien den Widerstand im Gefäßsystem.\n\n*Quelle: Sesam-Atlas, Bosch & Keuning 1978*",
+      "figures": [
+        {
+          "caption": "Windkesselfunktion der Arterien und peripherer Widerstand",
+          "shows": "Links: Aorta in Systole (A, Ausdehnung der elastischen Fasern) und Diastole (B, Rückgabe der gespeicherten Energie an das Blut). Rechts: Arterienquerschnitte weit (D) und eng (E) zur Regulation des peripheren Widerstands.",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Windkesselfunktion: Aorta speichert in der Systole einen Teil des Schlagvolumens durch Dehnung elastischer Fasern und gibt die Energie in der Diastole wieder ab",
+        "Periphere Arterien regeln den Gefäßwiderstand über den Gefäßdurchmesser (weit/eng)"
+      ]
+    },
+    {
+      "gidx": 159,
+      "source": "skl-innere p.159",
+      "slide_title": "Blutdruck — Regulation",
+      "type": "inhalt",
+      "notes_md": "## Blutdruck — Regulation\n\nDer Druckverlauf im arteriellen Gefäßsystem hängt vom **Herzzeitvolumen** und vom **peripheren Gefäßwiderstand** ab.\n\nDehnungs- und Druckrezeptoren in der Aorta und der A. carotis communis sowie Dehnungsrezeptoren in den Hohlvenen leiten ständig Informationen über Puls, Blutdruck und Venenfüllung an die **Kreislaufzentren im verlängerten Rückenmark (Medulla oblongata)**.\n\nBei **Blutdruckabfall** steigert sich binnen Sekunden die Sympathikusaktivität:\n- Herzfrequenz, Schlagvolumen und damit Herzzeitvolumen steigen\n- die Gefäße verengen sich, der Blutdruck wird stabilisiert.\n\nBei **Blutdruckanstieg** passiert das Umgekehrte.\n\nDer arterielle Blutdruck wird außerdem reguliert durch das **Renin-Angiotensin-Aldosteron-System (RAAS)** sowie verschiedene Hormone, die die Flüssigkeitsabgabe der Nieren beeinflussen. Diese Mechanismen wirken aber viel langsamer.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Arterieller Druck hängt von Herzzeitvolumen und peripherem Gefäßwiderstand ab",
+        "Kurzzeitregulation: Sympathikusaktivität steigt bei Blutdruckabfall binnen Sekunden (Herzfrequenz, Schlagvolumen, Vasokonstriktion)",
+        "Langsamere Regulation über RAAS und Hormone der Nieren-Flüssigkeitsabgabe"
+      ]
+    },
+    {
+      "gidx": 160,
+      "source": "skl-innere p.160",
+      "slide_title": "Blutdruck — Messung",
+      "type": "inhalt",
+      "notes_md": "## Blutdruck — Messung (nach Riva Rocci)\n\n1. Beengende Kleidung am Arm entfernen, Oberarm entspannt etwa in Herzhöhe plazieren\n2. Blutdruckmanschette luftleer und straff am Oberarm (2–3 cm oberhalb der Ellenbeuge) anlegen, dabei beachten, dass die Schläuche nicht verwickelt sind\n3. Ventil des Blutdruckmessgerätes schließen\n4. Ohr-Oliven des Stethoskops locker ins Ohr legen (nicht in den Gehörgang drücken)\n5. Glocke des Stethoskops in der Ellenbeuge auflegen, evtl. Rand der Glocke unter der Manschette einklemmen und die Manschette mit dem Aufblasballon füllen. Dabei den Radialispuls fühlen.\n6. Wenn man keinen Puls mehr fühlt, dann ist der arterielle Blutdruck erreicht, jetzt Manschettendruck um weitere 30 mmHg erhöhen\n7. Ventil langsam öffnen, so dass der Manschettendruck um 2–3 mmHg/sec absinkt\n8. Nach kurzer Zeit sind pulssynchrone Strömungsgeräusche zu hören (**Korotkow-Töne**). Der erste dieser Töne zeigt den systolischen Blutdruck an (Blutdruckwert am Manometer ablesen)\n9. Manschette weiter leeren und beim letzten hörbaren Korotkow-Ton den diastolischen Blutdruck ablesen. Manchmal verschwinden die Korotkow-Töne nicht oder nicht sofort, sondern werden zunächst deutlich leiser. Auch dieser Wert entspricht dann dem diastolischen Blutdruck\n10. Restluft aus der Manschette ablassen und die Manschette entfernen.",
+      "figures": [
+        {
+          "caption": "Abb. 7.28: Blutdruckmessung nach Riva Rocci. [101]",
+          "shows": "Aufbau der Blutdruckmessung: Blutdruckmanschette am Oberarm (2,5 cm), Stethoskop, Blutdruckmessgerät mit Manometer; Korotkow-Töne im hörbaren Bereich, Beispielwert Blutdruck „140/80“.",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Messung nach Riva Rocci: Manschette 2–3 cm oberhalb der Ellenbeuge, Arm in Herzhöhe",
+        "Nach Verschwinden des Radialispulses Manschettendruck um weitere 30 mmHg erhöhen, dann 2–3 mmHg/sec ablassen",
+        "Erster Korotkow-Ton = systolischer Wert, letzter hörbarer Korotkow-Ton = diastolischer Wert"
+      ]
+    },
+    {
+      "gidx": 161,
+      "source": "skl-innere p.161",
+      "slide_title": "Übung paarweise — Blutdruckmessung",
+      "type": "deko",
+      "notes_md": "## Übung paarweise — Blutdruckmessung\n\nÜbungsfolie: Anweisung zur paarweisen Übung der Blutdruckmessung.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 162,
+      "source": "skl-innere p.162",
+      "slide_title": "Blutdruck — Fehlerquellen bei der Messung",
+      "type": "inhalt",
+      "notes_md": "## Blutdruck — Fehlerquellen bei der Messung\n\n- **Zu rasches Ablassen der Luft** (Folge: zu niedriger systolischer und zu hoher diastolischer Blutdruckwert)\n- **Ungenügendes Aufblasen der Manschette** (Folge: zu niedriger systolischer Wert)\n- **Beengender Ärmel am Oberarm** (Folge: zusätzliche Stauung oberhalb der Manschette und verringerter systolischer Messwert)\n- **Nicht passende Manschettenbreite** (Folge: bei dickem Oberarm zu hohe, bei dünnem Oberarm zu niedrige Werte)\n- **Zu locker aufgelegte Manschette** (Folge: zu hoher Messwert)\n- **Lagerung des Armes über Herzhöhe** (Folge: zu niedriger Messwert)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Zu rasches Ablassen → systolisch zu niedrig, diastolisch zu hoch",
+        "Zu lockere Manschette → zu hoher Messwert; Arm über Herzhöhe → zu niedriger Messwert",
+        "Falsche Manschettenbreite: dicker Oberarm → zu hohe, dünner Oberarm → zu niedrige Werte"
+      ]
+    },
+    {
+      "gidx": 163,
+      "source": "skl-innere p.163",
+      "slide_title": "FILM — Was bedeutet Bluthochdruck?",
+      "type": "deko",
+      "notes_md": "## FILM — Was bedeutet Bluthochdruck?\n\nHinweisfolie: Film „Was bedeutet Bluthochdruck?“",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 164,
+      "source": "skl-innere p.164",
+      "slide_title": "Arterielle Hypertonie — Definition und Epidemiologie",
+      "type": "inhalt",
+      "notes_md": "## Arterielle Hypertonie\n\n**Definition**\n\nLiegen über einen längeren Zeitraum hinweg wiederholt gemessene arterielle Blutdruckwerte konstant über **140/90 mmHg**, spricht man von einer arteriellen Hypertonie (Bluthochdruck).\n\n**Epidemiologie**\n\n- Häufigste internistische Erkrankung, **bedeutendster Risikofaktor bezüglich Lebensqualität und Lebenserwartung**\n- **Prävalenz Europa**: 30%, ansteigend mit dem Lebensalter\n- Viele Hypertoniker wissen nichts von ihrer Erkrankung, **Empfehlung**: Vorsorgeuntersuchung mit RR-Messung\n\n*Quelle: Herold, Innere Medizin 2019*",
+      "figures": [],
+      "eingrenzung_hits": [15],
+      "key_facts": [
+        "Arterielle Hypertonie = wiederholt konstant > 140/90 mmHg",
+        "Häufigste internistische Erkrankung, Prävalenz Europa 30%, altersabhängig steigend",
+        "Viele Betroffene wissen nichts von der Erkrankung → Vorsorge mit RR-Messung empfohlen"
+      ]
+    },
+    {
+      "gidx": 165,
+      "source": "skl-innere p.165",
+      "slide_title": "Arterielle Hypertonie — Pathophysiologie, essentielle (primäre) Hypertonie",
+      "type": "inhalt",
+      "notes_md": "## Arterielle Hypertonie — Pathophysiologie\n\nEine Hypertonie ist **Folge eines erhöhten Herzzeitvolumens (HZV) und/oder eines erhöhten peripheren Widerstands**, Vermittlung über gesteigerte Sympathikusaktivität mit funktioneller Vasokonstriktion sowie strukturelle Gefäßwandveränderungen; HZV und Gefäßwiderstand begünstigen sich wechselseitig.\n\nWährend einer **hypertensiven Krise** (RR-Anstieg >180/120 mmHg) kann es zu Fibrinablagerungen in den Arteriolen mit Verschluss und Ischämie des nachgeschalteten Gefäßgebietes kommen.\n\n**Essentielle (primäre) arterielle Hypertonie**\n\n- ca. **90% der Betroffenen**, keine konkrete Ursache auszumachen (**Ausschlussdiagnose**)\n- Vermutet wird eine genetische Disposition, die zusammen mit einigen anderen begünstigenden Faktoren (*siehe unten*) im Laufe des Lebens zum Ausbruch der Erkrankung führt.\n\n*Quelle: Herold, Innere Medizin 2019*",
+      "figures": [],
+      "eingrenzung_hits": [15],
+      "key_facts": [
+        "Hypertonie = Folge erhöhten Herzzeitvolumens und/oder erhöhten peripheren Widerstands",
+        "Hypertensive Krise: RR-Anstieg >180/120 mmHg, Gefahr von Fibrinablagerungen in Arteriolen mit Verschluss und Ischämie",
+        "Essentielle (primäre) Hypertonie: ca. 90% der Fälle, Ausschlussdiagnose, vermutete genetische Disposition plus begünstigende Faktoren"
+      ]
+    },
+    {
+      "gidx": 166,
+      "source": "skl-innere p.166",
+      "slide_title": "Arterielle Hypertonie — Sekundäre arterielle Hypertonie",
+      "type": "inhalt",
+      "notes_md": "## Arterielle Hypertonie — Sekundäre arterielle Hypertonie\n\nEindeutiges Vorliegen einer organischen Störung, **10% der Hypertoniker**, Beispiele:\n\n- **Obstruktives Schlafapnoe-Syndrom (OSAS)**, meist Schnarchen mit Kollaps der Schlundmuskulatur und Obstruktion der oberen Atemwege, **CAVE**: eine arterielle Hypertonie darf man erst dann als „essentiell“ bezeichnen, wenn ein SAS ausgeschlossen wurde (*siehe Neuro, Schlafstörungen*)\n- **Nierenerkrankungen**, z.B. Verengung einer Nierenarterie (**Nierenarterienstenose**) oder Entzündungen des Nierengewebes (**Glomerulonephritis**)\n- **Hormonstörungen**, z.B. **Hyperthyreose** (Schilddrüsenüberfunktion), Tumor im Nebennierenmark (**Phäochromozytom**, Katecholamin-produzierender Tumor, meist gutartig)\n- **neurogene Ursachen**: Entzündung des Hirngewebes (**Enzephalitis**), Beeinträchtigung von Hirnregionen, die an der Blutdruckregulation beteiligt sind\n- Um eine Sonderform handelt es sich bei der sog. **Gestationshypertonie**, die im Rahmen einer Schwangerschaft auftreten kann.\n\n*Quelle: iCare, Thieme 2015*",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Sekundäre Hypertonie: 10% der Hypertoniker, eindeutige organische Ursache",
+        "Ursachen: OSAS, Nierenerkrankungen (Nierenarterienstenose, Glomerulonephritis), Hormonstörungen (Hyperthyreose, Phäochromozytom), neurogene Ursachen (Enzephalitis)",
+        "Sonderform: Gestationshypertonie in der Schwangerschaft",
+        "CAVE: „essentiell“ erst nach Ausschluss eines Schlafapnoe-Syndroms"
+      ]
+    },
+    {
+      "gidx": 167,
+      "source": "skl-innere p.167",
+      "slide_title": "Arterielle Hypertonie — Pathophysiologie (Ursachen und Lebensstilfaktoren)",
+      "type": "inhalt",
+      "notes_md": "## Arterielle Hypertonie — Pathophysiologie\n\n**90% essentiell**\n\nEin chronisch erhöhter Blutdruck (arterielle Hypertonie) ist in Mitteleuropa meist durch ein Zusammenspiel genetischer und Lebensstilfaktoren bedingt:\n\n- Übergewicht, Immobilität, Insulinresistenz\n- erhöhte Kochsalzaufnahme, verringerte Kalium- und Kalziumaufnahme\n- Stress (Sympathikusaktivität, Cortisol-Spiegel)\n- erhöhter Alkoholkonsum, Rauchen\n- zunehmendes Alter\n- niedriger sozioökonomischer Status\n\nDie art. Hypertonie macht **zunächst keine Beschwerden**, jedoch drohen Spätfolgen wie eine beschleunigte **Arteriosklerose** und **Herzinsuffizienz**.\n\n*Quelle: Herold, Innere Medizin 2019*",
+      "figures": [
+        {
+          "caption": "Ursachenverteilung der arteriellen Hypertonie",
+          "shows": "Primäre (essentielle) Hypertonie: mehr als 90% der Fälle, Ursache unbekannt; Niere (5%): Erkrankungen des Nierenparenchyms (2–3%) bzw. der Nierengefäße (1–2%); Medikamentös (3%): z.B. Glukokortikoide, Psychopharmaka, Schilddrüsenhormone, Antirheumatika, „Pille“; Endokrin (<1%): z.B. Schilddrüsenüberfunktion, Schwangerschaft; Neurogen (<<1%): z.B. Hirndruck ↑, Sympathikotonus ↑; Vaskulär (<<1%): z.B. Aortenklappenstenose, Gefäßmißbildungen. Quelle: Pflege konkret, Gustav Fischer 1996.",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [15],
+      "key_facts": [
+        "In Mitteleuropa meist Zusammenspiel genetischer und Lebensstilfaktoren",
+        "Risikofaktoren: Übergewicht, Immobilität, Insulinresistenz, erhöhte Kochsalzaufnahme, verringerte Kalium-/Kalziumaufnahme, Stress, Alkohol, Rauchen, zunehmendes Alter, niedriger sozioökonomischer Status",
+        "Zunächst keine Beschwerden; Spätfolgen: beschleunigte Arteriosklerose und Herzinsuffizienz",
+        "Ursachenverteilung: >90% primär/essentiell, 5% Niere, 3% medikamentös, je <1% endokrin/neurogen/vaskulär"
+      ]
+    },
+    {
+      "gidx": 168,
+      "source": "skl-innere p.168",
+      "slide_title": "Essentielle arterielle Hypertonie — Symptome",
+      "type": "inhalt",
+      "notes_md": "## Essentielle arterielle Hypertonie — Symptome\n\nDie essentielle arterielle Hypertonie ist **häufig auch nach jahrzehntelangem Verlauf noch völlig symptomlos**.\n\n**Unspezifische Beschwerden:**\n- Kopfschmerzen, insbesondere frühmorgendliche Hinterkopfschmerzen, die sich durch Höherstellen des Bettkopfendes bessern\n- Schlafstörungen, Schwindel, Ohrensausen, Nervosität, Herzklopfen\n- Nasenbluten\n- Luftnot bei Belastung\n\nGelegentlich fallen erhöhte Blutdruckwerte als **Zufallsbefund** im Rahmen von hausärztlichen Routineuntersuchungen, im Rahmen der Schwangerenvorsorge oder während eines Krankenhausaufenthaltes auf.\n\nMeist sind es erst die **Symptome der Folgeerkrankungen**, die die Patienten zum Arzt führen.\n\n*Quelle: iCare, Thieme 2015*",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Essentielle Hypertonie oft jahrzehntelang völlig symptomlos",
+        "Unspezifische Beschwerden: frühmorgendliche Hinterkopfschmerzen, Schlafstörungen, Schwindel, Ohrensausen, Nervosität, Herzklopfen, Nasenbluten, Luftnot bei Belastung",
+        "Oft Zufallsbefund; meist führen erst Symptome der Folgeerkrankungen zum Arzt"
+      ]
+    }
+  ]
+}
