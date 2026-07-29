@@ -1,0 +1,308 @@
+{
+ "batch": "14",
+ "pages": [
+  {
+   "gidx": 157,
+   "source": "ortho-rheuma p.157",
+   "slide_title": "Kniegelenkverschleiß / Kniegelenkersatz",
+   "type": "inhalt",
+   "notes_md": "## Röntgenbilder: Gonarthrose und Knieendoprothetik\n\n- **Kniegelenkverschleiß (Gonarthrose)**\n- **Kniegelenk-Teilersatz (Schlitten-Prothese)**\n- **Vollständiger Kniegelenkersatz (Knie-TEP)**",
+   "figures": [
+    {
+     "caption": "Röntgenbilder: Gonarthrose, Schlitten-Prothese, Knie-TEP",
+     "shows": "Röntgendarstellung von Gonarthrose sowie Teilersatz (Schlittenprothese) und vollständigem Kniegelenkersatz (Knie-TEP)",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    5,
+    7
+   ],
+   "key_facts": [
+    "Kniegelenkverschleiß = Gonarthrose",
+    "Kniegelenk-Teilersatz = Schlitten-Prothese",
+    "Vollständiger Kniegelenkersatz = Knie-TEP"
+   ]
+  },
+  {
+   "gidx": 158,
+   "source": "ortho-rheuma p.158",
+   "slide_title": "Hüftgelenksdysplasie: Hüftdysplasie",
+   "type": "inhalt",
+   "notes_md": "## Hüftgelenksdysplasie: Hüftdysplasie\n\n### Definition\n- Als Hüftgelenksdysplasie bezeichnet man die angeborene Mangelentwicklung/(Abflachung) der Hüftgelenkspfanne\n- Häufigste kongenitale Skelettfehlfehlbildung 2–5%\n- Mädchen häufiger betroffen als Jungs\n- In 40% bilateral\n\n### Einteilung\n**endogene (primäre) Dysplasie**\n- verzögerte Wachstumsgeschwindigkeit\n- das Schwangerschaftshormon Progesteron, das den mütterlichen Beckenring als Vorbereitung auf die Geburt auflockert, bewirkt vermutlich bei weiblichen Feten eine stärkere Lockerung der Hüftgelenkskapsel\n\n**exogene (sekundäre) Dysplasie: mechanische Störfakten**\n- Beckenendlagen, intrauterine Steißlage\n\n**Sonderformen: im Rahmen neuromuskulärer Erkrankungen, z. B.**\n- Poliomyelitis, Säuglingscoxitis, frühkindlicher Hirnschaden\n\n### Klinik\n- bei einseitiger Luxation: Beinverkürzung\n- bei beidseitiger Luxation:\n  - Insuffizienz der Hüftgelenksstrecker\n  - Beugekontraktur der Hüftgelenke in den ersten Lebensjahren\n  - Beckenverkippung nach ventral\n  - LWS-Hyperlordose\n\n### Diagnostik\n**unsichere Zeichen:**\n- Asymmetrie der Glutealfalten und Hautfalten am Oberschenkel\n- Abduktionsbehinderung\n- Beinlängendifferenz\n- Innenrotationsbehinderung\n- Ortolani-Test positiv\n\n**Aussagekräftig:** alleine die Sonographie der Hüfte (U2)\n- Röntgen: keine Aussage möglich, da noch keine Verknöcherung vorliegt",
+   "figures": [],
+   "eingrenzung_hits": [
+    10
+   ],
+   "key_facts": [
+    "Hüftgelenksdysplasie = angeborene Mangelentwicklung/Abflachung der Hüftgelenkspfanne",
+    "Häufigste kongenitale Skelettfehlbildung (2–5%), Mädchen häufiger betroffen, 40% bilateral",
+    "Einteilung: endogene (primäre) vs. exogene (sekundäre) Dysplasie",
+    "Aussagekräftige Diagnostik: Sonographie der Hüfte (U2); Röntgen ohne Aussage (keine Verknöcherung)",
+    "Unsichere Zeichen: Faltenasymmetrie, Abduktionsbehinderung, Beinlängendifferenz, Innenrotationsbehinderung, positiver Ortolani-Test"
+   ]
+  },
+  {
+   "gidx": 159,
+   "source": "ortho-rheuma p.159",
+   "slide_title": "Hüftgelenksdysplasie: Ortolani-Test",
+   "type": "inhalt",
+   "notes_md": "## Polygene, multifaktorielle Erbkrankheiten: Hüftgelenksdysplasie\n\n### Beim Ortolani-Test\n- werden die Oberschenkel senkrecht Richtung Wirbelsäule gedrückt und anschließend nach außen bewegt\n- beim Vorliegen einer Hüftdysplasie gleiten die anfangs subluxierten Oberschenkelköpfe mit einem Klickgeräusch – dem Ortolani-Zeichen – in die Hüftpfanne zurück (Schnapp-Phänomen)\n- im positiven Falle darf der Test beim Neugeborenen nur einmal durchgeführt werden, da ansonsten der knorpelige Rand der Hüftgelenkspfanne (das Labrum acetabuli) durch den wiederholt darüber gleitenden Hüftkopf geschädigt werden kann",
+   "figures": [
+    {
+     "caption": "Schema gut vs. schlecht (Dysplasie): Becken, Hüftpfanne, Hüftkopf",
+     "shows": "Vergleich gesunde Hüftpfanne vs. abgeflachte Pfanne bei Dysplasie",
+     "importance": "mid",
+     "extract": true
+    },
+    {
+     "caption": "Durchführung des Ortolani-Tests am Säugling",
+     "shows": "Zwei Zeichnungen (a, b) der Untersuchungstechnik beim Neugeborenen",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    10
+   ],
+   "key_facts": [
+    "Ortolani-Test: Oberschenkel senkrecht Richtung Wirbelsäule drücken, dann nach außen bewegen",
+    "Positives Ortolani-Zeichen = Klickgeräusch beim Zurückgleiten des subluxierten Hüftkopfs (Schnapp-Phänomen)",
+    "Test bei Neugeborenem nur einmal durchführen — Gefahr der Schädigung des Labrum acetabuli"
+   ]
+  },
+  {
+   "gidx": 160,
+   "source": "ortho-rheuma p.160",
+   "slide_title": "Hüftdysplasie: Therapie",
+   "type": "inhalt",
+   "notes_md": "## Polygene, multifaktorielle Erbkrankheiten: Hüftdysplasie\n\n### Therapie\n**Prinzip:**\n- durch die Zentrierung des Hüftkopfes in der Pfanne soll es zur plastischen Verformung zur Norm hinkommen. In allen Fällen geschieht dies durch die Abspreizung und Beugung im Hüftgelenk\n\n**Tübinger-Hüftgelenksorthese**\n\n**Riemenzügelbandage nach Pavlik**\n\n**breites Wickeln: bei geringfügiger Ausprägung:**\n- mit Hilfe eines Handtuches (etwa 15 cm breit gefaltet), das zwischen Body und Strampelanzug eingelegt wird, durchgeführt werden. Auch mit einer zusätzlichen Windel, die über der eigentlichen Windel getragen wird, ist dieses „Breitwindeln“ gut möglich\n\n**Fettweis Gips: in Sitz-Hochposition**\n- hier nach Reposition für mehrere Wochen",
+   "figures": [
+    {
+     "caption": "Tübinger-Hüftgelenksorthese",
+     "shows": "Säugling mit Tübinger Hüftorthese",
+     "importance": "high",
+     "extract": true
+    },
+    {
+     "caption": "Riemenzügelbandage nach Pavlik",
+     "shows": "Säugling mit Pavlik-Bandage",
+     "importance": "high",
+     "extract": true
+    },
+    {
+     "caption": "Breitwickeln mit zusätzlicher Windel",
+     "shows": "Beispiel des Breitwindelns beim Säugling",
+     "importance": "mid",
+     "extract": true
+    },
+    {
+     "caption": "Fettweis-Gips in Sitz-Hochposition",
+     "shows": "Säugling mit Fettweis-Gips nach Reposition",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    10
+   ],
+   "key_facts": [
+    "Therapieprinzip: Zentrierung des Hüftkopfes in der Pfanne → plastische Verformung zur Norm durch Abspreizung und Beugung im Hüftgelenk",
+    "Verfahren: Tübinger-Hüftgelenksorthese, Riemenzügelbandage nach Pavlik, Breitwickeln, Fettweis-Gips (Sitz-Hochposition)"
+   ]
+  },
+  {
+   "gidx": 161,
+   "source": "ortho-rheuma p.161",
+   "slide_title": "Hüftdysplasie: OP-Techniken (Chiari, Salter)",
+   "type": "inhalt",
+   "notes_md": "## Polygene, multifaktorielle Erbkrankheiten: Hüftdysplasie: OP-Techniken\n\n### Operative Therapien\n- bei Kindern, die drei Jahre oder älter sind, beziehungsweise bei Jugendlichen oder Erwachsenen, ist eine Operation notwendig. Es stehen dafür verschiedene operative Verfahren zur Verfügung.\n\n**Beckenosteotomien** haben den Vorteil, dass sie direkt an der Pfanne greifen, also am Ursprung der Hüftdysplasie.\n\n**Beispiele:**\n- Beckenosteotomie nach Chiari nach dem 4. Lebensjahr\n- Beckenosteotomie nach Salter\n- Tripleosteotomie nach Tönnis ab dem 11. Lebensjahr\n- Acetabulumplastik beim Erwachsenen\n- Intertrochantäre Varisationsosteotomie bei Coxa valga\n\n### Beckenosteotomie nach Chiari\n- das Darmbein wird vollständig durchtrennt und der untere Teil des Darmbeins nach innen verschoben, so dass insgesamt eine größere Pfanne entsteht\n\n### Beckenosteotomie nach Salter\n- diese Methode wird auch als 1-fach Beckenosteotomie bezeichnet. Das Darmbein wird vollständig durchtrennt und ein Knochenkeil eingesetzt.",
+   "figures": [
+    {
+     "caption": "Beckenosteotomie nach Chiari (Schemazeichnung)",
+     "shows": "Durchtrennung des Darmbeins mit Verschiebung des unteren Anteils nach innen",
+     "importance": "high",
+     "extract": true
+    },
+    {
+     "caption": "Beckenosteotomie nach Salter (Schemazeichnung)",
+     "shows": "Durchtrenntes Darmbein mit eingesetztem Knochenkeil",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    1,
+    10
+   ],
+   "key_facts": [
+    "OP ab 3. Lebensjahr bzw. bei Jugendlichen/Erwachsenen notwendig",
+    "Beckenosteotomien greifen direkt an der Pfanne (Ursprung der Hüftdysplasie)",
+    "Chiari: Darmbein vollständig durchtrennt, unterer Teil nach innen verschoben → größere Pfanne",
+    "Salter: 1-fach Beckenosteotomie, Darmbein durchtrennt + Knochenkeil",
+    "Tripleosteotomie nach Tönnis ab 11. Lebensjahr; Acetabulumplastik beim Erwachsenen; Intertrochantäre Varisationsosteotomie bei Coxa valga"
+   ]
+  },
+  {
+   "gidx": 162,
+   "source": "ortho-rheuma p.162",
+   "slide_title": "CCD-Winkel und Intertrochantäre Femurosteotomie (ITO)",
+   "type": "inhalt",
+   "notes_md": "## CCD-Winkel\n\n- **CCD-Winkel:** Stellung des Schenkelhalses in der Frontalebene: CCD-Winkel (Centrum-Collum-Diaphysen-Winkel).\n- Kinder (3 Jahre): ca. 140°\n- Erwachsene: ca. 125°\n- Senioren: ca. 115°\n- Coxa vara (<120°) | Normal (120°–135°) | Coxa valga (>135°)\n\n## Intertrochantäre Femurosteotomie (ITO), Varisationsosteotomie\n- es wird das Femur am oberen Ende beim Rollhügel durchtrennt\n- dabei wird ein keilförmiges Knochenstück aus dem hüftnahen Oberschenkelknochen herausgetrennt\n- indem ein Knochenkeil entfernt wird, erreicht man eine stärkere Kippung des Schenkelhalses, so wird der Hüftkopf besser in der Pfanne verankert\n- je nachdem, ob beim Betroffenen eine Drehung nach innen oder nach außen notwendig ist, kann dies\n  - an der inneren (Varisationsosteotomie) oder\n  - an der äußeren Seite (Valgisationsosteotomie) des Knochens durchgeführt werden\n- der Oberschenkelknochen wird bei der Operation kurz unterhalb des Oberschenkelhalses durchtrennt und entsprechend der Fehlstellung zwischen Oberschenkelhals und Knochenschaft korrigiert. Der Hüftkopf wird dadurch tief in die Hüftpfanne verlagert und der durchtrennte Oberschenkel mit Schrauben stabilisiert.",
+   "figures": [
+    {
+     "caption": "CCD-Winkel nach Lebensalter: Kinder 140°, Erwachsene 125°, Senioren 115°",
+     "shows": "Altersabhängige Abnahme des CCD-Winkels am proximalen Femur",
+     "importance": "high",
+     "extract": true
+    },
+    {
+     "caption": "Coxa vara (<120°), Normal (120–135°), Coxa valga (>135°)",
+     "shows": "Schematische Darstellung der Schenkelhalsstellung bei Coxa vara, normal und Coxa valga",
+     "importance": "high",
+     "extract": true
+    },
+    {
+     "caption": "Skizze der intertrochantären Osteotomie",
+     "shows": "Durchtrennung und Keilentnahme am proximalen Femur",
+     "importance": "mid",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    1
+   ],
+   "key_facts": [
+    "CCD-Winkel (Centrum-Collum-Diaphysen-Winkel): Stellung des Schenkelhalses in der Frontalebene",
+    "Altersabhängig: Kinder 140°, Erwachsene 125°, Senioren 115°",
+    "Coxa vara <120°, Normal 120–135°, Coxa valga >135°",
+    "ITO: Femur am Rollhügel durchtrennt, Knochenkeil entfernt → stärkere Kippung des Schenkelhalses, Hüftkopf besser in Pfanne verankert",
+    "Varisationsosteotomie (innen) vs. Valgisationsosteotomie (außen); Stabilisation mit Schrauben"
+   ]
+  },
+  {
+   "gidx": 163,
+   "source": "ortho-rheuma p.163",
+   "slide_title": "Hüftdysplasie: OP-Techniken (Tönnis, Acetabulumplastik)",
+   "type": "inhalt",
+   "notes_md": "## Polygene, multifaktorielle Erbkrankheiten: Hüftdysplasie: OP-Techniken\n\n### Tripleosteotomie nach Tönnis\n- sie ist eine 3-fach Beckenosteotomie, bei der das Becken an drei Stellen (Darmbein, Schambein, Sitzbein) durchtrennt und so geschwenkt wird, dass die Hüftpfanne den Hüftkopf optimal überdacht\n\n### Acetabulumplastik\n- das Darmbein wird in der Nähe der Pfanne aufgetrennt und ein Knochenspan eingefügt. Dieser Knochenspan stammt in der Regel von einem Spender, kann aber auch vom eigenen Beckenkamm genommen werden.",
+   "figures": [
+    {
+     "caption": "Tripleosteotomie nach Tönnis (Beckenzeichnung)",
+     "shows": "Durchtrennung von Darmbein, Schambein und Sitzbein mit Schwenkung der Pfanne",
+     "importance": "high",
+     "extract": true
+    },
+    {
+     "caption": "Acetabulumplastik (Beckenzeichnung)",
+     "shows": "Auftrennung des Darmbeins nahe der Pfanne und Einfügen eines Knochenspans",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    10
+   ],
+   "key_facts": [
+    "Tripleosteotomie nach Tönnis: 3-fach Beckenosteotomie (Darmbein, Schambein, Sitzbein) → Pfanne überdacht Hüftkopf optimal",
+    "Acetabulumplastik: Knochenspan (Spender oder eigener Beckenkamm) nahe der Pfanne eingefügt"
+   ]
+  },
+  {
+   "gidx": 164,
+   "source": "ortho-rheuma p.164",
+   "slide_title": "Impingementsyndrom der Schulter: Subakromiales Schmerzsyndrom (SAS) — Definition, Ursachen",
+   "type": "inhalt",
+   "notes_md": "## Impingementsyndrom der Schulter: Subakromiales Schmerzsyndrom (SAS)\n\n### Impingement\n- beschreibt das Engpasssyndrom (to impinge: anschlagen, bedrängen) aller Erkrankungen, bei denen es zu einer Komprimierung der Strukturen im Subakromialraum kommt\n\n### Das klinische Phänomen\n- ist die schmerzhafte Enge zwischen Humeruskopf und Schulterdach bei der Abduktion\n\n### Begrenzungen des subacromialen Raums\n- Strukturen des Acromion\n- AC-Gelenk\n- Proc. coracoideus und Acromion\n- Lig. coracoacromiale\n\n### Ursachen\n**1. Einengung im Subakromialraum:**\n- Ossifikation im Verlauf des Lig. coracoacromiale\n- Osteophyten bei Arthrose des akromioklavicularen Gelenkes\n- Akromiumformvarianten/ Hackenform/ Akromionplastik\n- prominentes Tuberculum majus (z. B. nach Fraktur)\n- neurogene Schädigung der Schultermuskulatur\n\n**2. Volumenzunahme im Subacromialraum:**\n- Bursitis subacromialis\n- Veränderungen der Rotatorensehnen (Kalzifikation, Degeneration)\n\n**3. geänderte Biomechanik**\n- Funktionsverlust der Rotatorenmanschette\n- Funktionsverlust der langen Bicepssehne\n- bei Überbeanspruchung, z. B. Wurfsport oder Überkopfarbeiten bei Malern, Stuckateuren",
+   "figures": [],
+   "eingrenzung_hits": [
+    8
+   ],
+   "key_facts": [
+    "Impingement = Engpasssyndrom mit Komprimierung der Strukturen im Subakromialraum",
+    "Klinisches Phänomen: schmerzhafte Enge zwischen Humeruskopf und Schulterdach bei Abduktion",
+    "Begrenzungen des subakromialen Raums: Acromion, AC-Gelenk, Proc. coracoideus, Lig. coracoacromiale",
+    "Ursachen: Einengung (Ossifikation Lig. coracoacromiale, ACG-Osteophyten, Akromionformvarianten, prominentes Tuberculum majus, neurogene Schädigung), Volumenzunahme (Bursitis subacromialis, Rotatorensehnenveränderungen), geänderte Biomechanik (Funktionsverlust Rotatorenmanschette/lange Bicepssehne, Überbeanspruchung)"
+   ]
+  },
+  {
+   "gidx": 165,
+   "source": "ortho-rheuma p.165",
+   "slide_title": "Impingementsyndrom der Schulter: primäres vs. sekundäres Impingement, Pathomechanismus",
+   "type": "inhalt",
+   "notes_md": "## Impingementsyndrom der Schulter: Subakromiales Schmerzsyndrom (SAS)\n\n### primäres Impingement: Anatomische Formveränderungen an\n- Akromion\n- AC-Gelenk\n- Proc. coracoideus\n- Ossifikationen des Lig. coracoacromiale\n- Weiterhin: muskuläre Dysbalancen\n\n### sekundäres Impingement\n- Volumenzunahme (Bursa)\n- postraumatisch (Tuberculum majus)\n- Ruptur der Rotatorenmanschette\n- Ruptur der langen Bicepssehne\n- nervale Lähmung (Fehlstellung des Schultergürtels)\n- dorsale Kapselschrumpfung\n\n### Pathomechanismus\n**Primäres Impingement: Outlet-Impingement — Veränderung knöcherner Strukturen**\n- arthrotische Randzacken des AC-Gelenks\n- Formveränderungen des Proc. coracoideus führt zu einem veränderten Verlauf des Lig. coracoacromiale\n- Osteophytenbildung bei Arthrose\n\n**Sekundäres Impingement: Non-Outlet-Impingement — Schädigung der umliegenden Strukturen**\n- Bursitis subacromialis\n- Tendinitis der beteiligten Muskeln\n- posttraumatisch: prominentes Tuberculum majus\n- Ruptur der Rotatorenmanschette: Schultergelenkinstabilität\n- Lähmungen: dorsale Kapselschrumpfung durch Schonhaltung",
+   "figures": [],
+   "eingrenzung_hits": [
+    3,
+    8
+   ],
+   "key_facts": [
+    "Primäres Impingement (Outlet-Impingement): anatomische Formveränderungen (Akromion, AC-Gelenk, Proc. coracoideus, Ossifikation Lig. coracoacromiale, muskuläre Dysbalancen)",
+    "Sekundäres Impingement (Non-Outlet-Impingement): Schädigung umliegender Strukturen (Bursitis, Tendinitis, Rotatorenmanschettenruptur mit Schultergelenkinstabilität, Lähmungen mit dorsaler Kapselschrumpfung)"
+   ]
+  },
+  {
+   "gidx": 166,
+   "source": "ortho-rheuma p.166",
+   "slide_title": "Formvarianten des Akromions (Abb. 5.10)",
+   "type": "inhalt",
+   "notes_md": "## Formvarianten des Akromions (Abb. 5.10)\n\nAnsicht der Skapula von lateral:\n- **a** flaches Akromion (Typ I)\n- **b** gekrümmtes Akromion (Typ II)\n- **c** hakenförmiges Akromion (Typ III)\n\nInsbesondere das hakenförmige Akromion kann zur Entstehung eines subakromialen Impingements beitragen, da bei dieser Form der Druck auf die subakromialen Strukturen besonders groß ist.",
+   "figures": [
+    {
+     "caption": "Abb. 5.10 Formvarianten des Akromions (Ansicht der Skapula von lateral)",
+     "shows": "a flaches Akromion (Typ I), b gekrümmtes Akromion (Typ II), c hakenförmiges Akromion (Typ III); Typ III begünstigt subakromiales Impingement",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    8
+   ],
+   "key_facts": [
+    "Akromion-Typen: Typ I flach, Typ II gekrümmt, Typ III hakenförmig",
+    "Typ III (hakenförmig) begünstigt subakromiales Impingement durch hohen Druck auf subakromiale Strukturen"
+   ]
+  },
+  {
+   "gidx": 167,
+   "source": "ortho-rheuma p.167",
+   "slide_title": "Arthroskopische subakromiale Dekompression (Abb. 5.14) / Akromionplastik",
+   "type": "inhalt",
+   "notes_md": "## Arthroskopische subakromiale Dekompression (Abb. 5.14)\n\n- Unter Sicht des Arthroskops werden der untere und vordere Rand des Akromions mit dort liegenden Osteophyten entfernt. Das Lig. coracoacromiale wurde zuvor durchtrennt.\n- Beschriftung: Lichtkegel, Arthroskop, Lig. coracoacromiale, Shaver\n- Handschriftlicher Vermerk: „Akromionplastik“",
+   "figures": [
+    {
+     "caption": "Abb. 5.14 Arthroskopische subakromiale Dekompression",
+     "shows": "Arthroskop, Shaver, Lichtkegel und Lig. coracoacromiale; Entfernung des unteren/vorderen Akromionrands mit Osteophyten (Akromionplastik)",
+     "importance": "high",
+     "extract": true
+    }
+   ],
+   "eingrenzung_hits": [
+    8
+   ],
+   "key_facts": [
+    "Arthroskopische subakromiale Dekompression: Entfernung des unteren und vorderen Akromionrands inkl. Osteophyten nach Durchtrennung des Lig. coracoacromiale",
+    "Instrumente: Arthroskop, Shaver; entspricht der Akromionplastik"
+   ]
+  },
+  {
+   "gidx": 168,
+   "source": "ortho-rheuma p.168",
+   "slide_title": "Impingementsyndrom der Schulter: Symptome, Diagnostik, Therapie",
+   "type": "inhalt",
+   "notes_md": "## Impingementsyndrom der Schulter: Subakromiales Schmerzsyndrom (SAS)\n\n### Symptome\n**Painful-Arc:**\n- schmerzhafter Bogen 60° und 120° bei Abduktion oder absolute Abduktionseinschränkung\n- schmerzhafter Bogen verschwindet bei Abduktion des außenrotierten Armes, da das Tuberculum majus nach hinten weggedreht wird\n\n**weiterhin:**\n- Patienten können auf der betroffenen Seite nicht schlafen\n- akut auftretender Schmerz unter Belastung, insbesondere bei Tätigkeiten über Kopf\n- der Schmerz wird tief in der Schulter empfunden mit Ausstrahlung in den distalen Ansatz des M. deltoideus\n- später auch Ruheschmerz möglich\n\n### Diagnostik\n- Sonographie\n- Röntgen\n- CT, MRT\n\n### Therapie des Impingmentsyndroms\n**konservativ:**\n- Medikamentöse Therapie: NSAR\n- Physikalische Therapie\n- Injektionsverfahren\n- Krankengymnastik\n- Akupunktur\n- Stoßwellenbehandlung",
+   "figures": [],
+   "eingrenzung_hits": [
+    8
+   ],
+   "key_facts": [
+    "Painful-Arc: schmerzhafter Bogen 60°–120° bei Abduktion",
+    "Schmerzbogen verschwindet bei Abduktion des außenrotierten Arms (Tuberculum majus dreht nach hinten weg)",
+    "Weitere Symptome: kein Schlafen auf betroffener Seite, Belastungsschmerz (über Kopf), tiefer Schulterschmerz mit Ausstrahlung zum M.-deltoideus-Ansatz, später Ruheschmerz",
+    "Diagnostik: Sonographie, Röntgen, CT, MRT",
+    "Konservative Therapie: NSAR, Physikalische Therapie, Injektionen, Krankengymnastik, Akupunktur, Stoßwellenbehandlung"
+   ]
+  }
+ ]
+}

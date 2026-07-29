@@ -1,0 +1,229 @@
+{
+  "batch": "26",
+  "pages": [
+    {
+      "gidx": 301,
+      "source": "ortho-rheuma p.301",
+      "slide_title": "Abb. 17.23 Kyphoskoliose",
+      "type": "inhalt",
+      "notes_md": "## Abb. 17.23 Kyphoskoliose\n\nSchwere Skoliose bei einer 33-jährigen Frau, die gleichzeitig mit einer starken Kyphose der Brustwirbelsäule einhergeht: Kyphoskoliose.\n\n- a) Buckelbildung, verkürzter Rumpf.\n- b) Linkskonvexe Thorakalskoliose mit Hyperkyphose.\n- c) Rotation des Brustkorbs mit spitzem Rippenbuckel links.",
+      "figures": [
+        {
+          "caption": "Abb. 17.23 Kyphoskoliose",
+          "shows": "Klinische Fotos (Seitenansicht, Rückenansicht, Vorbeuge) einer schweren Kyphoskoliose: Buckelbildung mit verkürztem Rumpf, linkskonvexe Thorakalskoliose mit Hyperkyphose, Rotation des Brustkorbs mit spitzem Rippenbuckel links",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Kyphoskoliose = schwere Skoliose kombiniert mit starker Kyphose der Brustwirbelsäule",
+        "Typische Zeichen: Buckelbildung, verkürzter Rumpf, Rippenbuckel durch Brustkorbrotation"
+      ]
+    },
+    {
+      "gidx": 302,
+      "source": "ortho-rheuma p.302",
+      "slide_title": "SLAP-Läsion, Bizepssehnenruptur und Frozen shoulder",
+      "type": "inhalt",
+      "notes_md": "## SLAP-Läsion, Bizepssehnenruptur und Frozen shoulder\n\n### SLAP-Läsion:\n- Superiores Labrum von anterior nach posterior\n- bzw. Superior-Labrum-Anterior-Posterior-Läsion\n\n### Definition:\n- Schädigung des oberen Labrum glenoidale des Schulterblatts am Ursprung der langen Bizepssehne\n\n### Ursachen:\n- bei plötzlicher starker Krafteinwirkung auf die vorgespannte Bizepssehne\n  - z.B.: bei Sturz auf den gestreckten, leicht abduzierten Arm\n- bei schnellem Anheben schwerer Gegenstände\n- bei wiederholten Mikroverletzungen z.B. beim Wurfsportarten\n\n### Symptome:\n- Schmerzen vor allem bei Überkopfarbeiten\n- teilweise wird ein Knacken und Schnappen in der Schulter bemerkt\n- Gelenkerguss/Hydarthros\n- Schmerzen beim Liegen auf der betroffenen Seite\n\n### Klassifikation\nZur Einteilung der unterschiedlichen SLAP-Läsionen stehen verschiedene Klassifikationen zur Verfügung\n\n**Die Klassifikation nach Snyder unterscheidet 4 Typen:**\n- **Typ I:** stabiler Bizepsanker, jedoch degenerative Veränderungen des Labrums mit Auffächerung\n- **Typ II:** Abriss des Bizepsankers nach kranial\n- **Typ III:** Korbhenkelriss bei intaktem Bizepsanker\n- **Typ IV:** Längsriss der langen Bizepssehne mit kaudaler Dislokation eines Teils in den Gelenkspalt\n\n### Therapie:\n**konservativ:**\n- bei kleinen Rissen Typ I\n\n**OP:**\n- arthroskopisch\n- hierbei wird die Bizepssehne z.B. mit Knochenankern refixiert",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "SLAP-Läsion = Schädigung des oberen Labrum glenoidale am Ursprung der langen Bizepssehne (Superior Labrum Anterior Posterior)",
+        "Klassifikation nach Snyder: Typ I (degenerative Auffächerung, stabiler Bizepsanker), Typ II (Abriss des Bizepsankers), Typ III (Korbhenkelriss bei intaktem Anker), Typ IV (Längsriss der Bizepssehne mit Dislokation in den Gelenkspalt)",
+        "Therapie: konservativ bei kleinen Rissen Typ I; sonst arthroskopische Refixation mit Knochenankern"
+      ]
+    },
+    {
+      "gidx": 303,
+      "source": "ortho-rheuma p.303",
+      "slide_title": "SLAP-Läsion (Abbildung)",
+      "type": "inhalt",
+      "notes_md": "## Abbildung: SLAP-Läsion und Schulter des Werfers\n\n**Shoulder socket shown from side view (Schulterpfanne von der Seite):**\n- Clavicle (collar bone) — Schlüsselbein\n- Biceps tendon — Bizepssehne\n- Glenoid (shoulder socket) — Schulterpfanne\n- Labrum\n- Capsule — Kapsel\n- SLAP lesion — SLAP-Läsion\n- The labrum is torn from front to back (anterior to posterior) — Das Labrum ist von vorn nach hinten (anterior nach posterior) eingerissen\n\n**Major causes of pain in the thrower's shoulder (Hauptursachen für Schmerzen in der Schulter des Werfers):**\n- Fracture in the growth plate — Fraktur in der Wachstumsfuge\n- Little Leaguer's shoulder\n- Humerus — Oberarmknochen\n- Growth plate — Wachstumsfuge",
+      "figures": [
+        {
+          "caption": "SLAP-Läsion und Little Leaguer's shoulder (Fig. 4)",
+          "shows": "Anatomische Zeichnung: Schulterpfanne in Seitenansicht mit Bizepssehne, Glenoid, Labrum, Kapsel und SLAP-Läsion (Labrumriss von anterior nach posterior); rechts Humerus mit Fraktur der Wachstumsfuge (Little Leaguer's shoulder)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bei der SLAP-Läsion ist das Labrum von anterior nach posterior eingerissen",
+        "Little Leaguer's shoulder: Fraktur der Wachstumsfuge am Humerus — typische Schmerzursache bei der Schulter des Werfers"
+      ]
+    },
+    {
+      "gidx": 304,
+      "source": "ortho-rheuma p.304",
+      "slide_title": "Anatomie des Schultergelenks",
+      "type": "inhalt",
+      "notes_md": "## Anatomie des Schultergelenks (Abbildung)\n\nBeschriftete Strukturen:\n- Proc. coracoideus (Processus coracoideus)\n- Tuberculum supraglenoidale\n- Clavicula\n- Incisura scapulae\n- Acromion\n- Caput humeri\n- Tuberculum minus\n- Tuberculum majus\n- Cavitas glenoidalis\n- Sulcus intertubercularis\n- Tuberculum infraglenoidale\n- Margo lateralis",
+      "figures": [
+        {
+          "caption": "Anatomie des Schultergelenks",
+          "shows": "Anatomische Zeichnung des Schultergelenks: Scapula mit Cavitas glenoidalis, Acromion, Processus coracoideus, Tuberculum supra- und infraglenoidale, Clavicula sowie Humeruskopf mit Tuberculum majus/minus und Sulcus intertubercularis",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Tuberculum supraglenoidale: Ursprung des Caput longum der Bizepssehne (Ansatzpunkt bei SLAP-Läsion)",
+        "Sulcus intertubercularis: Führungsrinne der langen Bizepssehne am Humerus"
+      ]
+    },
+    {
+      "gidx": 305,
+      "source": "ortho-rheuma p.305",
+      "slide_title": "SLAP-Läsion: Typen I–IV (Abbildung)",
+      "type": "inhalt",
+      "notes_md": "## SLAP-Läsion: Schematische Darstellung der Typen I–IV\n\nBeschriftete Strukturen:\n- M. biceps brachii caput longum\n- Labrum\n- Kapsel\n\n- **Typ I:** (degenerative Veränderungen des Labrums)\n- **Typ II:** Ablösung (des Bizepsankers)\n- **Typ III:** Korbhenkelriss\n- **Typ IV:** Bizepsläsion",
+      "figures": [
+        {
+          "caption": "SLAP-Läsion Typ I–IV",
+          "shows": "Schematische Darstellung der vier SLAP-Typen nach Snyder: Typ I (degeneratives Labrum), Typ II (Ablösung des Bizepsankers), Typ III (Korbhenkelriss), Typ IV (Bizepsläsion)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Snyder-Klassifikation der SLAP-Läsion: Typ I Auffächerung, Typ II Ankerablösung, Typ III Korbhenkelriss, Typ IV Längsriss der Bizepssehne"
+      ]
+    },
+    {
+      "gidx": 306,
+      "source": "ortho-rheuma p.306",
+      "slide_title": "SLAP-Läsion Typ III",
+      "type": "inhalt",
+      "notes_md": "## SLAP-Läsion\n\n**Typ III:**\n- Korbhenkelriss bei intaktem Bizepsanker\n\nArthroskopische Bilder:\n- Links: Arthroskopie mit SLAP-3-Riss; beschriftet: Bizepssehne, vorne, Pfanne, Oberarmkopf\n- Rechts: Refixation mit Fadenankern; beschriftet: Bizepssehne, Nähte der Fadenanker",
+      "figures": [
+        {
+          "caption": "SLAP-Läsion Typ III (Arthroskopie)",
+          "shows": "Arthroskopische Aufnahmen: links SLAP-3-Riss (Korbhenkelriss) mit Bizepssehne, Pfanne und Oberarmkopf; rechts Versorgung mit Nähten der Fadenanker",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "SLAP Typ III = Korbhenkelriss bei intaktem Bizepsanker",
+        "Arthroskopische Versorgung mit Fadenankern (Nähte der Fadenanker)"
+      ]
+    },
+    {
+      "gidx": 307,
+      "source": "ortho-rheuma p.307",
+      "slide_title": "Bizepssehnenruptur",
+      "type": "inhalt",
+      "notes_md": "## Bizepssehnenruptur\n\n### Bizepssehnenruptur:\n**Ruptur der proximalen langen Bizepssehne**\n- meist Bagatelltrauma bei degenerativer Vorschädigung\n\n**Ruptur der distalen Bizepssehne**\n- meist traumatisch\n- Risikogruppe: Sportler, Schwerarbeiter\n\n### Klassifikation:\n- Ruptur der proximalen, langen Bizepssehne (ca. 95%)\n- Ruptur der distalen Bizepssehne (ca. 5%)\n- Ruptur der proximalen, kurzen Bizepssehne (Rarität)\n\n### Proximale Sehnen:\nCaput longum hat seinen Ursprung am Tuberculum supraglenoidale der Scapula. Es zieht im Sulcus intertubercularis humeri durch das Schultergelenk.\n\nCaput breve entspringt am Processus coracoideus des Schulterblatts.\n\n### Distale Sehnen:\n- beide Bizepsköpfe laufen zusammen und inserieren an der Tuberositas radii und der Fascia antebrachii.\n\n### Klinik:\n**Ruptur der proximalen langen Bizepssehne:**\n- Druckschmerz im Sulcus intertubercularis; ansonsten relativ schmerzarm\n- Beugung und Supination im Ellbogen evtl. akut geschwächt\n\n**Ruptur der distalen Bizepssehne:**\n- akut, stechender Schmerz\n- Hämatom\n- Beugung im Ellbogen geschwächt\n- Supination geschwächt bis aufgehoben",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Ruptur der proximalen langen Bizepssehne: ca. 95%, meist Bagatelltrauma bei degenerativer Vorschädigung; distale Ruptur ca. 5%, meist traumatisch (Sportler, Schwerarbeiter)",
+        "Caput longum: Ursprung am Tuberculum supraglenoidale, verläuft im Sulcus intertubercularis; Caput breve: Processus coracoideus; Insertion beider Köpfe: Tuberositas radii und Fascia antebrachii",
+        "Distale Ruptur: akuter stechender Schmerz, Hämatom, Beugung geschwächt, Supination geschwächt bis aufgehoben"
+      ]
+    },
+    {
+      "gidx": 308,
+      "source": "ortho-rheuma p.308",
+      "slide_title": "Bizepssehnenruptur – Diagnostik",
+      "type": "inhalt",
+      "notes_md": "## Bizepssehnenruptur\n\n### Diagnostik:\n**klinische Untersuchung:**\n- Ruptur der proximalen langen Bizepssehne → Bei Kontraktion: Verlagerung des Muskelbauchs nach distal, Richtung Ellbogen\n- Ruptur der distalen Bizepssehne → Bei Kontraktion: Verlagerung des Muskelbauchs nach proximal, Richtung Schulter\n\n- Sonographie\n- Röntgen zum Ausschluss einer Fraktur",
+      "figures": [
+        {
+          "caption": "Klinisches Bild der Bizepssehnenruptur",
+          "shows": "Fotos und Schema: Verlagerung des Muskelbauchs bei Kontraktion; mittleres Bild mit Rupturbereich und Zugrichtung; rechts typische Muskelbauchverlagerung nach proximal bei distaler Bizepssehnenruptur",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Proximale lange Bizepssehnenruptur: Muskelbauch wandert bei Kontraktion nach distal (Richtung Ellbogen)",
+        "Distale Bizepssehnenruptur: Muskelbauch wandert bei Kontraktion nach proximal (Richtung Schulter)",
+        "Diagnostik: klinische Untersuchung, Sonographie, Röntgen zum Frakturausschluss"
+      ]
+    },
+    {
+      "gidx": 309,
+      "source": "ortho-rheuma p.309",
+      "slide_title": "Bizepssehnenruptur – Therapie",
+      "type": "inhalt",
+      "notes_md": "## Bizepssehnenruptur\n\n### Therapie:\n**Ruptur der proximalen langen Bizepssehne**\n- meist konservativ mit Analgetika, Kühlung und Schonung\n\n**Ruptur der distalen Bizepssehne**\n- immer operativ mit Refixation\n\n### OP: Ruptur der langen Bizepssehne:\n- nach Froimson: bei dieser Operation bohrt der Operateur ein Loch in den Sulcus intertubercularis und knotet das proximale Ende der Bizepssehne zusammen und verankert es in diesem Loch\n- Annähen der langen an die kurze Bizepssehne\n- Verankerung der langen Bizepssehne am Processus coracoideus\n\n### OP bei Ruptur der distalen Bizepssehne:\n**Transossäre Fixation:**\n- an der Tuberositas radii kann die distale Sehne durch ein gebohrtes Loch\n- oder mit Hilfe von Knochenankern befestigt werden\n\n### Nachsorge\nDie Patienten müssen ihren Arm ein bis zwei Monate schonen. Während der Zeit ist leichte Krankengymnastik unerlässlich, bei der nach und nach die Belastbarkeit gesteigert wird, die nach etwa drei Monaten wieder da ist.",
+      "figures": [
+        {
+          "caption": "Röntgenbild nach Refixation der distalen Bizepssehne",
+          "shows": "Röntgenaufnahme des Ellbogens: transossäre Fixation bzw. Knochenanker an der Tuberositas radii (blauer Pfeil)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Proximale lange Bizepssehnenruptur: meist konservativ (Analgetika, Kühlung, Schonung)",
+        "Distale Bizepssehnenruptur: immer operativ mit Refixation (transossäre Fixation an der Tuberositas radii oder Knochenanker)",
+        "OP der langen Bizepssehne nach Froimson: Verankerung im Sulcus intertubercularis; Alternativen: Annähen an kurze Bizepssehne oder Verankerung am Processus coracoideus",
+        "Nachsorge: 1–2 Monate Schonung, leichte Krankengymnastik, volle Belastbarkeit nach ca. 3 Monaten"
+      ]
+    },
+    {
+      "gidx": 310,
+      "source": "ortho-rheuma p.310",
+      "slide_title": "Frozen shoulder: adhäsive Kapsulitis",
+      "type": "inhalt",
+      "notes_md": "## Frozen shoulder: adhäsive Kapsulitis\n\n### Frozen shoulder: Schultersteife\n**Definition:**\n- sie wird auch als adhäsive Kapsulitis bezeichnet\n- ist eine mit Verklebungen und Verwachsungen verbundene Schulterkapselentzündung.\n\nWeitere Bezeichnungen für dieses Krankheitsbild sind:\n- Humerocapsulitis adhaesiva, fibröse Schultersteife oder Capsulitis fibrosa.\n\n**Die idiopathische Frozen shoulder:**\n- ist eigenständige Erkrankung, die sich auf keine bestehende Grunderkrankung zurückführen lässt\n- häufig auftretend\n\n### Sekundäre Frozen Shoulder:\n**Mögliche Ursachen:**\n- Verletzungen, Erkrankungen im Schulterbereich (Rotatorenmanschettenruptur)\n- Impingement-Syndrom\n- Operationen im Schulterbereich\n\n**neurologische Ursachen wie**\n- eine Erkrankung der peripheren Nerven, Morbus Parkinson oder Reizung/Schädigung von Nervenwurzeln (Radikulopathie)\n\n**Stoffwechselerkrankungen**\n- wie Diabetes mellitus, Schilddrüsenerkrankungen",
+      "figures": [
+        {
+          "caption": "Frozen shoulder – Kapselveränderungen",
+          "shows": "Schematische Darstellung des Schultergelenks: Vergleich gesunde Kapsel vs. entzündete, verdickte und verklebte Kapsel bei adhäsiver Kapsulitis",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [3, 8],
+      "key_facts": [
+        "Frozen shoulder = adhäsive Kapsulitis = Schulterkapselentzündung mit Verklebungen und Verwachsungen; Synonyme: Humerocapsulitis adhaesiva, fibröse Schultersteife, Capsulitis fibrosa",
+        "Idiopathische Form: eigenständige Erkrankung ohne Grunderkrankung, häufig",
+        "Sekundäre Form: u.a. nach Rotatorenmanschettenruptur, Impingement-Syndrom, Schulter-OPs, neurologischen Ursachen (Morbus Parkinson, Radikulopathie) und Stoffwechselerkrankungen (Diabetes mellitus, Schilddrüsenerkrankungen)"
+      ]
+    },
+    {
+      "gidx": 311,
+      "source": "ortho-rheuma p.311",
+      "slide_title": "Frozen shoulder – Arthroskopisches Bild",
+      "type": "inhalt",
+      "notes_md": "## Arthroskopisches Bild bei Frozen shoulder\n\nBeschriftete Strukturen:\n- Biceps tendon — Bizepssehne\n- Interval region synovitis and capsular fibrosis — Synovitis und Kapselfibrose im Bereich des Rotatorenintervalls\n- Subscapularis tendon — Subscapularissehne",
+      "figures": [
+        {
+          "caption": "Arthroskopie bei adhäsiver Kapsulitis",
+          "shows": "Arthroskopische Aufnahme der Schulter: ausgeprägte Synovitis und Kapselfibrose in der Intervallregion zwischen Bizepssehne und Subscapularissehne",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Arthroskopisch bei Frozen shoulder: Synovitis und Kapselfibrose in der Intervallregion (Rotatorenintervall)"
+      ]
+    },
+    {
+      "gidx": 312,
+      "source": "ortho-rheuma p.312",
+      "slide_title": "Frozen shoulder – Phasen und Pathomechanismus",
+      "type": "inhalt",
+      "notes_md": "## Frozen shoulder\n\n### Phase 1 – „Freezing Shoulder“\n- bewegungsabhängige einschießende heftige Schulterschmerzen\n- Schmerzen beim Ankleiden\n- Schließlich kann die Hand nicht mehr hinter den Rücken bewegt werden,\n- Überkopfbewegungen oder das Hervorholen des Sicherheitsgurts im Auto sind nur unter\n- großen Beschwerden möglich\n- dann Ruhe- und Nachtschmerz\n\n### Pathomechanismus:\nEine unspezifische Entzündung der Gelenkschleimhaut (Synovitis) und der Kapselstrukturen führt\n- zu Verklebungen und Verwachsungen (Adhäsionen) im Gelenk\n- und Kapselschrumpfung\n- diese Phase des „Einfrierens“ der Schulter dauert im Allgemeinen ungefähr vier Monate\n- oder auch länger\n\n### Phase 2 – „Frozen Shoulder“\n- erhebliche, jedoch schmerzarme Steife/Ankylose der Schulter\n- diese kann bis zu einer vollständigen Steife des Gelenks reichen, bei der Bewegungen nur noch durch das Schulterblatt möglich sind\n- dieses Stadium kann Wochen bis Monate anhalten, in manchen Fällen sogar ein Jahr und länger\n\n### Phase 3 – „Thawing Shoulder“\n- eine spontane Lösung der Kapselsteife\n- schrittweise Verbesserung der Beweglichkeit\n- über einige Wochen hinweg verbessert sich der Bewegungsradius der Schulter, bis eine annähernd normale Beweglichkeit zurückgekehrt ist",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Drei Phasen: Freezing (schmerzhaftes Einfrieren, ca. 4 Monate), Frozen (schmerzarme Steife/Ankylose, Wochen bis Monate bis >1 Jahr), Thawing (spontane Lösung mit schrittweiser Rückkehr der Beweglichkeit)",
+        "Pathomechanismus: unspezifische Synovitis und Kapselentzündung → Adhäsionen und Kapselschrumpfung",
+        "Phase 1: bewegungsabhängige heftige Schmerzen, dann Ruhe- und Nachtschmerz; Phase 2: Bewegung nur noch über das Schulterblatt möglich"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "batch": "16",
+  "pages": [
+    {
+      "gidx": 181,
+      "source": "ortho-rheuma p.181",
+      "slide_title": "Bildfolie: OP-Fotos Hand / Faszie (Morbus Dupuytren)",
+      "type": "inhalt",
+      "notes_md": "## Bildfolie (ohne Folientext)\n\nDie Folie zeigt ausschließlich vier klinische Fotografien, keinen Text (außer Fußzeile \"Krein-Nattrodt\"):\n\n- **Oben links:** Intraoperatives Foto einer Handoperation: offene Palmare Region mit freigelegtem Fasziengewebe (Haken/Retraktor), Fingerverband mit roten Bändern, operative Darstellung der Aponeurosis palmaris (Dupuytren-OP).\n- **Oben rechts:** Postoperatives Foto einer Handfläche mit vernähten Zick-zack-/Z-förmigen Narben (gezackelte Inzision) sowie Bluterguss am Handballen.\n- **Unten links:** Präparat eines Fußes/Unterschenkels mit freigelegten und rot gefärbten Gefäßen/Nerven, fächerförmig ausbreitend (anatomisches Präparat).\n- **Unten rechts:** Intraoperatives Foto einer Dupuytren-OP: Ein Haken hebt den erkrankten Faszienstrang in der Handfläche an, der vor der Durchtrennung/Entfernung präpariert wird.",
+      "figures": [
+        {
+          "caption": "Intraoperative und postoperative Fotos sowie anatomisches Präparat (Hand/Fuß)",
+          "shows": "Offene Handoperation am palmaren Fasziengewebe, postoperative Z-förmige Narben, Gefäß-/Nervenpräparat, Faszienstrang am Haken (Dupuytren-OP)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bildfolie ohne Folientext: operative Fotos zur Handchirurgie (palmarer Faszienstrang, Dupuytren)",
+        "Postoperatives Bild mit Z-förmiger Narbenführung in der Handfläche"
+      ]
+    },
+    {
+      "gidx": 182,
+      "source": "ortho-rheuma p.182",
+      "slide_title": "Morbus Scheuermann / Adolenszentenkyphose",
+      "type": "inhalt",
+      "notes_md": "## Morbus Scheuermann / Adolenszentenkyphose\n\n- **Definition:** juvenile Verknöcherungsstörung der Wirbelsäule mit Rundrückenbildung, meist im mittleren und unteren thorakalem Abschnitt sowie im thorakolumbalem Übergang\n- **Epidemiologie:** Alter 8–14 Jahre, Jungen sind doppelt so häufig betroffen wie Mädchen\n\n### Ätiologie\n- idiopathisch\n- evtl. Hochwuchs oder Haltungsschäden\n\n### Pathogenese\n- die Wirbel zwischen TH5–TH11 und L1–L3 wachsen in ihren vorderen Abschnitten langsamer: Keilwirbelbildung durch ventrale Höhenminderung\n- Bandscheibengewebe wächst durch die weniger widerstandsfähigen Wirbelendplatten in die Wirbelkörper ein → Schmorl-Knorpelknötchen\n\n### Klinik\n**Stadium I:**\n- kyphotische Fehlhaltung mit erhaltener Beweglichkeit\n- zwischen dem 10.–14. Lebensjahr kommt es unter zunehmender muskulärer Leistungsminderung zu einem zunehmendem Rundrücken\n- keine Schmerzen, keine Bewegungseinschränkung\n\n**Stadium II:**\n- fixierte Fehlhaltung, kein Ausgleich mehr bei aktiver Bewegung oder passive Hypertension\n- druck- und stauchungsempfindliche Wirbelsäulenabschnitte, verspannte Rückenmuskulatur\n- schmerzhafte Insertionstendopathien\n\n**Stadium III:**\n- Progredienz der Fehlhaltung, Achsenkorrektur nicht mehr möglich\n- Defektheilung: Schmorl-Knoten und keilförmige Deformierungen bleiben dauerhaft bestehen und führen zu fortschreitenden osteochondrotischen Veränderungen",
+      "figures": [],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Morbus Scheuermann = juvenile Verknöcherungsstörung der Wirbelsäule mit Rundrückenbildung (thorakal/thorakolumbal)",
+        "Jungen doppelt so häufig betroffen wie Mädchen, Alter 8–14 Jahre",
+        "Pathogenese: Keilwirbelbildung durch ventrale Höhenminderung, Schmorl-Knorpelknötchen",
+        "Stadium I: bewegliche kyphotische Fehlhaltung ohne Schmerzen; Stadium II: fixierte Fehlhaltung; Stadium III: Achsenkorrektur nicht mehr möglich"
+      ]
+    },
+    {
+      "gidx": 183,
+      "source": "ortho-rheuma p.183",
+      "slide_title": "Scheuermann-Krankheit (Abb. 17.19 / 17.17)",
+      "type": "inhalt",
+      "notes_md": "## Scheuermann-Krankheit\n\n**Abb. 17.19 Scheuermann-Krankheit:**\n17-jähriger Handwerkslehrling mit Adoleszentenkyphose. Es bestehen belastungsabhängige Rückenschmerzen. Klinisch: fixierter Rundrücken mit muskulärem Hartspann.\n\n**Abb. 17.17 Scheuermann-Krankheit:**\nTief sitzende Brustkyphose (thorakolumbaler Übergang) mit typischen Grund- und Deckplattendefekten (Schmorl-Knötchen, →). Minderung der ventralen Wirbelkörperhöhe (↔) führt zur fixierten Hyperkyphose.",
+      "figures": [
+        {
+          "caption": "Abb. 17.19 Scheuermann-Krankheit",
+          "shows": "Klinisches Foto eines 17-jährigen Handwerkslehrlings mit fixierter Adoleszentenkyphose (Rundrücken)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 17.17 Scheuermann-Krankheit",
+          "shows": "Seitliches Röntgenbild der Brustwirbelsäule: tief sitzende Brustkyphose, Schmorl-Knötchen (Pfeil), Minderung der ventralen Wirbelkörperhöhe, fixierte Hyperkyphose",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Klinisches Bild: fixierter Rundrücken mit muskulärem Hartspann, belastungsabhängige Rückenschmerzen",
+        "Röntgen: Schmorl-Knötchen (Grund-/Deckplattendefekte) und ventrale Wirbelkörperhöhenminderung → fixierte Hyperkyphose"
+      ]
+    },
+    {
+      "gidx": 184,
+      "source": "ortho-rheuma p.184",
+      "slide_title": "Fixierter Rundrücken (Abb. 17.18)",
+      "type": "inhalt",
+      "notes_md": "## Abb. 17.18 Fixierter Rundrücken\n\nBei fixiertem Rundrücken lässt sich auch bei Aufrichten aus der Inklination oder bei der Reklination die Kyphose nicht ausgleichen. Meist gleicht sie sich teilweise aus (teilfixierter Rundrücken).",
+      "figures": [
+        {
+          "caption": "Abb. 17.18 Fixierter Rundrücken",
+          "shows": "Zeichnung eines Patienten in Inklination und aufrechter Haltung: die Kyphose lässt sich beim Aufrichten nicht ausgleichen",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Fixierter Rundrücken: Kyphose lässt sich bei Aufrichten aus der Inklination oder Reklination nicht ausgleichen",
+        "Meist nur teilweiser Ausgleich möglich (teilfixierter Rundrücken)"
+      ]
+    },
+    {
+      "gidx": 185,
+      "source": "ortho-rheuma p.185",
+      "slide_title": "Morbus Scheuermann: Diagnostik und Therapie",
+      "type": "inhalt",
+      "notes_md": "## Morbus Scheuermann\n\n### Diagnostik\n- Klinische Untersuchung\n\n### Röntgen\n- keilförmige Wirbelkörper, Schmorl-Knötchen, verzögerte Randkantenverknöcherung\n\n### Therapie\n- KG\n- Massagen\n- Kräftigungsübungen\n- Schwimmen\n- Orthetische Versorgung mit z. B. Boston-Korsett, Dreipunktkorsett nur Stad. I–II sinnvoll\n- Titanrippenprothese nur während des Wachstums\n- evtl. Kyphosenoperation / selten",
+      "figures": [
+        {
+          "caption": "Korsettversorgung bei Morbus Scheuermann",
+          "shows": "Fotos eines Jugendlichen mit Boston-Korsett/Dreipunktkorsett in Rückansicht und Seitenansicht",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Titanrippenprothese",
+          "shows": "Schematische Darstellung einer Titanrippenprothese an der Wirbelsäule (nur während des Wachstums)",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [12],
+      "key_facts": [
+        "Röntgenbefunde: keilförmige Wirbelkörper, Schmorl-Knötchen, verzögerte Randkantenverknöcherung",
+        "Therapie: KG, Massagen, Kräftigungsübungen, Schwimmen",
+        "Orthese (Boston-Korsett/Dreipunktkorsett) nur in Stadium I–II sinnvoll",
+        "Titanrippenprothese nur während des Wachstums; Kyphosenoperation selten"
+      ]
+    },
+    {
+      "gidx": 186,
+      "source": "ortho-rheuma p.186",
+      "slide_title": "Omarthrose: Läsionen und Ursachen",
+      "type": "inhalt",
+      "notes_md": "## Omarthrose\n\n- **Omarthrose:** degenerative Erkrankung des Schultergelenks\n\n### Läsionen beteiligter Strukturen\n**Humeruskopf:**\n- Knorpelverlust mit zentraler Abflachung\n- Osteophytenbildung\n- Subchondrale Zysten\n\n**Glenoid:**\n- Knorpelverlust\n- Osteophytenbildung\n- subchondrale Zysten\n\n**Weichteile:**\n- Gelenksubluxationen und Luxationen\n- Rotatorenmanschettendefekte\n\nfreie Gelenkskörper: Copora libra\n\n### Ursachen\n- idiopathisch / Alter 60 Jahre\n- traumatische Humeruskopfnekrose: Durchblutungsstörungen/Stoffwechselerkrankungen\n- proximale Humerusfraktur\n- posttraumatische Humeruskopfnekrose: durch vaskuläre Verletzungen\n- rheumatoide Arthritis\n- Schultersubluxationen und -luxationen\n- Rotatorenmanschettenrupturen bei fixiertem Humeruskopfhochstand\n- Armplexuslähmungen\n- Morbus Bechterew\n- postinfektiös\n\n### Anmerkung\n- **Luxation:** vollständige Verrenkung, vollständiger Kontaktverlust der Gelenkpartner\n- **Subluxation:** unvollständige Verrenkung, Gelenkpartner haben noch Kontakt",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Omarthrose = degenerative Erkrankung des Schultergelenks",
+        "Läsionen: Knorpelverlust, Osteophytenbildung, subchondrale Zysten (Humeruskopf und Glenoid), Rotatorenmanschettendefekte, freie Gelenkskörper (Copora libra)",
+        "Ursachen u. a.: idiopathisch (Alter 60 Jahre), Humeruskopfnekrose, proximale Humerusfraktur, rheumatoide Arthritis, Rotatorenmanschettenrupturen bei fixiertem Humeruskopfhochstand, Armplexuslähmungen, Morbus Bechterew, postinfektiös",
+        "Luxation = vollständiger Kontaktverlust der Gelenkpartner; Subluxation = unvollständig, Kontakt bleibt bestehen"
+      ]
+    },
+    {
+      "gidx": 187,
+      "source": "ortho-rheuma p.187",
+      "slide_title": "Omarthrose: Einteilung nach Samilson, Klinik, Diagnostik, Therapie",
+      "type": "inhalt",
+      "notes_md": "## Omarthrose\n\n### Einteilung nach Samilson\n- Grad I: mild, caudaler Humeruskopfosteophyt, 0–3 mm\n- Grad II: Osteophyt, 3–7 mm\n- Grad III: massiv, Osteophyt > 7 mm\n\n### Klinik\n- Bewegungs- und Belastungsschmerz\n- Einklemmungserscheinungen\n- Krepitation / hör- und fühlbares Geräusch bei Reibung von Gelenkstrukturen\n- später kontinuierliche Bewegungseinschränkung in alle Richtungen\n- bis hin zur Frozen Shoulder\n- sowie zu zunehmenden Schulterschmerzen beim Liegen auf der betroffenen Seite\n- auch im Ruhezustand und in der Nacht\n\n### Diagnostik der Omarthrose\n- Untersuchung der Schulter auf Beweglichkeit (Rotatorenmanschette!)\n- Röntgen, CT, MRT\n- neurologischer Status\n\n### Therapie\nkonservativ:\n\nmedikamentös:\n- Antiphlogistika und NSAR\n- Knorpelaufbaupräparate (Hyaluronsäure, D-Glucosaminsulfat)\n- i.a. Injektion (Kortikoide, Hyaluronsäure)\n- physikalische Therapie",
+      "figures": [],
+      "eingrenzung_hits": [4, 5],
+      "key_facts": [
+        "Einteilung nach Samilson: Grad I Osteophyt 0–3 mm, Grad II 3–7 mm, Grad III > 7 mm",
+        "Klinik: Bewegungs-/Belastungsschmerz, Einklemmungserscheinungen, Krepitation, zunehmende Bewegungseinschränkung bis Frozen Shoulder, Nachtschmerz",
+        "Diagnostik: Beweglichkeitsprüfung (Rotatorenmanschette), Röntgen/CT/MRT, neurologischer Status",
+        "Konservative Therapie: Antiphlogistika/NSAR, Knorpelaufbaupräparate (Hyaluronsäure, D-Glucosaminsulfat), i.a. Injektionen, physikalische Therapie"
+      ]
+    },
+    {
+      "gidx": 188,
+      "source": "ortho-rheuma p.188",
+      "slide_title": "Omarthrose: operative Indikationen und Verfahren",
+      "type": "inhalt",
+      "notes_md": "## Omarthrose\n\n### operativ: Indikationen\n- bei belastungs- und therapieresistentem Schmerz\n- beginnender Verlust der Beweglichkeit\n- bei rezidivierenden Subluxationen\n- abhängig von Osteophytenausbildung\n- Grad der Gelenkspaltverschmälerung\n- bei Humeruskopfnekrose\n- bei Defektarthropathien durch Rotatorenmanschettenruptur\n\n### operative Verfahren\n**Arthroskopie mit Lavage**\n- Gelenkspülung oder Debridement/Gelenktoilette und\n\n**Shaving:**\n- verschlissene Knorpelanteile und knöcherne Anbauten werden geglättet oder entfernt\n\n**Anbohrung** zur Anregung eines Ersatzknorpels ist ebenfalls möglich\n\n**Endoprothesen:**\n- Oberflächenersatz mit Cup-Prothese\n- Oberflächenersatz mit Eclipse-Prothese, schaftfreie Prothese\n- Hemiendoprothese / HEP\n- Totalendoprothese TEP\n\n**inverse Schulterendoprothese**\n- bei der der konvexe und der konkave Gelenkpartner des Schultergelenks vertauscht werden\n- bei starker Schädigung der Rotatorenmanschette ist diese gelenkstabilisierend, da sie für die Bewegung des Schultergelenks nicht auf diese Muskeln so sehr angewiesen ist",
+      "figures": [],
+      "eingrenzung_hits": [3, 4],
+      "key_facts": [
+        "OP-Indikationen: therapieresistenter Schmerz, Beweglichkeitsverlust, rezidivierende Subluxationen, Humeruskopfnekrose, Defektarthropathie durch Rotatorenmanschettenruptur",
+        "Operative Verfahren: Arthroskopie mit Lavage/Debridement, Shaving, Anbohrung (Ersatzknorpel)",
+        "Endoprothesen: Cup-Prothese, Eclipse-Prothese (schaftfrei), Hemiendoprothese (HEP), Totalendoprothese (TEP)",
+        "Inverse Schulterendoprothese: konvexer und konkaver Gelenkpartner werden vertauscht; gelenkstabilisierend bei starker Rotatorenmanschettenschädigung"
+      ]
+    },
+    {
+      "gidx": 189,
+      "source": "ortho-rheuma p.189",
+      "slide_title": "Röntgenanatomie Schultergelenk",
+      "type": "inhalt",
+      "notes_md": "## Röntgenbild Schultergelenk (beschriftet)\n\nBeschriftung der Röntgenaufnahme:\n- 1, Clavicula\n- 2, Akromion\n- 3, Tuberculum majus\n- 4, Tuberculum minus\n- 5, Collum chirugicum\n- 6, Humerus\n- 7, Proc. coracoidues\n- 8, Scapula\n- 9, Rippe\n- Pfeil, Schultergelenk.\n\nRechts daneben: Röntgenbild eines Schultergelenks mit deutlichen arthrotischen/pathologischen Veränderungen am Humeruskopf.",
+      "figures": [
+        {
+          "caption": "Beschriftetes Röntgenbild des Schultergelenks",
+          "shows": "Anatomische Strukturen: Clavicula, Akromion, Tuberculum majus/minus, Collum chirurgicum, Humerus, Proc. coracoideus, Scapula, Rippe; daneben Röntgenbild mit pathologischem Humeruskopf",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Röntgenanatomie Schulter: Clavicula, Akromion, Tuberculum majus/minus, Collum chirurgicum, Humerus, Proc. coracoideus, Scapula, Rippe"
+      ]
+    },
+    {
+      "gidx": 190,
+      "source": "ortho-rheuma p.190",
+      "slide_title": "Omarthrose: Prothesentypen (Röntgenbilder)",
+      "type": "inhalt",
+      "notes_md": "## Omarthrose\n\nDrei Röntgenbilder der endoprothetischen Versorgung des Schultergelenks:\n\n- **Cup-Prothese**\n- **Eclipse-Prothese**\n- **inverse Schulterprothese**",
+      "figures": [
+        {
+          "caption": "Cup-Prothese",
+          "shows": "Röntgenbild einer Cup-Prothese (Oberflächenersatz) am Humeruskopf",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Eclipse-Prothese",
+          "shows": "Röntgenbild einer schaftfreien Eclipse-Prothese mit Fixationsschrauben am Humeruskopf",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Inverse Schulterprothese",
+          "shows": "Röntgenbild einer inversen Schulterendoprothese mit Schaft im Humerus und verankerter Komponente im Glenoid",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Endoprothetische Verfahren bei Omarthrose im Röntgenbild: Cup-Prothese, Eclipse-Prothese (schaftfrei), inverse Schulterprothese"
+      ]
+    },
+    {
+      "gidx": 191,
+      "source": "ortho-rheuma p.191",
+      "slide_title": "Schulter-Totalendoprothese (Bildfolie)",
+      "type": "inhalt",
+      "notes_md": "## Schulter-Totalendoprothese (Bildfolie, ohne Folientext)\n\n- **Links:** Röntgenbild einer implantierten Schulter-Totalendoprothese mit Prothesenschaft im Humerus und Gelenkkopf-Komponente (Seite rechts markiert).\n- **Rechts:** Schematische 3D-Illustration einer Schulter-Totalendoprothese: Prothesenkopf, Schaft im Humerus und Glenoidkomponente an der Skapula.",
+      "figures": [
+        {
+          "caption": "Schulter-Totalendoprothese (TEP)",
+          "shows": "Röntgenbild und 3D-Illustration einer implantierten Schulter-Totalendoprothese (Schaft, Kopf, Glenoidkomponente)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Bilddarstellung einer Schulter-Totalendoprothese (TEP): Röntgenbild und schematische 3D-Illustration"
+      ]
+    },
+    {
+      "gidx": 192,
+      "source": "ortho-rheuma p.192",
+      "slide_title": "Osteogenesis imperfekta (Glasknochenkrankheit)",
+      "type": "inhalt",
+      "notes_md": "## Osteogenesis imperfekta = Glasknochenkrankheit\n\n### Definition\n- Skelettdysplasie (ungenügende Knochenbildung) mit vermehrter Knochenbrüchigkeit und Knochendeformierung\n\n### Ätiologie\n- sind verschiedene angeborene Störungen der Biosynthese von Kollagen, Vererbung: autosomal-dominant wie rezessiv, einem sehr wichtigen Bestandteil der Knochenmatrix\n- z. B. durch eine Punktmutation des Kollagens Typ 1 wird Glycin, die wichtigste Aminosäure des Kollagens, durch eine andere Aminosäure ersetzt\n- Kollagen Typ 1 macht 90% der Knochenmatrix aus und ist auch für den Aufbau von Sehnen, Bändern und Skleren zuständig\n\n### Klassifikation\n**Osteogenesis imperfekta tarda Typ I (Lobstein)**\n- Vererbung: Autosomal-dominant\n- Klinik: Knochenbrüchigkeit beim Kleinkind bis zum Eintritt der Pubertät, blaue Skleren, otosklerotische Schwerhörigkeit\n\n**Osteogenesis imperfekta congenita Typ II (Vrolik)**\n- Vererbung: Autosomal-rezessiv\n- Klinik: multiple Frakturen schon intrauterin oder perinatal. Letaler Ausgang (1. Lebensjahr), Schädelknochen mit Lücken, blaue Skleren\n\n**Osteogenesis imperfekta tarda Typ III**\n- Vererbung: Autosomal-rezessiv\n- Klinik: fortschreitende Deformierung der langen Röhrenknochen, des Schädels und der Wirbelsäule\n\n**Osteogenesis imperfekta Typ IV**\n- Vererbung: Autosomal-dominant\n- Klinik: wie Typ I, aber ohne blaue Skleren",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Osteogenesis imperfecta (Glasknochenkrankheit) = Skelettdysplasie mit vermehrter Knochenbrüchigkeit und Knochendeformierung",
+        "Ursache: angeborene Störung der Kollagenbiosynthese (Punktmutation Kollagen Typ 1, Glycin-Austausch); Kollagen Typ 1 = 90% der Knochenmatrix",
+        "Typ I (Lobstein): autosomal-dominant, Knochenbrüchigkeit bis Pubertät, blaue Skleren, otosklerotische Schwerhörigkeit",
+        "Typ II (Vrolik): autosomal-rezessiv, intrauterine/perinatale Frakturen, letaler Ausgang im 1. Lebensjahr",
+        "Typ III: autosomal-rezessiv, fortschreitende Deformierung; Typ IV: wie Typ I ohne blaue Skleren"
+      ]
+    }
+  ]
+}

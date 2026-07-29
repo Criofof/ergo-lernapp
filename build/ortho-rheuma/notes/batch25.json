@@ -1,0 +1,287 @@
+{
+  "batch": "25",
+  "pages": [
+    {
+      "gidx": 289,
+      "source": "ortho-rheuma p.289",
+      "slide_title": "Ganglion/Überbein",
+      "type": "inhalt",
+      "notes_md": "## Ganglion/Überbein\n\n### Therapie:\n\n**konservativ:**\n- Ruhigstellung des Gelenks\n- durch Massage oder starkes Drücken kann man versuchen, das Ganglion wieder ins Gelenk zurückzudrücken oder es zerplatzen zu lassen\n- Punktion mit Aspiration\n\n**operativ:**\n- Extirpation (Herausschneiden)\n- in 10% der Fälle Rezidiv",
+      "figures": [
+        {
+          "caption": "Gelenkkapsel-Ganglion und Sehnenscheiden-Ganglion",
+          "shows": "Schematische Darstellung eines Gelenkkapsel-Ganglions (mit Kapselstiel und Kapselausbuchtung) und eines Sehnenscheiden-Ganglions am Handrücken",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Ganglion (Überbein) am Handgelenk",
+          "shows": "Klinisches Foto eines Ganglions am Handrücken mit anatomischer Zeichnung der Lage am Handgelenksskelett",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "Präparat eines exstirpierten Ganglions",
+          "shows": "Makroskopisches Foto eines operativ entfernten Ganglions",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Konservative Therapie des Ganglions: Ruhigstellung, Zurückdrücken/Zerplatzen durch Massage oder starkes Drücken, Punktion mit Aspiration",
+        "Operative Therapie: Extirpation (Herausschneiden)",
+        "Rezidivrate nach operativer Entfernung: 10% der Fälle"
+      ]
+    },
+    {
+      "gidx": 290,
+      "source": "ortho-rheuma p.290",
+      "slide_title": "Skoliose",
+      "type": "inhalt",
+      "notes_md": "## Skoliose\n\n**Skoliose**\n- Definition: fixierte seitliche Wirbelsäulenverbiegung, teils mit Rotation von einzelnen Wirbelkörpern\n\n### Ursachen:\n- zu 90% idiopathisch\n- osteopathisch: angeboren: Keilwirbel, Spaltwirbel bei Spina bifida, Blockwirbel, Rippendefekte\n- myopathisch: Muskelerkrankungen wie z.B.: Narbenskoliosen nach Pleuraempyem oder progressive Muskeldystrophie\n- neurogen: z.B.: infantiler Zerebralsklerose, Poliomyelitis\n- erworben: nach Unfällen\n- Säuglingsskoliose\n- metabolische Skoliose: Rachitis, Osteoporose\n- Tumore",
+      "figures": [
+        {
+          "caption": "Keilwirbel, Fischwirbel, Blockwirbel",
+          "shows": "Schematische Zeichnungen angeborener Wirbelkörperformanomalien: Keilwirbel, Fischwirbel und Blockwirbel",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "MRT einer Skoliose",
+          "shows": "Koronare MRT-Aufnahme des Rumpfes mit eingezeichneter skoliotischer Wirbelsäulenverbiegung",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Skoliose = fixierte seitliche Wirbelsäulenverbiegung, teils mit Rotation einzelner Wirbelkörper",
+        "90% der Skoliosen sind idiopathisch",
+        "Weitere Ursachen: angeboren (Keilwirbel, Spaltwirbel bei Spina bifida, Blockwirbel, Rippendefekte), myopathisch, neurogen, erworben, Säuglingsskoliose, metabolisch (Rachitis, Osteoporose), Tumore"
+      ]
+    },
+    {
+      "gidx": 291,
+      "source": "ortho-rheuma p.291",
+      "slide_title": "Skoliose",
+      "type": "inhalt",
+      "notes_md": "## Skoliose\n\n### Formen der Skoliose und Cobb-Winkel\n\n- Rechtskonvexe Skoliose\n\nFormen (Abbildung):\n- Normalhaltung\n- C-förmige Skoliose\n- S-förmige Skoliose\n- Skoliose mit Wirbelsäulenüberhang nach rechts",
+      "figures": [
+        {
+          "caption": "Formen der Skoliose",
+          "shows": "Schematische Darstellung der Wirbelsäule von dorsal: Normalhaltung, C-förmige Skoliose, S-förmige Skoliose und Skoliose mit Wirbelsäulenüberhang nach rechts (rechtskonvexe Skoliose)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Formen der Skoliose: C-förmige und S-förmige Skoliose, Skoliose mit Wirbelsäulenüberhang",
+        "Beispiel: rechtskonvexe Skoliose",
+        "Ausmessung der Krümmung erfolgt mit dem Cobb-Winkel"
+      ]
+    },
+    {
+      "gidx": 292,
+      "source": "ortho-rheuma p.292",
+      "slide_title": "Skoliose",
+      "type": "inhalt",
+      "notes_md": "## Skoliose\n\n### Röntgenologische Stadieneinteilung:\nDie Stadieneinteilung der Skoliose erfolgt röntgenologisch durch Messung der Achsenabweichungen nach Cobb. In der Regel erfolgt die Messung durch Festlegung zweier Wirbelkörper, durch die dann eine Achse gezogen wird.\n\nAbbildung (Beschriftung):\n- Neutralwirbel\n- Skoliosewirbel → Krümmung ändert sich\n- gemessene Winkel: 40° und 36°",
+      "figures": [
+        {
+          "caption": "Cobb-Winkel-Messung bei Skoliose",
+          "shows": "Zeichnung einer skoliotischen Wirbelsäule mit eingezeichneten Cobb-Winkeln (40° und 36°), Neutralwirbeln und Skoliosewirbeln, an denen sich die Krümmung ändert",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Stadieneinteilung der Skoliose erfolgt röntgenologisch durch Messung der Achsenabweichungen nach Cobb",
+        "Messung durch Festlegung zweier Wirbelkörper (Neutralwirbel), durch die eine Achse gezogen wird",
+        "Skoliosewirbel: Wirbel, an denen sich die Krümmung ändert"
+      ]
+    },
+    {
+      "gidx": 293,
+      "source": "ortho-rheuma p.293",
+      "slide_title": "Skoliose",
+      "type": "inhalt",
+      "notes_md": "## Skoliose\n\n### Klinik:\n- Seitabweichung der Wirbelsäule\n- in Vorneigung vorgewölbte Rippen/ Rippenbuckel\n- einseitiger Schulterhochstand\n- asymmetrische Taillendreiecke\n- Rotation der Wirbelkörper\n- einseitiger Beckenschiefstand\n- in 80% rechts-konvexe BWS-Skoliose\n\n### Weitere klinische Symptomatik:\n- insuffiziente Rückenschmerzen bei längerem Stehen, Sitzen mit beidseitiger Ausstrahlung oder nach sakral\n- verspannte Muskulatur\n- schmerzhafte Tendomyosen über den Dornfortsätzen, Darmbeinschaufeln\n- neuralgische Schmerzen durch Druck auf die Foramina intervertebralia\n\n**bei schwerer Skoliose/Torsionsskoliose:**\n- Verlagerung der Thoraxorgane/Cor pulmonale und Verdauungsorgane\n\n### Diagnose:\n- Klinische Untersuchung\n- Röntgen mit Ausmessung der Krümmungsgrade nach Cobb\n\n### Therapie:\n- Massagen, Hydrotherapie, Elektrotherapie, Akupunktur\n- KG < 20° nach Cobb\n- Korsettherapie und KG: 20°-50° nach Cobb\n\n### OP:\n- Spondylodese/ Wirbelkörperverblockung bei Thorakalkrümmung >50° nach Cobb\n\n**In schwerwiegenden Fällen: im Adoleszentenalter**\n- kann die Implantation einer vertikalen expandierbaren Titanrippenprothese (VEPTR) erfolgen\n- hierbei wird ein verlängerbarer, gebogener Titanstab zwischen 2 Rippen oder zwischen einer Rippe und dem Darmbeinkamm fixiert und schrittweise verlängert",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Klinik der Skoliose: Seitabweichung, Rippenbuckel in Vorneigung, Schulterhochstand, asymmetrische Taillendreiecke, Wirbelkörperrotation, Beckenschiefstand; 80% rechts-konvexe BWS-Skoliose",
+        "Diagnose: klinische Untersuchung und Röntgen mit Cobb-Winkel-Ausmessung",
+        "Therapie nach Cobb-Winkel: KG < 20°, Korsett + KG bei 20°–50°, Spondylodese/Wirbelkörperverblockung bei Thorakalkrümmung > 50°",
+        "Schwere Fälle im Adoleszentenalter: VEPTR (vertikale expandierbare Titanrippenprothese) — verlängerbarer Titanstab zwischen 2 Rippen oder Rippe und Darmbeinkamm"
+      ]
+    },
+    {
+      "gidx": 294,
+      "source": "ortho-rheuma p.294",
+      "slide_title": "Skoliose — Korsettversorgung",
+      "type": "inhalt",
+      "notes_md": "## Skoliose — Korsettversorgung (Abbildungen)\n\n**Abb. 16.7 — Milwaukee-Korsett** für hochthorakale Skoliosen und zur Extension der Wirbelsäule. Abstützung an Okziput und Kinn, distal an den Darmbeinkämmen, Ausübung von Längszug, keine Detorsion.\n\n**Abb. 16.8 — Cheneau-Korsett** zur Korrektur thorakaler Skoliosen.\n\n**Abb. 16.9 — Boston-Brace** für lumbale Skoliosen.",
+      "figures": [
+        {
+          "caption": "Abb. 16.7 Milwaukee-Korsett",
+          "shows": "Milwaukee-Korsett für hochthorakale Skoliosen: Abstützung an Okziput und Kinn, distal an den Darmbeinkämmen, Längszug ohne Detorsion",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 16.8 Cheneau-Korsett",
+          "shows": "Cheneau-Korsett zur Korrektur thorakaler Skoliosen (Vorder- und Rückansicht)",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Abb. 16.9 Boston-Brace",
+          "shows": "Boston-Brace für lumbale Skoliosen (Vorder- und Rückansicht)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Milwaukee-Korsett: für hochthorakale Skoliosen, Abstützung an Okziput und Kinn sowie an den Darmbeinkämmen, Längszug, keine Detorsion",
+        "Cheneau-Korsett: Korrektur thorakaler Skoliosen",
+        "Boston-Brace: für lumbale Skoliosen"
+      ]
+    },
+    {
+      "gidx": 295,
+      "source": "ortho-rheuma p.295",
+      "slide_title": "Skoliose — Korsettversorgung (Beispiele)",
+      "type": "inhalt",
+      "notes_md": "## Skoliose — Korsettversorgung (Beispiele)\n\nAbbildungen ohne begleitenden Folientext:\n- Rückenorthese mit zwei vertikalen Stäben (Rückansicht)\n- Skoliose-Korsett/Orthese mit Zug- und Druckprinzip („Three principles of mechanical design“), Pfeile zeigen die korrigierenden Kräfte an der skoliotischen Wirbelsäule",
+      "figures": [
+        {
+          "caption": "Rückenorthese mit Längsstäben",
+          "shows": "Foto einer Rückenorthese mit zwei vertikalen Metallstäben (Rückansicht)",
+          "importance": "mid",
+          "extract": false
+        },
+        {
+          "caption": "Skoliose-Orthese nach dem Dreipunktprinzip",
+          "shows": "Orthese mit Gurtführung und Pfeilen, die die korrigierenden Kräfte auf die skoliotische Wirbelsäule zeigen; Beschriftung „Three principles of mechanical design“",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Korsett-/Orthesenversorgung bei Skoliose wirkt über mechanische Dreipunkt-Korrekturprinzipien"
+      ]
+    },
+    {
+      "gidx": 296,
+      "source": "ortho-rheuma p.296",
+      "slide_title": "Skoliose — Operative Versorgung (Spondylodese)",
+      "type": "inhalt",
+      "notes_md": "## Skoliose — Operative Versorgung (Abbildungen)\n\nAbbildungen ohne begleitenden Folientext:\n- Röntgenbild der LWS mit dorsaler Stabilisierung/Verblockung (Schrauben-Stab-System)\n- Wirbelsäulenmodell mit Cage und dorsalem Fixateur intern\n- Schema: Fixateur Intern und Cage zwischen den Wirbelkörpern",
+      "figures": [
+        {
+          "caption": "Röntgenbild nach Spondylodese",
+          "shows": "Röntgen der Lendenwirbelsäule mit eingebrachtem Schrauben-Stab-System zur Wirbelkörperverblockung",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "Fixateur intern und Cage (Modell und Schema)",
+          "shows": "Wirbelsäulenmodell und schematische Zeichnung mit Fixateur intern (pedikuläre Schrauben und Stab) sowie Cage im Bandscheibenraum",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Operative Skoliose-/Wirbelsäulenversorgung: Spondylodese mit Fixateur intern (Schrauben-Stab-System) und Cage"
+      ]
+    },
+    {
+      "gidx": 297,
+      "source": "ortho-rheuma p.297",
+      "slide_title": "VEPTR: Vertikal Expandierbare Titan-Rippenprothese",
+      "type": "inhalt",
+      "notes_md": "## VEPTR: Vertikal Expandierbare Titan-Rippenprothese\n\n### Das Prothesensystem VEPTR ist\n- für die Behandlung von Patienten mit komplexen dreidimensionalen Brustwand- und/ oder Wirbelsäulendeformitäten vorgesehen, bei denen der Brustkorb nicht in der Lage ist, die normale Atmung oder das normale Lungenwachstum zu unterstützen. (Thoraxinsuffizienzsyndrom).\n- Des Weiteren ist das VEPTR System für die wachstumslenkende und gegebenenfalls korrigierende Behandlung von Skoliosen vorgesehen.\n- Das Design des VEPTR Implantatsystems erlaubt es, den Brustkorb während des Wachstums der Patienten im Kindes und Jugendalter mechanisch zu stabilisieren und auszudehnen, um die Atmung und das Wachstum der Lungen zu begünstigen.\n\n### Die Implantate werden\n- senkrecht zu den Rippen des Patienten als expandierbare Verbindung zwischen kranialen (oberer Befestigungspunkt) und kaudalen Rippen\n- oder kranialen Rippen und einem Lendenwirbel oder dem Ilium implantiert (unterer Befestigungspunkt).\n- Die regelmäßige Expansion und anatomische Distraktion sowie der Austausch von Komponenten können nach der Erstimplantation der VEPTR Implantate mittels weniger invasiver Eingriffe erfolgen.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "VEPTR = vertikal expandierbare Titan-Rippenprothese für komplexe dreidimensionale Brustwand-/Wirbelsäulendeformitäten mit Thoraxinsuffizienzsyndrom",
+        "Dient der wachstumslenkenden und ggf. korrigierenden Behandlung von Skoliosen im Kindes- und Jugendalter",
+        "Implantation senkrecht zu den Rippen: zwischen kranialen und kaudalen Rippen oder zwischen kranialen Rippen und Lendenwirbel/Ilium",
+        "Regelmäßige Expansion/Distraktion und Komponentenaustausch nach Erstimplantation durch wenig invasive Eingriffe"
+      ]
+    },
+    {
+      "gidx": 298,
+      "source": "ortho-rheuma p.298",
+      "slide_title": "VEPTR — Implantatdarstellung",
+      "type": "inhalt",
+      "notes_md": "## VEPTR — Implantatdarstellung (Abbildungen)\n\nAbbildungen ohne begleitenden Folientext:\n- Skelettmodell mit implantiertem VEPTR-System (Vorder- und Seitenansicht)\n- Röntgenbild mit Beschriftung der Implantatkomponenten: oberes Hakenende, Hakensperre, unteres Hakenende, Distraktionssperre, Rippenhülse, kaudaler Haken",
+      "figures": [
+        {
+          "caption": "VEPTR-System am Skelettmodell",
+          "shows": "Wirbelsäulen-/Thoraxmodell mit vertikal implantiertem expandierbarem Titan-Rippenimplantat",
+          "importance": "mid",
+          "extract": true
+        },
+        {
+          "caption": "VEPTR im Röntgenbild",
+          "shows": "Röntgenaufnahme des Thorax mit beschrifteten VEPTR-Komponenten: oberes/unteres Hakenende, Hakensperre, Distraktionssperre, Rippenhülse, kaudaler Haken",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Komponenten des VEPTR-Implantats: oberes und unteres Hakenende, Hakensperre, Distraktionssperre, Rippenhülse, kaudaler Haken"
+      ]
+    },
+    {
+      "gidx": 299,
+      "source": "ortho-rheuma p.299",
+      "slide_title": "Skoliose — Klinisches Erscheinungsbild",
+      "type": "inhalt",
+      "notes_md": "## Skoliose — Klinisches Erscheinungsbild\n\n**Abb. 17.22 Klinisches Erscheinungsbild der Skoliose.**\n\n- a) Idiopathische Skoliose bei einem 16-jährigen Mädchen. Beckentiefstand rechts, rechtes Taillendreieck größer als linkes, seitendifferente Höhe der Schulterblätter. Das Lot vom 7. Halswirbel fällt rechts neben die Analfalte und deutet damit die statische Dekompensation infolge Verlagerung des Rumpfs nach rechts an.\n- b) + c) Der Rippenbuckel wird in tiefer Vorneigung des Rumpfs besonders augenfällig, der im aufrechten Stand vor allem bei kleinen Cobb-Winkeln der Entdeckung entgehen kann.",
+      "figures": [
+        {
+          "caption": "Abb. 17.22 Klinisches Erscheinungsbild der Skoliose",
+          "shows": "Klinische Fotos eines 16-jährigen Mädchens mit idiopathischer Skoliose: a) Standbild mit Lot vom 7. Halswirbel (Dekompensation nach rechts, Beckentiefstand, asymmetrische Taillendreiecke), b) + c) Rippenbuckel in Rumpfvorneigung",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Klinische Zeichen der Skoliose: Beckentiefstand, asymmetrische Taillendreiecke, seitendifferente Schulterblatthöhe",
+        "Lot vom 7. Halswirbel fällt neben die Analfalte → statische Dekompensation",
+        "Rippenbuckel wird in tiefer Rumpfvorneigung sichtbar, kann im Stand bei kleinen Cobb-Winkeln übersehen werden"
+      ]
+    },
+    {
+      "gidx": 300,
+      "source": "ortho-rheuma p.300",
+      "slide_title": "Skoliose — Wirbelrotation und -torsion",
+      "type": "inhalt",
+      "notes_md": "## Skoliose — Wirbelrotation und -torsion\n\n**Abb. 17.21 Wirbelrotation und -torsion bei Skoliose.**\n\nSchematischer Horizontalschnitt durch den Brustkorb eines Skoliotikers. Der Wirbel ist um seine Längsachse rotiert und entsprechend den Torsionskräften verformt (torquiert). Durch Mitnahme der Rippen in den kostotransversalen Gelenken entsteht auf der Konvexseite ein Rippenbuckel (hier links) und korrespondierend dazu vorn auf der gleichen Seite eine Abflachung, auf der Gegenseite (hier rechts) eine Vorwölbung.",
+      "figures": [
+        {
+          "caption": "Abb. 17.21 Wirbelrotation und -torsion bei Skoliose",
+          "shows": "Schematischer Horizontalschnitt durch den Brustkorb: um die Längsachse rotierter, torquierter Wirbel mit Rippenbuckel auf der Konvexseite, Abflachung vorn auf derselben Seite und Vorwölbung auf der Gegenseite",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bei Skoliose ist der Wirbel um seine Längsachse rotiert und durch Torsionskräfte verformt (torquiert)",
+        "Mitnahme der Rippen in den kostotransversalen Gelenken erzeugt den Rippenbuckel auf der Konvexseite",
+        "Vorn auf der Konvexseite Abflachung, auf der Gegenseite Vorwölbung"
+      ]
+    }
+  ]
+}
