@@ -1,0 +1,187 @@
+{
+  "batch": "24",
+  "pages": [
+    {
+      "gidx": 277,
+      "source": "skl-psychiatrie p.277",
+      "slide_title": "ICD-11: 6A25.0 Positivsymptome und 6A25.2 Depressive Symptome bei primären psychotischen Störungen",
+      "type": "inhalt",
+      "notes_md": "[Fortsetzung Exklusionskriterium:] ... Gesundheitszustands oder einer Verletzung zurückzuführen sind, der/die nicht unter psychische Störungen, Verhaltensstörungen oder Störungen der neurologischen Entwicklung fällt (z. B. ein Hirntumor oder eine traumatische Hirnverletzung), oder auf die direkten Auswirkungen einer Substanz oder eines Medikaments auf das zentrale Nervensystem, einschließlich Entzugserscheinungen, sollten nicht als Beispiele für die jeweiligen Arten von Symptomen gelten.\n\n## 6A25.0 Positivsymptome bei primären psychotischen Störungen\n\n**Beschreibung:**\nZu den Positivsymptomen bei primären psychotischen Störungen gehören:\n\n- anhaltende Wahnvorstellungen,\n- anhaltende Halluzinationen (am häufigsten: verbale, auditive Halluzinationen),\n- desorganisiertes Denken (formale Denkstörungen wie lose Assoziationen, Gedankenentgleisungen oder Inkohärenz),\n- grob desorganisiertes Verhalten (Verhalten, das bizarr, zwecklos und nicht zielgerichtet erscheint)\n- das Erleben von Passivität und Kontrolle (das Erleben, dass die eigenen Gefühle, Impulse oder Gedanken unter der Kontrolle einer externen Kraft stehen).\n\nDie Bewertung sollte auf der Grundlage des Schweregrads der positiven Symptome in der vergangenen Woche erfolgen.\n\n**Zusätzliche Informationen:**\nDieser Deskriptor kann zusammen mit einer Diagnose aus der Gruppierung der Schizophrenie und anderer primärer psychotischer Störungen verwendet werden, um anzuzeigen, dass positive psychotische Symptome einen herausragenden Teil der aktuellen klinischen Präsentation darstellen. Zu den Positivsymptomen gehören anhaltende Wahnvorstellungen, anhaltende Halluzinationen (am häufigsten verbale, auditive Halluzinationen), desorganisiertes Denken (formale Denkstörungen wie lose Assoziationen, Gedankenentgleisungen oder Inkohärenz), grob desorganisiertes Verhalten (Verhalten, das bizarr, zwecklos und nicht zielgerichtet erscheint) und das Erleben von Passivität und Kontrolle (das Erleben, dass die eigenen Gefühle, Impulse oder Gedanken unter der Kontrolle einer externen Kraft stehen).\n\n## 6A25.2 Depressive Symptome bei primären psychotischen Störungen\n\n**Beschreibung:**\nDepressive Symptome bei primären psychotischen Störungen beziehen sich auf eine depressive Stimmung, wie sie von der betroffenen Person angegeben wird (Niedergeschlagenheit, Traurigkeit) oder sich als Zeichen manifestiert (z. B. weinerliches, niedergeschlagenes Aussehen). Wenn nur nicht-stimmungsbezogene Symptome einer depressiven Episode vorliegen (z. B. Anhedonie, psychomotorische Verlangsamung), sollte dieser Deskriptor nicht verwendet werden. Dieser Deskriptor kann unabhängig davon verwendet werden, ob die depressiven Symptome die diagnostischen Anforderungen einer gesondert diagnostizierten depressiven Störung erfüllen oder [Fortsetzung auf nächster Seite]",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "6A25.0 Positivsymptome: anhaltende Wahn, Halluzinationen (meist verbal-auditiv), desorganisiertes Denken, grob desorganisiertes Verhalten, Erleben von Passivität und Kontrolle",
+        "Bewertung der Positivsymptome nach Schweregrad in der vergangenen Woche",
+        "6A25.2 Depressive Symptome: depressive Stimmung (Niedergeschlagenheit, Traurigkeit); nicht verwenden bei nur nicht-stimmungsbezogenen Symptomen (z. B. Anhedonie, psychomotorische Verlangsamung)"
+      ]
+    },
+    {
+      "gidx": 278,
+      "source": "skl-psychiatrie p.278",
+      "slide_title": "ICD-11: 6A25.2 (Forts.) und 6A25.3 Manische Symptome bei primären psychotischen Störungen",
+      "type": "inhalt",
+      "notes_md": "[Fortsetzung 6A25.2:] ... nicht. Die Bewertung sollte auf der Grundlage des Schweregrads der depressiven Symptome in der vergangenen Woche erfolgen.\n\n**Zusätzliche Informationen:**\nDieser Deskriptor kann zusammen mit einer Diagnose aus der Gruppierung Schizophrenie und andere primäre psychotische Störungen verwendet werden, um anzuzeigen, dass depressive Symptome ein wichtiger Bestandteil des aktuellen klinischen Bildes sind. Der Deskriptor bezieht sich nur auf depressive Stimmungssymptome, d. h. auf eine depressive Stimmung, wie sie von der betroffenen Person angegeben wird (Niedergeschlagenheit, Traurigkeit) oder sich in Form von Anzeichen manifestiert (z. B. weinerliches, niedergeschlagenes Aussehen). Wenn nur nicht-stimmungsbezogene Symptome einer depressiven Episode vorliegen (z. B. Anhedonie, psychomotorische Verlangsamung), sollte dieser Deskriptor nicht verwendet werden. Dieser Deskriptor kann unabhängig davon verwendet werden, ob die depressiven Symptome die diagnostischen Anforderungen einer gesondert diagnostizierten depressiven Störung erfüllen oder nicht.\n\n## 6A25.3 Manische Symptome bei primären psychotischen Störungen\n\n**Beschreibung:**\nDie manischen Symptome bei primären psychotischen Störungen beziehen sich auf gehobene, euphorische, reizbare oder expansive Stimmungszustände, einschließlich schneller Wechsel zwischen verschiedenen Stimmungszuständen (d. h. Stimmungslabilität). Dazu gehört auch ein gesteigertes subjektives Energieempfinden, das mit einer erhöhten zielgerichteten Aktivität einhergehen kann. Der Schweregrad der mit einer manischen oder hypomanischen Episode verbundenen Nicht-Stimmungssymptome (z. B. vermindertes Schlafbedürfnis, Ablenkbarkeit) sollte bei der Bewertung nicht berücksichtigt werden. Erhöhte nicht-zielgerichtete psychomotorische Aktivität sollte nicht hier, sondern im Rahmen der Bewertung der \"psychomotorischen Symptome bei primären psychotischen Störungen\" berücksichtigt werden. Dieser Deskriptor kann unabhängig davon verwendet werden, ob die manischen Symptome die diagnostischen Anforderungen einer separat diagnostizierten bipolaren Störung erfüllen oder nicht. Die Einstufung sollte auf der Grundlage des Schweregrads der Symptome der manischen Stimmung während der letzten Woche vorgenommen werden.\n\n**Zusätzliche Informationen:**\nDieser Deskriptor kann zusammen mit einer Diagnose aus der Gruppe der Schizophrenie und anderen primären psychotischen Störungen verwendet werden, um anzuzeigen, dass manische Symptome ein wichtiger Bestandteil des klinischen Bildes sind. Der Deskriptor bezieht sich auf gehobene, euphorische, reizbare oder expansive Stimmungszustände, einschließlich rascher Wechsel zwischen verschiedenen Stimmungszuständen (d. h. Stimmungslabilität), die mit erhöhter Energie oder Aktivität einhergehen, wenn diese eine erhebliche Abweichung von der typischen Stimmung und dem Energie- oder Aktivitätsniveau der Person darstellen. Dieser Deskriptor kann verwendet werden, unabhängig davon, ob die manischen Symptome die diagnostischen Anforderungen einer separat diagnostizierten bipolaren Störung erfüllen oder nicht.",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "6A25.3 Manische Symptome: gehobene, euphorische, reizbare oder expansive Stimmung inkl. Stimmungslabilität; gesteigertes subjektives Energieempfinden mit erhöhter zielgerichteter Aktivität",
+        "Nicht-Stimmungssymptome (z. B. vermindertes Schlafbedürfnis, Ablenkbarkeit) werden bei der Bewertung nicht berücksichtigt",
+        "Einstufung nach Schweregrad der manischen Stimmung während der letzten Woche; unabhängig von Kriterien einer bipolaren Störung"
+      ]
+    },
+    {
+      "gidx": 279,
+      "source": "skl-psychiatrie p.279",
+      "slide_title": "ICD-11: 6A25.4 Psychomotorische und 6A25.5 Kognitive Symptome bei primären psychotischen Störungen",
+      "type": "inhalt",
+      "notes_md": "## 6A25.4 Psychomotorische Symptome bei primären psychotischen Störungen\n\n**Beschreibung:**\nZu den psychomotorischen Symptomen bei primären psychotischen Störungen gehören psychomotorische Unruhe oder übermäßige motorische Aktivität, die sich in der Regel durch zwecklose Verhaltensweisen wie Zappeln, Umhergehen, Herumfuchteln, Unfähigkeit, still zu sitzen oder zu stehen, Ringen der Hände, psychomotorische Retardierung oder eine sichtbare allgemeine Verlangsamung von Bewegungen und Sprache sowie katatonische Symptome wie Erregung, Körperhaltung, wächserne Flexibilität, Negativismus, Mutismus oder Stupor äußern. Die Bewertung sollte auf der Grundlage der Schwere der psychomotorischen Symptome während der letzten Woche erfolgen.\n\n**Zusätzliche Informationen:**\nDieser Deskriptor kann zusammen mit einer Diagnose aus der Gruppierung der Schizophrenie und anderer primärer psychotischer Störungen verwendet werden, um anzuzeigen, dass psychomotorische Symptome einen herausragenden Teil des klinischen Bildes darstellen. Zu den psychomotorischen Symptomen gehören psychomotorische Unruhe oder übermäßige motorische Aktivität, die sich in der Regel durch zweckloses Verhalten wie Zappeln, Umhergehen, Herumfuchteln, Unfähigkeit, still zu sitzen oder zu stehen, Ringen mit den Händen usw. äußert, psychomotorische Retardierung oder eine sichtbare allgemeine Verlangsamung von Bewegungen und Sprache sowie katatonische Symptome wie Erregung, Körperhaltung, wächserne Flexibilität, Negativismus, Mutismus oder Stupor. Liegt ein vollständiges Katatonie-Syndrom vor, sollte dies separat diagnostiziert werden.\n\n## 6A25.5 Kognitive Symptome bei primären psychotischen Störungen\n\n**Beschreibung:**\nKognitive Symptome bei primären psychotischen Störungen beziehen sich auf kognitive Beeinträchtigungen in einem der folgenden Bereiche: Verarbeitungsgeschwindigkeit, Aufmerksamkeit/Konzentration, Orientierung, Urteilsvermögen, Abstraktionsvermögen, verbales oder visuelles Lernen und Arbeitsgedächtnis. Die kognitive Beeinträchtigung ist nicht auf eine neurologische Entwicklungsstörung, ein Delirium oder eine andere neurokognitive Störung oder auf die direkten Auswirkungen einer Substanz oder eines Medikaments auf das zentrale Nervensystem, einschließlich Entzugserscheinungen, zurückzuführen. Idealerweise sollte die Verwendung dieser Kategorie auf den Ergebnissen lokal validierter, standardisierter neuropsychologischer Bewertungen beruhen, auch wenn solche Messungen nicht in allen Einrichtungen verfügbar sind. Die Einstufung sollte auf der Grundlage des Schweregrads der kognitiven Symptome während der letzten Woche vorgenommen werden.\n\n**Exklusive:**\n\n- Neurokognitive Störungen (6D70-6E0Z)\n- Neuronale Entwicklungsstörungen (6A00-6A0Z)",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "6A25.4 Psychomotorische Symptome: Unruhe/übermäßige motorische Aktivität (Zappeln, Umhergehen, Herumfuchteln), Retardierung, katatonische Symptome (wächserne Flexibilität, Negativismus, Mutismus, Stupor)",
+        "Vollständiges Katatonie-Syndrom soll separat diagnostiziert werden",
+        "6A25.5 Kognitive Symptome: Beeinträchtigung von Verarbeitungsgeschwindigkeit, Aufmerksamkeit/Konzentration, Orientierung, Urteilsvermögen, Abstraktionsvermögen, verbales/visuelles Lernen, Arbeitsgedächtnis",
+        "Exklusive: Neurokognitive Störungen (6D70-6E0Z), Neuronale Entwicklungsstörungen (6A00-6A0Z)"
+      ]
+    },
+    {
+      "gidx": 280,
+      "source": "skl-psychiatrie p.280",
+      "slide_title": "Schizophrenie — Ludwig Fresenius Schulen (Titel)",
+      "type": "titel",
+      "notes_md": "# Schizophrenie\n\n**Ludwig Fresenius Schulen**\n\nTitelbild: künstlerische Kinderzeichnung (\"Schizophrenia\"). Quellenangabe: \"Dieses Foto\" von Unbekannter Autor ist lizenziert gemäß CC BY.",
+      "figures": [
+        {
+          "caption": "Titelbild: Zeichnung mit der Aufschrift \"Schizophrenia\"",
+          "shows": "Künstlerische Kinderzeichnung eines Gesichts mit aufgerissenen Augen und Händen, mit handschriftlichem Schriftzug \"Schizophrenia\"",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": ["Themenblock: Schizophrenie (Ludwig Fresenius Schulen)"]
+    },
+    {
+      "gidx": 281,
+      "source": "skl-psychiatrie p.281",
+      "slide_title": "Inhalte",
+      "type": "gliederung",
+      "notes_md": "# Inhalte\n\n- Wichtiges vorweg\n- Allgemeine Informationen\n- Fallbeispiel\n  - Video\n- Diagnostische Einteilung\n- Prognosen & Verlauf\n- Symptomatik\n- Erklärungsmodelle\n- Ergotherapie bei Menschen mit Schizophrenie",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": ["Gliederung der Lehreinheit Schizophrenie: u. a. Diagnostische Einteilung, Symptomatik, Erklärungsmodelle, Ergotherapie"]
+    },
+    {
+      "gidx": 282,
+      "source": "skl-psychiatrie p.282",
+      "slide_title": "Schizophrenie — Wichtiges vorweg!",
+      "type": "inhalt",
+      "notes_md": "# Schizophrenie\n\n**Wichtiges vorweg!**\n\nSchizophrenie wird im Volksmund oft als Erkrankung von Menschen mit „mehreren oder einer gespaltenen Persönlichkeit“ benannt. **Dies ist nicht korrekt.** Die Bezeichnung für eine solche Störung gehört in die Erkrankungen der Persönlichkeitsstörungen und wird **„dissoziative Identitätsstörung“** genannt!\n\nDie Schizophrenie ist gekennzeichnet durch Veränderungen bzw. Störungen des **Denkens**, der **Wahrnehmung** und der **Affektivität**. Dabei werden symptomatische Erscheinungsformen unterschieden.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Schizophrenie ist KEINE „gespaltene Persönlichkeit“ — diese Störung heißt dissoziative Identitätsstörung und gehört zu den Persönlichkeitsstörungen",
+        "Schizophrenie: gekennzeichnet durch Veränderungen/Störungen des Denkens, der Wahrnehmung und der Affektivität"
+      ]
+    },
+    {
+      "gidx": 283,
+      "source": "skl-psychiatrie p.283",
+      "slide_title": "Allgemeine Informationen",
+      "type": "inhalt",
+      "notes_md": "# Allgemeine Informationen\n\n- Erkrankung gehört zur Gruppe der **Psychosen**.\n- In Deutschland sind etwa **0,5 – 1% der Bevölkerung** betroffen.\n- Es gibt nicht die Schizophrenie, sondern **Erkrankungen aus dem schizophrenen Formenkreis**.\n- Verhältnis Frauen zu Männern ist insgesamt **1:1**; bei unter 40jährigen erkranken doppelt so viele Männer wie Frauen, bei über 40jährigen doppelt so viele Frauen wie Männer.\n- Das **Ersterkrankungsalter** liegt bei Frauen zwischen **23 und 28 Jahren**, bei Männern zwischen **18 und 23**.\n- Die **Lebenserwartung ist um ca. 15 Jahre verringert**.\n- **10% der Kinder** erkranken, wenn ein Elternteil betroffen ist / **30% der Kinder** erkranken, wenn beide Elternteile betroffen sind.\n- Häufigste komorbide psychische Störung bei Menschen mit einer Schizophrenie ist der **Substanzmissbrauch**, von dem **50–80% der Erkrankten** betroffen sind.\n- Psychosen kommen **ähnlich häufig vor wie Diabetes**.\n- Es gibt **keine signifikant erfasste Zunahme** in den letzten Jahren.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Prävalenz in Deutschland: 0,5–1% der Bevölkerung; Psychosen ähnlich häufig wie Diabetes",
+        "Ersterkrankungsalter: Frauen 23–28 Jahre, Männer 18–23 Jahre",
+        "Lebenserwartung um ca. 15 Jahre verringert",
+        "Erkrankungsrisiko der Kinder: 10% bei einem betroffenen Elternteil, 30% bei beiden betroffenen Elternteilen",
+        "Häufigste Komorbidität: Substanzmissbrauch (50–80% der Erkrankten)"
+      ]
+    },
+    {
+      "gidx": 284,
+      "source": "skl-psychiatrie p.284",
+      "slide_title": "Frag einen Schizophrenen (Video/Fallbeispiel)",
+      "type": "quelle",
+      "notes_md": "# Frag einen Schizophrenen\n\nVideo-Fallbeispiel (YouTube):\n\nhttps://www.youtube.com/watch?v=oplVbrFHDB4\n\nAbbildung: Standbild aus dem Video mit Schriftzug \"FRAG EINEN SCHIZOPHRENEN\".",
+      "figures": [
+        {
+          "caption": "Standbild aus dem YouTube-Video \"Frag einen Schizophrenen\"",
+          "shows": "Person vor violettem Hintergrund mit eingeblendetem Schriftzug \"FRAG EINEN SCHIZOPHRENEN\"",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": ["Fallbeispiel-Video: \"Frag einen Schizophrenen\" (YouTube, https://www.youtube.com/watch?v=oplVbrFHDB4)"]
+    },
+    {
+      "gidx": 285,
+      "source": "skl-psychiatrie p.285",
+      "slide_title": "Diagnostische Einteilung (Zwischentitel)",
+      "type": "titel",
+      "notes_md": "# Diagnostische Einteilung\n\nZwischentitel (Abschnittseinstieg). Deko-Illustration: Person vor einem Laptop mit der Aufschrift \"DIAGNOSIS\".",
+      "figures": [
+        {
+          "caption": "Deko-Illustration: Laptop mit Schriftzug \"DIAGNOSIS\"",
+          "shows": "Illustration einer Person, die auf einem Laptop-Bildschirm eine Diagnose-Seite ausfüllt",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": ["Abschnittseinstieg: Diagnostische Einteilung"]
+    },
+    {
+      "gidx": 286,
+      "source": "skl-psychiatrie p.286",
+      "slide_title": "Diagnostische Einteilung nach ICD-11: 6A20 Schizophrenie — Beschreibung",
+      "type": "inhalt",
+      "notes_md": "# Diagnostische Einteilung nach ICD-11\n\n## 6A20 Schizophrenie — Beschreibung\n\nSchizophrenie ist durch Störungen in mehreren mentalen Modalitäten gekennzeichnet, einschließlich:\n\n- **des Denkens** (z. B. Wahnvorstellungen, Desorganisation in der Form des Denkens),\n- **der Wahrnehmung** (z. B. Halluzinationen),\n- **der Selbsterfahrung** (z. B. die Erfahrung, dass die eigenen Gefühle, Impulse, Gedanken oder das Verhalten unter der Kontrolle einer externen Kraft stehen),\n- **der Kognition** (z. B. Beeinträchtigung der Aufmerksamkeit, des verbalen Gedächtnisses und der sozialen Kognition),\n- **des Willens** (z. B. Motivationsverlust),\n- **des Affekts** (z. B. abgestumpfter Gefühlsausdruck)\n- **und des Verhaltens** (z. B. Verhalten, das bizarr oder zwecklos erscheint, unvorhersehbare oder unangemessene emotionale Reaktionen, die die Organisation des Verhaltens stören)\n\n**Mindestens zwei dieser Symptome müssen nachweislich vorliegen.**",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "ICD-11 6A20 Schizophrenie: Störungen in mentalen Modalitäten — Denken, Wahrnehmung, Selbsterfahrung, Kognition, Wille, Affekt, Verhalten",
+        "Diagnosevoraussetzung: mindestens zwei dieser Symptome nachweislich vorhanden"
+      ]
+    },
+    {
+      "gidx": 287,
+      "source": "skl-psychiatrie p.287",
+      "slide_title": "6A20 Schizophrenie — Beschreibung (Fortsetzung)",
+      "type": "inhalt",
+      "notes_md": "# 6A20 Schizophrenie — Beschreibung\n\n- **Psychomotorische Störungen, einschließlich Katatonie, können vorhanden sein.**\n- **Anhaltende Wahnvorstellungen, anhaltende Halluzinationen, Denkstörungen und Erfahrungen von Einflussnahme, Passivität oder Kontrolle gelten als Kernsymptome.**\n- Die Symptome müssen **mindestens einen Monat lang** bestanden haben, damit die Diagnose Schizophrenie gestellt werden kann.\n- Die Symptome sind **nicht Ausdruck eines anderen Gesundheitszustands** (z. B. eines Hirntumors) und sind **nicht auf die Wirkung einer Substanz oder eines Medikaments** auf das zentrale Nervensystem (z. B. Kortikosteroide) zurückzuführen, auch **nicht auf einen Entzug** (z. B. Alkoholentzug).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Kernsymptome: anhaltende Wahn, anhaltende Halluzinationen, Denkstörungen, Erfahrungen von Einflussnahme/Passivität/Kontrolle",
+        "Dauerkriterium: Symptome mindestens 1 Monat vorhanden",
+        "Ausschluss: anderer Gesundheitszustand (z. B. Hirntumor), Substanz-/Medikamentenwirkung (z. B. Kortikosteroide), Entzug (z. B. Alkoholentzug)"
+      ]
+    },
+    {
+      "gidx": 288,
+      "source": "skl-psychiatrie p.288",
+      "slide_title": "Unterschiede zwischen ICD-10 und ICD-11",
+      "type": "inhalt",
+      "notes_md": "# Unterschiede zwischen ICD-10 und ICD-11\n\n## ICD-10\n\n- **F20 Schizophrenie**\n  - F20.0 Paranoide Schizophrenie\n  - F20.1 Hebephrene Schizophrenie\n  - F20.2 Katatone Schizophrenie\n  - F20.3 Undifferenzierte Schizophrenie\n  - F20.4 Postschizophrene Depression\n  - F20.5 Schizophrenes Residuum\n  - F20.6 Schizophrenia simplex\n  - F20.8 andere Schizophrenien\n  - F20.9 nicht näher bezeichnete Schizophrenie\n- \\+ weitere Untergruppen wie\n  - Schizotype Störung (F21)\n  - Schizoaffektive Störungen (F25)\n\n## ICD-11\n\n- **6A20 Schizophrenie**\n  - 6A20.0 Schizophrenie, erste Episode\n  - 6A20.1 Schizophrenie, mehrfache Episode\n  - 6A20.2 Schizophrenie, kontinuierlich\n- **6A21 Schizoaffektive-Störungen**\n- **6A22 Schizotype Störung**\n- **6A23 Akute vorübergehende psychische Störung**\n- **6A24 Wahnhafte Störung**\n- **6A25 Symptomatische Manifestationen primärer psychotischer Störungen**\n\nWas ist neu: Die Subtypen der Schizophrenie nach ICD-10 (paranoid, hebephren, kataton usw.) entfallen in ICD-11; stattdessen wird der Verlauf kodiert (erste Episode, mehrfache Episode, kontinuierlich) sowie symptomatische Manifestationen (6A25) ergänzend beschrieben.",
+      "figures": [
+        {
+          "caption": "Deko: Strichmännchen mit Apfel und Birne (Vergleich)",
+          "shows": "Cartoon-Figur, die einen Apfel und eine Birne abwägt (Sinnbild für den Vergleich ICD-10 vs. ICD-11)",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "ICD-10: F20 mit Subtypen (F20.0 paranoid, F20.1 hebephren, F20.2 kataton, F20.3 undifferenziert, F20.4 postschizophrene Depression, F20.5 Residuum, F20.6 simplex, F20.8/F20.9)",
+        "ICD-11: 6A20 Schizophrenie mit Verlaufskodierung (6A20.0 erste Episode, 6A20.1 mehrfache Episode, 6A20.2 kontinuierlich)",
+        "ICD-11 neu: 6A21 Schizoaffektive Störungen, 6A22 Schizotype Störung, 6A23 Akute vorübergehende psychische Störung, 6A24 Wahnhafte Störung, 6A25 Symptomatische Manifestationen primärer psychotischer Störungen",
+        "Die ICD-10-Subtypen entfallen in ICD-11 — zentraler Unterschied"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "batch": "15",
+  "pages": [
+    {
+      "gidx": 169,
+      "source": "skl-psychiatrie p.169",
+      "slide_title": "DHS Deutsche Hauptstelle für Suchtfragen e.V. (Impressum/Kontakt)",
+      "type": "quelle",
+      "notes_md": "**DHS – Deutsche Hauptstelle für Suchtfragen e.V.**\n\n- Westenwall 4 | 59065 Hamm\n- Tel. +49 2381 9015-0\n- info@dhs.de | www.dhs.de\n- Nummer: 60395 1011",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "DHS = Deutsche Hauptstelle für Suchtfragen e.V., Sitz in Hamm",
+        "Kontakt: Westenwall 4, 59065 Hamm; www.dhs.de"
+      ]
+    },
+    {
+      "gidx": 170,
+      "source": "skl-psychiatrie p.170",
+      "slide_title": "Verzichtsprotokoll",
+      "type": "inhalt",
+      "notes_md": "**VERZICHTSPROTOKOLL**\n\nIch, ________________________ verzichte eine Woche auf _______________________ .\n\nStart: ______________________\nEnde: ______________________\n\n1.) Wie war die „Woche ohne“?\n\n2.) Was war gut an der „Woche ohne“, was nicht?\n\n3.) In welchen Situationen hättest du die Gewohnheit gerne genutzt?\n\n4.) Was hast du stattdessen gemacht?\n\n5.) Falls du die „Woche ohne“ nicht geschafft hast: Was ist der Grund dafür?",
+      "figures": [],
+      "eingrenzung_hits": [3],
+      "key_facts": [
+        "Verzichtsprotokoll: Selbsterfahrungsübung – eine Woche auf eine Gewohnheit verzichten",
+        "Reflexionsfragen zu Verlauf, Auslösesituationen, Alternativverhalten und Gründen für Scheitern"
+      ]
+    },
+    {
+      "gidx": 171,
+      "source": "skl-psychiatrie p.171",
+      "slide_title": "Heft 51 Depressive Erkrankungen (Umschlag)",
+      "type": "titel",
+      "notes_md": "**Robert Koch Institut / Statistisches Bundesamt**\n\n**Heft 51 – Depressive Erkrankungen**\n\nGesundheitsberichterstattung des Bundes",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Quelle: GBE Heft 51 „Depressive Erkrankungen“, Robert Koch-Institut"
+      ]
+    },
+    {
+      "gidx": 172,
+      "source": "skl-psychiatrie p.172",
+      "slide_title": "Gesundheitsberichterstattung des Bundes Heft 51 – Depressive Erkrankungen (Impressum)",
+      "type": "quelle",
+      "notes_md": "**Gesundheitsberichterstattung des Bundes, Heft 51**\n\n**Depressive Erkrankungen**\n\n*Autoren: Hans-Ulrich Wittchen, Frank Jacobi, Michael Klose und Livia Ryl*\n\n*Herausgeber: Robert Koch-Institut, Berlin 2010*",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Autoren: Wittchen, Jacobi, Klose, Ryl",
+        "Herausgeber: Robert Koch-Institut, Berlin 2010"
+      ]
+    },
+    {
+      "gidx": 173,
+      "source": "skl-psychiatrie p.173",
+      "slide_title": "Gesundheitsberichterstattung des Bundes (GBE)",
+      "type": "inhalt",
+      "notes_md": "**Gesundheitsberichterstattung des Bundes**\n\nDie Gesundheitsberichterstattung des Bundes (GBE) liefert daten- und indikatorengestützte Beschreibungen und Analysen zu allen Bereichen des Gesundheitswesens.\n\n**Struktur der Themenfelder (Schaubild):**\n- Rahmenbedingungen des Gesundheitswesens\n- Gesundheitliche Lage\n  - Gesundheitsverhalten und -gefährdungen ↔ Gesundheitsprobleme, Krankheiten\n- Leistungen und Inanspruchnahme\n  - Ressourcen der Gesundheitsversorgung ↔ Ausgaben, Kosten und Finanzierung\n\nAls dynamisches und in ständiger Aktualisierung begriffenes System bietet die GBE Informationen in Form sich ergänzender Produkte an:\n\n- **Themenhefte der GBE:** spezifische Informationen zum Gesundheitszustand der Bevölkerung und zum Gesundheitssystem, handlungsorientiert und übersichtlich; jedes Themenheft ist einem GBE-Themenfeld zugeordnet; fortlaufende Erscheinungsweise gewährleistet Aktualität. www.rki.de\n- **Informationssystem der GBE:** Online-Datenbank mit gesundheitsrelevanten Informationen (individuell gestaltbare Tabellen, Grafiken, Texte, Definitionen, herunterladbar); über 100 Datenquellen; Abruf der GBE-Themenhefte und weiterer Publikationen. www.gbe-bund.de\n- **Schwerpunktberichte:** spezielle Themen der Gesundheit und des Gesundheitssystems detailliert und umfassend. www.rki.de\n- **GBE kompakt:** Online-Publikationsreihe mit Daten und Fakten zu aktuellen gesundheitlichen Themen; vierteljährlich, ausschließlich elektronisch. www.rki.de/gbe-kompakt\n\nDie Aussagen der GBE beziehen sich auf die nationale, bundesweite Ebene und haben Referenzfunktion",
+      "figures": [
+        {
+          "caption": "Themenfelder der Gesundheitsberichterstattung des Bundes",
+          "shows": "Kastenschema der GBE-Themenfelder: Rahmenbedingungen, Gesundheitliche Lage (Gesundheitsverhalten/-gefährdungen, Gesundheitsprobleme/Krankheiten), Leistungen und Inanspruchnahme (Ressourcen der Gesundheitsversorgung, Ausgaben/Kosten/Finanzierung)",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "GBE liefert daten- und indikatorengestützte Beschreibungen zu allen Bereichen des Gesundheitswesens",
+        "GBE-Produkte: Themenhefte, Informationssystem (Online-Datenbank), Schwerpunktberichte, GBE kompakt"
+      ]
+    },
+    {
+      "gidx": 174,
+      "source": "skl-psychiatrie p.174",
+      "slide_title": "Einordnung von Heft 51 „Depressive Erkrankungen“ in die GBE-Themenfelder",
+      "type": "inhalt",
+      "notes_md": "... für die Gesundheitsberichterstattung der Länder. Auf diese Weise stellt die GBE des Bundes eine fachliche Grundlage für politische Entscheidungen bereit und bietet allen Interessierten eine datengestützte Informationsgrundlage. Darüber hinaus dient sie der Erfolgskontrolle durchgeführter Maßnahmen und trägt zur Entwicklung und Evaluierung von Gesundheitszielen bei.\n\nDer Leser- und Nutzerkreis der GBE-Produkte ist breit gefächert: Angesprochen sind Gesundheitspolitikerinnen und -politiker, Expertinnen und Experten in wissenschaftlichen Forschungseinrichtungen und die Fachöffentlichkeit. Zur Zielgruppe gehören auch Bürgerinnen und Bürger, Patientinnen und Patienten, Verbraucherinnen und Verbraucher und ihre jeweiligen Verbände.\n\n**Einordnung von Heft 51 „Depressive Erkrankungen“ in das Gesamtspektrum der Themenfelder:**\n- Rahmenbedingungen des Gesundheitswesens\n- Gesundheitliche Lage\n  - Gesundheitsverhalten und -gefährdungen ↔ Gesundheitsprobleme, Krankheiten ↔ **Psychische und Verhaltensstörungen ↔ Depressive Erkrankungen**\n- Leistungen und Inanspruchnahme\n  - Ressourcen der Gesundheitsversorgung ↔ Ausgaben, Kosten und Finanzierung",
+      "figures": [
+        {
+          "caption": "Einordnung von Heft 51 in die GBE-Themenfelder",
+          "shows": "Kastenschema: Depressive Erkrankungen als Unterthema der Psychischen und Verhaltensstörungen innerhalb der Themenfelder der GBE",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Depressive Erkrankungen gehören im GBE-Schema zu „Psychische und Verhaltensstörungen“",
+        "GBE-Zielgruppe: Politik, Wissenschaft, Fachöffentlichkeit, Bürger, Patienten, Verbände"
+      ]
+    },
+    {
+      "gidx": 175,
+      "source": "skl-psychiatrie p.175",
+      "slide_title": "Inhaltsverzeichnis (Heft 51 Depressive Erkrankungen)",
+      "type": "gliederung",
+      "notes_md": "**Inhaltsverzeichnis**\n\n1. Einleitung (S. 7)\n2. Krankheitsformen (S. 7)\n   - 2.1 Depressive Episode (9)\n   - 2.2 Dysthymia (10)\n   - 2.3 Sonstige depressive Störungen (11)\n   - 2.4 Bipolare affektive Störungen (11)\n   - 2.5 Verlauf depressiver Erkrankungen (12)\n3. Diagnostik (12)\n4. Ursachen und Risikofaktoren (14)\n   - 4.1 Genetische Faktoren (15)\n   - 4.2 Neurobiologische Faktoren (16)\n   - 4.3 Psychosoziale Belastungsfaktoren (16)\n   - 4.4 Persönlichkeitsfaktoren (17)\n   - 4.5 Frühere psychische Störungen (17)\n   - 4.6 Körperliche Erkrankungen (18)\n5. Verbreitung (18)\n   - 5.1 Häufigkeit in der erwachsenen Allgemeinbevölkerung (18)\n   - 5.2 Häufigkeit in der Allgemeinarztpraxis (20)\n   - 5.3 Inzidenz und Ersterkrankungsalter (21)\n   - 5.4 Komorbidität (21)\n   - 5.5 Depression in Kindheit und Jugend (22)\n   - 5.6 Häufigkeit der Depression im Alter (23)\n6. Folgen (24)\n   - 6.1 Auswirkungen auf die Sterblichkeit (24)\n   - 6.2 Suizid (25)\n   - 6.3 Ökonomische Folgen (25)\n7. Versorgung (26)\n   - 7.1 Versorgungsangebote (26)\n   - 7.2 Therapie (28)\n   - 7.3 Medikamentöse Therapie (29)\n   - 7.4 Psychotherapeutische Behandlung (30)\n   - 7.5 Behandlungsquote und Inanspruchnahme (32)\n   - 7.6 Rehabilitation (32)\n8. Prävention (32)\n9. Perspektive (33)\n10. Literatur (35)\n11. Glossar (41)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Gliederung des GBE-Hefts 51: Krankheitsformen, Diagnostik, Ursachen/Risikofaktoren, Verbreitung, Folgen, Versorgung, Prävention"
+      ]
+    },
+    {
+      "gidx": 176,
+      "source": "skl-psychiatrie p.176",
+      "slide_title": "(Leerseite)",
+      "type": "deko",
+      "notes_md": "Leerseite (nur Kopfzeile „Gesundheitsberichterstattung des Bundes – Heft 51“, Seite 6).",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 177,
+      "source": "skl-psychiatrie p.177",
+      "slide_title": "Depressive Erkrankungen – 1 Einleitung, 2 Krankheitsformen",
+      "type": "inhalt",
+      "notes_md": "**Depressive Erkrankungen**\n\n**1 Einleitung**\n\n- Depressionen gehören zu den häufigsten Formen psychischer Erkrankungen. Sie haben aufgrund ihrer Häufigkeit, ihrer Komplikationen und Folgen eine herausragende klinische, gesundheitspolitische und gesundheitsökonomische Bedeutung.\n- Neue nationale und internationale Bevölkerungsstudien haben verlässliche und konsistente Abschätzungen der Verbreitung von Depressionen und der assoziierten Folgen und Behinderungen bereitgestellt. In Übereinstimmung mit Trends der Arbeitsunfähigkeitsstatistiken liefern diese Studien auch Hinweise auf eine Zunahme depressiver Erkrankungen.\n- Nach Studien der Weltgesundheitsorganisation (WHO), der Weltbank und des European Brain Council sind Depressionen in Europa und Deutschland seit Anfang der 1990er-Jahre noch vor anderen Volkskrankheiten wie Diabetes mellitus oder koronaren Herzerkrankungen als die gesellschaftlich belastendste Krankheitsgruppe einzuordnen. Zu dieser Einschätzung kommen regelmäßige Untersuchungen unter Führung der WHO, die für alle Erkrankungen – psychische wie körperliche – anhand von Häufigkeit, Dauer und Schwere einer Erkrankung sowie den damit verbundenen Beeinträchtigungen und Behinderungen einheitliche Methoden und Indikatoren einsetzen (z. B. Disability Adjusted Life Years, DALY).\n- Aber nicht nur die klinische, epidemiologische und gesundheitsökonomische Bedeutung, sondern auch die in verschiedenen Studien aufgedeckten Versorgungsdefizite machen die Depression zu einem vorrangigen Problem des Gesundheitssystems.\n- Inhalt des Hefts: Überblick über Formen depressiver Erkrankungen, ihre Diagnostik und ihre Ursachen sowie deren Häufigkeit in der deutschen Bevölkerung; vertiefend depressive Erkrankungen bei Kindern und Jugendlichen sowie Älteren; Behandlungsmöglichkeiten im Zusammenhang mit der Versorgungsstruktur im deutschen Gesundheitswesen.\n\n**2 Krankheitsformen**\n\n- Depressive Erkrankungen sind den sogenannten **affektiven Störungen (ICD-10: F30–F39)** zugeordnet (siehe Abbildung 1).\n- Affektive Erkrankungen sind ein Sammelbegriff für verschiedene Formen depressiver und sogenannter manisch bzw. manisch-depressiver Erkrankungen (auch bipolare Erkrankungen genannt, siehe ICD-10: F30–F31). Bei diesen stehen klinisch-bedeutsame und beeinträchtigende Störungen von Affekt, Stimmung und damit einhergehenden Kognitionen im Vordergrund des Störungsbildes.\n- Affektive Störungen und Depressionen werden auf der Grundlage der **ICD-10** (International Classification of Diseases; in der zehnten Überarbeitung) oder des im Forschungskontext gebräuchlichen US-amerikanischen Diagnosenmanuals **DSM-IV-TR** (Diagnostic and Statistical Manual of Mental Disorders; vierte Auflage) über klinische und explizit ausformulierte diagnostische Kriterien diagnostiziert.\n- Diese Kriterien beruhen in erster Linie auf den Symptomen der Erkrankung, ihrer Persistenz (Fortbestehen) und Schwere, den daraus resultierenden Einschränkungen und Behinderungen sowie ihrem Verlauf.\n- Beide Klassifikationssysteme weisen im Hinblick auf Depressionen eine gute Übereinstimmung auf, unterscheiden sich aber geringfügig hinsichtlich der berücksichtigten Symptomgruppen sowie den Schwellenwerten für eine depressive Episode.\n- Depressionen lassen sich nach diesen Kriterien (siehe Abbildung 1) zuverlässig und trennscharf von normalen Stimmungsschwankungen abgrenzen. Sie ermöglichen eine zuverlässige differentialdiagnostische Abgrenzung von anderen psychischen Störungen, wie auch verschiedener Formen depressiver Erkrankungen untereinander.",
+      "figures": [],
+      "eingrenzung_hits": [4, 5],
+      "key_facts": [
+        "Depressionen: häufigste psychische Erkrankungen; gesellschaftlich belastendste Krankheitsgruppe (vor Diabetes mellitus und koronarer Herzerkrankung) laut WHO/Weltbank/European Brain Council",
+        "Depressive Erkrankungen = affektive Störungen, ICD-10: F30–F39",
+        "Diagnose nach ICD-10 oder DSM-IV-TR über explizite diagnostische Kriterien (Symptome, Persistenz, Schwere, Beeinträchtigung, Verlauf)",
+        "ICD-10 und DSM: gute Übereinstimmung bei Depressionen, geringfügige Unterschiede bei Symptomgruppen und Schwellenwerten für eine depressive Episode"
+      ]
+    },
+    {
+      "gidx": 178,
+      "source": "skl-psychiatrie p.178",
+      "slide_title": "Abbildung 1: Klassifikation affektiver Störungen nach ICD-10, F30–F39",
+      "type": "inhalt",
+      "notes_md": "**Abbildung 1: Klassifikation affektiver Störungen nach ICD-10, F30–F39** (Quelle: [3])\n\n- **F30 Manische Episode**\n  - F30.0 Hypomanie\n  - F30.1 Manie ohne psychotische Symptome\n  - F30.2 Manie mit psychotischen Symptomen\n  - F30.8 Sonstige manische Episoden\n  - F30.9 Manische Episode, nicht näher bezeichnet\n- **F31 Bipolare affektive Störung**\n  - F31.0 Bipolare affektive Störung, gegenwärtig hypomanische Episode\n  - F31.1 Bipolare affektive Störung, gegenwärtig manische Episode ohne psychotische Symptome\n  - F31.2 Bipolare affektive Störung, gegenwärtig manische Episode mit psychotischen Symptomen\n  - F31.3 Bipolare affektive Störung, gegenwärtig leichte oder mittelgradige depressive Episode\n  - F31.4 Bipolare affektive Störung, gegenwärtig schwere depressive Episode ohne psychotische Symptome\n  - F31.5 Bipolare affektive Psychose, gegenwärtig schwere depressive Episode mit psychotischen Symptomen\n  - F31.6 Bipolare affektive Psychose, gegenwärtig gemischte Episode\n  - F31.7 Bipolare affektive Psychose, gegenwärtig remittiert\n  - F31.8 Sonstige bipolare affektive Störungen\n  - F31.9 Bipolare affektive Störung, nicht näher bezeichnet\n- **F32 Depressive Episode**\n  - F32.0 Leichte depressive Episode\n  - F32.1 Mittelgradige depressive Episode\n  - F32.2 Schwere depressive Episode ohne psychotische Symptome\n  - F32.3 Schwere depressive Episode mit psychotischen Symptomen\n  - F32.8 Sonstige depressive Episoden\n  - F32.9 Depressive Episode, nicht näher bezeichnet\n- **F33 Rezidivierende depressive Störung**\n  - F33.0 Rezidivierende depressive Störung, gegenwärtig leichte Episode\n  - F33.1 Rezidivierende depressive Störung, gegenwärtig mittelgradige Episode\n  - F33.2 Rezidivierende depressive Störung, gegenwärtig schwere Episode ohne psychotische Symptome\n  - F33.3 Rezidivierende depressive Störung, gegenwärtig schwere Episode mit psychotischen Symptomen\n  - F33.4 Rezidivierende depressive Störung, gegenwärtig remittiert\n  - F33.8 Sonstige rezidivierende depressive Störungen\n  - F33.9 Rezidivierende depressive Störung, nicht näher bezeichnet\n- **F34 Anhaltende affektive Störungen**\n  - F34.0 Zyklothymia\n  - F34.1 Dysthymia\n  - F34.8 Sonstige anhaltende affektive Störungen\n  - F34.9 Anhaltende affektive Störung, nicht näher bezeichnet\n- **F38 Andere affektive Störungen**\n  - F38.0 Andere einzelne affektive Störungen\n  - F38.1 Andere rezidivierende affektive Störungen\n  - F38.8 Sonstige näher bezeichnete affektive Störungen\n- **F39 Nicht näher bezeichnete affektive Störung**\n\n**Fließtext:**\n- Allerdings zeigt sich, dass diese Kriterien noch keinen flächendeckenden Eingang in die klinische Praxis gefunden haben, so dass oft noch ältere, weniger zuverlässige bzw. klinisch-intuitive Praktiken vorkommen können. Dies lässt sich dadurch erklären, dass vor Einführung der modernen diagnostischen Kriterien nach ICD-10 und DSM in der Forschung und Praxis eine eher ätiologische, also an den vermeintlichen Ursachen orientierte Diagnostik mit den traditionellen diagnostischen Begrifflichkeiten neurotische, reaktive oder endogene (d. h. körperlich bedingte) Depression verbreitet war. Die moderne Forschung hat jedoch gezeigt, dass jede Depression mehr oder weniger fehlangepasste (neurotische), situationsbedingte (reaktive) und körperliche Ursachen hat, so dass diese Krankheitskonzeption wenig zuverlässig und nützlich ist und besser durch den rein deskriptiven und neutraleren Begriff **depressive Störung oder Erkrankung** ersetzt werden sollte.\n- In der Laienöffentlichkeit sind Begriffe wie depressiv und Depression, wenn sie sich nicht explizit auf die modernen Depressionskriterien beziehen, kein verlässlicher Ausdruck für eine behandlungsbedürftige psychische Störung. Sie gelten lediglich als Platzhalter für viele Formen von negativen Befindlichkeiten, sei es im Zusammenhang mit sozialen Stressereignissen und Belastungssituationen, Konflikten oder akuten bzw. chronischen medizinischen Leiden.",
+      "figures": [
+        {
+          "caption": "Abbildung 1: Klassifikation affektiver Störungen nach ICD-10, F30–F39",
+          "shows": "Tabellarische Übersicht der ICD-10-Schlüsselnummern F30–F39 mit allen Unterkategorien (Manische Episode, Bipolare affektive Störung, Depressive Episode, Rezidivierende depressive Störung, Anhaltende/Andere affektive Störungen)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 5],
+      "key_facts": [
+        "ICD-10 F30–F39 = affektive Störungen: F30 Manische Episode, F31 Bipolare affektive Störung, F32 Depressive Episode, F33 Rezidivierende depressive Störung, F34 Anhaltende affektive Störungen (F34.0 Zyklothymia, F34.1 Dysthymia), F38/F39 andere/nicht näher bezeichnete",
+        "F32.0 leicht, F32.1 mittelgradig, F32.2 schwer ohne, F32.3 schwer mit psychotischen Symptomen",
+        "Traditionelle Begriffe (neurotische, reaktive, endogene Depression) sind überholt – ersetzt durch den deskriptiven Begriff depressive Störung"
+      ]
+    },
+    {
+      "gidx": 179,
+      "source": "skl-psychiatrie p.179",
+      "slide_title": "2.1 Depressive Episode – Abbildung 2: Kriterien einer depressiven Episode",
+      "type": "inhalt",
+      "notes_md": "**Differentialdiagnostischer Entscheidungsprozess** (mehrstufig, siehe Abbildung 2):\n1. Erfüllen Art und Anzahl der depressiven Symptome die Schwellenkriterien für eine depressive Episode?\n2. Ist die Episode leicht-, mittel- oder schwergradig ausgeprägt (anhand der Ausprägung und Anzahl der Symptome)?\n3. Liegt eine rezidivierende Depression oder eine Depression im Rahmen einer bipolaren Störung vor? (Gab es früher schon einmal im Lebensverlauf derartige Episoden? = rezidivierende depressive Störung; traten früher schon einmal manische oder hypomane Episoden auf? = bipolare Störung)\n4. Wurde die Depression durch Substanzen (= Substanzinduzierte Depression) oder einen körperlichen Faktor ausgelöst?\n\n**2.1 Depressive Episode**\n\n- Ein wesentliches Merkmal einer klinischen Depression (im Sinne einer depressiven Episode, ICD-10: F32 oder einer Major Depression nach DSM) ist die **Persistenz der depressiven Kernsymptome**, die **mindestens zwei Wochen** lang klinisch bedeutsam ausgeprägt vorliegen und eine deutliche Veränderung gegenüber dem normalen Befinden darstellen müssen.\n- Die Kriterien einer Depressiven Episode (synonym: Major Depression) (siehe Abbildung 2) erfordern neben den **Hauptsymptomen Niedergeschlagenheit/Traurigkeit und Verlust von Interesse und Freude** das Vorliegen einer Reihe weiterer Symptome. Zu den Hauptsymptomen in der ICD-10 wird auch der klinisch-bedeutsame **Verlust von Antrieb und Energie** gezählt.\n- Neben diesen sind zumindest einige weitere Symptome körperlicher, affektiver, kognitiver und verhaltensbezogener Art erforderlich, um eine depressive Episode nach ICD (bzw. Major Depression) zu diagnostizieren.\n\n**Abbildung 2: Kriterien einer depressiven Episode** (Quelle: modifiziert nach DSM-IV-TR)\n\n- **A** Mindestens fünf der folgenden Symptome bestehen während derselben Zwei-Wochen-Periode und stellen eine Änderung gegenüber der vorher bestehenden Leistungsfähigkeit dar; mindestens eines der Symptome ist entweder (1) depressive Verstimmung oder (2) Verlust an Interesse oder Freude:\n  1. Depressive Verstimmung an fast allen Tagen, für die meiste Zeit des Tages, vom Betroffenen selbst berichtet (z. B. fühlt sich traurig oder leer) oder von Anderen beobachtet (z. B. erscheint den Tränen nahe) (bei Kindern und Jugendlichen auch eine reizbare Verstimmung)\n  2. Deutlich vermindertes Interesse oder Freude an allen oder fast allen Aktivitäten, an fast allen Tagen, für die meiste Zeit des Tages (entweder nach subjektivem Ermessen oder von Anderen beobachtet)\n  3. Deutlicher Gewichtsverlust ohne Diät oder Gewichtszunahme (mehr als 5 % des Körpergewichts in einem Monat) oder verminderter oder gesteigerter Appetit an fast allen Tagen\n  4. Schlaflosigkeit (Einschlaf-, Durchschlafschwierigkeiten oder frühmorgendliches Erwachen) oder vermehrter Schlaf an fast allen Tagen\n  5. Psychomotorische Unruhe oder Verlangsamung an fast allen Tagen (durch Andere beobachtet, nicht nur das subjektive Gefühl von Rastlosigkeit oder Verlangsamung)\n  6. Müdigkeit oder Energieverlust an fast allen Tagen\n  7. Gefühle von Wertlosigkeit oder übermäßige oder unangemessene Schuldgefühle (die auch wahnhaftes Ausmaß annehmen können) an fast allen Tagen (nicht nur Selbstvorwürfe oder Schuldgefühle wegen der Krankheit)\n  8. Verminderte Fähigkeit zu denken oder sich zu konzentrieren oder verringerte Entscheidungsfähigkeit an fast allen Tagen (entweder nach subjektivem Ermessen oder von Anderen beobachtet)\n  9. Wiederkehrende Gedanken an den Tod (nicht nur Angst vor dem Sterben), wiederkehrende Suizidvorstellungen ohne genauen Plan, tatsächlicher Suizidversuch oder genaue Planung eines Suizids.\n- **B** Die Symptome erfüllen nicht die Kriterien einer gemischten (manisch und depressiv) bipolaren Episode.\n- **C** Die Symptome verursachen in klinisch bedeutsamer Weise Leiden oder Beeinträchtigungen in sozialen, beruflichen oder anderen wichtigen Funktionsbereichen.\n- **D** Die Symptome gehen nicht auf die direkte körperliche Wirkung einer Substanz (Droge, Medikament) oder eines medizinischen Krankheitsfaktors (z. B. Hyperthyreose) zurück.\n- **E** Die Symptome können nicht durch eine einfache Trauer erklärt werden.",
+      "figures": [
+        {
+          "caption": "Abbildung 2: Kriterien einer depressiven Episode (modifiziert nach DSM-IV-TR)",
+          "shows": "Kriterienkatalog A–E: neun Symptome (mind. fünf über zwei Wochen, davon Kernsymptom depressive Verstimmung oder Interessen-/Freudverlust) plus Ausschlusskriterien (bipolare Episode, Substanz, Krankheitsfaktor, Trauer)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4, 5],
+      "key_facts": [
+        "Depressive Episode: Kernsymptome mindestens 2 Wochen persistierend; Hauptsymptome = Niedergeschlagenheit/Traurigkeit, Verlust von Interesse und Freude (ICD-10 zusätzlich Verlust von Antrieb und Energie)",
+        "DSM-IV-TR Kriterium A: mindestens 5 von 9 Symptomen in derselben Zwei-Wochen-Periode, davon mindestens ein Kernsymptom",
+        "9 Symptome: depressive Verstimmung, Interessen-/Freudverlust, Gewichts-/Appetitveränderung (>5 %/Monat), Schlafstörung, psychomotorische Unruhe/Verlangsamung, Müdigkeit/Energieverlust, Wertlosigkeits-/Schuldgefühle, Konzentrations-/Entscheidungsstörung, Todesgedanken/Suizidalität",
+        "Ausschlusskriterien: keine gemischte bipolare Episode, nicht substanz- oder krankheitsbedingt (z. B. Hyperthyreose), keine einfache Trauer"
+      ]
+    },
+    {
+      "gidx": 180,
+      "source": "skl-psychiatrie p.180",
+      "slide_title": "Schweregrade und Differentialdiagnose der Depression; 2.2 Dysthymia",
+      "type": "inhalt",
+      "notes_md": "**Weitere Symptome und Schweregrade**\n\n- Hierzu gehören Störungen von Appetit und Gewicht, Schlafstörungen, psychomotorische Störungen, Verlust des Selbstwertgefühls, Konzentrationsstörungen, Entscheidungsschwierigkeiten sowie suizidales Verhalten. Wenn mindestens fünf dieser Symptome zwei Wochen oder länger vorliegen, wird von Depressiver Episode (bzw. Major Depression) gesprochen.\n- Aufgrund der Anzahl und Schwere dieser Symptome wird unterteilt in **leichte (F32.0), mittelgradige (F32.1) und schwere (F32.2) depressive Episoden**.\n- Bei der schwergradigen depressiven Episode können auch **Wahnideen, Halluzinationen oder ein Stupor (völlige Erstarrung)** auftreten, was die Diagnosestellung einer schwergradigen Depression mit psychotischen Merkmalen (**F32.3**) erlaubt.\n- Diese Schweregraddifferenzierungen werden sowohl für die einmalige depressive Episode (F32) wie auch die rezidivierende Form (F33) angewendet.\n\n**Differentialdiagnostische Ausschlussregeln bei Diagnosestellung einer Depression:**\n- (a) das Vorliegen einer einfachen Trauerreaktion;\n- (b) das Auftreten einer Manie oder Hypomanie im Lebensverlauf, in diesen Fällen ist die Diagnose einer bipolaren Störung (F31) zu stellen;\n- (c) Affektive und insbesondere depressive Symptome können auch im Verlauf anderer psychischer Erkrankungen auftreten, wie der Schizophrenie, der schizoaffektiven Störung oder anderen psychotischen Störungen;\n- (d) Ferner können depressive Syndrome auch im Rahmen von Abhängigkeitserkrankungen (Süchten), insbesondere der Alkoholabhängigkeit, auftreten. Sie bedürfen einer besonders sorgfältigen Diagnostik. Zum einen im Hinblick auf die Abgrenzung zwischen affektiven Symptomen, die durch Substanzen wie Alkohol verursacht werden und die unter Substanz-Abstinenz spontan abklingen (in diesem Fall ist die Diagnose **substanzinduzierte affektive Störung** zu vergeben). Zum anderen komorbide depressive Störungen (**Doppeldiagnosen**), die zusätzlich zur Therapie der Substanzabhängigkeit gezielt behandelt werden müssen.\n- (e) Depressive Syndrome können auch im Rahmen körperlicher Erkrankungen auftreten, z. B. bei endokrinen Erkrankungen wie Schilddrüsenfunktionsstörungen, bei Hirnerkrankungen wie Hirntumoren und Enzephalitiden (Entzündungen des Gehirns) oder in Verbindung mit bestimmten Medikamenten, z. B. bei hochdosierter Cortisonbehandlung. In diesen Fällen spricht man von **organischen affektiven Störungen** (bzw. Depression aufgrund eines medizinischen Krankheitsfaktors), die bei einer erstmaligen Depression immer unbedingt ausgeschlossen werden müssen.\n\nAufgrund von Schweregrad, Verlauf sowie bestimmten Symptommerkmalen des aktuellen Leidenzustands der Betroffenen werden differentialdiagnostisch weitere, therapeutisch relevante Subtypen unterschieden (siehe Abbildung 3).\n\n**2.2 Dysthymia**\n\n- Wenn die Kriterien einer depressiven Episode (bzw. Major Depression) nicht erfüllt sind, ist das Vorliegen einer **Dysthymie (F34.1)** oder dysthymen Störung zu erwägen.\n- Unter Dysthymie versteht man im Vergleich zu depressiven Episoden hinsichtlich Symptomart, -anzahl und Ausprägungsgrad zwar ein **leichteres Störungsbild**, welches allerdings **jahrelang mit geringen Schwankungen** besteht.\n- **Hauptmerkmal:** eine chronisch depressive Verstimmung, die über **mindestens zwei Jahre** an dem überwiegenden Teil aller Tage vorhanden ist.\n- Ohne die vollen Kriterien der depressiven Episode zu erfüllen, treten neben Traurigkeit und Niedergeschlagenheit **mindestens zwei weitere Symptome** auf, wie reduzierter oder vermehrter Appetit, Schlaflosigkeit oder vermehrtes Schlafbedürfnis, Energielosigkeit und Erschöpftheit, reduziertes Selbstwertgefühl, Konzentrations- und Entscheidungsprobleme oder das Gefühl von Hoffnungslosigkeit.\n- Dysthymien beginnen in der Regel im **Jugendalter** und nehmen meist einen **chronischen Verlauf** an. In **10 % – 25 %** der Fälle ist die Dysthymie darüber hinaus mit wiederholt auftretenden voll ausgeprägten depressiven Episoden verbunden (**double depression**).",
+      "figures": [],
+      "eingrenzung_hits": [4, 5],
+      "key_facts": [
+        "Schweregrade der depressiven Episode: leicht (F32.0), mittelgradig (F32.1), schwer ohne psychotische Symptome (F32.2), schwer mit psychotischen Merkmalen (F32.3: Wahnideen, Halluzinationen, Stupor)",
+        "Ausschlussregeln: Trauerreaktion, Manie/Hypomanie (→ F31 bipolare Störung), andere psychische Erkrankungen (Schizophrenie, schizoaffektive Störung), Abhängigkeitserkrankungen (substanzinduziert vs. Doppeldiagnose), körperliche Erkrankungen (organische affektive Störungen, z. B. Schilddrüsenfunktionsstörung, Hirntumor, Enzephalitis, hochdosierte Cortisonbehandlung)",
+        "Dysthymia (F34.1): leichteres, aber chronisches Störungsbild; chronisch depressive Verstimmung ≥ 2 Jahre an den meisten Tagen plus ≥ 2 weitere Symptome",
+        "Dysthymie: Beginn meist im Jugendalter, chronischer Verlauf; 10–25 % mit zusätzlichen depressiven Episoden (double depression)"
+      ]
+    }
+  ]
+}

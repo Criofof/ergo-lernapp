@@ -1,0 +1,173 @@
+{
+  "batch": "22",
+  "pages": [
+    {
+      "gidx": 253,
+      "source": "skl-psychiatrie p.253",
+      "slide_title": "Ergotherapeutische Behandlung — Konzeptionelle Anforderungen",
+      "type": "inhalt",
+      "notes_md": "# Ergotherapeutische Behandlung\n\n## Konzeptionelle Anforderungen\n\n- ET Konzepte sind an die jew. institutionellen Bedingungen angepasst.\n- Wichtig zu berücksichtigen ist:\n  - Organisatorische Rahmenbedingungen der jew. Einrichtung.\n  - Zielvereinbarungen zw. Kostenträger & Institution.\n  - Inhaltliche Ausrichtung der Institution (tiefenpsychologisch / verhaltenstherapeutisch).\n  - Therapeut:innen – Patient:innen – Schlüssel.\n  - Besonderheiten der Klient:innen.\n  - Räumlichkeiten & Budget.\n\n## Diagnostik und Zielbestimmung\n\n- ET Diagnostik erfolgt als Erhebung der Fähigkeiten bzw. Beeinträchtigungen des/der Patient:in.\n- Zielbestimmung erfolgt gemeinsam mit dem/der Klient:in.\n  - Erfassung mit Hilfe von Gesprächen / (halb-)strukturierten Interviews / Assessments.\n  - Bietet die Grundlage für die Methodenauswahl.\n  - Partizipationsziel sollte im multiprofessionellen Team abgesprochen sein.\n- Methoden & Maßnahmen werden immer auch mit dem/der Klient:in besprochen.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "ET Konzepte müssen an institutionelle Bedingungen (Rahmenbedingungen, Zielvereinbarungen, Ausrichtung, Personalschlüssel, Klientel, Räumlichkeiten & Budget) angepasst sein.",
+        "ET Diagnostik = Erhebung der Fähigkeiten bzw. Beeinträchtigungen über Gespräche, (halb-)strukturierte Interviews und Assessments.",
+        "Zielbestimmung erfolgt gemeinsam mit dem/der Klient:in; Partizipationsziel wird im multiprofessionellen Team abgesprochen."
+      ]
+    },
+    {
+      "gidx": 254,
+      "source": "skl-psychiatrie p.254",
+      "slide_title": "Auswahl ergotherapeutischer Maßnahmen",
+      "type": "inhalt",
+      "notes_md": "# Auswahl ergotherapeutischer Maßnahmen\n\nProzess in fünf aufeinanderfolgenden Schritten (Pfeildiagramm):\n\n1. Diagnostische Erkenntnisse gewinnen\n2. Ziele mit dem/der Klient:in besprechen/festlegen\n3. Bedeutungsvolle Aktivitäten für den/die Klient:in finden/besprechen\n4. Sozialform und Therapiefrequenz festlegen\n5. Methodenauswahl immer wieder überprüfen",
+      "figures": [
+        {
+          "caption": "Prozesspfeil: Auswahl ergotherapeutischer Maßnahmen in 5 Schritten",
+          "shows": "Fünf Kästen in einem nach rechts zeigenden Pfeil: Diagnostische Erkenntnisse gewinnen → Ziele mit dem/der Klient:in besprechen/festlegen → Bedeutungsvolle Aktivitäten finden/besprechen → Sozialform und Therapiefrequenz festlegen → Methodenauswahl immer wieder überprüfen.",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "5-Schritte-Prozess der Maßnahmenauswahl: Diagnostik → Ziele → bedeutungsvolle Aktivitäten → Sozialform/Frequenz → Überprüfung der Methodenauswahl.",
+        "Die Methodenauswahl ist kein einmaliger Schritt, sondern wird immer wieder überprüft."
+      ]
+    },
+    {
+      "gidx": 255,
+      "source": "skl-psychiatrie p.255",
+      "slide_title": "Fallbeispiel Frau B.",
+      "type": "titel",
+      "notes_md": "# Fallbeispiel Frau B.\n\nTitel-/Übergangsfolie zum Fallbeispiel (Illustration: Ärztin/Therapeutin im Gespräch mit einer Patientin).",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 256,
+      "source": "skl-psychiatrie p.256",
+      "slide_title": "Aufgabe zum Fallbeispiel — Fehlende Informationen",
+      "type": "inhalt",
+      "notes_md": "# Aufgabe zum Fallbeispiel\n\n## Fehlende Informationen\n\nFür eine weitergehende Zielformulierung und Interventionsplanung bedarf es weiterer Informationen. Folgende Punkte bestimmen euer weiteres Vorgehen und sollten im Rahmen des Clinical-Reasoning-Prozesses berücksichtigt werden:\n\n- Welcher Ansatz ist für euer Vorgehen vorgesehen? Top-down oder Bottom-up?\n- Welche Assessments sollen im Rahmen einer weiteren Evaluation zum Einsatz kommen?\n- Welche situationsabhängigen Methoden und Sozialformen würdet ihr im ergotherapeutischen Setting nutzen?\n- Stellt das Ergebnis eurer Überlegungen tabellarisch oder stichpunktartig dar und begründet eure Entscheidung!\n- Die Ergebnisse sollen dann auf Ilias hochgeladen werden.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Clinical-Reasoning-Fragen zum Fall: Ansatzwahl (Top-down vs. Bottom-up), Assessments für weitere Evaluation, situationsabhängige Methoden und Sozialformen im ET-Setting.",
+        "Ergebnisse sollen tabellarisch/stichpunktartig dargestellt, begründet und auf Ilias hochgeladen werden."
+      ]
+    },
+    {
+      "gidx": 257,
+      "source": "skl-psychiatrie p.257",
+      "slide_title": "Fallbeispiel — Angaben zur Klientin und Aufnahmegrund",
+      "type": "inhalt",
+      "notes_md": "# Fallbeispiel\n\n## Angaben zur Klientin\n\n- Name: Claudia B.\n- Alter: 43 Jahre\n- Familienstand: geschieden, 2 Kinder (Sohn 14 Jahre, Tochter 11 Jahre)\n- Beruf: Hauswirtschafterin\n- Diagnose: Rezidivierende depressive Störung, gegenwärtig schwere Episode, ohne psychotische Störung (F33.2)\n- Behandlungsmaßnahme: kompetenzzentrierte Gruppenbehandlung\n- Behandlungsfrequenz: 3-mal wöchentlich\n- Aktuelle Wohnsituation: Psychiatrische Fachklinik\n\n## Aufnahmegrund\n\nFrau B. erschien nach telefonischer Voranfrage und ambulantem Vorgespräch vereinbarungsgemäß freiwillig zur vierten stationären Aufnahme in der psychiatrischen Fachklinik.\n\nDie Klientin benennt verschiedene Aspekte, die zu dem Wunsch nach wiederholter Aufnahme führten. So berichtet sie, dass sich ihr Befinden in letzter Zeit nach und nach „verschlechtert“ habe; sie spricht von Antriebsminderung und Angespanntheit. Die familiäre Situation sei „anstrengend“ und sie fühle sich manchmal mit der Erziehung der Kinder überfordert. Auch ihr Schlafverhalten sei problematisch und sie klagt über Albträume. Gelegentlich treten Suizidgedanken auf, von denen sie sich jedoch distanzieren könne.\n\nFrau B. berichtet, in der letzten Zeit Ängste zu verspüren, die sie aber nicht genauer beschreiben könne. Diese Ängste treten insbesondere beim Einkaufen oder bei Spaziergängen auf.\n\nDer überweisende Facharzt gibt als Symptome Hoffnungslosigkeit und Überforderung an. Zudem beschreibt er eine eingeschränkte Schwingungsfähigkeit und eine herabgesetzte Stimmung. Bei der Einweisung zeigt sich Frau B. in einem gepflegten Zustand, allseits orientiert, im formalen Denken geordnet und ohne inhaltliche Denkstörungen. In ihrer Stimmung erscheint sie deutlich gedrückt und reduziert affektiv schwingungsfähig.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Klientin Claudia B., 43 J., Diagnose: Rezidivierende depressive Störung, gegenwärtig schwere Episode ohne psychotische Störung (F33.2).",
+        "Symptome laut Facharzt: Hoffnungslosigkeit, Überforderung, eingeschränkte Schwingungsfähigkeit, herabgesetzte Stimmung.",
+        "Gelegentliche Suizidgedanken, von denen sich die Klientin distanzieren kann; Ängste v. a. beim Einkaufen und bei Spaziergängen.",
+        "Behandlung: kompetenzzentrierte Gruppenbehandlung, 3-mal wöchentlich."
+      ]
+    },
+    {
+      "gidx": 258,
+      "source": "skl-psychiatrie p.258",
+      "slide_title": "Anamnese",
+      "type": "inhalt",
+      "notes_md": "# Anamnese\n\nFrau B. wurde in einer Kleinstadt in Niedersachsen geboren. Nach dem Abschluss der Hauptschule hat sie die Hauswirtschaftsschule besucht und Hauswirtschafterin gelernt. Derzeit führt sie die häusliche Hauswirtschaftspflege im Rahmen eines ambulanten Pflegedienstes aus, d. h., sie bietet Unterstützung bei Haushaltstätigkeiten für Menschen mit Einschränkungen an. Sie arbeitet auf 400-Euro-Basis 57 Stunden im Monat und ist somit täglich ca. 3 Stunden unterwegs. Die Arbeit bereitet ihr Freude und erfüllt sie sehr.\n\nFrau B. ist seit 7 Jahren von ihrem Mann geschieden. Der Kontakt zu ihrem ehemaligen Ehemann gestaltet sich angemessen und unproblematisch. Dies ist ihr wichtig, denn die Kinder sollen Kontakt zu ihrem Vater halten und eine gute unproblematische Vater-Kind-Beziehung pflegen können. Die Kinder aus dieser Ehe leben bei ihr. Die Familie lebt in einer Kleinstadt zur Miete. Die Wohnung, so Frau B., „ist geräumig – jeder von uns hat sein eigenes Reich und zudem hat die Wohnung noch einen kleinen Südbalkon“. Frau B. berichtet, sich manchmal mit der Erziehung deutlich überfordert zu fühlen, da insbesondere der Sohn „wild“ und „aggressiv“ sei.\n\nSeit ca. 2 Jahren hat Frau B. einen neuen Partner. Das Verhältnis ist laut Frau B. durch Vertrauen und Zuverlässigkeit gekennzeichnet. Zu ihren 4 Geschwistern und ebenso zu ihrem Vater hat Frau B. nur sehr wenig Kontakt.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Beruf: Hauswirtschafterin im ambulanten Pflegedienst (400-Euro-Basis, 57 Std./Monat), Arbeit erfüllt sie sehr.",
+        "Seit 7 Jahren geschieden, Kontakt zum Ex-Mann unproblematisch; Kinder leben bei ihr; Sohn wird als „wild“ und „aggressiv“ beschrieben.",
+        "Seit ca. 2 Jahren neuer Partner (Vertrauen, Zuverlässigkeit); wenig Kontakt zu 4 Geschwistern und Vater."
+      ]
+    },
+    {
+      "gidx": 259,
+      "source": "skl-psychiatrie p.259",
+      "slide_title": "Anamnese (Fortsetzung)",
+      "type": "inhalt",
+      "notes_md": "# Anamnese (Fortsetzung)\n\nSie wünscht auch nicht mehr Kontakt, da es „wenig Gemeinsamkeiten“ mit ihren Geschwistern gibt und das Verhältnis zum Vater konfliktbelastet ist. Die Mutter von Frau B. ist vor 10 Jahren verstorben.\n\nInsgesamt, so Frau B., habe sie „genügend“ soziale Kontakte, u. a. durch ihre Arbeit habe „sie viel mit Menschen zu tun“. Zudem habe sie zwei engere Freundinnen, mit denen sie sich ab und zu verabredet und regelmäßig telefoniert. Ein weiterer Freundeskreis besteht nicht – Frau B. gibt an, dass sie öfter ihre Allgemeinmedizinerin konsultiert; dort könne sie sich „mal ausheulen“.\n\nDer Alltag von Frau B. ist sehr durchorganisiert; so habe sie „den Spagat zwischen Berufstätige, Mutter und Hausfrau jeden Tag zu bewältigen und fühlt sich von der Zeit regiert“.\n\nWährend der direkten Zeit vor der Aufnahme fiel es ihr deutlich schwerer, den allgemeinen Haushalt aufrechtzuerhalten und die Kinder zu versorgen. Es belastet Frau B. sehr, denn es ist ihr wichtig, „dass die Kinder morgens gut aus dem Haus kommen und sie mittags etwas Vernünftiges zu essen bekommen“. Insgesamt fühlt sie sich von ihren Kindern in der Haushaltsbewältigung wenig unterstützt und in dem, was sie täglich leistet, wenig verstanden.\n\nFrau B. betont, dass sie neben Haushalt, Kindererziehung und beruflicher Arbeit nicht viel Zeit für sich findet. Ihre wenige freie Zeit verbringt sie mit Musikhören und Lesen; diese Aktivitäten „ergeben sich so“ und es fällt ihr schwer, wirkliche Interessen, wie sie diese früher an sich erleben konnte, zu benennen.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Soziales Netz: zwei engere Freundinnen, kein weiterer Freundeskreis; Allgemeinmedizinerin als emotionale Anlaufstelle.",
+        "Alltag stark durchorganisiert: Spagat zwischen Berufstätigkeit, Mutterrolle und Hausfrauenrolle; Gefühl, „von der Zeit regiert“ zu werden.",
+        "Vor Aufnahme deutliche Einschränkung bei Haushaltsführung und Kinderversorgung; wenig eigene Interessen benennbar (Anhedonie-Hinweis)."
+      ]
+    },
+    {
+      "gidx": 260,
+      "source": "skl-psychiatrie p.260",
+      "slide_title": "Ergotherapeutisches Erstgespräch",
+      "type": "inhalt",
+      "notes_md": "# Ergotherapeutisches Erstgespräch\n\nNach der ärztlichen Überweisung in die Ergotherapie folgt das ergotherapeutische Erstgespräch.\n\nZiel ist es hier, den Behandlungsauftrag aus Sicht der Klientin zu erfassen. Im Rahmen des Gesprächs besteht die Möglichkeit, das subjektive Krankheitserleben und die daraus resultierenden Wünsche und Bedenken sowie weitere Informationen neben den Behandlungszielen zu thematisieren.\n\nFerner erhält die Klientin Einblick in das ergotherapeutische Angebot, das u. a. die Grenzen und Möglichkeiten dieses Behandlungsrahmens verdeutlicht.\n\n## Mögliche Bereiche des ergotherapeutischen Erstgesprächs sind:\n\n- Klärung des Anlasses und des Überweisungskontextes (grober Problemaufriss)\n- Vorstellung der Ergotherapie (Vorkenntnisse der Klientin, Kompetenzen der ET)\n- Eruieren der Probleme und Ressourcen\n- Zielerklärung\n- Formulierung einer ersten Behandlungsvereinbarung\n- Behandlungsausblick\n\nDas Occupational Self Assessment (OSA) des MOHO kann im Rahmen eines Erstgesprächs als ein Baustein zur Erhebung von Betätigungsfunktionen aus Sicht der Klientin eingesetzt werden.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Erstgespräch folgt auf ärztliche Überweisung; Ziel: Behandlungsauftrag aus Sicht der Klientin erfassen, subjektives Krankheitserleben thematisieren.",
+        "Bereiche: Anlass/Überweisungskontext, Vorstellung der ET, Probleme & Ressourcen eruieren, Zielerklärung, erste Behandlungsvereinbarung, Behandlungsausblick.",
+        "Occupational Self Assessment (OSA) des MOHO als Baustein zur Erhebung von Betätigungsfunktionen aus Klientinnensicht."
+      ]
+    },
+    {
+      "gidx": 261,
+      "source": "skl-psychiatrie p.261",
+      "slide_title": "Besprechen eurer Vorgehensweise",
+      "type": "titel",
+      "notes_md": "# Besprechen eurer Vorgehensweise\n\nTitel-/Übergangsfolie (Aufforderung zur Besprechung der Vorgehensweise zum Fallbeispiel).",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 262,
+      "source": "skl-psychiatrie p.262",
+      "slide_title": "Zusammenfassung — Depression (Gelbe Liste Pharmindex)",
+      "type": "inhalt",
+      "notes_md": "# Zusammenfassung: Depression\n\n(Infografik der Gelben Liste Pharmindex)\n\n## Definition\n\n- Affektive Störung\n- Individuelle Variationen in Symptomatik & Verlauf\n- Pathomechanismus noch ungeklärt, multifaktorielle Entstehung\n\n## Epidemiologie\n\n- Jahresinzidenz: 1–2 Fälle pro 100 Personen\n- Lebenszeitprävalenz: 16–20 %\n- Frauen sind doppelt so häufig betroffen wie Männer\n- Erkrankungsrate steigt in jüngeren Altersgruppen\n\n## Ursachen\n\n- Multifaktorielle Entstehung: genetische, neurobiologische, sozial-psychiatrische, psychische und exogene Faktoren spielen eine Rolle\n- Familiäre Häufung: 50 % erhöhtes Risiko für Angehörige ersten Grades\n\n## Symptome\n\n- Kernsymptome: Niedergeschlagenheit, Interessenverlust, Antriebsmangel & Freud- und Hoffnungslosigkeit\n- Zusätzlich: Schlafstörungen, Suizidgedanken & verminderte Konzentration\n- Können individuell unterschiedlich ausfallen sowie tageszeitabhängig schwanken\n\n## Therapie\n\n- Individuelle Ausrichtung: Kombination aus medikamentösen und nicht-pharmakologischen Maßnahmen\n- Auswahl richtet sich nach Symptomatik, Verlauf & Patientenpräferenz\n- Vier Hauptstrategien: Aktiv-abwartende Begleitung, Pharmakotherapie, Psychotherapie und Kombination aus Pharmakotherapie & Psychotherapie",
+      "figures": [
+        {
+          "caption": "Infografik „Depression“ (Gelbe Liste Pharmindex): Definition, Epidemiologie, Ursachen, Symptome, Therapie",
+          "shows": "Übersichtsgrafik mit fünf Abschnitten rund um eine sitzende, niedergeschlagene Figur: Definition (affektive Störung, multifaktorielle Entstehung), Epidemiologie (Jahresinzidenz 1–2/100, Lebenszeitprävalenz 16–20 %, Frauen doppelt so häufig), Ursachen (multifaktoriell, familiäre Häufung), Symptome (Kern- und Zusatzsymptome), Therapie (vier Hauptstrategien).",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Depression = affektive Störung mit multifaktorieller Entstehung; Kernsymptome: Niedergeschlagenheit, Interessenverlust, Antriebsmangel.",
+        "Lebenszeitprävalenz 16–20 %, Jahresinzidenz 1–2 pro 100 Personen; Frauen doppelt so häufig betroffen wie Männer.",
+        "Familiäre Häufung: 50 % erhöhtes Risiko für Angehörige ersten Grades.",
+        "Vier Therapie-Hauptstrategien: aktiv-abwartende Begleitung, Pharmakotherapie, Psychotherapie, Kombination."
+      ]
+    },
+    {
+      "gidx": 263,
+      "source": "skl-psychiatrie p.263",
+      "slide_title": "Geschafft — vielen Dank",
+      "type": "deko",
+      "notes_md": "# Geschafft ☺ vielen Dank für die Aufmerksamkeit und Mitarbeit.\n\nAbschlussfolie ohne Fachinhalt.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 264,
+      "source": "skl-psychiatrie p.264",
+      "slide_title": "Quellen",
+      "type": "quelle",
+      "notes_md": "# Quellen\n\n- ICD-11. (o. D.). Abgerufen am 24. Oktober 2022, von https://www.dimdi.de/dynamic/de/klassifikationen/icd/icd-11/\n- Walkenhorst, U. & Ott, U. (2010, 24. März). Fallbuch Ergotherapie in der Psychiatrie (1. Aufl.). Thieme.\n- Depressionen » Symptome, Ursachen, Diagnostik. Therapie ». (o. D.). Abgerufen am 24. Oktober 2022, von https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/\n- Hintergrund. (o. D.). Stiftung Gesundheitswissen. Abgerufen am 24. Oktober 2022, von https://www.stiftung-gesundheitswissen.de/wissen/depression/hintergrund\n- DIMDI - ICD-10-GM Version 2018. (o. D.). Abgerufen am 24. Oktober 2022, von https://www.dimdi.de/static/de/klassifikationen/icd/icd-10-gm/kodesuche/htmlgm2018/block-f30-f39.htm\n- Was ist eine Depression? - Stiftung Deutsche Depressionshilfe. (o. D.). Abgerufen am 24. Oktober 2022, von https://www.deutsche-depressionshilfe.de/depression-infos-und-hilfe/was-ist-eine-depression\n- 2 Diagnostik. (o. D.). Leitlinien.de. Abgerufen am 24. Oktober 2022, von https://www.leitlinien.de/themen/depression/2-auflage/kapitel-2\n- Bretschneider, J. B., Kuhnert, R. K. & Hapke, U. H. (2017). Depressive Symptomatik bei Erwachsenen in Deutschland. Journal of Health Monitoring, 2(3), 81–88. https://doi.org/10.17886/RKI-GBE-2017-058\n- Gesundheitsinformation.de. (o. D.). Depression | Gesundheitsinformation.de. Abgerufen am 25. Oktober 2022, von https://www.gesundheitsinformation.de/depression.html\n- Hans-Ulrich Wittchen, Frank Jacobi, Michael Klose & Livia Ryl. (2010). Depressive Erkrankungen. In https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsT/depression.pdf?__blob=publicationFile (Heft 51). Robert Koch-Institut in Zusammenarbeit mit dem Statistischen Bundesamt.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Quellenverzeichnis zur Depressions-Einheit (u. a. DIMDI ICD-10/ICD-11, Fallbuch Ergotherapie in der Psychiatrie, RKI/Journal of Health Monitoring, Stiftung Deutsche Depressionshilfe)."
+      ]
+    }
+  ]
+}

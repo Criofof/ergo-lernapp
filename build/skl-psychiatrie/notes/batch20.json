@@ -1,0 +1,195 @@
+{
+  "batch": "20",
+  "pages": [
+    {
+      "gidx": 229,
+      "source": "skl-psychiatrie p.229",
+      "slide_title": "Symptome der Depression (4 Felder)",
+      "type": "inhalt",
+      "notes_md": "## Symptome der Depression in vier Bereichen\n\n**Typische Gedanken**\n- \u201eIch schaffe das nicht.\u201c\n- \u201eWas soll das alles noch?\u201c\n- \u201eIch bin ein Versager.\u201c\n- \u201eMir wird das alles zu viel.\u201c\n- \u201eDas hat doch ohnehin alles keinen Sinn.\u201c\n- \u201eNichts kann ich mehr.\u201c\n\n**Dazu kommen:**\n- Gr\u00fcbeln\n- Konzentrations- und Ged\u00e4chtnisst\u00f6rungen\n\n**Typisches K\u00f6rpererleben**\n- Erm\u00fcdung\n- Ersch\u00f6pfung\n- fehlender Antrieb\n- innere Unruhe\n- Schlafst\u00f6rungen (Durchschlafst\u00f6rungen, fr\u00fchmorgendliches Erwachen)\n- Appetitverlust\n- Gewichtsverlust\n- Verlust des sexuellen Verlangens\n\n**Typische Gef\u00fchle**\n- Traurigkeit\n- Innere Leere\n- Schuldgef\u00fchle\n- Angst\n- Hoffnungslosigkeit\n- Fehlen von Freude und Interesse\n\n**Typisches Verhalten**\n- R\u00fcckzug, keine Freunde mehr treffen\n- Aktivit\u00e4ten aufgeben\n- sich nichts mehr zutrauen\n- keine Entscheidungen mehr treffen\n- im Bett bleiben, nicht mehr aufstehen\n- Alltagspflichten vernachl\u00e4ssigen",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Depressive Symptome lassen sich in 4 Bereiche gliedern: Gedanken, K\u00f6rpererleben, Gef\u00fchle, Verhalten",
+        "Typisches K\u00f6rpererleben u.a.: Erm\u00fcdung, fehlender Antrieb, Schlafst\u00f6rungen (fr\u00fchmorgendliches Erwachen), Appetit-/Gewichtsverlust, Libidoverlust",
+        "Typische Gef\u00fchle: Traurigkeit, innere Leere, Schuldgef\u00fchle, Angst, Hoffnungslosigkeit, Fehlen von Freude und Interesse",
+        "Typisches Verhalten: R\u00fcckzug, Aufgeben von Aktivit\u00e4ten, Vernachl\u00e4ssigung von Alltagspflichten"
+      ]
+    },
+    {
+      "gidx": 230,
+      "source": "skl-psychiatrie p.230",
+      "slide_title": "Nach dem ICD-10",
+      "type": "inhalt",
+      "notes_md": "## Depressive Episode nach ICD-10\n\n**Min. zwei der Hauptsymptome & drei Zusatzsymptome \u00fcber min. 14 Tage**\n\n**Hauptsymptome:**\n- Depressive Stimmung (keine Trauer)\n- Interessenverlust, Freudlosigkeit\n- Antriebsmangel, erh\u00f6hte Erm\u00fcdbarkeit\n\n**H\u00e4ufige Zusatzsymptome:**\n- St\u00f6rungen der Konzentration, der Aufmerksamkeit und des Denkverm\u00f6gens\n- vermindertes Selbstwertgef\u00fchl und Selbstvertrauen\n- Gef\u00fchle von Schuld und Wertlosigkeit\n- negative und pessimistische Zukunftsvorstellungen\n- Selbstt\u00f6tungsgedanken oder -handlungen\n- Schlafst\u00f6rungen\n- verminderter Appetit",
+      "figures": [],
+      "eingrenzung_hits": [4, 5],
+      "key_facts": [
+        "ICD-10: min. 2 Hauptsymptome + 3 Zusatzsymptome \u00fcber min. 14 Tage",
+        "Hauptsymptome: depressive Stimmung (keine Trauer), Interessenverlust/Freudlosigkeit, Antriebsmangel/erh\u00f6hte Erm\u00fcdbarkeit",
+        "Zusatzsymptome u.a.: Konzentrationsst\u00f6rungen, vermindertes Selbstwertgef\u00fchl, Schuldgef\u00fchle, Suizidgedanken, Schlafst\u00f6rungen, verminderter Appetit"
+      ]
+    },
+    {
+      "gidx": 231,
+      "source": "skl-psychiatrie p.231",
+      "slide_title": "Nach dem ICD-11 (Vorl\u00e4ufige Fassung)",
+      "type": "inhalt",
+      "notes_md": "## Depressive St\u00f6rung nach ICD-11 (vorl\u00e4ufige Fassung)\n\nUnterteilung erfolgt nach best. Beschreibungen.\n\n**Depressive St\u00f6rung** = Depressive St\u00f6rungen sind durch eine depressive Stimmung (z. B. traurig, reizbar, leer) oder Freudlosigkeit gekennzeichnet, die von anderen kognitiven, verhaltensbezogenen oder neurovegetativen Symptomen begleitet wird, die die Funktionsf\u00e4higkeit der Person erheblich beeintr\u00e4chtigen.\n\nEine depressive St\u00f6rung sollte nicht bei Personen diagnostiziert werden, die jemals eine manische, gemischte oder hypomanische Episode erlebt haben, was auf das Vorliegen einer bipolaren St\u00f6rung hinweisen w\u00fcrde.\n\n**Ausgeschlossen werden hier:**\n- Akute Belastungssituationen (QE84)\n- Unkomplizierter Trauerfall (QE62)\n\n**An anderer Stelle kodiert:**\n- Pr\u00e4menstruelle dysphorische St\u00f6rung (GA34.41)\n  - (gew. Symptome treten w\u00e4hrend einer Mehrheit der Menstruationszyklen innerhalb des letzten Jahres auf - Die Symptome sind schwerwiegend genug, um signifikanten Stress oder signifikante Beeintr\u00e4chtigungen in pers\u00f6nlichen, famili\u00e4ren, sozialen, schulischen, beruflichen oder anderen wichtigen Funktionsbereichen zu verursachen und stellen nicht die Exazerbation einer psychischen St\u00f6rung dar.)",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "ICD-11: depressive Stimmung oder Freudlosigkeit + kognitive, verhaltensbezogene oder neurovegetative Symptome mit erheblicher Funktionsbeeintr\u00e4chtigung",
+        "Ausschluss: vorangegangene manische/hypomanische Episode (\u2192 bipolare St\u00f6rung)",
+        "Ausgeschlossen: akute Belastungssituationen (QE84), unkomplizierter Trauerfall (QE62)",
+        "Pr\u00e4menstruelle dysphorische St\u00f6rung (GA34.41) wird an anderer Stelle kodiert"
+      ]
+    },
+    {
+      "gidx": 232,
+      "source": "skl-psychiatrie p.232",
+      "slide_title": "Nach DSM-V",
+      "type": "inhalt",
+      "notes_md": "## Depression nach DSM-V\n\n**Min. f\u00fcnf der folgenden Symptome \u00fcber wenigstens zwei Wochen:**\n\n- gedr\u00fcckte Stimmung; bei Kindern und Jugendlichen auch gereizte Stimmung\n- vermindertes Interesse oder Verlust der Freude an fast allen Aktivit\u00e4ten (Anhedonie)\n- signifikante Gewichtsver\u00e4nderung oder Appetitst\u00f6rung; bei Kindern auch das Ausbleiben der erwarteten Gewichtszunahme\n- Schlafst\u00f6rung (Schlaflosigkeit oder Hypersomnie)\n- psychomotorische Unruhe oder Verlangsamung\n- M\u00fcdigkeit oder Energieverlust\n- Gef\u00fchle der Wertlosigkeit\n- Verminderte F\u00e4higkeit zu denken oder sich zu konzentrieren; Unentschlossenheit\n- wiederkehrende Gedanken an den Tod, wiederkehrende Suizidgedanken ohne konkreten Plan oder ein Suizidversuch bzw. ein konkreter Plan, sich das Leben zu nehmen",
+      "figures": [],
+      "eingrenzung_hits": [5],
+      "key_facts": [
+        "DSM-V: min. 5 von 9 Symptomen \u00fcber wenigstens 2 Wochen",
+        "Bei Kindern/Jugendlichen kann die Stimmung auch gereizt statt gedr\u00fcckt sein",
+        "Anhedonie = Verlust der Freude an fast allen Aktivit\u00e4ten",
+        "Unterschied zu ICD-10: 5 von 9 Symptomen (statt 2 Haupt- + 3 Zusatzsymptome)"
+      ]
+    },
+    {
+      "gidx": 233,
+      "source": "skl-psychiatrie p.233",
+      "slide_title": "Video-Link (Depression)",
+      "type": "quelle",
+      "notes_md": "## Video\n\nhttps://www.youtube.com/watch?v=vWEALfbZYZk\n\nIllustration: Person sitzt zusammengekauert unter einer grauen Glocke mit Wolke (Symbol f\u00fcr depressive Abschottung), umgeben von Symbolen positiver Lebensbereiche (Soziales, Sonne, Herz, Blume).",
+      "figures": [
+        {
+          "caption": "Illustration zur Depression",
+          "shows": "Zusammengekauerte Person unter einer grauen Glasglocke mit Wolke; rundherum Symbole positiver Lebensbereiche (Menschen, Sonne, Herz, Blume)",
+          "importance": "low",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "YouTube-Video zur Depression: https://www.youtube.com/watch?v=vWEALfbZYZk"
+      ]
+    },
+    {
+      "gidx": 234,
+      "source": "skl-psychiatrie p.234",
+      "slide_title": "Entstehungen und Ursachen",
+      "type": "titel",
+      "notes_md": "## Entstehungen und Ursachen\n\nZwischentitel zum Themenblock \u201eEntstehung und Ursachen der Depression\u201c (Ludwig Fresenius Schulen).",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": []
+    },
+    {
+      "gidx": 235,
+      "source": "skl-psychiatrie p.235",
+      "slide_title": "Entstehung: Erkl\u00e4rungsmodelle & Risikofaktoren",
+      "type": "inhalt",
+      "notes_md": "## Entstehung der Depression\n\n- Idr. ein Zusammenspiel aus vielf\u00e4ltigen Faktoren\n- Verschiedene Modell zur Erkl\u00e4rung sind vorhanden, u.a.:\n  - Genetische Veranlagung & Umweltfaktoren (Vulnerabilit\u00e4ts-Stress-Modell)\n  - Stoffwechsel- & Funktionsst\u00f6rungen im Gehirn (Zytokin-Hypothese / Monoamin-Hypothese)\n  - Spezifische Denkmuster (kognitionspsychologische Hypothese)\n  - Entwicklungs- & Pers\u00f6nlichkeitsfaktoren (psychosoziale Faktoren)\n\n**Weitere m\u00f6gliche Risikofaktoren:**\n- Weibliches Geschlecht\n- Single Dasein\n- Gro\u00dfstadtleben\n- Wenige gesellschaftliche Kontakte / Einsamkeit\n- Niedriger Bildungsgrad\n- Arbeitslosigkeit\n- Drogenkonsum / Abh\u00e4ngigkeit\n- Lange bestehende Erkrankungen\n\nQuelle: https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/ursachen",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Depression entsteht i.d.R. durch ein Zusammenspiel vielf\u00e4ltiger Faktoren",
+        "Erkl\u00e4rungsmodelle: Vulnerabilit\u00e4ts-Stress-Modell, Zytokin-/Monoamin-Hypothese, kognitionspsychologische Hypothese, psychosoziale Faktoren",
+        "Risikofaktoren u.a.: weibliches Geschlecht, Einsamkeit, Arbeitslosigkeit, niedriger Bildungsgrad, Drogenkonsum, lang bestehende Erkrankungen"
+      ]
+    },
+    {
+      "gidx": 236,
+      "source": "skl-psychiatrie p.236",
+      "slide_title": "Erkl\u00e4rungsmodelle",
+      "type": "inhalt",
+      "notes_md": "## Erkl\u00e4rungsmodelle der Depression\n\n**Vulnerabilit\u00e4ts-Stress-Modell**\n- Gene einer Person weisen gew. Anf\u00e4lligkeit f\u00fcr psychische St\u00f6rung auf & im Zusammenhang mit gew. Umweltfaktoren wird die Erkrankung ausgel\u00f6st.\n\n**Zytokin-Hypothese**\n- Zytokine sind Botenstoffe des Immunsystems, die Entz\u00fcndungsreaktionen regulieren, und bei Depressionen wurden erh\u00f6hte Spiegel pro-inflammatorischer Zytokine wie TNF-\u03b1, IL-6 und IL-1\u03b2 beobachtet (Raison et al., 2005)\n\n**Monoamin-Hypothese**\n- Ein Ungleichgewicht oder ein Mangel an best. Botenstoffen (Serotonin, Noradrenalin & Dopamin) liegt der Erkrankung zu Grunde. Vor allem bei der medikament\u00f6sen Beh. von Bedeutung.\n\n**Kognitionspsychologische Hypothese**\n- Menschen verwenden in best. Situationen immer wieder best. Denkmuster (verallgemeinern, negativieren, Schwarz-Wei\u00df-Denken, etc.) & erh\u00e4rten/\u00fcbertragen (unbewusst) schlechte Erfahrungen.\n\n**Psychosoziale Faktoren**\n- Gewisse Pr\u00e4gungen in der Kindheit \u2013 \u201eerlernte Hilflosigkeit\u201c oder Verluste, Traumata, erneute Krisensituationen f\u00fchren zur Erkrankung bzw. beg\u00fcnstigen diese.",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "5 Erkl\u00e4rungsmodelle: Vulnerabilit\u00e4ts-Stress-Modell, Zytokin-Hypothese, Monoamin-Hypothese, kognitionspsychologische Hypothese, psychosoziale Faktoren",
+        "Monoamin-Hypothese: Mangel an Serotonin, Noradrenalin & Dopamin; Grundlage medikament\u00f6ser Behandlung",
+        "Zytokin-Hypothese: erh\u00f6hte pro-inflammatorische Zytokine (TNF-\u03b1, IL-6, IL-1\u03b2) bei Depressionen (Raison et al., 2005)",
+        "Psychosozial: \u201eerlernte Hilflosigkeit\u201c, Verluste, Traumata, Krisen beg\u00fcnstigen die Erkrankung"
+      ]
+    },
+    {
+      "gidx": 237,
+      "source": "skl-psychiatrie p.237",
+      "slide_title": "Verlauf & Prognosen",
+      "type": "inhalt",
+      "notes_md": "## Verlauf & Prognosen\n\n- Meist Verlaufen Depressionen in Phasen von unterschiedlicher Dauer & Intensit\u00e4t.\n\n**Zeitliche Unterteilung:**\n- Einmalige depressive Episode\n- Wiederkehrende (rezidivierende) depressive St\u00f6rungen\n- Langanhaltende depressive Verstimmungen (Dysthymie) & chronische Depressionen\n\n**Unterteilung nach Lebenssituationen:**\n- Saisonale depressive St\u00f6rung\n- Depressive Phasen pr\u00e4-, peri-, postnatal\n- Anschlie\u00dfend an eine Krisensituation\n\nQuelle: https://www.deutsche-depressionshilfe.de/depression-infos-und-hilfe/was-ist-eine-depression/verlaufsformen",
+      "figures": [
+        {
+          "caption": "Verlaufsformen der unipolaren Depression und bipolaren affektiven St\u00f6rung",
+          "shows": "Kurvendiagramme: einzelne depressive Episode (danach dauerhaft beschwerdefrei), wiederkehrende depressive Episode mit freiem Intervall, dysthymische St\u00f6rung (depressive Stimmung \u00fcber mindestens 2 Jahre), bipolare affektive St\u00f6rung (manisch-depressive Erkrankung mit Manie-Peak)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Depressionen verlaufen meist in Phasen unterschiedlicher Dauer und Intensit\u00e4t",
+        "Zeitlich: einmalige Episode, rezidivierende St\u00f6rung, Dysthymie/chronische Depression",
+        "Nach Lebenssituationen: saisonale Depression, pr\u00e4-/peri-/postnatale Phasen, nach Krisensituation",
+        "Dysthymie: depressive Stimmung \u00fcber mindestens 2 Jahre"
+      ]
+    },
+    {
+      "gidx": 238,
+      "source": "skl-psychiatrie p.238",
+      "slide_title": "Prognose & Dysthymie",
+      "type": "inhalt",
+      "notes_md": "## R\u00fcckfallrisiko und Komorbidit\u00e4t\n\n**R\u00fcckfallrisiko \u2013 ohne Versorgung:**\n- Etwa 50% der Betroffenen\n- 75% bei schweren Depressionen\n\n**Negative Auswirkungen auf Prognosen haben:**\n- Substanzmissbrauch\n- Ess-St\u00f6rungen\n- Begleitende Angst- & Zwangsst\u00f6rungen\n\n- Im Verlauf von 20 Jahren k\u00f6nnen Patient:innen durchschnittlich 5-6 depressive Phasen erleiden.\n- Zudem besteht bei 60% der Betroffenen eine Komorbidit\u00e4t mit min. einer weitern psychischen Erkrankung\n- 80% bei Dysthymie\n\n**Dysthymie / dysthyme St\u00f6rung:**\n- Hinsichtlich Symptomart, -anzahl & Auspr\u00e4gungsgrad leichteres St\u00f6rungsbild\n- Kann Jahre anhalten und nur geringe Schwankungen aufweisen\n- Hauptmerkmal ist chronische depressive Verstimmung",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "R\u00fcckfallrisiko ohne Versorgung: ca. 50%, bei schweren Depressionen 75%",
+        "Prognoseverschlechterer: Substanzmissbrauch, Ess-St\u00f6rungen, begleitende Angst-/Zwangsst\u00f6rungen",
+        "In 20 Jahren durchschnittlich 5-6 depressive Phasen; Komorbidit\u00e4t bei 60% (80% bei Dysthymie)",
+        "Dysthymie: leichteres, aber chronisches St\u00f6rungsbild; Hauptmerkmal chronische depressive Verstimmung"
+      ]
+    },
+    {
+      "gidx": 239,
+      "source": "skl-psychiatrie p.239",
+      "slide_title": "H\u00e4ufigkeiten & Statistiken",
+      "type": "inhalt",
+      "notes_md": "## H\u00e4ufigkeiten & Statistiken\n\n**Erkrankungen an Depressionen**\n\n- Weltweit: ca. 5-7 % der Bev\u00f6lkerung\n  - Im ersten Pandemiejahr stieg die Anzahl von Depressionen und Angstst\u00f6rungen weltweit um 25% (ca. eine Milliarde Menschen betroffen)\n- In Deutschland betroffen sind jedes Jahr 9,8% der Bev\u00f6lkerung (unipolare Depressionen 8,2%)\n  - Ca. 16-20 von 100 Menschen sind betroffen.\n  - Oder 5,3 Mio. der erwachsenen Deutschen (18-79 J.)\n\n- Wiederkehrende depressive Episoden waren 2020 die dritth\u00e4ufigste Diagnose bei jugendlichen zw. 15-24 Jahren.\n- Depressive Erkrankungen kommen bei Frauen (11,6% in Deutschland lebenden) h\u00e4ufiger vor als bei M\u00e4nnern (8,6% in Deutschland lebend)\n- Laut *dgppn* verringert eine psychische Erkrankung die Lebenserwartung um 10 Jahre.\n- 2020 nahmen sich in DE 9200 Menschen das Leben \u2013 50-90% sind auf psychische Krankheiten zur\u00fcck zu f\u00fchren.\n- Bei Personen, die in Heimen leben, wird von einer Pr\u00e4valenz depressiver Symptome von bis zu 50 % und von schwerer Depression zwischen 15 % und 20 % ausgegangen",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Weltweit ca. 5-7% der Bev\u00f6lkerung; im ersten Pandemiejahr +25% Depressionen/Angstst\u00f6rungen",
+        "Deutschland: j\u00e4hrlich 9,8% betroffen (unipolar 8,2%), 5,3 Mio. Erwachsene (18-79 J.)",
+        "Frauen h\u00e4ufiger betroffen als M\u00e4nner (11,6% vs. 8,6%)",
+        "Psychische Erkrankung verringert Lebenserwartung um 10 Jahre (dgppn); 2020: 9200 Suizide in DE, 50-90% auf psychische Krankheiten zur\u00fcckf\u00fchrbar",
+        "Heimbewohner: Pr\u00e4valenz depressiver Symptome bis zu 50%, schwere Depression 15-20%"
+      ]
+    },
+    {
+      "gidx": 240,
+      "source": "skl-psychiatrie p.240",
+      "slide_title": "AU-Tage aufgrund psychischer Erkrankungen (Statistik)",
+      "type": "inhalt",
+      "notes_md": "## AU-Tage aufgrund psychischer Erkrankungen\n\nBalkendiagramm: AU-Tage aufgrund psychischer Erkrankungen nach Einzeldiagnose (\u201eDreisteller\u201c) in Deutschland in den Jahren 2012 bis 2020 (AU-Tage pro 100 VJ).\n\n- Depressive Episode (F32) und Rezidivierende Depressive St\u00f6rung (F33) verursachen mit Abstand die meisten AU-Tage (bis \u00fcber 100 AU-Tage pro 100 VJ)\n- Danach folgen: Reaktionen auf schwere Belastungen und Anpassungsst\u00f6rungen (F43), Andere Neurotische St\u00f6rungen (F48), Andere Angstst\u00f6rungen (F41), Somatoforme St\u00f6rungen (F45)\n- Legende: Jahre 2012-2020 (farbcodiert)\n\nQuelle: DAK, \u00a9 Statista 2022; Weitere Informationen: Deutschland; IGES; 2012 bis 2020",
+      "figures": [
+        {
+          "caption": "AU-Tage aufgrund psychischer Erkrankungen nach Einzeldiagnose (\u201eDreisteller\u201c) in Deutschland 2012-2020 (AU-Tage pro 100 VJ)",
+          "shows": "Gruppiertes Balkendiagramm (DAK/Statista 2022): Depressive Episode (F32) und Rezidivierende Depressive St\u00f6rung (F33) mit den h\u00f6chsten AU-Tagen (>100 pro 100 VJ), gefolgt von F43, F48, F41, F45; Jahresverlauf 2012-2020 farbcodiert",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Depressive Episode (F32) und Rezidivierende Depressive St\u00f6rung (F33) verursachen die meisten AU-Tage psychischer Erkrankungen in Deutschland (>100 AU-Tage pro 100 VJ)",
+        "Datenquelle: DAK, Statista 2022, Zeitraum 2012-2020"
+      ]
+    }
+  ]
+}
