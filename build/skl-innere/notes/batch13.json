@@ -1,0 +1,188 @@
+{
+  "batch": "13",
+  "pages": [
+    {
+      "gidx": 145,
+      "source": "skl-innere p.145",
+      "slide_title": "PAVK – periphere arterielle Verschlusskrankheit: Therapie (Gehtraining, Lokalmaßnahmen)",
+      "type": "inhalt",
+      "notes_md": "# PAVK – periphere arterielle Verschlusskrankheit\n\n## Therapie\n\n**Gehtraining** (sinnvoll in Stadium I und II) zur Verbesserung der Durchblutung.\n- Im Sinne eines täglichen Intervalltrainings läuft der Patient so lange, bis Schmerzen in der betroffenen Extremität auftreten.\n- Dann pausiert er, bis die Schmerzen nachlassen, und läuft anschließend weiter.\n- Das Gehtraining kann entweder in der Alltagsumgebung des Patienten oder auf dem Laufband stattfinden.\n\n**Lokalmaßnahmen**\n- regelmäßige Fußpflege, Pflege bestehender Verletzungen\n- Watteverbände und Beintieflagerung (in Stadium III und IV)\n\n*Quelle: Siewert, Springer 2010*",
+      "figures": [],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Gehtraining bei PAVK sinnvoll in Stadium I und II",
+        "Tägliches Intervalltraining: Gehen bis zum Schmerz, Pause bis Schmerz nachlässt, weitergehen",
+        "Lokalmaßnahmen: regelmäßige Fußpflege, Watteverbände und Beintieflagerung in Stadium III und IV"
+      ]
+    },
+    {
+      "gidx": 146,
+      "source": "skl-innere p.146",
+      "slide_title": "PAVK – periphere arterielle Verschlusskrankheit: Therapie (Thrombus-Prophylaxe)",
+      "type": "inhalt",
+      "notes_md": "# PAVK – periphere arterielle Verschlusskrankheit\n\n## Therapie\n\n**Thrombus-Prophylaxe**\n- Thrombozytenaggregationshemmer, meist ASS (z.B. 100 mg/Tag)\n- bei ASS-Unverträglichkeit: Clopidogrel (z.B. Plavix®)\n- Gegebenenfalls Antikoagulanzien wie Phenprocoumon (z.B. Marcumar®)\n\nBei **Verdacht auf lokale Infektion** (Rötung, Erwärmung, Schwellung, Funktionseinschränkung) muss großzügig eine **systemische Antibiotikatherapie** unter Berücksichtigung des Antibiogramms durchgeführt werden.",
+      "figures": [],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Thrombus-Prophylaxe bei PAVK: Thrombozytenaggregationshemmer, meist ASS (z.B. 100 mg/Tag)",
+        "Bei ASS-Unverträglichkeit: Clopidogrel (z.B. Plavix®), ggf. Antikoagulanzien wie Phenprocoumon (Marcumar®)",
+        "Bei Verdacht auf lokale Infektion: großzügige systemische Antibiotikatherapie nach Antibiogramm"
+      ]
+    },
+    {
+      "gidx": 147,
+      "source": "skl-innere p.147",
+      "slide_title": "PAVK – periphere arterielle Verschlusskrankheit: Therapie (Revaskularisierung, TEA, Amputation)",
+      "type": "inhalt",
+      "notes_md": "# PAVK – periphere arterielle Verschlusskrankheit\n\n## Therapie\n\n**Revaskularisierung**\nDas betroffene Gefäß kann mit Hilfe der **perkutanen transluminalen Angioplastie (PTA)** mit Ballondilatation und ggf. Stent-Einlage wieder durchgängig gemacht werden.\n\n**Thrombendarteriektomie (TEA)**\nOperative Ausschälung der Gefäßverengung. Alternativ: Anlage eines Bypasses.\n\n**Amputation**\nHierbei muss beachtet werden, dass die Abtrennung ein Stück weit im gesunden Gewebe erfolgt, um eine ausreichende Durchblutung und eine gute Wundheilung zu ermöglichen.",
+      "figures": [],
+      "eingrenzung_hits": [2],
+      "key_facts": [
+        "Revaskularisierung bei PAVK: PTA mit Ballondilatation und ggf. Stent-Einlage",
+        "TEA = operative Ausschälung der Gefäßverengung; Alternative: Bypass",
+        "Amputation erfolgt ein Stück weit im gesunden Gewebe für ausreichende Durchblutung und Wundheilung"
+      ]
+    },
+    {
+      "gidx": 148,
+      "source": "skl-innere p.148",
+      "slide_title": "Aneurysma: Definition und Pathophysiologie",
+      "type": "inhalt",
+      "notes_md": "# Aneurysma\n\n## Definition\nEin Aneurysma ist eine krankhafte, umschriebene Erweiterung des Gefäßlumens einer Arterie (umgangssprachlich auch als \"Gefäßaussackung\" bezeichnet).\n\n## Pathophysiologie\n- Meist **auf Basis einer generalisierten Arteriosklerose** kommt es in einem begrenzten Abschnitt einer Arterie zu einer Aufdehnung des Gefäßes. Das Gefäßlumen ist an dieser Stelle erweitert.\n- Im Laufe der Zeit kann der Durchmesser des Aneurysmas allmählich zunehmen, die Gefäßwand wird dabei immer dünner.\n- Betroffen sind vor allem **Männer >50 Jahre**, in 20% der Fälle liegt eine familiäre Häufung vor.\n- Prinzipiell können Aneurysmen an jeder Arterie im Körper entstehen.",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Aneurysma = krankhafte, umschriebene Erweiterung des Gefäßlumens einer Arterie",
+        "Entsteht meist auf Basis einer generalisierten Arteriosklerose",
+        "Vor allem Männer >50 Jahre betroffen, 20% familiäre Häufung",
+        "Gefäßwand wird mit zunehmendem Durchmesser immer dünner"
+      ]
+    },
+    {
+      "gidx": 149,
+      "source": "skl-innere p.149",
+      "slide_title": "Aneurysma: Einteilung (verum, falsum/spurium, dissecans)",
+      "type": "inhalt",
+      "notes_md": "# Aneurysma\n\n## Einteilung\n\n**Echtes Aneurysma (Aneurysma verum)**\n- Alle 3 Wandschichten werden nach außen gedehnt.\n\n**Falsches Aneurysma (Aneurysma falsum oder spurium)**\n- Die Gefäßwand ist nicht erweitert.\n- Aufgrund eines kleinen Defekts in der Gefäßwand bildet sich außerhalb des Gefäßes ein Hämatom, welches durch das umliegende Gewebe begrenzt wird und über den Defekt in der Gefäßwand mit der Arterie in Verbindung steht.\n- Häufigste Ursache ist die **Arterienpunktion in der Leiste** bei der Koronarangiografie.\n\n**Aneurysma dissecans** (Synonym Aortendissektion siehe dort)\n- Die innere Gefäßwand der Arterie reißt ein, wodurch Blut zwischen die einzelnen Schichten tritt und sie aufspaltet (disseziert).\n- **Hochakutes, lebensbedrohliches Krankheitsbild.** Bei Verdacht schnellstmögliche Diagnostik und Therapie.",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Aneurysma verum: alle 3 Wandschichten nach außen gedehnt",
+        "Aneurysma falsum/spurium: Hämatom außerhalb des Gefäßes über Wanddefekt; häufigste Ursache Arterienpunktion in der Leiste bei Koronarangiografie",
+        "Aneurysma dissecans: Einriss der inneren Gefäßwand, Blut spaltet die Schichten – hochakut lebensbedrohlich"
+      ]
+    },
+    {
+      "gidx": 150,
+      "source": "skl-innere p.150",
+      "slide_title": "Aneurysma: Einteilung (Abbildung der drei häufigsten Aneurysmaformen)",
+      "type": "inhalt",
+      "notes_md": "# Aneurysma\n\n## Einteilung\n\nAbbildung der drei häufigsten Aneurysmaformen im Gefäßquerschnitt mit Richtung des Blutstroms und Wandschichten (Intima, Media, Adventitia):\n- **Aneurysma verum**: Erweiterung des Gefäßes unter Beteiligung aller Wandschichten\n- **Aneurysma spurium**: Ausstülpung/Blutaustritt über einen Wanddefekt\n- **Aneurysma dissecans**: Aufspaltung der Gefäßwandschichten durch eintretendes Blut\n\nAbb. 7.44: Die drei häufigsten Aneurysmaformen. [115]\n\n*Quelle: Pflege konkret, Gustav Fischer 1996*",
+      "figures": [
+        {
+          "caption": "Abb. 7.44: Die drei häufigsten Aneurysmaformen. [115] (Quelle: Pflege konkret, Gustav Fischer 1996)",
+          "shows": "Schematische Gefäßquerschnitte der drei häufigsten Aneurysmaformen: Aneurysma verum, Aneurysma spurium und Aneurysma dissecans; beschriftet mit Richtung des Blutstroms und Wandschichten (Intima, Media, Adventitia)",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Die drei häufigsten Aneurysmaformen: Aneurysma verum, Aneurysma spurium, Aneurysma dissecans",
+        "Gefäßwandschichten: Intima, Media, Adventitia"
+      ]
+    },
+    {
+      "gidx": 151,
+      "source": "skl-innere p.151",
+      "slide_title": "Aneurysma: Diagnostik",
+      "type": "inhalt",
+      "notes_md": "# Aneurysma\n\n## Diagnostik\n- Viele Menschen leben beschwerdefrei mit einem Aneurysma. Selten bestehen ein **Druckgefühl** oder **dumpfe Schmerzen**, bei einem Bauchaortenaneurysma z.B. am Rücken, in den Flanken oder im Unterbauch.\n- Ein Aneurysma wird oft zufällig entdeckt, z.B. anlässlich Abdomen-Sono oder CT-/MRT-Untersuchung (z.B. Bauchaorta 95% infrarenal, **Kriterium**: Aortendurchmesser ≥ 3,0 cm).\n- Bei schlanken Patienten lässt sich ein abdominelles Aneurysma evtl. als ein pulsierender \"Tumor\" durch die Bauchdecke ertasten.\n- **In regelmäßigen Abständen wird die Größe des Aneurysmas bestimmt, um eingreifen zu können, bevor das Aneurysma einreißt.**\n- Verlaufskontrolle mittels Sono, CT, MRT und Angiografie.",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Aneurysma oft beschwerdefrei und Zufallsbefund",
+        "Kriterium Bauchaortenaneurysma: Aortendurchmesser ≥ 3,0 cm; 95% infrarenal",
+        "Regelmäßige Größenbestimmung, um vor dem Einreißen eingreifen zu können",
+        "Verlaufskontrolle mittels Sono, CT, MRT und Angiografie"
+      ]
+    },
+    {
+      "gidx": 152,
+      "source": "skl-innere p.152",
+      "slide_title": "Aneurysma: Komplikationen – Ruptur",
+      "type": "inhalt",
+      "notes_md": "# Aneurysma\n\n## Komplikationen\n\n### Ruptur\nEinreißen des Aneurysmas, z.B. infolge **Blutdruckspitze** oder **traumatischer Einwirkung** von außen, möglicherweise auch **spontan**, wenn die Gefäßwand bei zunehmender Aneurysmagröße zu stark gedehnt wird.\n\n**Gedeckte Ruptur**\n- Die austretende Blutung wird durch benachbarte Strukturen begrenzt.\n\n**Offene Ruptur**\n- Das austretende Blut fließt in den umgebenden Raum, **drohende Verblutung**.\n- **Hinweise**: akute Verschlechterung des Allgemeinzustands, Schocksymptome (Kaltschweißigkeit, Blässe, Herzrasen), ggf. plötzliche, starke Schmerzen.\n- Die Ruptur eines Aortenaneurysmas kann sich durch heftige Bauchschmerzen bemerkbar machen (**akutes Abdomen**).",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Ruptur = Einreißen des Aneurysmas, z.B. durch Blutdruckspitze, Trauma oder spontan",
+        "Gedeckte Ruptur: Blutung durch benachbarte Strukturen begrenzt",
+        "Offene Ruptur: drohende Verblutung; Hinweise: Schocksymptome (Kaltschweißigkeit, Blässe, Herzrasen), plötzliche starke Schmerzen, akutes Abdomen"
+      ]
+    },
+    {
+      "gidx": 153,
+      "source": "skl-innere p.153",
+      "slide_title": "Aneurysma: Komplikationen – Thrombenbildung",
+      "type": "inhalt",
+      "notes_md": "# Aneurysma\n\n## Komplikationen\n\n### Thrombenbildung\nEine weitere mögliche Komplikation eines Aneurysmas ist die Bildung von Blutgerinnseln, da der Blutstrom in den erweiterten Gefäßabschnitten durch Verwirbelungen gestört und damit verlangsamt ist.\n\n**Bei Dissektion oder Ruptur eines Aneurysmas muss notfallmäßig eingegriffen werden.**\n\n**Die Sterblichkeit bei elektivem (geplantem) Vorgehen liegt bei <5%, im Notfall bei >50%.**",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Thrombenbildung durch gestörten, verlangsamten Blutstrom in erweiterten Gefäßabschnitten",
+        "Bei Dissektion oder Ruptur: notfallmäßiges Eingreifen erforderlich",
+        "Sterblichkeit elektiv <5%, im Notfall >50%"
+      ]
+    },
+    {
+      "gidx": 154,
+      "source": "skl-innere p.154",
+      "slide_title": "Aneurysma: Therapie",
+      "type": "inhalt",
+      "notes_md": "# Aneurysma\n\n## Therapie\n- **Kardiovaskuläre Risikofaktoren** abstellen.\n- **Blutdruckspitzen** vermeiden, Einstellung und Kontrolle einer arteriellen Hypertonie.\n\n**Asymptomatisches Aneurysma**\n- **Ultraschalluntersuchung**: Die Behandlung richtet sich nach dem Durchmesser und der Wachstumstendenz des Aneurysmas und nach dem Risikoprofil des Patienten. Bei kleineren Aneurysmen reicht ggf. eine engmaschige Kontrolle (alle 3–6 Monate).\n\n**Schnell wachsendes und symptomatisches Aneurysma**\nGrößere und rasch wachsende Aneurysmen (z.B. Bauchaorta: Durchmesser >5 cm) werden operiert:\n- Minimalinvasiv: **Punktion der Leistenarterie und Stent-Einlage**\n- **Aorto-biiliakale Rohr- oder Y-Prothese**",
+      "figures": [],
+      "eingrenzung_hits": [4],
+      "key_facts": [
+        "Basistherapie: kardiovaskuläre Risikofaktoren abstellen, Blutdruckspitzen vermeiden, Hypertonie einstellen und kontrollieren",
+        "Kleine asymptomatische Aneurysmen: engmaschige Ultraschallkontrolle alle 3–6 Monate",
+        "Operationsindikation z.B. bei Bauchaorta mit Durchmesser >5 cm oder rascher Wachstumstendenz",
+        "OP-Verfahren: minimalinvasiv Stent-Einlage über Leistenarterie oder aorto-biiliakale Rohr-/Y-Prothese"
+      ]
+    },
+    {
+      "gidx": 155,
+      "source": "skl-innere p.155",
+      "slide_title": "SKL Innere – Arterielle Hypertonie, Herzinsuffizienz (Kurs Ergotherapie)",
+      "type": "titel",
+      "notes_md": "# SKL Innere\n\n## Arterielle Hypertonie\n## Herzinsuffizienz\n\nKurs Ergotherapie\n\nTrennfolie/Titelfolie für den Themenblock Arterielle Hypertonie und Herzinsuffizienz.",
+      "figures": [],
+      "eingrenzung_hits": [3, 15],
+      "key_facts": [
+        "Auftakt des Themenblocks Arterielle Hypertonie und Herzinsuffizienz"
+      ]
+    },
+    {
+      "gidx": 156,
+      "source": "skl-innere p.156",
+      "slide_title": "Blutdruck: Definition",
+      "type": "inhalt",
+      "notes_md": "# Blutdruck\n\n## Definition\n- Als **Blutdruck** (*Abk.* RR = Riva-Rocci) wird die Kraft bezeichnet, die das Blut auf die Gefäßwände ausübt.\n- Der Blutdruck wird gemessen in mmHg (= Millimeter Quecksilbersäule).\n- Seine Höhe ist **abhängig vom Herzminutenvolumen, dem Blutvolumen und dem Gefäßwiderstand**.\n- In den Arterien ist der Blutdruck deutlich höher als in den Venen.\n\n## Blutdrucknormalwerte (Arteria brachialis)\n| Alter | Blutdruck |\n|---|---|\n| Neugeborene | syst. 60–80 mmHg |\n| Bis 10 J. | 90/60 mmHg |\n| 10–30 J. | 110/75 mmHg |\n| 30–40 J. | 125/85 mmHg |\n| 40–60 J. | 140/90 mmHg |\n| Über 60 J. | 150/90 mmHg |",
+      "figures": [
+        {
+          "caption": "Blutdrucknormalwerte (Arteria brachialis)",
+          "shows": "Tabelle der Blutdrucknormalwerte nach Altersgruppen: Neugeborene syst. 60–80 mmHg, bis 10 J. 90/60, 10–30 J. 110/75, 30–40 J. 125/85, 40–60 J. 140/90, über 60 J. 150/90 mmHg",
+          "importance": "mid",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [8, 15],
+      "key_facts": [
+        "Blutdruck (RR = Riva-Rocci) = Kraft, die das Blut auf die Gefäßwände ausübt; Einheit mmHg",
+        "Blutdruckhöhe abhängig von Herzminutenvolumen, Blutvolumen und Gefäßwiderstand",
+        "Blutdruck in Arterien deutlich höher als in Venen",
+        "Normalwerte altersabhängig: von syst. 60–80 mmHg (Neugeborene) bis 150/90 mmHg (über 60 J.)"
+      ]
+    }
+  ]
+}
