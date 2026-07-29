@@ -1,0 +1,105 @@
+{
+  "id": "ortho-rheuma-t16",
+  "title": "Gicht — primäre und sekundäre Form, Podagra",
+  "eingrenzung": "Gicht (primäre und sekundäre Form, Podagra)",
+  "prio": "high",
+  "body": "## Definition\n\nBei der Gicht (Urikopathie) kommt es aufgrund einer **Hyperurikämie** (MSU-Übersättigung der Extrazellulärflüssigkeit) zu einer Gewebeablagerung von **Monosodium-Urat-Kristallen (MSU)**, also Harnsäurekristallen. Harnsäure ist das Abbauprodukt der **Purine** (Bestandteil der DNA). Ab einem Harnsäurespiegel von **> 6,4 mg/dl** im Blut lagern sich die Kristalle in Gelenken und Weichteilgewebe ab.\n\n## Zwei Formen\n\n### Primäre Gicht\n- erblich bedingt\n- purinreiche Ernährung (Fleisch), Alkoholabusus, Übergewicht\n- gestörte Ausscheidung von Harnsäure über die Nieren\n\n### Sekundäre Gicht\n- bei vermehrtem Untergang von Zellen: Chemotherapie, Leukämien\n- Nierenerkrankungen\n\n## Manifestationen\n\n- **Gicht-Arthritis**\n- **Tophi (Gichtknoten):** angehäufte Ablagerungen von MSU in artikulären, ossären, kartilaginösen oder bindegewebigen Bereichen; klinisch kleine, harte, manchmal gelbliche Knötchen auf/unter der Haut\n- **Gicht-Nephropathie**\n- **akutes Nierenversagen** durch Verstopfung der Tubuli\n- **Harnsäure-Nephrolithiasis**\n\n## Die 4 Stadien\n\n| Stadium | Beschreibung |\n|---|---|\n| I | keine Symptome (asymptomatische Hyperurikämie) |\n| II | akuter Gichtanfall mit arthritischen Schmerzen in einem Gelenk; Entzündungszeichen: Überwärmung, Rötung, Schwellung, massive Schmerzen; häufig Großzehengrundgelenk (**Podagra**) |\n| III | symptomlose Zeit zwischen zwei Anfällen (Intervall) |\n| IV | chronische Gicht: ossäre Gichtknoten mit bleibenden Gelenkveränderungen, Gichttophi (z. B. Ohrmuschel) |\n\n## Betroffene Gelenke\n\n- Gelenke der **unteren Extremitäten** sind typischerweise öfter betroffen als die der oberen; in **über 80 %** der Fälle betrifft Gicht Zehen, Fuß oder Knie.\n- Das **erste Metatarsophalangealgelenk (MTP I) der Großzehe** ist in **50 % der ersten Anfälle** und im Verlauf bei **über 90 %** aller Patienten betroffen. Der akute Gichtanfall des MTP I heißt **Podagra**.\n- Nach absteigender Häufigkeit folgen: Fußrist, Knöchel, Ferse, Knie, Handgelenk, Finger, Ellenbogen.\n- Nur ca. **10 %** der Gichterkrankungen tangieren Hand und Finger; an der Hand ist am häufigsten das Daumengrundgelenk betroffen. Gicht in der Hand wird als **Chiragra** bezeichnet.\n\n### Symptome der Fingergicht\n- extreme Empfindlichkeit der Finger\n- Schwellung und Entzündung, rote, glänzende Haut\n- schuppige, juckende Haut an der erkrankten Stelle\n- rapide Schmerzverschlimmerung, meist nachts\n- Fieber, Übelkeit und Erbrechen möglich\n- Tophi unter der Haut an Finger-/Zehengelenken, Ellenbogen und Ohrknorpel — meist nicht schmerzhaft, aber störend; nicht alle Erkrankten entwickeln Knoten\n- nach einiger Zeit Nierensteine oder eingeschränkte Nierenfunktion möglich\n\n## Radiologische Merkmale\n\n**Gelenke:**\n- Gelenkserguss (frühestes Zeichen)\n- Erhalt des Gelenkspalts bis in späte Stadien\n- keine periartikuläre Osteopenie\n- typische „ausgestanzte“ Erosionen mit sklerotischen Rändern in gelenknaher Verteilung, mit überhängenden Kanten\n\n**Knochen:**\n- ausgestanzte lytische Knochenläsionen, überhängende sklerotische Ränder\n- avaskuläre Nekrose möglich, Mineralisation normal\n\n**Umgebendes Bindegewebe:**\n- Tophi (häufig Ohrmuschel)\n- Bursitis olecrani und präpatelläre Bursitis\n- periartikuläre Bindegewebsschwellung durch Kristallablagerungen\n\n## Diagnostik\n\n- Labor: **erhöhter Harnsäurespiegel**, beschleunigte **BSG**, **Leukozytose**\n\n## Therapie\n\n- **purinarme Diät:** wenig Fleisch, Innereien, Alkohol\n- viel trinken\n- **medikamentös:**\n  - **Urikostatika** — Reduzierung der Harnsäureproduktion\n  - **Urikosurika** — Steigerung der Harnsäureausscheidung\n- **akuter Gichtanfall:** NSAR und Kälteanwendung symptomatisch\n- bei destruktiven Veränderungen von Hand-, Finger- und Zehengelenken ggf. operative Sanierung\n\n## Bezüge zu anderen Krankheitsbildern\n\n- **Gonarthrose (sekundär):** Gicht (Ablagerung von Harnsäurekristallen) und **Pseudogicht (Chondrokalzinose**, Ablagerung von Calciumpyrophosphat-Kristallen) zählen zu den metabolischen Ursachen einer sekundären Kniearthrose.\n- **Bursitis olecrani (chronisch):** Stoffwechselerkrankungen wie die Gicht sind eine Ursache der chronischen Schleimbeutelentzündung am Ellenbogen; auch präpatelläre Bursitiden treten im Gichtumfeld auf.\n",
+  "facts": [
+    "Gicht = Gewebeablagerung von Monosodium-Urat-Kristallen (MSU) bei Hyperurikämie (> 6,4 mg/dl); Harnsäure = Purinabbauprodukt",
+    "Primäre Form: erblich, purinreiche Ernährung, Alkoholabusus, Übergewicht, gestörte renale Harnsäureausscheidung",
+    "Sekundäre Form: vermehrter Zelluntergang (Chemotherapie, Leukämien), Nierenerkrankungen",
+    "Manifestationen: Gicht-Arthritis, Tophi (Gichtknoten), Gicht-Nephropathie, akutes Nierenversagen, Harnsäure-Nephrolithiasis",
+    "4 Stadien: I asymptomatisch, II akuter Gichtanfall (Podagra), III symptomfreies Intervall, IV chronische Gicht mit Tophi",
+    "Podagra = akuter Gichtanfall des 1. MTP-Gelenks (Großzehengrundgelenk); 50 % der ersten Anfälle, > 90 % im Verlauf",
+    "Über 80 % betreffen die unteren Extremitäten; Chiragra = Gicht in der Hand (meist Daumengrundgelenk)",
+    "Röntgen: Gelenkserguss frühestes Zeichen, Gelenkspalt lange erhalten, keine periartikuläre Osteopenie, 'ausgestanzte' Erosionen mit sklerotischen Rändern und überhängenden Kanten",
+    "Labor: erhöhter Harnsäurespiegel, beschleunigte BSG, Leukozytose",
+    "Therapie: purinarme Diät, viel trinken, Urikostatika (Produktion ↓), Urikosurika (Ausscheidung ↑); Akutanfall: NSAR + Kälte"
+  ],
+  "figures": [
+    {
+      "src": "assets/ortho-rheuma/g221.png",
+      "caption": "Harnsäurekristalle (MSU) mikroskopisch"
+    },
+    {
+      "src": "assets/ortho-rheuma/g224.png",
+      "caption": "Klinische Bildbeispiele: Podagra am entzündeten Großzehengrundgelenk mit Urat-Kristallen (Schema), Chiragra mit Gichttophi an der Hand, Gichttophi an der Ohrmuschel, akuter Gichtanfall am Fuß"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Was ist die pathophysiologische Grundlage der Gicht?",
+      "a": "Hyperurikämie (Harnsäure > 6,4 mg/dl) mit Übersättigung der Extrazellulärflüssigkeit und Gewebeablagerung von Monosodium-Urat-Kristallen (MSU). Harnsäure ist das Abbauprodukt der Purine (DNA-Bestandteil)."
+    },
+    {
+      "q": "Nenne die Ursachen der primären und der sekundären Gicht.",
+      "a": "Primär: erblich bedingt, purinreiche Ernährung (Fleisch), Alkoholabusus, Übergewicht, gestörte renale Harnsäureausscheidung. Sekundär: vermehrter Zelluntergang (Chemotherapie, Leukämien) und Nierenerkrankungen."
+    },
+    {
+      "q": "Welche 4 Stadien durchläuft die Gicht?",
+      "a": "I: asymptomatisch; II: akuter Gichtanfall mit Überwärmung, Rötung, Schwellung, massiven Schmerzen (oft Podagra); III: symptomfreies Intervall zwischen Anfällen; IV: chronische Gicht mit ossären Gichtknoten, bleibenden Gelenkveränderungen und Tophi."
+    },
+    {
+      "q": "Was ist ein Podagra und wie häufig ist das Großzehengrundgelenk betroffen?",
+      "a": "Podagra = akuter Gichtanfall des ersten Metatarsophalangealgelenks (Großzehengrundgelenk). Betroffen in 50 % der ersten Anfälle und im Verlauf bei über 90 % aller Patienten."
+    },
+    {
+      "q": "Was versteht man unter Chiragra?",
+      "a": "Gicht in der Hand; am häufigsten ist das Daumengrundgelenk betroffen. Nur ca. 10 % der Gichterkrankungen tangieren Hand und Finger."
+    },
+    {
+      "q": "Welche typischen radiologischen Merkmale zeigt die Gicht?",
+      "a": "Gelenkserguss als frühestes Zeichen, lange Erhalt des Gelenkspalts, keine periartikuläre Osteopenie, 'ausgestanzte' Erosionen mit sklerotischen Rändern und überhängenden Kanten sowie Tophi im Bindegewebe."
+    },
+    {
+      "q": "Wie wird die Gicht therapiert?",
+      "a": "Purinarme Diät (wenig Fleisch, Innereien, Alkohol), viel trinken; medikamentös Urikostatika (Reduktion der Harnsäureproduktion) und Urikosurika (Steigerung der Ausscheidung). Beim akuten Anfall: NSAR und Kälteanwendung symptomatisch."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welches Gelenk ist beim ersten Gichtanfall in etwa 50 % der Fälle betroffen?",
+      "choices": [
+        "Kniegelenk",
+        "Erstes Metatarsophalangealgelenk (Großzehengrundgelenk)",
+        "Handgelenk",
+        "Ellenbogengelenk"
+      ],
+      "answer": 1,
+      "expl": "Das erste MTP-Gelenk ist in 50 % der ersten Anfälle und im Verlauf bei über 90 % der Patienten betroffen; der akute Anfall dort heißt Podagra."
+    },
+    {
+      "q": "Welche Aussage zur sekundären Gicht ist richtig?",
+      "choices": [
+        "Sie ist primär erblich bedingt.",
+        "Sie entsteht durch purinreiche Ernährung und Alkoholabusus.",
+        "Sie tritt u. a. bei vermehrtem Zelluntergang (Chemotherapie, Leukämien) und Nierenerkrankungen auf.",
+        "Sie ist immer Folge eines Gelenktraumas."
+      ],
+      "answer": 2,
+      "expl": "Erbliche Anlage, purinreiche Ernährung und gestörte renale Ausscheidung gehören zur primären Gicht. Die sekundäre Form folgt vermehrtem Zelluntergang oder Nierenerkrankungen."
+    },
+    {
+      "q": "Welches radiologische Bild ist typisch für die Gicht?",
+      "choices": [
+        "Ausgeprägte periartikuläre Osteopenie",
+        "Frühe Gelenkspaltverschmälerung",
+        "Diffuse Demineralisation des Skeletts",
+        "'Ausgestanzte' Erosionen mit sklerotischen Rändern und überhängenden Kanten"
+      ],
+      "answer": 3,
+      "expl": "Typisch sind 'ausgestanzte' Erosionen mit sklerotischen Rändern und überhängenden Kanten; der Gelenkspalt bleibt lange erhalten und eine periartikuläre Osteopenie fehlt."
+    },
+    {
+      "q": "Welche medikamentösen Gruppen werden zur Harnsäuresenkung eingesetzt?",
+      "choices": [
+        "Urikostatika (Produktion ↓) und Urikosurika (Ausscheidung ↑)",
+        "Antibiotika und Antimykotika",
+        "DMARDs und Biologika",
+        "Lokalanästhetika und Muskelrelaxanzien"
+      ],
+      "answer": 0,
+      "expl": "Urikostatika reduzieren die Harnsäureproduktion, Urikosurika steigern die Harnsäureausscheidung; im Akutanfall kommen NSAR und Kälte zum Einsatz."
+    }
+  ]
+}

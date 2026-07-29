@@ -1,0 +1,107 @@
+{
+  "id": "ortho-rheuma-t12",
+  "title": "Morbus Scheuermann (Adoleszentenkyphose)",
+  "eingrenzung": "Morbus Scheuermann (Definition, Ursache, Pathomechanismus, Operative Verfahren)",
+  "prio": "high",
+  "body": "## Definition\nMorbus Scheuermann – auch **Adoleszentenkyphose** genannt – ist eine **juvenile Verknöcherungsstörung der Wirbelsäule mit Rundrückenbildung**, meist im mittleren und unteren thorakalen Abschnitt sowie im thorakolumbalen Übergang.\n\n## Epidemiologie und Ätiologie\n- Alter: 8–14 Jahre\n- Jungen sind doppelt so häufig betroffen wie Mädchen\n- Ätiologie: idiopathisch, evtl. Hochwuchs oder Haltungsschäden\n\n## Pathogenese (Pathomechanismus)\n- Die Wirbel zwischen **TH5–TH11 und L1–L3** wachsen in ihren vorderen Abschnitten langsamer → **Keilwirbelbildung durch ventrale Höhenminderung**.\n- Bandscheibengewebe wächst durch die weniger widerstandsfähigen Wirbelendplatten in die Wirbelkörper ein → **Schmorl-Knorpelknötchen** (Grund- und Deckplattendefekte).\n\n## Klinik: Die Stadien\n### Stadium I\n- Kyphotische Fehlhaltung mit **erhaltener Beweglichkeit**\n- Zwischen dem 10.–14. Lebensjahr kommt es unter zunehmender muskulärer Leistungsminderung zu einem zunehmenden Rundrücken\n- **Keine Schmerzen, keine Bewegungseinschränkung**\n\n### Stadium II\n- **Fixierte Fehlhaltung**, kein Ausgleich mehr bei aktiver Bewegung oder passiver Hyperextension\n- Druck- und stauchungsempfindliche Wirbelsäulenabschnitte, verspannte Rückenmuskulatur (muskulärer Hartspann)\n- Schmerzhafte **Insertionstendopathien**\n\n### Stadium III\n- Progredienz der Fehlhaltung, **Achsenkorrektur nicht mehr möglich**\n- **Defektheilung**: Schmorl-Knoten und keilförmige Deformierungen bleiben dauerhaft bestehen und führen zu fortschreitenden osteochondrotischen Veränderungen\n\n## Diagnostik\n- Klinische Untersuchung: fixierter Rundrücken mit muskulärem Hartspann, belastungsabhängige Rückenschmerzen; bei fixiertem Rundrücken lässt sich die Kyphose auch bei Aufrichten aus der Inklination oder bei der Reklination nicht ausgleichen (meist nur teilweiser Ausgleich = teilfixierter Rundrücken)\n- **Röntgen**: keilförmige Wirbelkörper, Schmorl-Knötchen, verzögerte Randkantenverknöcherung, Minderung der ventralen Wirbelkörperhöhe → fixierte Hyperkyphose\n\n## Therapie\n- KG\n- Massagen\n- Kräftigungsübungen\n- Schwimmen\n- **Orthetische Versorgung** mit z. B. Boston-Korsett, Dreipunktkorsett – **nur in Stadium I–II sinnvoll**\n- **Titanrippenprothese** nur während des Wachstums (wachstumslenkend; Ziel: Korrektur und Verbesserung des Thoraxwachstums und der Lungenentwicklung, besonders bei wachstumsaktiven Kindern)\n- Evtl. **Kyphosenoperation** – selten (Spondylodese = endgültige Versteifung)\n\n## Abgrenzung: Erkrankungen im Ellenbogenbereich\n- **Epicondylitis humeri radialis (Tennisarm)**: Insertionstendopathie am Epicondylus humeri radialis, am Ansatz der Hand- und Fingerstrecker. Ursache: Überlastung der speichenseitigen Handstrecker mit Mikroläsionen am Epicondylus lateralis; betroffen sind in aller Regel die Sehnenansätze von **M. extensor carpi radialis brevis** und **M. extensor digitorum communis** (z. B. Tippen an der Computertastatur, Wand streichen, intensives Schrauben); auch Kontusionen am Epicondylus humeri radialis.\n- **Epicondylitis humeri ulnaris (Golferarm)**: Insertionstendopathie der am **Epicondylus medialis humeri** entspringenden Unterarmflexoren; beim Golfschwung (v. a. Abschlag) werden die Unterarmbeuger stark und wiederholt belastet → Reizungen am medialen Epicondylus.",
+  "facts": [
+    "Morbus Scheuermann = Adoleszentenkyphose: juvenile Verknöcherungsstörung der Wirbelsäule mit Rundrückenbildung (thorakal/thorakolumbal)",
+    "Alter 8–14 Jahre; Jungen doppelt so häufig betroffen wie Mädchen; Ätiologie idiopathisch, evtl. Hochwuchs oder Haltungsschäden",
+    "Pathogenese: Keilwirbelbildung durch ventrale Höhenminderung (TH5–TH11, L1–L3), Schmorl-Knorpelknötchen",
+    "Stadium I: kyphotische Fehlhaltung mit erhaltener Beweglichkeit, keine Schmerzen",
+    "Stadium II: fixierte Fehlhaltung, kein Ausgleich mehr, schmerzhafte Insertionstendopathien",
+    "Stadium III: Progredienz, Achsenkorrektur nicht mehr möglich, Defektheilung mit osteochondrotischen Veränderungen",
+    "Röntgen: keilförmige Wirbelkörper, Schmorl-Knötchen, verzögerte Randkantenverknöcherung",
+    "Therapie: KG, Massagen, Kräftigung, Schwimmen; Korsett (Boston/Dreipunkt) nur Stadium I–II; Titanrippenprothese nur während des Wachstums; Kyphosenoperation selten"
+  ],
+  "figures": [
+    {
+      "src": "assets/ortho-rheuma/g183.png",
+      "caption": "Scheuermann-Krankheit: fixierter Rundrücken mit muskulärem Hartspann; Röntgen mit Schmorl-Knötchen und ventraler Wirbelkörperhöhenminderung (Abb. 17.19 / 17.17)"
+    },
+    {
+      "src": "assets/ortho-rheuma/g184.png",
+      "caption": "Fixierter Rundrücken: Kyphose lässt sich bei Aufrichten aus Inklination oder Reklination nicht ausgleichen (Abb. 17.18)"
+    },
+    {
+      "src": "assets/ortho-rheuma/g185.png",
+      "caption": "Korsettversorgung und Titanrippenprothese bei Morbus Scheuermann"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Wie lautet die Definition des Morbus Scheuermann?",
+      "a": "Eine juvenile Verknöcherungsstörung der Wirbelsäule mit Rundrückenbildung, meist im mittleren und unteren thorakalen Abschnitt sowie im thorakolumbalen Übergang."
+    },
+    {
+      "q": "Wie wird der Morbus Scheuermann auch genannt?",
+      "a": "Adoleszentenkyphose."
+    },
+    {
+      "q": "Beschreibe den Pathomechanismus beim Morbus Scheuermann.",
+      "a": "Die Wirbel zwischen TH5–TH11 und L1–L3 wachsen ventral langsamer → Keilwirbelbildung durch ventrale Höhenminderung. Bandscheibengewebe wächst durch die weniger widerstandsfähigen Wirbelendplatten in die Wirbelkörper ein → Schmorl-Knorpelknötchen."
+    },
+    {
+      "q": "Was kennzeichnet Stadium I des Morbus Scheuermann?",
+      "a": "Kyphotische Fehlhaltung mit erhaltener Beweglichkeit, zunehmender Rundrücken zwischen dem 10.–14. Lebensjahr, keine Schmerzen und keine Bewegungseinschränkung."
+    },
+    {
+      "q": "Was kennzeichnet Stadium II des Morbus Scheuermann?",
+      "a": "Fixierte Fehlhaltung ohne Ausgleich bei aktiver Bewegung oder passiver Hyperextension, druck- und stauchungsempfindliche Wirbelsäulenabschnitte, verspannte Rückenmuskulatur, schmerzhafte Insertionstendopathien."
+    },
+    {
+      "q": "Welche Röntgenbefunde sind typisch für Morbus Scheuermann?",
+      "a": "Keilförmige Wirbelkörper, Schmorl-Knötchen und verzögerte Randkantenverknöcherung."
+    },
+    {
+      "q": "Welche Therapiemaßnahmen kommen beim Morbus Scheuermann infrage?",
+      "a": "KG, Massagen, Kräftigungsübungen, Schwimmen, Orthese (Boston-/Dreipunktkorsett nur Stadium I–II), Titanrippenprothese nur während des Wachstums, evtl. Kyphosenoperation (selten)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In welchen Wirbelsäulenabschnitten entstehen beim Morbus Scheuermann die Keilwirbel?",
+      "choices": [
+        "C3–C7 und TH1–TH4",
+        "TH5–TH11 und L1–L3",
+        "L3–L5 und S1",
+        "Nur im thorakolumbalen Übergang TH12/L1"
+      ],
+      "answer": 1,
+      "expl": "Die Wirbel zwischen TH5–TH11 und L1–L3 wachsen ventral langsamer, wodurch Keilwirbel durch ventrale Höhenminderung entstehen."
+    },
+    {
+      "q": "Welche Aussage trifft auf Stadium II des Morbus Scheuermann zu?",
+      "choices": [
+        "Die Fehlhaltung ist noch voll beweglich und schmerzfrei.",
+        "Eine Achsenkorrektur ist noch problemlos möglich.",
+        "Es bestehen Defektheilung mit dauerhaften Schmorl-Knoten.",
+        "Die Fehlhaltung ist fixiert; es treten schmerzhafte Insertionstendopathien auf."
+      ],
+      "answer": 3,
+      "expl": "Stadium II: fixierte Fehlhaltung ohne Ausgleich bei aktiver Bewegung oder passiver Hyperextension, verspannte Rückenmuskulatur und schmerzhafte Insertionstendopathien."
+    },
+    {
+      "q": "Wann ist eine orthetische Versorgung (z. B. Boston-Korsett) beim Morbus Scheuermann sinnvoll?",
+      "choices": [
+        "Nur in Stadium I–II",
+        "Nur in Stadium III",
+        "In allen Stadien gleichermaßen",
+        "Ausschließlich nach der Kyphosenoperation"
+      ],
+      "answer": 0,
+      "expl": "Die Korsettversorgung (Boston-Korsett, Dreipunktkorsett) ist nur in Stadium I–II sinnvoll; die Titanrippenprothese kommt nur während des Wachstums infrage."
+    },
+    {
+      "q": "Welche Muskelsehnenansätze sind beim Tennisarm (Epicondylitis humeri radialis) in aller Regel betroffen?",
+      "choices": [
+        "M. biceps brachii und M. brachialis",
+        "Unterarmflexoren am Epicondylus medialis",
+        "M. extensor carpi radialis brevis und M. extensor digitorum communis",
+        "M. supinator und M. pronator teres"
+      ],
+      "answer": 2,
+      "expl": "Beim Tennisarm sind die Sehnenansätze von M. extensor carpi radialis brevis und M. extensor digitorum communis am Epicondylus lateralis betroffen; die Unterarmflexoren am Epicondylus medialis betreffen den Golferarm."
+    }
+  ]
+}
