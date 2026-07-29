@@ -1,0 +1,197 @@
+{
+  "batch": "33",
+  "pages": [
+    {
+      "gidx": 385,
+      "source": "skl-innere p.385",
+      "slide_title": "Vollbild der Urämie",
+      "type": "inhalt",
+      "notes_md": "## Vollbild der Urämie\n\nAbb. 7.21: Symptome der terminalen Niereninsuffizienz (Quelle: Baenkler, Thieme 2010)\n\nBeschriftete Symptome an der Körperfigur:\n\n- herabgesetzte intellektuelle Leistung\n- Durst\n- Hypertonie\n- Perikarditis\n- Übelkeit, Erbrechen\n- Polyurie, Nykturie\n- Muskelkrämpfe / Myopathie\n- Ödeme\n- sekundärer Hyperparathyreoidismus\n- renale Osteopathie / Weichteilverkalkungen\n- Belastungsdyspnoe, Hyperventilation bei Azidose\n- Kratzspuren\n- Blässe (Anämie), Juckreiz, Petechien (Blutungsneigung)\n- Polyneuropathie",
+      "figures": [
+        {
+          "caption": "Abb. 7.21: Symptome der terminalen Niereninsuffizienz",
+          "shows": "Anatomische Körperfigur mit beschrifteten Symptomen der terminalen Niereninsuffizienz (Urämie) von Kopf bis Fuß",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Vollbild der Urämie = Symptome der terminalen Niereninsuffizienz",
+        "Symptome betreffen nahezu alle Organsysteme: ZNS (herabgesetzte intellektuelle Leistung, Polyneuropathie), Herz (Perikarditis, Hypertonie), Haut (Juckreiz, Petechien, Kratzspuren), Skelett (renale Osteopathie, Weichteilverkalkungen)",
+        "Belastungsdyspnoe und Hyperventilation treten bei Azidose auf",
+        "Quelle: Baenkler, Thieme 2010"
+      ]
+    },
+    {
+      "gidx": 386,
+      "source": "skl-innere p.386",
+      "slide_title": "Chronische Niereninsuffizienz, CNI — Therapie",
+      "type": "inhalt",
+      "notes_md": "## Chronische Niereninsuffizienz, CNI\n\n### Therapie\n\n- Behandlung der Grunderkrankung\n- Absetzen/Austauschen von Medikamenten oder Anpassen von Medikamentendosierungen\n- arteriellen Blutdruck auf niedrig-normale Werte einstellen (Hypertonie verstärkt die Nierenschädigung und erhöht das kardiovaskuläre Risiko)\n- Diät: zurückhaltend mit Eiweiß, ausreichend Kalorien\n- Flüssigkeitszufuhr 2,0–2,5 l/Tag, evtl. in Kombination mit Diuretika\n- regelmäßige Laborkontrollen der Elektrolyte, NaCl- u/o KCl-Substitution nach Bedarf\n- Behandlung einer renalen Osteopathie\n- Behandlung einer renalen Anämie\n- Nierenersatzbehandlung (Dialyse)\n- Nierentransplantation",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Therapie der CNI beginnt mit Behandlung der Grunderkrankung und Medikamentenanpassung",
+        "Blutdruck niedrig-normal einstellen: Hypertonie verstärkt Nierenschädigung und kardiovaskuläres Risiko",
+        "Diät: eiweißzurückhaltend, ausreichend Kalorien; Flüssigkeitszufuhr 2,0–2,5 l/Tag",
+        "Letzte Stufen: Nierenersatzbehandlung (Dialyse) und Nierentransplantation"
+      ]
+    },
+    {
+      "gidx": 387,
+      "source": "skl-innere p.387",
+      "slide_title": "FILM: Dialyse Nieren",
+      "type": "deko",
+      "notes_md": "## FILM\n\nDialyse Nieren",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Filmeinspielung zum Thema Dialyse der Nieren"
+      ]
+    },
+    {
+      "gidx": 388,
+      "source": "skl-innere p.388",
+      "slide_title": "Harnwegsinfektionen, HWI — Definition",
+      "type": "inhalt",
+      "notes_md": "## Harnwegsinfektionen, HWI\n\n### Definition\n\n- Eine Harnwegsinfektion ist eine mikrobielle aufsteigende Infektion im Harntrakt zwischen Harnröhrenöffnung und Nierenrinde\n- Aufgrund des aufsteigenden Infektionsweges und der anatomischen Nähe zum Analkanal sind die meisten Erreger Darmkeime\n- Bei akuten unkomplizierten HWI ist Escherichia coli (E. coli) mit ca. 80% der häufigste Erreger\n- Bei der Urethritis kommen zusätzlich Gonokokken, Chlamydien, Mycoplasmen und Trichomonaden als Auslöser in Frage\n- Ca. 20% der Dauerkatheterträger weisen Candida (Pilz) im Urin auf",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "HWI = mikrobielle aufsteigende Infektion im Harntrakt zwischen Harnröhrenöffnung und Nierenrinde",
+        "Häufigster Erreger bei akutem unkompliziertem HWI: E. coli (ca. 80%)",
+        "Meist Darmkeime wegen aufsteigendem Infektionsweg und Nähe zum Analkanal",
+        "Urethritis zusätzlich durch Gonokokken, Chlamydien, Mycoplasmen, Trichomonaden möglich",
+        "Ca. 20% der Dauerkatheterträger weisen Candida im Urin auf"
+      ]
+    },
+    {
+      "gidx": 389,
+      "source": "skl-innere p.389",
+      "slide_title": "Harnwegsinfektionen, HWI — Symptome und Therapie",
+      "type": "inhalt",
+      "notes_md": "## Harnwegsinfektionen, HWI\n\n### Symptome\n\n- **Urethritis:** Brennen und Schmerzen beim Wasserlassen, wässriger bis eitriger Ausfluss aus der Harnröhre\n- **Zystitis:** Schmerzen beim Wasserlassen, häufiger Harndrang, suprapubische Schmerzen mit Blasenkrämpfen, mögliche Hämaturie (rötlich bis dunkelbrauner Urin)\n- **Pyelonephritis:** Fieber, Schüttelfrost, Schmerzen beim Wasserlassen, einseitiger Flankenschmerz mit Klopfschmerz über dem Nierenlager, starkes Krankheitsgefühl, Brechreiz, Übelkeit, Kopfschmerzen\n\n### Therapie\n\n- Antibiotika (Fosfomycin, Nitrofurantoin oder Nitroxolin), **nicht mehr empfohlen werden Fluorchinolone, Cephalosporine und Cotrimoxazol**\n- **Bei akuter Pyelonephritis besteht die Gefahr einer Urosepsis, daher vor Beginn der Antibiotikabehandlung immer Blutkultur abnehmen**",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Urethritis: Brennen/Schmerzen beim Wasserlassen, wässriger bis eitriger Ausfluss",
+        "Zystitis: häufiger Harndrang, suprapubische Schmerzen, mögliche Hämaturie",
+        "Pyelonephritis: Fieber, Schüttelfrost, einseitiger Flankenschmerz mit Klopfschmerz über dem Nierenlager",
+        "Antibiotika der Wahl: Fosfomycin, Nitrofurantoin oder Nitroxolin; Fluorchinolone, Cephalosporine und Cotrimoxazol nicht mehr empfohlen",
+        "Bei akuter Pyelonephritis wegen Urosepsis-Gefahr vor Antibiotikabeginn immer Blutkultur abnehmen"
+      ]
+    },
+    {
+      "gidx": 390,
+      "source": "skl-innere p.390",
+      "slide_title": "Nierensteine, Urolithiasis — Definition und Ursachen",
+      "type": "inhalt",
+      "notes_md": "## Nierensteine, Urolithiasis\n\n(Quelle: Herold, Innere Medizin 2012)\n\n### Definition\n\n- Konkrementbildung (Ausflockung von Salzen) im Bereich der Nierentubuli und Nierenbecken und/oder der ableitenden Harnwege.\n- Prävalenz Deutschland: 5% (4 Mio Harnsteinbildner), m:w = 2:1\n- Häufigkeitsgipfel: 30.–60. Lebensjahr\n\n### Ursachen\n\n- Heiße und trockene Gegenden sind endemische Nierensteingebiete\n- In Wohlstandszeiten steigt bei eiweißreicher Kost die Harnsäure-, Oxalat- und Kalziumausscheidung im Urin und damit auch die Häufigkeit der Erkrankung\n- Grundsätzlich besteht eine Übersättigung des Harns an steinbildenden Substanzen (Oxalatsteine 75%, Infektsteine 10%, Uratsteine 5%)\n- Unterstützende Faktoren: Harnstauung (durch anatomische oder funktionelle Veränderungen), HWI (Bakterien machen Harn alkalisch, wodurch Änderung des Löslichkeitsprodukts), Immobilisation, eiweißreiche Ernährung, Dursten, Gewichtsreduktion",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Urolithiasis = Konkrementbildung (Ausflockung von Salzen) in Nierentubuli, Nierenbecken und/oder ableitenden Harnwegen",
+        "Prävalenz Deutschland 5% (4 Mio Harnsteinbildner), Männer:Frauen = 2:1, Häufigkeitsgipfel 30.–60. Lebensjahr",
+        "Häufigste Steine: Oxalatsteine 75%, Infektsteine 10%, Uratsteine 5%",
+        "Unterstützende Faktoren: Harnstauung, HWI, Immobilisation, eiweißreiche Ernährung, Dursten, Gewichtsreduktion",
+        "Quelle: Herold, Innere Medizin 2012"
+      ]
+    },
+    {
+      "gidx": 391,
+      "source": "skl-innere p.391",
+      "slide_title": "Nierensteine, Urolithiasis — Symptome",
+      "type": "inhalt",
+      "notes_md": "## Nierensteine, Urolithiasis\n\n(Quelle: Herold, Innere Medizin 2012)\n\n### Symptome\n\n- **Leitsymptom: Nierenkolik** infolge Steinabgang mit „Steckenbleiben“ des Steins im Nierenbecken oder im Harnleiter; die Versuche der glatten Harnwegsmuskulatur zum Austreiben des Steins treten wellenförmig auf und sind **extrem schmerzhaft**.\n- **Lokalisation:** betroffene Flanke, Rücken, seitlicher Unterbauch, eventuell Ausstrahlung bis ins Skrotum oder in die Schamlippen\n- Übelkeit, Erbrechen, Stuhl- und Windverhaltung (reflektorischer Subileus)\n- nur wenig Urinabgang\n- Hämaturie",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Leitsymptom der Urolithiasis: Nierenkolik — wellenförmige, extrem schmerzhafte Versuche der glatten Harnwegsmuskulatur, den Stein auszutreiben",
+        "Schmerzlokalisation: betroffene Flanke, Rücken, seitlicher Unterbauch, Ausstrahlung bis ins Skrotum oder in die Schamlippen",
+        "Begleitsymptome: Übelkeit, Erbrechen, reflektorischer Subileus, wenig Urinabgang, Hämaturie",
+        "Quelle: Herold, Innere Medizin 2012"
+      ]
+    },
+    {
+      "gidx": 392,
+      "source": "skl-innere p.392",
+      "slide_title": "Nierensteine, Urolithiasis — Diagnostik und Therapie",
+      "type": "inhalt",
+      "notes_md": "## Nierensteine, Urolithiasis\n\n(Quelle: Herold, Innere Medizin 2012)\n\n### Diagnostik\n\n- Uro-Stick auf pH, Erythrozyten\n- Labor: Kalzium, Harnsäure\n- Stein auffangen (Wasserlassen durch Sieb, Steinanalyse)\n- Sono: Steine? Nierenbeckenstauung?\n- CT Abdomen\n\n### Therapie\n\n- **Kolik:** Morphin, Metamizol (Novalgin)\n- kein Infekt und Stein <5 mm: **konservativ** = Spasmolytika + viel trinken + Wärme + Bewegung → spontaner Steinabgang\n- **operativ:** Anlage einer Harnleiterschiene (Splint) plus extrakorporale Stoßwellenlithotripsie (ESWL), Erfolgsrate 90%",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Diagnostik: Uro-Stick (pH, Erythrozyten), Labor (Kalzium, Harnsäure), Steinanalyse nach Auffangen durch Sieb, Sonographie, CT Abdomen",
+        "Kolikbehandlung: Morphin, Metamizol (Novalgin)",
+        "Stein <5 mm ohne Infekt: konservativ (Spasmolytika, viel trinken, Wärme, Bewegung) → spontaner Steinabgang",
+        "Operativ: Harnleiterschiene (Splint) plus extrakorporale Stoßwellenlithotripsie (ESWL), Erfolgsrate 90%",
+        "Quelle: Herold, Innere Medizin 2012"
+      ]
+    },
+    {
+      "gidx": 393,
+      "source": "skl-innere p.393",
+      "slide_title": "FILME: Extracorporeal Shock Wave Lithotripsy",
+      "type": "deko",
+      "notes_md": "## FILME\n\n- extracorporeal shockwave lithotripsy kidney stones\n- live Extracorporeal Shock Wave Lithotripsy",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Filmeinspielungen zur extrakorporalen Stoßwellenlithotripsie (ESWL) von Nierensteinen"
+      ]
+    },
+    {
+      "gidx": 394,
+      "source": "skl-innere p.394",
+      "slide_title": "Becken des Mannes — Mediosagittalschnitt",
+      "type": "inhalt",
+      "notes_md": "## Becken des Mannes — Mediosagittalschnitt\n\n(Quelle: Sobotta, Urban & Schwarzenberg 1993)\n\nAnatomische Übersicht mit lateinischen Beschriftungen, u. a.:\n\n- Wirbelsäule/Rückenmark: Arachnoidea mater spinalis, Spatium subarachnoideum, Spatium epidurale, Plexus venosus vertebralis externus anterior et posterior, Filum terminale, Filum terminale externum, N. sacralis (S1), Radix\n- Darm: Intestinum tenue, Colon sigmoideum, Mesenterium, Ampulla recti, Columnae anales, Sinus anales, Pecten analis\n- Harnblase und Harnwege: Apex vesicae, Ostium urethrae internum, Ostium ureteris, Urethra (Pars spongiosa, Pars membranacea), Fossa navicularis urethrae, Ostium urethrae externum\n- Prostata/Beckenboden: Prostata, Utriculus prostaticus, M. levator ani, Fascia pelvis visceralis, M. sphincter ani internus, M. sphincter ani externus, M. transversus perinei profundus, Membrana perinei, Lig. anococcygeum, Lig. sacrococcygeum posterius superficiale, Articulatio sacrococcygea, Plica transversa recti, Excavatio rectovesicalis\n- Bauchwand: Omentum majus, Plica umbilicalis mediana (Lig. umbilicale medianum), Spatium retropubicum, Linea alba, Symphysis pubica\n- Penis: Lig. fundiforme penis, V. dorsalis profunda penis, V. dorsalis superficialis penis, Corpus cavernosum penis, Corpus spongiosum penis, Tunica albuginea corporum cavernosorum, Corona glandis, Glans penis, Praeputium penis, Bulbus penis, Lig. puboprostaticum\n- Hoden/Nebenhoden: Caput epididymidis, Ductus deferens (Cavum serosum scroti), Cauda epididymidis, Ductuli efferentes testis, Mediastinum testis, Septula testis, Lobuli testis, Scrotum, Tunica dartos, M. dartos, M. cremaster, Fascia cremasterica",
+      "figures": [
+        {
+          "caption": "Becken des Mannes — Mediosagittalschnitt",
+          "shows": "Anatomischer Mediosagittalschnitt durch das männliche Becken mit lateinischen Beschriftungen (Sobotta): Harnblase, Prostata, Urethra, Rektum, Penis, Hoden und Beckenboden",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Mediosagittalschnitt zeigt die anatomische Lagebeziehung von Harnblase, Prostata, Urethra, Rektum und männlichen Geschlechtsorganen",
+        "Prostata liegt direkt unterhalb der Harnblase und umgibt den Anfangsteil der Harnröhre",
+        "Quelle: Sobotta, Urban & Schwarzenberg 1993"
+      ]
+    },
+    {
+      "gidx": 395,
+      "source": "skl-innere p.395",
+      "slide_title": "Prostata",
+      "type": "inhalt",
+      "notes_md": "## Prostata\n\n### Funktion\n\n- kastaniengroße Drüse des Mannes, direkt unterhalb der Harnblase\n- umgibt den Anfangsteil der Harnröhre\n- produziert ein dünnflüssiges Sekret, 60–70 Vol.% des Spermas\n- wirkt auf Spermien bewegungsauslösend\n\n### Untersuchung\n\n- digital über den Anus\n- Abdomen-Sonographie\n\n### Erkrankungen\n\n- Benigne Prostatahyperplasie\n- Prostatakarzinom",
+      "figures": [],
+      "eingrenzung_hits": [13],
+      "key_facts": [
+        "Prostata: kastaniengroße Drüse direkt unterhalb der Harnblase, umgibt den Anfangsteil der Harnröhre",
+        "Produziert dünnflüssiges Sekret (60–70 Vol.% des Spermas), wirkt bewegungsauslösend auf Spermien",
+        "Untersuchung: digital-rektal über den Anus, Abdomen-Sonographie",
+        "Erkrankungen: Benigne Prostatahyperplasie und Prostatakarzinom"
+      ]
+    },
+    {
+      "gidx": 396,
+      "source": "skl-innere p.396",
+      "slide_title": "Benigne Prostatahyperplasie, BPH",
+      "type": "inhalt",
+      "notes_md": "## Benigne Prostatahyperplasie, BPH\n\n### Definition\n\n- Vergrößerung der periurethralen Drüsen mit Verdrängung des eigentlichen Prostatagewebes und zunehmender Harnwegsobstruktion\n- 50–60% der Männer >50 Jahre\n- wahrscheinlich aufgrund Veränderungen im Hormonhaushalt\n\n### Symptome\n\n- **Reizung:** erhöhte Miktionsfrequenz, schmerzhaftes Wasserlassen, imperativer Harndrang, Dranginkontinenz, Restharngefühl\n- **Obstruktion:** abgeschwächter Harnstrahl, verlängerte Miktionszeit, Harnstottern, Nachträufeln, Restharn\n\n### Therapie\n\n- **konservativ:** medikamentös, Pflanzenextrakte\n- **operativ** bei rezidivierenden HWI, drohender Stauungsniere: TURP (Transurethrale Resektion der Prostata)",
+      "figures": [],
+      "eingrenzung_hits": [13],
+      "key_facts": [
+        "BPH = Vergrößerung der periurethralen Drüsen mit Verdrängung des eigentlichen Prostatagewebes und zunehmender Harnwegsobstruktion",
+        "Betrifft 50–60% der Männer über 50 Jahre; Ursache wahrscheinlich Veränderungen im Hormonhaushalt",
+        "Reizsymptome: erhöhte Miktionsfrequenz, schmerzhaftes Wasserlassen, imperativer Harndrang, Dranginkontinenz, Restharngefühl",
+        "Obstruktionssymptome: abgeschwächter Harnstrahl, verlängerte Miktionszeit, Harnstottern, Nachträufeln, Restharn",
+        "Therapie: konservativ medikamentös/Pflanzenextrakte; operativ TURP bei rezidivierenden HWI oder drohender Stauungsniere"
+      ]
+    }
+  ]
+}

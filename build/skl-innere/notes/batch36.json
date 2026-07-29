@@ -1,0 +1,189 @@
+{
+  "batch": "36",
+  "pages": [
+    {
+      "gidx": 421,
+      "source": "skl-innere p.421",
+      "slide_title": "Asthma bronchiale – Therapie: Effekte von Kortikosteroiden",
+      "type": "inhalt",
+      "notes_md": "# Asthma bronchiale\n\n## Therapie\n\n### Effekte von Kortikosteroiden\n\n**Steigerung des Blutzuckerspiegels**\n\n… durch Hemmung der zellulären Glukoseaufnahme, Hemmung der Insulin-Sekretion, Stimulierung der Glucagon-Sekretion\n\n**Entzündungshemmung**\n\n- … durch Hemmung der Synthese zahlreicher Proteine, die den Entzündungsprozess unterhalten\n- außerdem Leukozyten ↑, Eosinophile und Lymphozyten ↓, Unterdrückung der B- und T-Lymphozytenaktivität\n- … dadurch Infektanfälligkeit, Immunsuppression, Unterdrückung von Allergien",
+      "figures": [],
+      "eingrenzung_hits": [7],
+      "key_facts": [
+        "Kortikosteroide steigern den Blutzuckerspiegel (Hemmung der zellulären Glukoseaufnahme und Insulin-Sekretion, Stimulierung der Glucagon-Sekretion)",
+        "Entzündungshemmung durch Hemmung der Synthese entzündungsfördernder Proteine",
+        "Leukozyten ↑, Eosinophile und Lymphozyten ↓, Unterdrückung der B- und T-Lymphozytenaktivität",
+        "Folgen: Infektanfälligkeit, Immunsuppression, Unterdrückung von Allergien"
+      ]
+    },
+    {
+      "gidx": 422,
+      "source": "skl-innere p.422",
+      "slide_title": "Asthma bronchiale – Therapie: Effekte von Beta-2-Sympathomimetika",
+      "type": "inhalt",
+      "notes_md": "# Asthma bronchiale\n\n## Therapie\n\n### Effekte von Beta-2-Sympathomimetika\n\nWirkung an den Beta-2-Adrenozeptoren des sympathischen Nervensystems, also in Geweben, in denen die Dichte von Beta-2-Adrenozeptoren hoch ist, z.B. die glatte Muskulatur der Bronchien, des Uterus und der Blutgefäße. Sie führen zu einer Relaxation der glatten Muskulatur, insbesondere\n\n- **Erweiterung der Bronchien** (Bronchodilatation, Bronchospasmolyse)\n- **Hemmung der Wehentätigkeit** (Tokolyse)\n\n**Rasch wirksame Beta-2-Sympathomimetika (engl. SABA)**\n- Soforttherapie des Asthmaanfalls oder Prophylaxe des Anstrengungsasthmas (z.B. Fenoterol, Reproterol, Salbutamol, Terbutalin)\n\n**Lang wirksame Beta-2-Sympathomimetika (engl. LABA)**\n- Dauermedikation zur Langzeitkontrolle des Asthmas (z.B. Formoterol, Salmeterol)",
+      "figures": [],
+      "eingrenzung_hits": [7],
+      "key_facts": [
+        "Beta-2-Sympathomimetika wirken an Beta-2-Adrenozeptoren und relaxieren die glatte Muskulatur",
+        "Haupteffekte: Bronchodilatation/Bronchospasmolyse und Tokolyse",
+        "SABA (z.B. Salbutamol, Fenoterol): Soforttherapie des Asthmaanfalls",
+        "LABA (z.B. Formoterol, Salmeterol): Dauermedikation zur Langzeitkontrolle"
+      ]
+    },
+    {
+      "gidx": 423,
+      "source": "skl-innere p.423",
+      "slide_title": "Asthma bronchiale – Akuter Asthmaanfall beim Erwachsenen: Schweregrade 1–2",
+      "type": "inhalt",
+      "notes_md": "# Asthma bronchiale\n\n## Akuter Asthmaanfall beim Erwachsenen\n\n### Schweregrade\n\n**1. Leichter und mittelschwerer Anfall** mit Indikation zur umgehenden Arztkonsultation und Therapieintensivierung\n\n- PEF >50% des Soll- oder Bestwertes\n- Sprechen normal, Atemfrequenz <25 /min, Herzfrequenz <110 /min\n\n**2. Schwerer Anfall** mit Indikation zur umgehenden Krankenhauseinweisung mit Notarztbegleitung\n\n- PEF <50% des Soll- oder Bestwertes\n- Sprech-Dyspnoe, Atemfrequenz >25 /min, Herzfrequenz >110 /min\n\n*Quelle: Herold, Innere Medizin, 2019*",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Leichter/mittelschwerer Anfall: PEF >50%, Atemfrequenz <25/min, Herzfrequenz <110/min → umgehende Arztkonsultation",
+        "Schwerer Anfall: PEF <50%, Sprech-Dyspnoe, Atemfrequenz >25/min, Herzfrequenz >110/min → Krankenhauseinweisung mit Notarztbegleitung"
+      ]
+    },
+    {
+      "gidx": 424,
+      "source": "skl-innere p.424",
+      "slide_title": "Asthma bronchiale – Akuter Asthmaanfall beim Erwachsenen: Schweregrad 3",
+      "type": "inhalt",
+      "notes_md": "# Asthma bronchiale\n\n## Akuter Asthmaanfall beim Erwachsenen\n\n### Schweregrade\n\n**3. Lebensbedrohlicher Asthmaanfall** mit Indikation zur intensivmedizinischen Überwachung und Behandlung\n\n- PEF <33% des Soll- oder Bestwertes, oder PEF <100 l/min\n- Patient spricht nur noch einzelne Worte, Atemfrequenz >35 /min, Herzfrequenz >140 /min\n- Sauerstoffsättigung (SaO2) <92%, Kohlendioxidpartialdruck (PaCO2) normal oder erhöht (>45 mmHg)\n- Kein Atemgeräusch (*silent chest*, stille Lunge), flache Atmung, Zyanose\n- Auch: Bradykardie oder RR-Abfall, Herzrhythmusstörungen, Erschöpfung, Verwirrung, Somnolenz, Koma",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Lebensbedrohlicher Anfall: PEF <33% oder <100 l/min → Intensivstation",
+        "SaO2 <92%, PaCO2 normal oder erhöht (>45 mmHg)",
+        "Silent chest (kein Atemgeräusch), Zyanose, Bradykardie oder RR-Abfall bis hin zu Koma"
+      ]
+    },
+    {
+      "gidx": 425,
+      "source": "skl-innere p.425",
+      "slide_title": "Asthma bronchiale – Therapie des lebensbedrohlichen Asthmaanfalls / Prognose",
+      "type": "inhalt",
+      "notes_md": "# Asthma bronchiale\n\n## Therapie des lebensbedrohlichen Asthmaanfalls\n\n- Intensivstation, Überwachung Herzkreislauf, Lungenfunktion, Wasser- und Elektrolythaushalt, sitzende Lagerung\n- Patient beruhigen, aber nicht sedieren\n- O2 per Nasensonde\n- Prednisolon i.v.\n- Inhalative beta-2-Sympathomimetika\n- Ausreichend parenterale Flüssigkeitszufuhr\n- Bei Verdacht auf Infekt: Antibiotika\n- Prophylaxe Stressulkus mit Magensäurehemmern (PPIs)\n- Nichtinvasive Beatmung hat deutlich weniger Komplikationen und niedrigere Mortalität als invasive Beatmung\n\n## Prognose\n\nDie Therapie bei Asthma bronchiale ist sehr effektiv, muss allerdings konsequent durchgehalten werden. Bei kooperativen Patienten ist die Lebensqualität kaum eingeschränkt, Lebenserwartung normal, Todesfälle extrem selten.",
+      "figures": [],
+      "eingrenzung_hits": [7],
+      "key_facts": [
+        "Therapie: Intensivstation, O2 per Nasensonde, Prednisolon i.v., inhalative Beta-2-Sympathomimetika, parenterale Flüssigkeitszufuhr",
+        "Patient beruhigen, aber nicht sedieren; sitzende Lagerung",
+        "Nichtinvasive Beatmung: weniger Komplikationen und niedrigere Mortalität als invasive Beatmung",
+        "Prognose: bei konsequenter Therapie kaum eingeschränkte Lebensqualität, normale Lebenserwartung"
+      ]
+    },
+    {
+      "gidx": 426,
+      "source": "skl-innere p.426",
+      "slide_title": "Asthma bronchiale – Therapie: 5. Stufenschema Erwachsene",
+      "type": "inhalt",
+      "notes_md": "# Asthma bronchiale\n\n## Therapie – 5. Stufenschema (Erwachsene)\n\nStufentherapie des Asthma bronchiale nach BÄK-Asthma-Leitlinie 2020:\n\n- **Stufe 1:** Bedarfstherapie: Fixkombination aus ICS niedrigdosiert + Formoterol¹ oder SABA. Alternative in begründeten Fällen: Langzeittherapie mit ICS niedrigdosiert + Bedarfstherapie mit SABA\n- **Stufe 2:** Langzeittherapie mit ICS niedrigdosiert + Bedarfstherapie mit SABA oder ausschließlich Bedarfstherapie mit Fixkombination aus ICS niedrigdosiert + Formoterol¹. Alternative: Langzeittherapie mit LTRA + Bedarfstherapie mit SABA\n- **Stufe 3:** Langzeittherapie: ICS niedrigdosiert + LABA (bevorzugt) oder ICS mitteldosiert. Alternativen: ICS niedrigdosiert + LAMA² oder ICS niedrigdosiert + LTRA\n- **Stufe 4:** Langzeittherapie: ICS mittel- bis hochdosiert + LABA (bevorzugt) oder ICS mittel- bis hochdosiert + LABA + LAMA². Alternativen: ICS mittel- bis hochdosiert + LABA + LTRA oder ICS mittel- bis hochdosiert + LAMA²\n- **Stufe 5:** Langzeittherapie: ICS in Höchstdosis + LABA + LAMA²; Vorstellung bei einem in der Behandlung von schwerem Asthma erfahrenen Pneumologen und Anti-IgE- oder Anti-IL-5-(R)- oder Anti-IL-4-R-Antikörper; OCS (zusätzlich oder alternativ)\n\n**Zusätzlich Bedarfstherapie:** SABA oder Fixkombination aus ICS + Formoterol, wenn diese auch die Langzeittherapie darstellt\n\n**Begleitend:** Asthmaschulung, Allergie-/Umweltkontrolle, Beachtung von Komorbiditäten; Spezifische Immuntherapie (bei gegebener Indikation)\n\n*Abkürzungen: ICS: inhalative Corticosteroide, IgE: Immunglobulin E, IL: Interleukin, LABA: Langwirkende Beta-2-Sympathomimetika, LAMA: Langwirkende Anticholinergika, LTRA: Leukotrienrezeptorantagonisten, OCS: Orale Corticosteroide, R: Rezeptor, SABA: Kurzwirkende Beta-2-Sympathomimetika*\n\n*Quelle: BÄK, Asthma-Leitlinie 2020*",
+      "figures": [
+        {
+          "caption": "Stufenschema der Asthmatherapie bei Erwachsenen (Stufen 1–5)",
+          "shows": "Treppenförmiges Schema der Langzeit- und Bedarfstherapie je Stufe mit ICS, LABA, LAMA, LTRA, SABA, OCS und Antikörpern",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [7],
+      "key_facts": [
+        "5-stufiges Therapieschema: von Bedarfstherapie (ICS+Formoterol oder SABA) bis ICS-Höchstdosis + LABA + LAMA plus Antikörper (Anti-IgE, Anti-IL-5-(R), Anti-IL-4-R)",
+        "Ab Stufe 3 bevorzugt ICS + LABA als Langzeittherapie",
+        "Begleitend: Asthmaschulung, Allergie-/Umweltkontrolle, Beachtung von Komorbiditäten, ggf. spezifische Immuntherapie",
+        "Quelle: BÄK, Asthma-Leitlinie 2020"
+      ]
+    },
+    {
+      "gidx": 427,
+      "source": "skl-innere p.427",
+      "slide_title": "SKL Innere – Schock (Titel)",
+      "type": "titel",
+      "notes_md": "# SKL Innere\n\n## Schock\n\nKurs Ergotherapie",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": []
+    },
+    {
+      "gidx": 428,
+      "source": "skl-innere p.428",
+      "slide_title": "Schock – Leitsymptom: Blutdruckabfall",
+      "type": "inhalt",
+      "notes_md": "# Schock\n\n## Leitsymptom: Blutdruckabfall\n\nBei einem reduzierten oder im Vergleich zur Gefäßweite relativ zu niedrigen Herzzeitvolumen kommt es zu einer Minderdurchblutung lebenswichtiger Organe und zum Kreislaufschock.\n\n### Definition\n\nKritische Verminderung der Mikrozirkulation mit Hypoxie der Gewebe und metabolischen Störungen\n\n### Einteilung\n\n1. **Hypovolämie**, Blutungen, Plasmaverluste, Erbrechen, Durchfall\n2. **Kardiogener Schock**, Pumpversagen des Herzens (z.B. akuter Myokardinfarkt)\n3. **Obstruktiver Schock**, Lungenembolie, Spannungspneumothorax, Herzbeuteltamponade\n4. **Distributiver Schock**, Versagen der peripheren Kreislaufregulation, z.B. schwere Allergie (\"anaphylaktischer Schock\", ACHTUNG Kontrastmittel), oder Sepsis (\"septischer Schock\")\n\n*Quelle: Herold, Innere Medizin 2019*",
+      "figures": [],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Leitsymptom des Schocks: Blutdruckabfall; Definition: kritische Verminderung der Mikrozirkulation mit Gewebehypoxie und metabolischen Störungen",
+        "4 Formen: hypovolämischer, kardiogener, obstruktiver und distributiver Schock",
+        "Obstruktiver Schock u.a. durch Lungenembolie, Spannungspneumothorax, Herzbeuteltamponade",
+        "Distributiver Schock u.a. durch schwere Allergie (anaphylaktischer Schock, ACHTUNG Kontrastmittel) oder Sepsis"
+      ]
+    },
+    {
+      "gidx": 429,
+      "source": "skl-innere p.429",
+      "slide_title": "Schock – Gegenregulation",
+      "type": "inhalt",
+      "notes_md": "# Schock\n\n## Gegenregulation\n\n- Zur Gegenregulation steigt die **Sympathikusaktivität**, die zu einem schnelleren und stärkeren Herzschlag und zu einer Engstellung der Arterien führt (letzteres nicht bei Schock durch Gefäßerweiterung).\n\n- Folge ist eine **Zentralisation des Kreislaufs**, d.h. Gehirn und Herz werden bevorzugt mit Blut versorgt. Andere Organe (z.B. die Nieren) sind dagegen unterversorgt und können geschädigt werden.",
+      "figures": [],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Gegenregulation: Anstieg der Sympathikusaktivität → schnellerer/stärkerer Herzschlag, Engstellung der Arterien",
+        "Zentralisation des Kreislaufs: Gehirn und Herz werden bevorzugt durchblutet",
+        "Nieren und andere Organe sind unterversorgt und können geschädigt werden"
+      ]
+    },
+    {
+      "gidx": 430,
+      "source": "skl-innere p.430",
+      "slide_title": "Schock – Pathophysiologie (Schockspirale)",
+      "type": "inhalt",
+      "notes_md": "# Schock\n\n## Pathophysiologie\n\n**Schockspirale (Teufelskreis):**\n\n- Volumenmangel → **HYPOVOLÄMIE**\n- RR-Abfall, Herzinsuffizienz → **VERMINDERTES HZV**\n- Vermindertes HZV → **HYPOXÄMIE + AZIDOSE**\n- Hypoxämie + Azidose → **ATONIE DER GEFÄSSE + KAPILLARSCHADEN**\n- Sepsis, Anaphylaxie → Atonie der Gefässe + Kapillarschaden\n- Atonie der Gefässe + Kapillarschaden → wiederum Hypovolämie (Kreisschluss)\n\nDie Schockspirale kann an verschiedenen Stellen beginnen. Hat sich der Teufelskreis einmal geschlossen, schreitet das Geschehen auch unabhängig von der auslösenden Ursache kontinuierlich weiter fort.\n\n*Quelle: Herold, Innere Medizin 2012*",
+      "figures": [
+        {
+          "caption": "Schockspirale (Pathophysiologie des Schocks)",
+          "shows": "Kreislaufschema: Hypovolämie → vermindertes HZV → Hypoxämie + Azidose → Atonie der Gefässe + Kapillarschaden → erneut Hypovolämie; Einstiege über Volumenmangel, RR-Abfall/Herzinsuffizienz sowie Sepsis/Anaphylaxie",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Schockspirale: Hypovolämie ↔ vermindertes HZV ↔ Hypoxämie/Azidose ↔ Gefäßatonie/Kapillarschaden",
+        "Einstiegspunkte: Volumenmangel, RR-Abfall/Herzinsuffizienz, Sepsis/Anaphylaxie",
+        "Ist der Teufelskreis geschlossen, schreitet der Schock unabhängig von der Ursache fort"
+      ]
+    },
+    {
+      "gidx": 431,
+      "source": "skl-innere p.431",
+      "slide_title": "Schock – Hypovolämischer Schock: Symptome",
+      "type": "inhalt",
+      "notes_md": "# Schock\n\n## Hypovolämischer Schock\n\nZiel der ersten orientierenden Untersuchung ist wegen der unterschiedlichen therapeutischen Konsequenzen besonders die rasche Abgrenzung eines kardiogenen Schocks (Linksherzversagen).\n\n**Beim kardiogenen Schock sind die Halsvenen gestaut, sonst kollabiert**\n\n### Symptome\n\n**3 Stadien**\n\n1. feucht-kühle, blasse Haut\n2. Puls >100/min, RR <100 mmHg, Halsvenen (im Liegen) kollabiert, Durst, Oligurie\n3. RR <60 mmHg, Puls kaum fühlbar, flache, schnelle Atmung, Bewusstseinsstörung mit weiten, kaum reagierenden Pupillen, Anurie",
+      "figures": [],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Abgrenzung zum kardiogenen Schock: dort Halsvenen gestaut, beim hypovolämischen Schock kollabiert",
+        "Stadium 1: feucht-kühle, blasse Haut",
+        "Stadium 2: Puls >100/min, RR <100 mmHg, kollabierte Halsvenen, Durst, Oligurie",
+        "Stadium 3: RR <60 mmHg, Puls kaum fühlbar, Bewusstseinsstörung, Anurie"
+      ]
+    },
+    {
+      "gidx": 432,
+      "source": "skl-innere p.432",
+      "slide_title": "Schock – Hypovolämischer Schock: Therapie",
+      "type": "inhalt",
+      "notes_md": "# Schock\n\n## Hypovolämischer Schock\n\n### Therapie\n\n- Volumen (Plasmaexpander, Erythrozytenkonzentrate, Plasma, NaCl 0,9%)\n- Korrektur einer metabolischen Azidose\n- Behandlung eines akuten (prärenalen) Nierenversagens, forcierte Diurese\n- nierentoxische Medikamente absetzen\n- Bilanzierung, evtl. Nierenersatztherapie\n\n**Akute Blutverluste <1.000 ml werden meist gut kompensiert – bei höheren Verlusten besteht Schockgefahr**",
+      "figures": [],
+      "eingrenzung_hits": [8],
+      "key_facts": [
+        "Therapie: Volumensubstitution (Plasmaexpander, Erythrozytenkonzentrate, Plasma, NaCl 0,9%)",
+        "Korrektur der metabolischen Azidose, forcierte Diurese bei prärenalem Nierenversagen",
+        "Nierentoxische Medikamente absetzen, Bilanzierung, evtl. Nierenersatztherapie",
+        "Akute Blutverluste <1.000 ml meist gut kompensiert, darüber Schockgefahr"
+      ]
+    }
+  ]
+}

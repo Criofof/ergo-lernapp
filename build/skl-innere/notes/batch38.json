@@ -1,0 +1,183 @@
+{
+  "batch": "38",
+  "pages": [
+    {
+      "gidx": 445,
+      "source": "skl-innere p.445",
+      "slide_title": "Varikosis",
+      "type": "inhalt",
+      "notes_md": "# Varikosis\n\n## Diagnostik\n- Anamnese, Inspektion\n- Palpation von Faszienlücken an den Durchtrittsstellen der insuffizienten Perforansvenen, evtl. hervortretende Perforansvenen\n- Duplex-Sonografie: Tiefe Venen durchgängig? Klappen der Stammvenen suffizient?\n\n## Therapie\n**Konservativ:** Kompressionsstrümpfe, Sitzen und Stehen ist ungünstig, Laufen und Liegen ist günstig\n\n**Operativ** (z.B. Venenstripping, Perforans-Ligaturen, Sklerosierung, Laser-Therapie, **Voraussetzung:** Nachweis der freien Durchgängigkeit des tiefen Venensystems)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Diagnostik der Varikosis: Anamnese, Inspektion, Palpation von Faszienlücken/Perforansvenen, Duplex-Sonografie",
+        "Konservative Therapie: Kompressionsstrümpfe; Sitzen/Stehen ungünstig, Laufen/Liegen günstig",
+        "Operative Verfahren: Venenstripping, Perforans-Ligaturen, Sklerosierung, Laser-Therapie",
+        "OP-Voraussetzung: freie Durchgängigkeit des tiefen Venensystems"
+      ]
+    },
+    {
+      "gidx": 446,
+      "source": "skl-innere p.446",
+      "slide_title": "FILM: Blutgerinnung, Thrombus und Embolie",
+      "type": "titel",
+      "notes_md": "# FILM\n\nBlutgerinnung, Thrombus und Embolie",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Filmeinspielung zum Thema Blutgerinnung, Thrombus und Embolie"
+      ]
+    },
+    {
+      "gidx": 447,
+      "source": "skl-innere p.447",
+      "slide_title": "Tiefe Venenthrombose (TVT) — Pathophysiologie und Lokalisation",
+      "type": "inhalt",
+      "notes_md": "# Tiefe Venenthrombose (TVT)\n\n## Pathophysiologie\n\n**Virchow-Trias**\n- Endothelveränderungen, z.B. Entzündungen, Traumen\n- Blutstromveränderungen\n  - Strömungsverlangsamung (lokale Stase, Herzinsuffizienz)\n  - Wirbelbildung\n- Veränderung der Blutzusammensetzung (Ungleichgewicht zwischen Gerinnung und Fibrinolyse)\n\n## Lokalisation\n| Lokalisation | Häufigkeit |\n|---|---|\n| Vena iliaca | 10% |\n| V. femoralis | 50% |\n| V. poplitea | 20% |\n| Unterschenkelvenen | 20% |\n\n*Quelle: Herold, Innere Medizin 2012*",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Virchow-Trias: Endothelveränderungen, Blutstromveränderungen (Strömungsverlangsamung, Wirbelbildung), Veränderung der Blutzusammensetzung",
+        "Häufigste Lokalisation der TVT: V. femoralis (50%), gefolgt von V. poplitea und Unterschenkelvenen (je 20%), Vena iliaca (10%)"
+      ]
+    },
+    {
+      "gidx": 448,
+      "source": "skl-innere p.448",
+      "slide_title": "Tiefe Venenthrombose (TVT) — Risikofaktoren",
+      "type": "inhalt",
+      "notes_md": "# Tiefe Venenthrombose (TVT)\n\n## Risikofaktoren\n- bereits durchgemachte Venenthrombose — *das Risiko für eine erneute Thrombose ist um das 30-fache erhöht*\n- Immobilität — *z.B. postoperativ, langes Sitzen (20-fach erhöhtes Risiko)*\n- kardiovaskuläre Vorerkrankungen — *Herzinsuffizienz, Zustand nach Schlaganfall oder Herzinfarkt*\n- kardiovaskuläre Risikofaktoren — *Rauchen, Adipositas, Ovulationshemmer, chronisch-venöse Insuffizienz*\n- Schwangerschaft und Wochenbett\n- Tumoren — *sog. paraneoplastisches Syndrom*\n- Thrombophilie, erhöhte Gerinnungsneigung, erbliche Anlage",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Nach durchgemachter TVT ist das Risiko für eine erneute Thrombose um das 30-fache erhöht",
+        "Immobilität (postoperativ, langes Sitzen): 20-fach erhöhtes Risiko",
+        "Weitere Risikofaktoren: kardiovaskuläre Vorerkrankungen (Herzinsuffizienz, Z.n. Schlaganfall/Herzinfarkt), Rauchen, Adipositas, Ovulationshemmer, CVI, Schwangerschaft/Wochenbett, Tumoren (paraneoplastisches Syndrom), Thrombophilie"
+      ]
+    },
+    {
+      "gidx": 449,
+      "source": "skl-innere p.449",
+      "slide_title": "Tiefe Venenthrombose (TVT) — Symptome und Diagnostik",
+      "type": "inhalt",
+      "notes_md": "# Tiefe Venenthrombose (TVT)\n\n## Symptome\n- Schwere- und Spannungsgefühl der Extremität\n- Umfangsvermehrung u/o Überwärmung u/o Rötung u/o zyanotische Glanzhaut der Extremität\n- Druckempfindlichkeit der Extremität (pos. Ballottement, pos. Wadenkompressionsschmerz = Mayer-Zeichen, Wadenschmerz bei Dorsalextension des Fußes = Homan-Zeichen)\n\n## Diagnostik\n- **Labor:** Bestimmung der D-Dimere, falls negativ kann eine TVT bei unauffälliger Klinik nahezu ausgeschlossen werden\n- **Farbduplex-Sonographie** der Venen in der betroffenen Extremität",
+      "figures": [],
+      "eingrenzung_hits": [6],
+      "key_facts": [
+        "Symptome der TVT: Schwere-/Spannungsgefühl, Umfangsvermehrung, Überwärmung, Rötung, zyanotische Glanzhaut, Druckempfindlichkeit",
+        "Klinische Zeichen: Mayer-Zeichen (Wadenkompressionsschmerz), Homan-Zeichen (Wadenschmerz bei Dorsalextension des Fußes)",
+        "Negative D-Dimere schließen TVT bei unauffälliger Klinik nahezu aus; Farbduplex-Sonographie als bildgebende Diagnostik"
+      ]
+    },
+    {
+      "gidx": 450,
+      "source": "skl-innere p.450",
+      "slide_title": "Tiefe Venenthrombose (TVT) — Therapie",
+      "type": "inhalt",
+      "notes_md": "# Tiefe Venenthrombose (TVT)\n\n## Therapie\n- keine Immobilisierung notwendig\n- Wickeln der Extremität\n\n**medikamentöse Antikoagulation**\n- akut Heparin s.c. / i.v.\n- dann für 6-12 Monate Marcumarisierung\n\n**im Verlauf**\n- Thromboseprophylaxe (Kompressionsstrumpf)\n- Physiotherapie\n\n> **50% der Patienten mit TVT machen kleinere, oft asymptomatische Lungenembolien durch**",
+      "figures": [],
+      "eingrenzung_hits": [6, 11],
+      "key_facts": [
+        "Therapie der TVT: keine Immobilisierung, Wickeln der Extremität, Antikoagulation (akut Heparin s.c./i.v., dann 6-12 Monate Marcumar)",
+        "Im Verlauf: Thromboseprophylaxe mit Kompressionsstrumpf, Physiotherapie",
+        "50% der TVT-Patienten durchmachen kleinere, oft asymptomatische Lungenembolien"
+      ]
+    },
+    {
+      "gidx": 451,
+      "source": "skl-innere p.451",
+      "slide_title": "Chronisch venöse Insuffizienz (CVI) — Definition und Pathophysiologie",
+      "type": "inhalt",
+      "notes_md": "# Chronisch venöse Insuffizienz (CVI)\n\n## Definition\nDie chronisch-venöse Insuffizienz (CVI, chronische Veneninsuffizienz) ist ein Sammelbegriff für eine chronische Störung im venösen Rückfluss der unteren Extremitäten in Verbindung mit typischen Hautveränderungen.\n\n## Pathophysiologie\nDie venöse Abflussstörung entsteht durch einen erhöhten Druck in den Venen der unteren Extremität.\n\n**Ursachen**\n- **TVT** (führt in 40% der Fälle zu einer chronisch-venösen Insuffizienz, sog. postthrombotisches Syndrom)\n- **länger bestehende Varizen** (Krampfadern mit Insuffizienz der Venenklappen)\n\nDurch die Rückflussstörung kommt es zu einer chronischen Stauung mit einer Störung der Mikrozirkulation und des Lymphabflusses sowie Hautveränderungen.",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "CVI: chronische Störung des venösen Rückflusses der unteren Extremitäten mit typischen Hautveränderungen",
+        "Entsteht durch erhöhten Druck in den Venen der unteren Extremität",
+        "Ursachen: TVT (in 40% postthrombotisches Syndrom) und länger bestehende Varizen mit Venenklappeninsuffizienz",
+        "Folge: chronische Stauung mit Störung von Mikrozirkulation und Lymphabfluss sowie Hautveränderungen"
+      ]
+    },
+    {
+      "gidx": 452,
+      "source": "skl-innere p.452",
+      "slide_title": "Chronisch venöse Insuffizienz (CVI) — Symptome (Stadien nach Widmer)",
+      "type": "inhalt",
+      "notes_md": "# Chronisch venöse Insuffizienz (CVI)\n\n## Symptome\nEinteilung in **3 Stadien** (Klassifikation nach Widmer)\n\n- **Stadium 1:** sog. Corona phlebectatica = **Venenerweiterungen** in der Haut am inneren Knöchel + **Ödem**\n- **Stadium 2:** zusätzlich Pigmentveränderungen (**bräunliche Verfärbung** der Haut), Verhärtungen der Haut und des Unterhautfettgewebes durch bindegewebigen Umbau (**Dermatoliposklerose**), **weiße Stellen** der Hautrückbildung (**Atrophie blanche**), **Ekzeme** im Bereich der Unterschenkel (diese entstehen durch die chronische Stauung „Stauungsekzem“ oder als allergische Reaktion auf Lokaltherapeutika)\n- **Stadium 3:** **Ulcus cruris venosum** (**Geschwür**, umgangssprachlich auch als „offenes Bein“ bezeichnet), am häufigsten an der Unterschenkelinnenseite",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Widmer-Klassifikation der CVI in 3 Stadien",
+        "Stadium 1: Corona phlebectatica (Venenerweiterungen am inneren Knöchel) + Ödem",
+        "Stadium 2: Pigmentveränderungen, Dermatoliposklerose, Atrophie blanche, Stauungsekzeme",
+        "Stadium 3: Ulcus cruris venosum („offenes Bein\"), meist an der Unterschenkelinnenseite"
+      ]
+    },
+    {
+      "gidx": 453,
+      "source": "skl-innere p.453",
+      "slide_title": "Chronisch venöse Insuffizienz (CVI) — Symptome (Bilder)",
+      "type": "inhalt",
+      "notes_md": "# Chronisch venöse Insuffizienz (CVI)\n\n## Symptome\n- Bild links: **CVI, Stadium 2** — Unterschenkel mit ausgeprägten Pigmentveränderungen (bräunlich-livide Verfärbung), Hautverhärtungen und beginnenden Hautdefekten\n- Bild rechts: **CVI, Stadium 3** — Ulcus cruris venosum am Knöchelbereich mit umgebender Rötung und Ekzem (© Venenratgeber.de)",
+      "figures": [
+        {
+          "caption": "CVI, Stadium 2",
+          "shows": "Unterschenkel mit bräunlich-lividen Pigmentveränderungen, Hautverhärtungen (Dermatoliposklerose) und beginnenden Hautdefekten bei chronisch venöser Insuffizienz",
+          "importance": "high",
+          "extract": true
+        },
+        {
+          "caption": "CVI, Stadium 3",
+          "shows": "Ulcus cruris venosum (offenes Bein) im Knöchelbereich mit umgebender Rötung und Stauungsekzem",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "Bildliche Darstellung der CVI-Stadien 2 (Pigmentveränderungen, Dermatoliposklerose) und 3 (Ulcus cruris venosum)"
+      ]
+    },
+    {
+      "gidx": 454,
+      "source": "skl-innere p.454",
+      "slide_title": "Chronisch venöse Insuffizienz (CVI) — Diagnostik und Therapie",
+      "type": "inhalt",
+      "notes_md": "# Chronisch venöse Insuffizienz (CVI)\n\n## Diagnostik\n- Anamnese, körperliche Untersuchung\n- Doppler- und Duplexsonografie\n- evtl. Biopsie zum Ausschluss von Hautkrebs\n\n## Therapie\n**Allgemein:** Wärme meiden (unerwünschte Venendilatation, keine Sauna, kein direktes Sonnenbad), sich ausreichend bewegen, Kompressionstherapie\n\n**Ursachenbekämpfung:** Therapie einer Varikosis bzw. Thrombose\n\n**Wundbehandlung**\n- Wundreinigung, Entfernung von Nekrosen\n- Wundauflage, die ein feuchtes Milieu erzeugt (Hydrogel, Kalziumalginat)\n- lokale Antiseptika oder Antibiotika\n- begleitende Schmerztherapie\n- ggf. operative Sanierung, Hauttransplantation",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "CVI-Diagnostik: Anamnese, körperliche Untersuchung, Doppler-/Duplexsonografie, evtl. Biopsie (Ausschluss Hautkrebs)",
+        "Allgemeinmaßnahmen: Wärme meiden (keine Sauna, kein direktes Sonnenbad), ausreichend Bewegung, Kompressionstherapie",
+        "Wundbehandlung: Wundreinigung/Nekrosenentfernung, feuchte Wundauflagen (Hydrogel, Kalziumalginat), lokale Antiseptika/Antibiotika, Schmerztherapie, ggf. OP-Sanierung/Hauttransplantation"
+      ]
+    },
+    {
+      "gidx": 455,
+      "source": "skl-innere p.455",
+      "slide_title": "FILM: Tiefe Venenthrombosen und Lungenembolie — Einleitung",
+      "type": "titel",
+      "notes_md": "# FILM\n\nTiefe Venenthrombosen und Lungenembolie — Einleitung",
+      "figures": [],
+      "eingrenzung_hits": [6, 11],
+      "key_facts": [
+        "Filmeinspielung als Einleitung zu tiefen Venenthrombosen und Lungenembolie"
+      ]
+    },
+    {
+      "gidx": 456,
+      "source": "skl-innere p.456",
+      "slide_title": "Lungenembolie — Definition, Pathophysiologie, Epidemiologie",
+      "type": "inhalt",
+      "notes_md": "# Lungenembolie\n\n## Definition\nPlötzliche oder schrittweise Verlegung der Lungengefäße durch **Thromben aus dem venösen Gefäßsystem** (in 90% aus der unteren Körperhälfte, die über die untere Hohlvene und das rechte Herz die Lungenstrombahn erreichen).\n\n## Pathophysiologie\n- Meist Folge einer (nicht entdeckten) tiefen Bein- oder Beckenvenenthrombose, **TVT**.\n- Es kommt zu einer akuten Widerstandserhöhung im kleinen Kreislauf mit Entwicklung eines Pumpversagens der rechten Herzkammer (**akutes Cor pulmonale**).\n- Das rechte Herz kann gegen diesen Druck kaum noch anpumpen, das **Herzzeitvolumen (HZV) fällt ab**, in 5% der Fälle so schnell, dass der Betroffene praktisch ohne jedes Warnzeichen stirbt.\n\n## Epidemiologie\n**Inzidenz:** 60-70 /100.000 /Jahr (fulminante Lungenembolie: 1 /100.000 /Jahr)",
+      "figures": [],
+      "eingrenzung_hits": [11],
+      "key_facts": [
+        "Lungenembolie: Verlegung der Lungengefäße durch Thromben aus dem venösen Gefäßsystem, in 90% aus der unteren Körperhälfte",
+        "Meist Folge einer (nicht entdeckten) tiefen Bein- oder Beckenvenenthrombose",
+        "Akute Widerstandserhöhung im kleinen Kreislauf → Pumpversagen der rechten Herzkammer (akutes Cor pulmonale), HZV fällt ab",
+        "In 5% der Fälle Tod ohne Warnzeichen; Inzidenz 60-70/100.000/Jahr (fulminant 1/100.000/Jahr)"
+      ]
+    }
+  ]
+}

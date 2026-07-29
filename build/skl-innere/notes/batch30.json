@@ -1,0 +1,190 @@
+{
+  "batch": "30",
+  "pages": [
+    {
+      "gidx": 349,
+      "source": "skl-innere p.349",
+      "slide_title": "Akute Hepatitis — Symptome",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis — Symptome\n\nViele Patienten mit einer akuten Virushepatitis sind **beschwerdefrei**. Eine Ausnahme ist die **HAV-Infektion**, die in **75 % der Fälle symptomatisch** verläuft.\n\nEntwickeln Patienten Symptome, zeigen diese einen typischen Verlauf:\n\n1. **Prodromalstadium**, unspezifische grippale Symptome (Kopf- und Gliederschmerzen, Fieber, Müdigkeit) und Magen-Darm-Beschwerden (Oberbauchschmerzen, Übelkeit, Erbrechen)\n\n2. **Stadium der Leberschädigung** (nach ca. 4 Wochen)\n   - Einschränkung der Organfunktion, z. B. Gallestau (sog. **intrahepatische Cholestase**), die Gallenfarbstoffe (Bilirubin) können nicht mehr ausreichend ausgeschieden werden und lagern sich ab (**Ikterus**)\n   - Durch eine Organvergrößerung (**Hepatomegalie**) spannt sich die Organkapsel und die Patienten verspüren **Schmerzen im rechten Oberbauch** (Kapseldehnungsschmerz).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Viele akute Virushepatitiden verlaufen beschwerdefrei; HAV in 75 % symptomatisch",
+        "Verlauf: Prodromalstadium mit grippalen Symptomen, dann Stadium der Leberschädigung nach ca. 4 Wochen",
+        "Intrahepatische Cholestase → Bilirubin lagert sich ab → Ikterus",
+        "Hepatomegalie → Kapseldehnungsschmerz im rechten Oberbauch"
+      ]
+    },
+    {
+      "gidx": 350,
+      "source": "skl-innere p.350",
+      "slide_title": "Akute Hepatitis — Ikterus",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis — Ikterus\n\nAls **Ikterus (Gelbsucht)** bezeichnet man die Gelbfärbung von Haut, Skleren, Schleimhäuten und Körperflüssigkeiten infolge einer Anhäufung von **Bilirubin**.\n\nAb einer Serumkonzentration von **3 mg/dl (51 µmol/l)** wird der Ikterus klinisch sichtbar.\n\n### Typen\n\n- **Prähepatischer Ikterus** (z. B. durch Hämolyse → Anämie)\n- **Intrahepatischer Ikterus** (z. B. Pfeiffer, Hep. A oder Hep. B, Fettleberhepatitis, chron. Hepatitis, Leberzirrhose)\n- **Posthepatischer Ikterus** (Verschluss oder Obstruktion der Gallenwege, Cholelithiasis, Cholezystitis, Pankreaskarzinom)",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Ikterus = Gelbfärbung von Haut, Skleren, Schleimhäuten durch Bilirubin-Anhäufung",
+        "Klinisch sichtbar ab 3 mg/dl (51 µmol/l) Serumkonzentration",
+        "Drei Typen: prähepatisch (Hämolyse), intrahepatisch (Hepatitis, Zirrhose), posthepatisch (Gallenwegsverschluss)"
+      ]
+    },
+    {
+      "gidx": 351,
+      "source": "skl-innere p.351",
+      "slide_title": "Akute Hepatitis — Ikterus (Fotos)",
+      "type": "quelle",
+      "notes_md": "## Akute Hepatitis — Ikterus\n\nZwei klinische Fotos zeigen einen **Sklerenikterus** (gelb gefärbte Skleren der Augen).\n\nQuellen: www.chirurgie-im-bild.de 2016; www.onmeda.de 2016",
+      "figures": [
+        {
+          "caption": "Ikterus — Sklerenikterus",
+          "shows": "Klinische Fotos von Augen mit gelb verfärbten Skleren als Zeichen des Ikterus",
+          "importance": "mid",
+          "extract": false
+        }
+      ],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Ikterus zeigt sich klinisch als gelbe Färbung der Skleren (Sklerenikterus)"
+      ]
+    },
+    {
+      "gidx": 352,
+      "source": "skl-innere p.352",
+      "slide_title": "Akute Hepatitis — Symptome (Fortsetzung)",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis — Symptome (Fortsetzung)\n\n3. **Rekonvaleszenzstadium**, die Besserung der Beschwerden kann sich über Monate hinziehen. Auch nach vollständiger Ausheilung einer akuten Hepatitis sind **Rezidive möglich**.\n\n### ACHTUNG\n\n- Selten kann eine akute Hepatitis auch **fulminant** verlaufen, dabei entwickelt sich ein **akutes Leberversagen**, welches mit einer hohen Sterblichkeit einhergeht.\n- Eine Virushepatitis kann durch Ablagerung von **Immunkomplexen** (Komplexe aus Virusantigen und dem dagegen gerichteten Antikörper) **Symptome in anderen Organen auslösen (extrahepatisch)**, z. B. Hautausschläge, Gelenkentzündungen und Entzündungen der Niere (Glomerulonephritis).",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Rekonvaleszenzstadium kann sich über Monate hinziehen; Rezidive möglich",
+        "Fulminanter Verlauf → akutes Leberversagen mit hoher Sterblichkeit",
+        "Extrahepatische Symptome durch Immunkomplexe: Hautausschlag, Arthritis, Glomerulonephritis"
+      ]
+    },
+    {
+      "gidx": 353,
+      "source": "skl-innere p.353",
+      "slide_title": "Akute Hepatitis — Diagnostik (Palpation, Labor)",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis — Diagnostik\n\n### Palpation Abdomen\n- Leber ggf. vergrößert und derbe zu tasten\n- häufig besteht Druckschmerz\n\n### Labor\n- **ALT** Alaninaminotransferase ↑ (= GPT Glutamat-Pyruvat-Transaminase)\n- **AST** Aspartataminotransferase ↑ (= GOT Glutamat-Oxalacetat-Transaminase)\n- **Serumeisen ↑** (Eisenfreisetzung aus Leberzellen)\n- **CRP** C-reaktives Protein evtl. ↑\n- **Lymphozyten** evtl. ↑\n- **Eiweißelektrophorese** evtl. Gammaglobulinfraktion ↑\n\n### Bei Gallestau (Cholestaseparameter)\n- konjugiertes Bilirubin ↑\n- **AP** alkalische Phosphatase ↑\n- **γ-GT** Gammaglutamyltransferase ↑",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Palpation: Leber vergrößert, derb, druckschmerzhaft",
+        "Labor: ALT (GPT) und AST (GOT) erhöht, Serumeisen erhöht, evtl. CRP und Lymphozyten erhöht",
+        "Cholestaseparameter: konjugiertes Bilirubin, AP und γ-GT erhöht"
+      ]
+    },
+    {
+      "gidx": 354,
+      "source": "skl-innere p.354",
+      "slide_title": "Akute Hepatitis — Diagnostik (schwerer Verlauf, Virusserologie, Biopsie)",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis — Diagnostik (Fortsetzung)\n\n### Bei schwerem Verlauf (reduzierte Syntheseleistung der Leber)\n- Gerinnungsparameter ↓\n- Albumin ↓\n\n### Virusserologie\n- Untersuchung auf **Antigene** der verschiedenen Hepatitisviren und dagegen gerichtete **Antikörper**\n- **direkter Virusnachweis** mittels **PCR** (Polymerase-Kettenreaktion, Nachweis von Virus-RNA und Virus-DNA)\n\nAußerdem liefert die Serologie Informationen bzgl. der **Krankheitsaktivität** und der **Ansteckungsgefahr** (Infektiosität)\n\n### Leberbiopsie / Histologie\n- liefert bei chronischer Hepatitis Hinweise auf das Ausmaß der entzündlichen Aktivität",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Schwerer Verlauf: Gerinnungsparameter und Albumin erniedrigt (reduzierte Lebersynthese)",
+        "Virusserologie: Antigene und Antikörper; direkter Virusnachweis per PCR",
+        "Serologie gibt Auskunft über Krankheitsaktivität und Infektiosität",
+        "Leberbiopsie zeigt Ausmaß der entzündlichen Aktivität bei chronischer Hepatitis"
+      ]
+    },
+    {
+      "gidx": 355,
+      "source": "skl-innere p.355",
+      "slide_title": "Akute Hepatitis — Therapie",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis — Therapie\n\n**In der Regel symptomatisch**, wichtigste Allgemeinmaßnahmen:\n- Verzicht auf Alkohol\n- Absetzen lebertoxischer Medikamente\n- Bettruhe\n\nBei der **akuten Hepatitis B** kann bei Einschränkung der Leberfunktion eine Therapie mit **antiviralen Medikamenten** indiziert sein. Diese greifen in das Erbgut der Viren ein und hemmen dadurch die Replikation (Virusvermehrung).\n\nBei der **akuten Hepatitis C** kann man durch die **frühzeitige Gabe von Interferon α über 24–48 Wochen** in **>95 % der Fälle** einen Übergang in die chronische Verlaufsform verhindern.",
+      "figures": [],
+      "eingrenzung_hits": [10],
+      "key_facts": [
+        "Therapie in der Regel symptomatisch: Alkoholverzicht, Absetzen lebertoxischer Medikamente, Bettruhe",
+        "Akute Hepatitis B: antivirale Medikamente hemmen die Virusreplikation",
+        "Akute Hepatitis C: Interferon α über 24–48 Wochen verhindert in >95 % die Chronifizierung"
+      ]
+    },
+    {
+      "gidx": 356,
+      "source": "skl-innere p.356",
+      "slide_title": "Akute Hepatitis — Prävention (HAV/HEV)",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis — Prävention\n\n**Wichtigste Maßnahme:** Vermeidung der Erregerübertragung\n\n**HAV und HEV** werden **fäkal-oral** übertragen:\n- Bei Reisen in Länder mit niedrigem Hygienestandard insbesondere die Lebensmittel- und Trinkwasserhygiene sowie eine gründliche Händedesinfektion beachten\n- Das zubereitete Essen muss ausreichend gekocht und frisches Obst geschält werden\n- Ein besonders hohes Risiko bilden Meeresfrüchte\n- Wasser sollte vor dem Trinken abgekocht und auf Eiswürfel möglichst ganz verzichtet werden",
+      "figures": [],
+      "eingrenzung_hits": [14],
+      "key_facts": [
+        "HAV und HEV werden fäkal-oral übertragen",
+        "Wichtigste Prävention: Vermeidung der Erregerübertragung (Lebensmittel-/Trinkwasserhygiene, Händedesinfektion)",
+        "Hohes Risiko: Meeresfrüchte; Wasser abkochen, Eiswürfel meiden"
+      ]
+    },
+    {
+      "gidx": 357,
+      "source": "skl-innere p.357",
+      "slide_title": "Akute Hepatitis — Prävention (HBV/HCV/HDV)",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis — Prävention (Fortsetzung)\n\n**HBV, HCV und HDV** werden **über den Blutweg, bei der Geburt oder sexuell** übertragen:\n- geschützter Geschlechtsverkehr (Kondome)\n- kein häufiger Wechsel des Sexualpartners\n- keine gemeinsame Nutzung von i.v.-Drogenbesteck (engl. needle-sharing)\n- Vorsorgeuntersuchung in der Schwangerschaft auf Hepatitis B\n\n**Blutspendescreening:** Untersuchung von Blutprodukten (z. B. Erythrozytenkonzentrate)\n\n**Personal im Gesundheitswesen:** vorsichtiger Umgang mit potenziell infektiösem Material (z. B. gebrauchte Kanülen), Schutz von Augen und Schleimhäuten während einer OP (Tragen einer Schutzbrille)",
+      "figures": [],
+      "eingrenzung_hits": [],
+      "key_facts": [
+        "HBV, HCV und HDV werden über Blut, bei der Geburt oder sexuell übertragen",
+        "Prävention: Kondome, kein Needle-Sharing, Vorsorgeuntersuchung in der Schwangerschaft",
+        "Blutspendescreening und Schutzmaßnahmen für Personal im Gesundheitswesen"
+      ]
+    },
+    {
+      "gidx": 358,
+      "source": "skl-innere p.358",
+      "slide_title": "Akute Hepatitis — Prävention (Impfungen)",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis — Prävention (Impfungen)\n\n**Impfungen gegen HAV und HBV**\n\nDa sich das Hepatitis-D-Virus nur in Anwesenheit des Hepatitis-B-Virus vermehren kann, **schützt die HBV-Impfung auch vor einer Hepatitis-D-Infektion**.\n\n- Eine **aktive Impfung gegen Hepatitis A** wird für Personal im Gesundheitswesen, Kindergärtner, Kanalarbeiter und für Reisende in HAV-Endemiegebiete empfohlen\n- Eine **aktive Impfung gegen Hepatitis B** wird von der STIKO für Kinder empfohlen. Außerdem sollten Personen mit geschwächtem Immunsystem, medizinisches Personal, Polizisten und Empfänger von Blutprodukten (z. B. Hämophiliepatienten) geimpft werden\n- Eine **Passivimpfung gegen Hepatitis B** wird nach einer Nadelstichverletzung und für Neugeborene von Schwangeren mit Hepatitis B empfohlen",
+      "figures": [],
+      "eingrenzung_hits": [14],
+      "key_facts": [
+        "Impfungen gegen HAV und HBV verfügbar; HBV-Impfung schützt auch vor HDV",
+        "Aktive Hepatitis-A-Impfung: Personal im Gesundheitswesen, Kindergärtner, Kanalarbeiter, Reisende in Endemiegebiete",
+        "Aktive Hepatitis-B-Impfung: STIKO-Empfehlung für Kinder; Risikogruppen zusätzlich",
+        "Passivimpfung gegen Hepatitis B nach Nadelstichverletzung und für Neugeborene HBV-infizierter Mütter"
+      ]
+    },
+    {
+      "gidx": 359,
+      "source": "skl-innere p.359",
+      "slide_title": "Akute Hepatitis, Zusammenfassung",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis, Zusammenfassung\n\n**Merkmale der infektiösen Hepatitiden** (Quelle: Baenkler, Thieme 2010)\n\n| Hepatitis | Inkubationszeit | Übertragung | Verlauf fulminant | Chronifizierung | Nachweis der akuten Infektion | Impfung |\n|---|---|---|---|---|---|---|\n| **Hepatitis A (RNA)** | 2–6 Wochen | fäkal-oral | < 0,1 % | nein | Anti-HAV-IgM | ja – aktiv (und passiv) |\n| **Hepatitis B (DNA)** | 1–6 Monate | parenteral, sexuell | < 1 % | 5 (–10) % bei Erwachsenen, 90 % perinatal erworben | HBs-Ag, Anti-HBc-IgM | ja – aktiv und passiv |\n| **Hepatitis C (RNA)** | 1–6 Monate | parenteral, sexuell | sehr selten | 60–80 % | HCV-RNA | nein |\n| **Hepatitis D (RNA)** | simultan ca. 3 Wochen, Co-Infektion 12–15 Wochen | parenteral | bei Simultaninfektionen häufiger | Simultaninfektionen 2 %, Superinfektion 90 % | Anti-HDV (+ HBs-Ag) | Impfung gegen Hepatitis-B-Virus |\n| **Hepatitis E (RNA)** | 2–6 Wochen | fäkal-oral | < 1 %, bei Schwangeren 20 % | nein | Anti-HEV | in Studien |",
+      "figures": [
+        {
+          "caption": "Merkmale der infektiösen Hepatitiden (Baenkler, Thieme 2010)",
+          "shows": "Vergleichstabelle der Hepatitiden A–E: Inkubationszeit, Übertragung, fulminanter Verlauf, Chronifizierung, Nachweis, Impfung",
+          "importance": "high",
+          "extract": true
+        }
+      ],
+      "eingrenzung_hits": [10, 14],
+      "key_facts": [
+        "Hepatitis A und E: fäkal-oral, keine Chronifizierung",
+        "Hepatitis B und C: parenteral/sexuell; HCV chronifiziert in 60–80 %",
+        "Hepatitis D benötigt HBV; Superinfektion chronifiziert zu 90 %",
+        "Impfungen: HAV aktiv (und passiv), HBV aktiv und passiv, HCV keine, HDV über HBV-Impfung, HEV in Studien"
+      ]
+    },
+    {
+      "gidx": 360,
+      "source": "skl-innere p.360",
+      "slide_title": "Akute Hepatitis A, Zusammenfassung",
+      "type": "inhalt",
+      "notes_md": "## Akute Hepatitis A, Zusammenfassung\n\n**Erreger:** unbehülltes RNA-Virus, sehr resistent\n\n**Inkubationszeit:** 20–40 Tage\n\n**Übertragung:** fäkal-oral, mangelnde Hygiene\nin geographisch wärmeren Ländern: Erwerb im Kindesalter, unsymptomatischer Verlauf, lebenslange Immunität, in manchen Ländern Antikörper in bis zu 100 % der Bevölkerung (Seroprävalenz)\n\n**Symptome:** nicht jede Hepatitis A geht mit einem Ikterus einher, es gibt **keine chronische Hepatitis A**, Rezidive sind möglich\n\n**Prophylaxe:** Impfung, Vermeidung von potenziell HAV-kontaminierten Lebensmitteln und Trinkwasser\n\n> **Für Deutschland gilt die Hepatitis A als die häufigste importierte Infektionskrankheit und ist durch Impfung gut zu verhindern**",
+      "figures": [],
+      "eingrenzung_hits": [14],
+      "key_facts": [
+        "HAV: unbehülltes, sehr resistentes RNA-Virus; Inkubationszeit 20–40 Tage",
+        "Übertragung fäkal-oral bei mangelnder Hygiene; in Endemiegebieten Erwerb im Kindesalter mit lebenslanger Immunität",
+        "Keine chronische Hepatitis A; nicht immer mit Ikterus; Rezidive möglich",
+        "Hepatitis A ist die häufigste importierte Infektionskrankheit in Deutschland und durch Impfung gut verhinderbar"
+      ]
+    }
+  ]
+}
