@@ -1,0 +1,99 @@
+{
+  "id": "skl-innere-t6",
+  "title": "Risiko TVT: Varikosis, tiefe Venenthrombose und Lungenembolie",
+  "eingrenzung": "Risiko TVT",
+  "prio": "high",
+  "body": "## Überblick\n\nDieser Kursabschnitt behandelt die **Varikosis** (Krampfadern), die **tiefe Venenthrombose (TVT)** und die **Lungenembolie** als deren gefürchtetste Komplikation.\n\n## Varikosis\n\n**Definition:** Sackförmig oder zylindrisch erweiterte, oberflächliche Venen; die Erweiterung kann umschrieben oder streckenförmig sein und geht zumeist mit Schlängelung und Knäuelbildung einher. Synonyme: Krampfadern, Varizen.\n\n**Typen:**\n- **Primäre Varikosis (95 %)** – idiopathisch, ohne fassbare Ursache\n- **Sekundäre Varikosis (5 %)** – erworben, meist Kollateralen bei Abflussbehinderung im tiefen Venensystem als Folge einer Phlebothrombose (TVT)\n\n## Tiefe Venenthrombose (TVT)\n\n### Pathophysiologie – Virchow-Trias\n1. **Endothelveränderungen** (z. B. Entzündungen, Traumen)\n2. **Blutstromveränderungen** – Strömungsverlangsamung (lokale Stase, Herzinsuffizienz) und Wirbelbildung\n3. **Veränderung der Blutzusammensetzung** (Ungleichgewicht zwischen Gerinnung und Fibrinolyse)\n\n### Lokalisation\n| Lokalisation | Häufigkeit |\n|---|---|\n| V. femoralis | 50 % |\n| V. poplitea | 20 % |\n| Unterschenkelvenen | 20 % |\n| Vena iliaca | 10 % |\n\n(Quelle: Herold, Innere Medizin 2012)\n\n### Risikofaktoren\n- **Bereits durchgemachte Venenthrombose** – das Risiko für eine erneute Thrombose ist um das **30-fache** erhöht\n- **Immobilität** – z. B. postoperativ, langes Sitzen (**20-fach** erhöhtes Risiko)\n- **Kardiovaskuläre Vorerkrankungen** – Herzinsuffizienz, Zustand nach Schlaganfall oder Herzinfarkt\n- **Kardiovaskuläre Risikofaktoren** – Rauchen, Adipositas, Ovulationshemmer, chronisch-venöse Insuffizienz\n- **Schwangerschaft und Wochenbett**\n- **Tumoren** – sog. paraneoplastisches Syndrom\n- **Thrombophilie** – erhöhte Gerinnungsneigung, erbliche Anlage\n\n### Symptome\n- Schwere- und Spannungsgefühl der Extremität\n- Umfangsvermehrung und/oder Überwärmung und/oder Rötung und/oder zyanotische Glanzhaut der Extremität\n- Druckempfindlichkeit der Extremität: positives Ballottement, positiver Wadenkompressionsschmerz (**Mayer-Zeichen**), Wadenschmerz bei Dorsalextension des Fußes (**Homan-Zeichen**)\n\n### Diagnostik\n- **Labor:** Bestimmung der **D-Dimere** – falls negativ, kann eine TVT bei unauffälliger Klinik nahezu ausgeschlossen werden\n- **Farbduplex-Sonographie** der Venen der betroffenen Extremität\n\n### Therapie\n- **Keine Immobilisierung** notwendig\n- **Wickeln** der Extremität\n- **Medikamentöse Antikoagulation:** akut Heparin s.c./i.v., dann für 6–12 Monate Marcumarisierung\n- **Im Verlauf:** Thromboseprophylaxe (Kompressionsstrumpf), Physiotherapie\n\n> **Wichtig:** 50 % der Patienten mit TVT machen kleinere, oft asymptomatische Lungenembolien durch.\n\n## Lungenembolie\n\nDie Lungenembolie entsteht, wenn sich ein Blutgerinnsel (Thrombus) aus einer Beinvene löst, über die Venen und die **untere Hohlvene** in das rechte Herz wandert und von dort in die **Lungenarterien** gelangt, wo er ein Gefäß verschließt.\n\n**Risikofaktoren** entsprechen denen der TVT: durchgemachte Venenthrombose (30-fach erhöhtes Risiko für eine erneute Thrombose), Immobilität, kardiovaskuläre Vorerkrankungen, Rauchen, Adipositas, Ovulationshemmer, Schwangerschaft und Wochenbett, Tumoren (paraneoplastisches Syndrom) sowie Thrombophilie.",
+  "facts": [
+    "Varikosis = sackförmig/zylindrisch erweiterte oberflächliche Venen; primär 95 % (idiopathisch), sekundär 5 % (meist Folge einer TVT)",
+    "Virchow-Trias: Endothelveränderungen, Blutstromveränderungen, Veränderung der Blutzusammensetzung",
+    "Häufigste TVT-Lokalisation: V. femoralis (50 %)",
+    "Nach durchgemachter TVT ist das Risiko für eine erneute Thrombose um das 30-fache erhöht; Immobilität erhöht das Risiko 20-fach",
+    "Klinische Zeichen der TVT: Mayer-Zeichen (Wadenkompressionsschmerz) und Homan-Zeichen (Wadenschmerz bei Dorsalextension des Fußes)",
+    "Negative D-Dimere schließen eine TVT bei unauffälliger Klinik nahezu aus; Bildgebung per Farbduplex-Sonographie",
+    "Therapie der TVT: keine Immobilisierung, Wickeln, Antikoagulation (akut Heparin, dann 6–12 Monate Marcumar), Kompressionsstrumpf, Physiotherapie",
+    "50 % der TVT-Patienten durchmachen kleinere, oft asymptomatische Lungenembolien"
+  ],
+  "figures": [
+    {
+      "src": "assets/skl-innere/g457.png",
+      "caption": "Lungenembolie – Entstehung und Weg des Thrombus: Das Blutgerinnsel löst sich aus einer Beinvene und gelangt über die untere Hohlvene und das rechte Herz in die Lungenarterien."
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Aus welchen drei Komponenten besteht die Virchow-Trias?",
+      "a": "1. Endothelveränderungen (z. B. Entzündungen, Traumen), 2. Blutstromveränderungen (Strömungsverlangsamung, Wirbelbildung), 3. Veränderung der Blutzusammensetzung (Ungleichgewicht zwischen Gerinnung und Fibrinolyse)."
+    },
+    {
+      "q": "Wo tritt die tiefe Venenthrombose am häufigsten auf?",
+      "a": "In der V. femoralis (50 %), gefolgt von V. poplitea und Unterschenkelvenen (je 20 %) sowie der Vena iliaca (10 %)."
+    },
+    {
+      "q": "Um wie viel ist das Risiko für eine erneute Thrombose nach einer durchgemachten TVT erhöht?",
+      "a": "Um das 30-fache. Immobilität (z. B. postoperativ, langes Sitzen) erhöht das Risiko um das 20-fache."
+    },
+    {
+      "q": "Was sind das Mayer-Zeichen und das Homan-Zeichen?",
+      "a": "Mayer-Zeichen: Wadenkompressionsschmerz. Homan-Zeichen: Wadenschmerz bei Dorsalextension des Fußes. Beide sind klinische Zeichen einer TVT."
+    },
+    {
+      "q": "Welche Bedeutung haben die D-Dimere in der TVT-Diagnostik?",
+      "a": "Sind die D-Dimere negativ, kann eine TVT bei unauffälliger Klinik nahezu ausgeschlossen werden. Bildgebend wird die Farbduplex-Sonographie eingesetzt."
+    },
+    {
+      "q": "Wie wird eine TVT medikamentös therapiert?",
+      "a": "Akut Antikoagulation mit Heparin s.c./i.v., anschließend Marcumarisierung für 6–12 Monate. Dazu Wickeln der Extremität, keine Immobilisierung; im Verlauf Kompressionsstrumpf und Physiotherapie."
+    },
+    {
+      "q": "Wie entsteht eine Lungenembolie?",
+      "a": "Ein Thrombus löst sich aus einer Beinvene, wandert über die untere Hohlvene in das rechte Herz und von dort in die Lungenarterien, wo er ein Gefäß verschließt. 50 % der TVT-Patienten durchmachen kleinere, oft asymptomatische Lungenembolien."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Welche Aussage zur Virchow-Trias ist korrekt?",
+      "choices": [
+        "Sie umfasst nur Veränderungen der Blutzusammensetzung",
+        "Sie beschreibt Endothelveränderungen, Blutstromveränderungen und Veränderungen der Blutzusammensetzung",
+        "Sie gilt ausschließlich für die arterielle Thrombose",
+        "Sie besteht aus Immobilität, Schwangerschaft und Tumorerkrankung"
+      ],
+      "answer": 1,
+      "expl": "Die Virchow-Trias umfasst Endothelveränderungen (z. B. Entzündungen, Traumen), Blutstromveränderungen (Strömungsverlangsamung, Wirbelbildung) und die Veränderung der Blutzusammensetzung (Ungleichgewicht zwischen Gerinnung und Fibrinolyse)."
+    },
+    {
+      "q": "Ein Patient hat eine TVT durchgemacht. Wie hoch ist sein Risiko für eine erneute Thrombose?",
+      "choices": [
+        "Um das 20-fache erhöht",
+        "Nicht erhöht",
+        "Um das 30-fache erhöht",
+        "Um das 50-fache erhöht"
+      ],
+      "answer": 2,
+      "expl": "Nach einer durchgemachten Venenthrombose ist das Risiko für eine erneute Thrombose um das 30-fache erhöht. Das 20-fach erhöhte Risiko gilt für Immobilität (z. B. postoperativ, langes Sitzen)."
+    },
+    {
+      "q": "Welche Maßnahme gehört NICHT zur Therapie der TVT?",
+      "choices": [
+        "Wickeln der Extremität",
+        "Akute Antikoagulation mit Heparin",
+        "Strikte Immobilisierung der Extremität",
+        "Kompressionsstrumpf im Verlauf"
+      ],
+      "answer": 2,
+      "expl": "Bei der TVT ist keine Immobilisierung notwendig. Die Therapie umfasst Wickeln der Extremität, akut Heparin s.c./i.v., anschließend 6–12 Monate Marcumar sowie im Verlauf Kompressionsstrumpf und Physiotherapie."
+    },
+    {
+      "q": "Welcher Befund spricht dafür, dass eine TVT bei unauffälliger Klinik nahezu ausgeschlossen werden kann?",
+      "choices": [
+        "Positive D-Dimere",
+        "Negative D-Dimere",
+        "Positives Homan-Zeichen",
+        "Umfangsvermehrung der Extremität"
+      ],
+      "answer": 1,
+      "expl": "Negative D-Dimere schließen eine TVT bei unauffälliger Klinik nahezu aus. Positive D-Dimere, ein positives Homan-Zeichen und eine Umfangsvermehrung sind Hinweise auf eine mögliche TVT."
+    }
+  ]
+}
